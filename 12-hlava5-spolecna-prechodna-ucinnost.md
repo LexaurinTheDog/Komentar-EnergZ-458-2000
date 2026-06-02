@@ -550,9 +550,175 @@ Zákon volí standardní přístup procesní kontinuity: (i) probíhající fyzi
 
 > **§ 98a**
 >
-> *(1) Ministerstvo stanoví vyhláškou …*
+> *(1) Ministerstvo stanoví vyhláškou*
 >
-> *(2) Energetický regulační úřad stanoví vyhláškou …*
+> *- a) druhy měřicích zařízení, a typy průběhového měření při sdílení elektřiny, poskytování flexibility a ukládání elektřiny, umístění měřicích zařízení a způsoby a podmínky jejich instalace, případy, kdy lze podružně měřit pouze stanoveným měřidlem, požadavky na podružná měřicí zařízení a podmínky jejich instalace, způsoby a typy měření, podmínky odběru bez měřicího zařízení, údaje z měření a rozsah a podmínky přístupu k údajům z měření, předávání výsledků měření elektřiny a jejich uchovávání, technické a další podmínky měření, minimální funkční a technické požadavky na měřicí zařízení, postup a podmínky instalace inteligentního měřicího zařízení a rozsah informací poskytovaných před instalací inteligentního měřicího zařízení, požadavky na kybernetickou bezpečnost měřicích zařízení, způsoby vyhodnocování a určení množství odebrané elektřiny nebo plynu v případě závady měřicího zařízení a způsob stanovení výše náhrady skutečně vzniklé škody a způsob určení výše náhrady škody, nelze-li zjistit skutečně vzniklou škodu při neoprávněném odběru, dodávce, přenosu nebo distribuci elektřiny a při neoprávněném odběru, dodávce, uskladňování, přepravě nebo distribuci plynu a neoprávněném odběru tepelné energie, termíny a rozsah předávání údajů operátorovi trhu potřebných pro plnění jeho povinností a hodnoty fyzikálních a chemických parametrů určujících kvalitu plynu,*
+>
+> *- b) v souvislosti s dispečerským řízením*
+>
+> *- 1. způsoby dispečerského řízení,*
+>
+> *- 2. rozsah a postup provádění periodických zkoušek zařízení umožňujícího dispečerské řízení výrobny elektřiny nebo zařízení pro ukládání elektřiny a způsob a termíny oznámení započetí a skončení omezení nebo přerušení dodávek elektřiny v těchto případech,*
+>
+> *- 3. rozsah a postup při dispečerském řízení výroben elektřiny a zařízení pro ukládání elektřiny,*
+>
+> *- 4. pravidla spolupráce technických dispečinků a řídicích a dohledových center,*
+>
+> *- 5. pravidla pro provedení společného výcviku osob podílejících se na dispečerském řízení a obsahové náležitosti národního výcvikového plánu,*
+>
+> *- 6. termíny a rozsah údajů nebo informací předávaných datovému centru, provozovateli přenosové soustavy, přepravní soustavy, provozovateli zásobníku plynu nebo provozovateli distribuční soustavy pro dispečerské řízení, koordinaci zpracování přípravy provozu přenosové nebo distribuční soustavy, přípravu a vyhodnocování provozu přenosové nebo přepravní soustavy nebo distribuční soustavy a pro provoz a rozvoj elektrizační nebo plynárenské soustavy,*
+>
+> *- 7. rozsah a postup při přípravě provozu přenosové nebo distribuční soustavy,*
+>
+> *- 8. rozsah a postup při vyhodnocování provozu elektrizační a plynárenské soustavy,*
+>
+> *- 9. způsob využívání zařízení pro poskytování podpůrných služeb,*
+>
+> *- 10. způsob a postup stanovení náhrady za změnu výroby elektřiny a dodávky elektřiny do nebo ze zařízení pro ukládání elektřiny při dispečerském řízení podle § 26 odst. 5 a*
+>
+> *- 11. požadavky na technické vybavení výroben elektřiny a zařízení pro ukládání elektřiny pro účely dispečerského řízení,*
+>
+> *- c) způsoby tvorby bilancí plynárenské soustavy, postupy pro sledování kapacit a výkonů v plynárenské soustavě a termíny a rozsah údajů včetně technicko-provozních údajů předávaných účastníky trhu s plynem operátorovi trhu a ministerstvu pro tvorbu bilancí, strategií a sledování kapacit a výkonů v plynárenské soustavě,*
+>
+> *- d) náležitosti žádosti o udělení, změnu, prodloužení a zrušení autorizace na výstavbu vybraných plynových zařízení včetně vzorů žádostí a podmínky pro posuzování těchto žádostí,*
+>
+> *- e) opatření a postupy vykonávané při předcházení stavu nouze, při stavu nouze a při odstraňování následků stavu nouze, způsob vyhlašování stavu nouze a oznamování předcházení stavu nouze a postupy při omezování výroby elektřiny, ukládání elektřiny, spotřeby elektřiny, plynu a tepla včetně regulačního, vypínacího a frekvenčního plánu, bezpečnostní standard požadované dodávky plynu a obsahové náležitosti havarijních plánů, způsob zajištění a prokazování bezpečnostních standardů plynu, obsahové náležitosti podkladů pro zpracování plánu preventivních opatření a plánu pro stav nouze podle Nařízení o opatřeních na zajištění bezpečnosti dodávek zemního plynu a termíny pro jejich zaslání ministerstvu, rozsah chráněných zákazníků včetně způsobu určení jejich spotřeby plynu, jejichž dodavatelé mají povinnost plnit bezpečnostní standard dodávky plynu, a opatření a postupy vykonávané při přijímání a poskytování mezinárodní pomoci v krizových situacích v plynárenství, minimální požadovaná množství uskladněného plynu pro časové úseky v průběhu skladovacího roku a postup stanovení rozdílu mezi minimálním požadovaným množstvím a skutečným množstvím uskladněného plynu v zásobníku plynu,*
+>
+> *- f) způsob a postup registrace technických pravidel v plynárenství u Hospodářské komory České republiky, včetně postupu jejich tvorby a způsobu jejich projednávání a schvalování,*
+>
+> *- g) rozsah a termíny předávání údajů o dodávce tepelné energie dodavateli tepelné energie ze stanovených měřidel podle zákona o metrologii nebo údajů ze zařízení pro rozdělování nákladů na vytápění a dalších údajů potřebných pro rozdělování nákladů na vytápění a dodávku teplé vody a způsob dělení nákladů za dodávku tepelné energie při společném měření odebíraného množství tepelné energie pro více odběrných míst nebo v případě, že z odběrného místa jsou zásobovány tepelnou energií objekty nebo části objektů různých vlastníků, kteří uzavírají smlouvu o dodávce tepelné energie, a kdy nedojde k dohodě o způsobu rozdělení nákladů,*
+>
+> *- h) vzory žádostí o udělení autorizace na výstavbu výrobny elektřiny a postup ministerstva při jejich posuzování,*
+>
+> *- i) pravidla pro sestavení zbytkového energetického mixu,*
+>
+> *- j) požadavky na bezpečnou instalaci v případě výroben elektřiny z obnovitelných zdrojů energie s instalovaným výkonem do 100 kW,*
+>
+> *- k) vzor žádosti o souhlas s nabytím vlivu nad energeticky strategickým celkem.*
+>
+> *(2) Energetický regulační úřad stanoví vyhláškou*
+>
+> *- a) způsoby prokazování finančních a technických předpokladů a odborné způsobilosti pro jednotlivé druhy licencí, způsoby určení vymezeného území a provozovny, prokázání vlastnického nebo užívacího práva k užívání energetického zařízení, náležitosti prohlášení odpovědného zástupce, a vzory žádostí k udělení, změně a zrušení licence a žádostí o uznání oprávnění k podnikání uděleného v jiném členském státě Evropské unie,*
+>
+> *- b) obsahové náležitosti Pravidel provozování přenosové soustavy, Pravidel provozování distribuční soustavy, Řádu provozovatele přepravní soustavy, Řádu provozovatele distribuční soustavy, Řádu provozovatele zásobníku plynu a obchodních podmínek operátora trhu, Řádu datového centra a plánu rozvoje regionální distribuční soustavy,*
+>
+> *- c) požadovanou kvalitu dodávek a služeb v elektroenergetice a plynárenství, výši náhrad za její nedodržení, postupy a lhůty pro uplatnění nároku na náhradu, postupy a lhůty pro zveřejňování a vykazování dodržování kvality dodávek a služeb,*
+>
+> *- d) postup stanovení výše finančního příspěvku držitelů licence do fondu, postup čerpání finančních prostředků z fondu, způsob výpočtu prokazatelné ztráty při plnění povinností nad rámec licence a doklady, kterými musí být výpočty prokazatelné ztráty doloženy a vymezeny,*
+>
+> *- e) náležitosti a členění regulačních výkazů včetně jejich vzorů, odpisové sazby pro účely regulace a pravidla pro sestavování regulačních výkazů a termíny pro jejich předkládání,*
+>
+> *- f) způsob regulace cen v energetických odvětvích, postupy pro regulaci cen a termíny a rozsah údajů předávaných držiteli licencí pro cenový výměr, stanovení limitní ceny pro věcné usměrňování cen v teplárenství, přípravu a provádění programů zvýšení energetické účinnosti, podporu a sledování energetických služeb a jiných opatření ke zvýšení energetické účinnosti,*
+>
+> *- g) v souvislosti s připojováním zařízení*
+>
+> *- 1. v elektroenergetice způsob podání žádosti a podmínky připojení výroben elektřiny, zařízení pro ukládání elektřiny, distribučních soustav a odběrných elektrických zařízení k elektrizační soustavě včetně podmínek sjednávání připojení výroben elektřiny a zařízení pro ukládání elektřiny s možností omezení využití rezervovaného výkonu bez náhrady za takové omezení, způsob stanovení paušální částky k úhradě podílu na nákladech provozovatele přenosové soustavy nebo provozovatele distribuční soustavy spojených s připojováním zařízení k přenosové soustavě nebo distribuční soustavě a způsob stanovení její nevratné části, případy, kdy žadatel hradí oprávněné náklady provozovatele přenosové soustavy nebo provozovatele distribuční soustavy spojené s připojením zařízení žadatele v plné výši, a způsob jejich stanovení, postup a podmínky pro sjednávání rezervovaného příkonu v předávacím místě a pravidla pro posuzování souběžných požadavků na připojení,*
+>
+> *- 2. v plynárenství způsob podání žádosti a podmínky připojení výroben plynu, distribučních soustav, zásobníků plynu a odběrných míst zákazníků k plynárenské soustavě, způsob stanovení podílu nákladů spojených s připojením a se zajištěním požadované kapacity, případy, kdy žadatel hradí oprávněné náklady provozovatele přepravní soustavy, provozovatele distribuční soustavy, provozovatele zásobníku plynu nebo výrobce plynu spojené s připojením zařízení žadatele a se zajištěním požadované kapacity v plné výši, a způsob jejich stanovení, pravidla pro posuzování souběžných požadavků na připojení, technické požadavky na výstavbu těžebního plynovodu odkupovaného provozovatelem distribuční soustavy a podmínky instalace zařízení ve výrobnách plynu podle § 57 odst. 9,*
+>
+> *- h) Pravidla trhu s elektřinou, která stanoví*
+>
+> *- 1. podmínky přístupu k přenosové soustavě a k distribučním soustavám, rozsah zveřejňovaných informací pro umožnění přístupu k přenosové a k distribuční soustavě a způsoby řešení nedostatku kapacit v elektrizační soustavě,*
+>
+> *- 2. termíny pro předkládání žádostí o uzavření smluv na trhu s elektřinou a termíny uzavírání smluv a jejich registrace u operátora trhu,*
+>
+> *- 3. postupy a podmínky pro přenesení a převzetí odpovědnosti za odchylku,*
+>
+> *- 4. rozsah a termíny předávání údajů pro zohlednění sdílené elektřiny, aktivace flexibility a ukládání elektřiny, vyhodnocování odchylek a vyúčtování dodávek elektřiny nebo poskytnuté flexibility, postupy pro vyhodnocování, zúčtování a vypořádání odchylek, včetně zúčtování a vypořádání regulační energie ve stavu nouze a při předcházení stavu nouze a postupy pro zohlednění sdílené elektřiny, aktivace flexibility a ukládání elektřiny,*
+>
+> *- 5. postupy pro obstarávání regulační energie a způsoby zúčtování regulační energie,*
+>
+> *- 6. pravidla organizace krátkodobého trhu s elektřinou,*
+>
+> *- 7. pravidla tvorby, přiřazení a užití typových diagramů dodávek elektřiny,*
+>
+> *- 8. termíny a postup při volbě a změně dodavatele elektřiny a agregátora,*
+>
+> *- 9. postup při přerušení, omezení a obnovení dodávky elektřiny při neoprávněném odběru, neoprávněné distribuci a neoprávněném přenosu,*
+>
+> *- 10. postup při zajištění dodávky elektřiny dodavatelem poslední instance,*
+>
+> *- 11. skladbu ceny služby přenosové soustavy, skladbu ceny služby distribuční soustavy a ostatních regulovaných cen v elektroenergetice a způsob a termíny předávání údajů mezi účastníky trhu s elektřinou pro vyúčtování regulovaných cen a způsob a termíny účtování a hrazení regulovaných cen mezi účastníky trhu s elektřinou,*
+>
+> *- 12. technické požadavky na provoz pro ověření technologie,*
+>
+> *- 13. rozsah, termíny a postup zveřejňování, poskytování a zpřístupňování údajů a informací operátorem trhu a datovým centrem,*
+>
+> *- 14. postup pro stanovení zálohových plateb,*
+>
+> *- 15. termíny a postup registrace odběrných míst a jejich předávacích míst, předávacích míst výroben elektřiny, přenosové soustavy a distribučních soustav,*
+>
+> *- 16. podmínky, termíny a postup registrace přiřazení a ukončení přiřazení registračních čísel předávacích míst do skupiny sdílení, postup vytváření skupiny sdílení a počet předávacích míst ve skupině sdílení nebo územní vymezení skupiny sdílení,*
+>
+> *- 17. způsoby alokace sdílené elektřiny,*
+>
+> *- 18. rozsah, termíny a postup předávání údajů o zranitelném zákazníkovi, zranitelné osobě a dále údajů pro vyhodnocení splnění podmínky hodnoty odběru elektřiny pro stanovení určeného odběrného místa zranitelného zákazníka,*
+>
+> *- 19. rozsah poskytovaných informací o způsobu dynamického určení ceny elektřiny nebo jiného určení ceny závislého na změnách ceny elektřiny na organizovaných trzích s elektřinou a výhodách a rizicích spojených s uzavřením smlouvy s takovým určením ceny,*
+>
+> *- 20. podmínky, termíny a postup zpracování výchozích diagramů dodávek a odběrů elektřiny,*
+>
+> *- 21. podmínky, termíny a postup registrace předávacích míst pro zohlednění ukládání elektřiny a aktivace flexibility, technických údajů elektrických zařízení s možností poskytování flexibility, výroben elektřiny, zařízení pro ukládání elektřiny, podružných měřicích zařízení, přiřazení plánované aktivace flexibility a přiřazení výchozího diagramu dodávky nebo odběru elektřiny,*
+>
+> *- i) Pravidla trhu s plynem, která stanoví*
+>
+> *- 1. pravidla přístupu k přepravní soustavě, k distribučním soustavám a k zásobníku plynu, rozsah zveřejňovaných informací pro umožnění přístupu k přepravní soustavě, distribuční soustavě a zásobníku plynu a způsoby řešení nedostatku kapacit v plynárenské soustavě,*
+>
+> *- 2. termíny pro předkládání žádostí o uzavření smluv na trhu s plynem a termíny uzavírání smluv,*
+>
+> *- 3. postupy a podmínky pro přenesení a převzetí odpovědnosti za odchylku,*
+>
+> *- 4. rozsah a termíny předávání údajů pro vyhodnocování odchylek a vyúčtování dodávek plynu a ostatních služeb, postupy pro vyhodnocování, zúčtování a vyrovnávání odchylek a zúčtování a vypořádání vyrovnávacího plynu ve stavu nouze, v mimořádném stavu nouze a při předcházení stavu nouze,*
+>
+> *- 5. postupy a termíny pro předkládání nominací a renominací,*
+>
+> *- 6. postup provozovatele zásobníku plynu při prodeji neoprávněně uskladněného plynu,*
+>
+> *- 7. pravidla organizace krátkodobých trhů a způsoby jejich vypořádání,*
+>
+> *- 8. pravidla tvorby, přiřazení a užití typových diagramů dodávek plynu,*
+>
+> *- 9. termíny a postup při volbě a změně dodavatele plynu včetně registrace odběrných a předávacích míst,*
+>
+> *- 10. postup při přerušení, omezení a obnovení dodávky plynu při neoprávněném odběru, neoprávněné distribuci a neoprávněné přepravě,*
+>
+> *- 11. postup při zajištění dodávky plynu dodavatelem poslední instance,*
+>
+> *- 12. skladbu ceny služby přepravy plynu, skladbu ceny služby distribuční soustavy a ostatních regulovaných cen v plynárenství a způsob a termíny předávání údajů mezi účastníky trhu s plynem pro vyúčtování regulovaných cen a způsob a termíny účtování a hrazení regulovaných cen mezi účastníky trhu s plynem,*
+>
+> *- 13. technické požadavky na provoz pro ověření technologie,*
+>
+> *- 14. postup pro stanovení zálohových plateb,*
+>
+> *- 15. pravidla a podmínky pro poskytování služby přeshraničního využití zásobníku plynu,*
+>
+> *- 16. množství plynu, které je provozovatel zásobníku oprávněn koupit nebo prodat pro účely poskytování služby uskladňování plynu,*
+>
+> *- 17. pravidla aukce na rezervaci nevyužité skladovací kapacity,*
+>
+> *- 18. rozsah, způsob a termíny předávání informací o velikosti a době trvání skladovacích kapacit rezervovaných jednotlivými účastníky trhu s plynem mezi provozovatelem zásobníku plynu a provozovatelem přepravní soustavy,*
+>
+> *- 19. rozsah poskytovaných informací o způsobu dynamického určení ceny plynu nebo jiného určení ceny závislého na změnách ceny plynu na organizovaných trzích s plynem a výhodách a rizicích spojených s uzavřením smlouvy s takovým určením ceny,*
+>
+> *- j) rozsah a náležitosti vyúčtování dodávek elektřiny, plynu nebo tepelné energie a souvisejících služeb v elektroenergetice a souvisejících služeb v plynárenství a poskytnuté flexibility a rozsah a náležitosti informací o vyúčtování dodávek elektřiny, plynu a souvisejících služeb v elektroenergetice a plynárenství a dodávek tepelné energie, a termíny poskytování informací o vyúčtování,*
+>
+> *- k) rozsah uchovávaných údajů o plnění podle smluv na dodávky elektřiny nebo plynu nebo jejich derivátů,*
+>
+> *- l) náležitosti žádosti o schválení jmenování, volby a odvolání členů statutárního orgánu nebo členů dozorčí rady nebo správní rady nezávislého provozovatele přepravní soustavy, náležitosti žádosti o schválení jmenování nebo jiného ustanovení do funkce a odvolání z funkce auditora programu nezávislého provozovatele přepravní soustavy a způsoby prokazování odborné způsobilosti auditora programu,*
+>
+> *- m) náležitosti a členění výkazů nezbytných pro zpracování zpráv o provozu soustav v energetických odvětvích, včetně termínů, rozsahu a pravidel pro sestavování výkazů a způsob a postup vykazování,*
+>
+> *- n) náležitosti zpráv o kvalitě a úrovni údržby zařízení v elektroenergetice a v plynárenství, včetně termínů, rozsahu a pravidel pro sestavování zpráv,*
+>
+> *- o) vzor formuláře na podávání žádosti o udělení nebo prodloužení platnosti oprávnění k činnosti zprostředkovatele,*
+>
+> *- p) podmínky pro zřizování a provozování zařízení na úpravu složení plynu,*
+>
+> *- q) náležitosti, rozsah a členění informací nezbytných pro monitorování stavu hospodářské soutěže na maloobchodním trhu s elektřinou a s plynem, úrovně maloobchodních cen elektřiny a plynu a uplatňovaných smluvních podmínek, včetně uplatňování omezujících nebo nepřiměřených podmínek ve smlouvách na trhu s elektřinou, plynem a v odvětví teplárenství, nabídek smluv s dynamickým určením ceny nebo jiným způsobem určení ceny přímo závislým na změnách ceny elektřiny nebo plynu na organizovaných trzích s elektřinou nebo plynem, jejich rizik a vlivu na vývoj cen dodávek elektřiny a plynu a termíny a způsob předkládání těchto informací,*
+>
+> *- r) způsob stanovení predikce množství elektřiny nebo plynu pro stanovení indexu zajištění obchodníka a způsob stanovení hodnoty indexu zajištění obchodníka,*
+>
+> *- s) termíny, rozsah a způsob poskytování informací o nabídkách dodávek elektřiny nebo plynu porovnávaných srovnávacím nástrojem a jejich změnách.*
 
 **Výklad:**
 

@@ -457,15 +457,11 @@ Výpovědní doba 3 měsíce je kogentní maximální lhůta ve prospěch zákaz
 
 ### §§ 11f–11k — Zprostředkovatel v energetických odvětvích
 
-> **§ 11f (výběr)**
+> *(1) Zaniklo-li spotřebiteli nebo podnikající fyzické osobě odebírající elektřinu z hladiny nízkého napětí nebo s roční spotřebou plynu do 630 MWh vlastnické nebo užívací právo k odběrnému místu, je oprávněn bez postihu vypovědět závazek ze smlouvy o dodávce elektřiny nebo plynu nebo závazek ze smlouvy o sdružených službách dodávky elektřiny nebo plynu. Výpovědní doba činí 15 dnů a počíná běžet prvním dnem měsíce následujícího po doručení oznámení výpovědi závazku ze smlouvy držiteli licence.*
 >
-> *(1) Energetický regulační úřad udělí oprávnění k činnosti zprostředkovatele a zapíše do registru zprostředkovatelů žadatele, který je plně svéprávný, bezúhonný, spolehlivý a má ukončené alespoň střední vzdělání a nejméně 5 let praxe v oblasti výroby nebo obchodu s elektřinou nebo plynem nebo ustanovil odpovědného zástupce, který splňuje tuto podmínku.*
+> *(2) Zaniklo-li spotřebiteli nebo podnikající fyzické osobě odebírající elektřinu z hladiny nízkého napětí vlastnické nebo užívací právo k odběrnému místu, jsou oprávněni bez postihu vypovědět závazek ze smlouvy o agregaci. Výpovědní doba činí 15 dnů a počíná běžet prvním dnem měsíce následujícího po doručení oznámení výpovědi závazku ze smlouvy držiteli licence.*
 >
-> *(2) Za spolehlivého se nepovažuje ten, kdo byl v posledních 3 letech před podáním žádosti pravomocně uznán vinným z přestupku podle tohoto zákona nebo zákona o ochraně spotřebitele.*
-
-> **§ 11k (výběr)**
->
-> *(1) Energetický regulační úřad vede elektronický registr zprostředkovatelů, který je informačním systémem veřejné správy. Údaje uvedené v registru zprostředkovatelů zveřejňuje Energetický regulační úřad na svých internetových stránkách.*
+> *(1) Zaniklo-li spotřebiteli nebo podnikající fyzické osobě odebírající elektřinu z hladiny nízkého napětí nebo s roční spotřebou plynu do 630 MWh vlastnické nebo užívací právo k odběrnému místu, je oprávněn bez postihu vypovědět závazek ze smlouvy o dodávce elektřiny nebo plynu nebo závazek ze smlouvy o sdružených službách dodávky elektřiny nebo plynu. Výpovědní doba činí 15 dnů a počíná běžet prvním dnem měsíce následujícího po doručení oznámení výpovědi závazku ze smlouvy držiteli licence.*
 
 **Výklad:**
 
@@ -479,25 +475,13 @@ Zákon výslovně definuje nespolehlivost skrze přestupkovou historii — pravo
 
 ### §§ 11l–11q — Povinnosti zprostředkovatele; smlouva o zprostředkování; mimosoudní řešení sporů
 
-> **§ 11l (výběr)**
+> *(1) Zaniklo-li spotřebiteli nebo podnikající fyzické osobě odebírající elektřinu z hladiny nízkého napětí nebo s roční spotřebou plynu do 630 MWh vlastnické nebo užívací právo k odběrnému místu, je oprávněn bez postihu vypovědět závazek ze smlouvy o dodávce elektřiny nebo plynu nebo závazek ze smlouvy o sdružených službách dodávky elektřiny nebo plynu. Výpovědní doba činí 15 dnů a počíná běžet prvním dnem měsíce následujícího po doručení oznámení výpovědi závazku ze smlouvy držiteli licence.*
 >
-> *Zprostředkovatel je povinen informovat spotřebitele o skutečnosti, že s ním jedná jako zprostředkovatel, a to již od prvního kontaktu s ním; provozovat svou činnost poctivě a s odbornou péčí; zohledňovat při své činnosti účinně práva a oprávněné zájmy spotřebitele a dávat jim přednost před zájmy vlastními.*
-
-> **§ 11m (výběr)**
+> *(2) Zaniklo-li spotřebiteli nebo podnikající fyzické osobě odebírající elektřinu z hladiny nízkého napětí vlastnické nebo užívací právo k odběrnému místu, jsou oprávněni bez postihu vypovědět závazek ze smlouvy o agregaci. Výpovědní doba činí 15 dnů a počíná běžet prvním dnem měsíce následujícího po doručení oznámení výpovědi závazku ze smlouvy držiteli licence.*
 >
-> *(1) Smlouvou o zprostředkování v energetických odvětvích se zprostředkovatel zavazuje vykonat zprostředkovatelskou činnost v energetických odvětvích pro spotřebitele.*
+> *(1) Zaniklo-li spotřebiteli nebo podnikající fyzické osobě odebírající elektřinu z hladiny nízkého napětí nebo s roční spotřebou plynu do 630 MWh vlastnické nebo užívací právo k odběrnému místu, je oprávněn bez postihu vypovědět závazek ze smlouvy o dodávce elektřiny nebo plynu nebo závazek ze smlouvy o sdružených službách dodávky elektřiny nebo plynu. Výpovědní doba činí 15 dnů a počíná běžet prvním dnem měsíce následujícího po doručení oznámení výpovědi závazku ze smlouvy držiteli licence.*
 >
-> *(2) Smlouva o zprostředkování uzavřená se spotřebitelem musí mít písemnou formu a zprostředkovatel musí její vyhotovení předat spotřebiteli v listinné podobě. V elektronické podobě může být předána jen tehdy, udělil-li písemně spotřebitel k tomu souhlas.*
-
-> **§ 11n**
->
-> *Spotřebitel je oprávněn kdykoliv bez postihu a finančního plnění vypovědět bez výpovědní doby závazek ze smlouvy o zprostředkování v energetických odvětvích, nebo odvolat zmocnění k uzavření smlouvy o dodávce elektřiny nebo plynu, ke změně nebo zrušení závazku z takové smlouvy.*
-
-> **§ 11q (výběr)**
->
-> *(1) Spotřebitel je oprávněn podat Energetickému regulačnímu úřadu návrh na řešení sporu o splnění povinnosti ze smlouvy o zprostředkování v energetických odvětvích.*
->
-> *(2) Na řešení sporů před Energetickým regulačním úřadem podle odstavce 1 se použije postup podle části čtvrté zákona o ochraně spotřebitele obdobně.*
+> *(2) Zaniklo-li spotřebiteli nebo podnikající fyzické osobě odebírající elektřinu z hladiny nízkého napětí vlastnické nebo užívací právo k odběrnému místu, jsou oprávněni bez postihu vypovědět závazek ze smlouvy o agregaci. Výpovědní doba činí 15 dnů a počíná běžet prvním dnem měsíce následujícího po doručení oznámení výpovědi závazku ze smlouvy držiteli licence.*
 
 **Výklad:**
 
@@ -521,21 +505,47 @@ ERÚ je příslušným orgánem alternativního řešení sporů (ADR) ze zprost
 
 ### §§ 11r–11u — Příspěvek na úhradu nákladů za elektřinu a plyn
 
-> **§ 11r (výběr)**
+> **§ 11r**
 >
-> *(1) Příspěvek na úhradu nákladů za elektřinu a zemní plyn (dále jen „příspěvek") je peněžní částka, která je výdajem státního rozpočtu, určená na úhradu části plateb za elektřinu nebo zemní plyn dodané obchodníkem na odběrné místo zákazníka v domácnosti nebo zákazníka v domě s byty. V případě zákazníka v domě s byty je příspěvek určen pro osoby užívající byty výhradně pro účely bydlení (dále jen „příjemce služeb").*
+> *(1) Příspěvek na úhradu nákladů za elektřinu a zemní plyn (dále jen „příspěvek") je peněžní částka, která je výdajem státního rozpočtu, určená na úhradu části plateb za elektřinu nebo zemní plyn dodané obchodníkem s elektřinou nebo obchodníkem s plynem na odběrné místo zákazníka v domácnosti nebo zákazníka v domě s byty. Zákazníkem v domě s byty se pro účely tohoto zákona rozumí osoba odebírající elektřinu nebo zemní plyn pro vytápění nebo společnou přípravu teplé vody jako poskytovatel služeb podle jiného právního předpisu56) nebo dodavatel tepelné energie, který není držitelem licence na výrobu nebo rozvod tepelné energie. V případě zákazníka v domě s byty je příspěvek určen pro osoby užívající byty výhradně pro účely bydlení (dále jen „příjemce služeb").*
 >
-> *(2) Pro účely zákona o státní sociální podpoře, zákona o pomoci v hmotné nouzi, zákona o poskytování dávek osobám se zdravotním postižením a zákona o sociálních službách se příspěvek nepovažuje za příjem a na náklady na elektřinu a zemní plyn kryté příspěvkem se hledí, jako by byly uhrazeny zákazníkem v domácnosti.*
+> *(2) Pro účely zákona o státní sociální podpoře, zákona o pomoci v hmotné nouzi, zákona o poskytování dávek osobám se zdravotním postižením a zákona o sociálních službách se příspěvek nepovažuje za příjem a na náklady na elektřinu a zemní plyn kryté příspěvkem se hledí, jako by byly uhrazeny zákazníkem v domácnosti nebo v případě elektřiny nebo zemního plynu odebíraného na poskytování služeb v domě s byty příjemcem služeb.*
 >
-> *(3) Vláda může nařízením na kalendářní rok nebo jeho část stanovit kategorie odběrných míst, u kterých se příspěvek zohledňuje, výši příspěvku, přičemž maximální výše příspěvku na jednotlivé odběrné místo pro elektřinu nebo plyn zákazníka v domácnosti nesmí překročit 30 000 Kč, a podmínky pro jeho uplatnění.*
+> *(3) Vláda může nařízením na kalendářní rok nebo jeho část stanovit*
+>
+> *a) kategorie odběrných míst zákazníků v domácnosti a zákazníků v domě s byty, u kterých se příspěvek zohledňuje, specifikovaných distribuční sazbou v elektroenergetice a plánovanou roční spotřebou v plynárenství, výší spotřeby v odběrném místě nebo kritérii zohledňujícími úspory energie u zákazníka,*
+>
+> *b) výši příspěvku na jednotlivá odběrná místa zákazníků, u kterých se příspěvek zohledňuje, přičemž maximální výše příspěvku na jednotlivé odběrné místo pro elektřinu nebo plyn zákazníka v domácnosti a na byt v domě s byty nesmí překročit 30 000 Kč,*
+>
+> *c) rozhodný den, ke kterému odběrné místo zákazníka v domácnosti, a rozhodný den, ke kterému odběrné místo zákazníka v domě s byty splňují podmínky pro zohlednění příspěvku,*
+>
+> *d) rozhodný den, od kterého obchodník s elektřinou nebo obchodník s plynem zohledňuje příspěvek zákazníka v domácnosti, a rozhodný den, od kterého obchodník s elektřinou nebo obchodník s plynem zohledňuje příspěvek zákazníka v domě s byty,*
+>
+> *e) termín podání a náležitosti žádosti operátora trhu ministerstvu o poskytnutí finančních prostředků na příspěvek poskytovaný obchodníkovi s elektřinou nebo obchodníkovi s plynem,*
+>
+> *f) termíny, rozsah a způsob předávání údajů mezi provozovatelem distribuční soustavy a operátorem trhu a mezi operátorem trhu a obchodníkem s elektřinou nebo obchodníkem s plynem,*
+>
+> *g) termíny pro poskytnutí finančních prostředků operátorovi trhu a termíny pro poskytnutí platby na zohlednění příspěvku obchodníkovi s elektřinou nebo obchodníkovi s plynem,*
+>
+> *h) termíny, rozsah a způsob předávání údajů mezi zákazníkem v domě s byty a provozovatelem distribuční soustavy.*
 >
 > *(4) Příspěvek, jeho poskytnutí a zohlednění musí být v souladu s podmínkami pro poskytování veřejné podpory stanovenými právem Evropské unie.*
 
-> **§ 11t (výběr)**
+> **§ 11t**
 >
-> *(1) Obchodník s elektřinou a obchodník s plynem nejsou příjemci příspěvku a jsou povinni účtovat o peněžních prostředcích na zohlednění příspěvku odděleně. Obchodník je povinen zohlednit příspěvek v nejbližších zálohových platbách zákazníka a nejbližším následném vyúčtování.*
+> *(1) Obchodník s elektřinou a obchodník s plynem nejsou příjemci příspěvku a jsou povinni účtovat o peněžních prostředcích na zohlednění příspěvku odděleně. Obchodník s elektřinou a obchodník s plynem jsou povinni zohlednit příspěvek v nejbližších zálohových platbách zákazníka a nejbližším následném vyúčtování, jsou-li zálohové platby uplatňovány, nebo v ostatních případech v nejbližším vyúčtování, nejdéle však do 14 měsíců od rozhodného dne podle § 11r odst. 3 písm. d).*
 >
-> *(6) V rozsahu zohledněného příspěvku zaniká dluh zákazníka za dodanou elektřinu nebo plyn. Tím není dotčeno právo obchodníka s elektřinou a obchodníka s plynem na přerušení distribuce elektřiny nebo plynu v případě, kdy jsou splněny předpoklady neoprávněného odběru a příspěvek nepokrývá jistinu dluhu dotčeného zákazníka.*
+> *(2) Z vyúčtování služeb musí být zřejmá výše zohledněného příspěvku. Peněžní prostředky na zohlednění příspěvku nelze zahrnout do majetkové podstaty obchodníka s elektřinou nebo obchodníka s plynem podle zákona upravujícího úpadek a způsoby jeho řešení a nepodléhají výkonu rozhodnutí a exekuci.*
+>
+> *(3) Obchodník s elektřinou a obchodník s plynem jsou povinni na svých internetových stránkách uveřejnit informace o výši příspěvku pro jednotlivé kategorie zákazníků.*
+>
+> *(4) Jestliže v rozporu s předanými údaji dojde k poskytnutí finančních prostředků nebo příspěvku v nesprávné výši, jsou operátor trhu, obchodník s elektřinou a obchodník s plynem povinni vypořádat rozdíl bez zbytečného odkladu.*
+>
+> *(5) Operátor trhu a obchodník s elektřinou nebo obchodník s plynem jsou povinni bez zbytečného odkladu vzájemně vypořádat rozdíl mezi přijatými finančními prostředky od operátora trhu a zohledněným příspěvkem zákazníkovi v domácnosti nebo zákazníkovi v domě s byty.*
+>
+> *(6) V rozsahu zohledněného příspěvku zaniká dluh zákazníka za dodanou elektřinu nebo plyn. Tím není dotčeno právo obchodníka s elektřinou a obchodníka s plynem na přerušení distribuce elektřiny nebo plynu v případě, kdy jsou splněny předpoklady neoprávněného odběru podle § 51 nebo 74 a příspěvek nepokrývá jistinu dluhu dotčeného zákazníka.*
+>
+> *(7) Nestanoví-li tento zákon jinak, použije se při poskytování příspěvku a vracení neoprávněně uhrazeného příspěvku právní předpis upravující rozpočtová pravidla, přičemž pro tyto účely je příjemcem příspěvku zákazník v domácnosti nebo zákazník v domě s byty.*
 
 **Výklad:**
 
@@ -551,11 +561,31 @@ Technická architektura příspěvku je víceúrovňová: ministerstvo poskytuje
 
 ### §§ 11v–11x — Příspěvek na úhradu nákladů za teplo
 
-> **§ 11v (výběr)**
+> **§ 11v**
 >
-> *(1) Příspěvek na úhradu nákladů za teplo (dále jen „příspěvek na teplo") je peněžní částka, která je výdajem státního rozpočtu, určená zákazníkovi na úhradu části jeho plateb za teplo dodané držitelem licence na výrobu nebo rozvod tepelné energie do odběrného místa zákazníka v domácnosti v rodinném domě nebo zákazníka v domě s byty.*
+> *(1) Příspěvek na úhradu nákladů za teplo (dále jen „příspěvek na teplo") je peněžní částka, která je výdajem státního rozpočtu, určená zákazníkovi na úhradu části jeho plateb za teplo dodané držitelem licence na výrobu nebo rozvod tepelné energie do odběrného místa zákazníka v domácnosti v rodinném domě nebo zákazníka v domě s byty. Zákazníkem v domě s byty se pro účely tohoto zákona rozumí osoba odebírající teplo pro vytápění nebo společnou přípravu teplé vody jako poskytovatel služeb podle jiného právního předpisu56). V případě zákazníka v domě s byty je příspěvek určen pro osoby užívající byty výhradně pro účely bydlení (dále jen „příjemce služeb").*
 >
-> *(3) Vláda může nařízením na kalendářní rok nebo jeho část stanovit výši příspěvku na teplo pro byt nebo rodinný dům, přičemž maximální výše příspěvku na teplo nesmí překročit 30 000 Kč.*
+> *(2) Pro účely zákona o státní sociální podpoře, zákona o pomoci v hmotné nouzi, zákona o poskytování dávek osobám se zdravotním postižením a zákona o sociálních službách se příspěvek na teplo nepovažuje za příjem a na náklady na teplo kryté příspěvkem na teplo se hledí, jako by byly uhrazeny příjemcem služeb nebo zákazníkem v domácnosti.*
+>
+> *(3) Vláda může nařízením na kalendářní rok nebo jeho část stanovit*
+>
+> *a) výši příspěvku na teplo pro byt nebo rodinný dům, přičemž maximální výše příspěvku na teplo nesmí překročit 30 000 Kč; výše příspěvku na teplo může zohlednit uplatnění přechodné transformační podpory tepla pro výrobnu tepelné energie podle jiného právního předpisu,*
+>
+> *b) termíny, rozsah a způsob registrace držitele licence na výrobu nebo rozvod tepelné energie u operátora trhu,*
+>
+> *c) termíny, rozsah a způsob předávání údajů zákazníkem držiteli licence na výrobu nebo rozvod tepelné energie a žádosti o příspěvek na teplo,*
+>
+> *d) termíny, rozsah a způsob předávání údajů mezi držitelem licence na výrobu nebo rozvod tepelné energie a operátorem trhu,*
+>
+> *e) termín podání a náležitosti žádosti operátora trhu ministerstvu o poskytnutí finančních prostředků na příspěvek na teplo,*
+>
+> *f) termín pro poskytnutí finančních prostředků operátorovi trhu a termíny pro poskytnutí platby na zohlednění příspěvku na teplo držiteli licence na výrobu nebo rozvod tepelné energie,*
+>
+> *g) rozhodný den, ke kterému zákazník splňuje podmínky pro zohlednění příspěvku na teplo,*
+>
+> *h) rozhodný den, od kterého držitel licence na výrobu nebo rozvod tepelné energie zohledňuje příspěvek na teplo.*
+>
+> *(4) Příspěvek na teplo, jeho poskytnutí a zohlednění musí být v souladu s podmínkami pro poskytování veřejné podpory stanovenými právem Evropské unie.*
 
 **Výklad:**
 
@@ -625,17 +655,23 @@ Velcí odběratelé plynu (nad 630 MWh/rok) nejsou chráněni povinností DPI �
 
 ### §§ 12b–12e — Podmínky dodávky poslední instance; zahájení a ukončení
 
-> **§ 12b (výběr)**
+> *(1) Povinnost dodavatele poslední instance má uvnitř vymezeného území držitele licence na distribuci elektřiny nebo plynu, jehož zařízení je připojeno k přenosové nebo k přepravní soustavě a k jehož distribuční soustavě je připojeno nejméně 90 000 odběrných míst zákazníků, držitel licence na obchod s elektřinou nebo na obchod s plynem, který je nebo byl součástí téhož vertikálně integrovaného podnikatele nebo vertikálně integrovaného plynárenského podnikatele, jako je držitel licence na distribuci elektřiny nebo na distribuci plynu ve vymezeném území, kde se nachází odběrné místo. Je-li takových držitelů licence na obchod s elektřinou nebo obchod s plynem více, může zajišťovat každý z těchto obchodníků s elektřinou nebo obchodníků s plynem dodávku elektřiny nebo plynu v rozsahu dohodnutém jimi na základě kritérií, která umožňují přiřazení dodavatele poslední instance k odběrným místům v informačním systému operátora trhu. Informaci o tom, v jakém rozsahu zajišťuje dodávku elektřiny nebo plynu, obchodník s elektřinou nebo obchodník s plynem zveřejňuje na svých internetových stránkách a poskytuje ji neprodleně Energetickému regulačnímu úřadu a operátorovi trhu; obchodník s elektřinou nebo plynem dále neprodleně sdělí operátorovi trhu, na který subjekt zúčtování odchylek přenesl odpovědnost za odchylku, není-li sám subjektem zúčtování odchylek. Pokud nedojde mezi obchodníky s elektřinou nebo obchodníky s plynem k dohodě, má pro kalendářní rok povinnost dodavatele poslední instance uvnitř vymezeného území držitele licence na distribuci elektřiny nebo plynu ten z držitelů licence na obchod s elektřinou nebo obchod s plynem podle věty první, který k 1. lednu kalendářního roku uvnitř vymezeného území dodává elektřinu nebo plyn do největšího množství odběrných míst spotřebitelů. Energetický regulační úřad zveřejňuje na svých internetových stránkách informaci o tom, který držitel licence na obchod s elektřinou nebo na obchod s plynem má povinnost dodavatele poslední instance uvnitř vymezeného území jednotlivých provozovatelů distribučních soustav.*
 >
-> *(1) Dodavatel poslední instance je povinen zveřejnit na svých internetových stránkách podmínky dodávky elektřiny nebo plynu. Energetický regulační úřad rozhodne o uložení povinnosti změny podmínek, jestliže podmínky stanovené dodavatelem poslední instance zakládají značnou nerovnováhu v právech a povinnostech v neprospěch zákazníka nebo výrobce.*
+> *(2) Dodavatel poslední instance je povinen dodávat elektřinu nebo plyn zákazníkovi, jehož dodavatel*
+> *- a) pozbyl oprávnění nebo možnost dodávat elektřinu nebo plyn,*
+> *- b) nesplňuje finanční podmínky zúčtování odchylek nebo nepřenesl odpovědnost za odchylku na jiný subjekt zúčtování, nebo*
+> *- c) nemá zajištěnu související službu*
+> *- 1. v elektroenergetice v případě dodávky elektřiny na základě smlouvy o sdružených službách dodávky elektřiny, nebo*
+> *- 2. v plynárenství v případě dodávky plynu na základě smlouvy o sdružených službách dodávky plynu.*
 >
-> *(2) Zákazník a provozovatel distribuční soustavy jsou povinni hradit dodavateli poslední instance platbu za dodanou elektřinu nebo plyn, včetně záloh. Četnost zálohové platby pro zákazníka v postavení spotřebitele je měsíční a splatnost zálohové platby činí nejméně 14 kalendářních dní.*
-
-> **§ 12d**
+> *(1) Povinnost dodavatele poslední instance má uvnitř vymezeného území držitele licence na distribuci elektřiny nebo plynu, jehož zařízení je připojeno k přenosové nebo k přepravní soustavě a k jehož distribuční soustavě je připojeno nejméně 90 000 odběrných míst zákazníků, držitel licence na obchod s elektřinou nebo na obchod s plynem, který je nebo byl součástí téhož vertikálně integrovaného podnikatele nebo vertikálně integrovaného plynárenského podnikatele, jako je držitel licence na distribuci elektřiny nebo na distribuci plynu ve vymezeném území, kde se nachází odběrné místo. Je-li takových držitelů licence na obchod s elektřinou nebo obchod s plynem více, může zajišťovat každý z těchto obchodníků s elektřinou nebo obchodníků s plynem dodávku elektřiny nebo plynu v rozsahu dohodnutém jimi na základě kritérií, která umožňují přiřazení dodavatele poslední instance k odběrným místům v informačním systému operátora trhu. Informaci o tom, v jakém rozsahu zajišťuje dodávku elektřiny nebo plynu, obchodník s elektřinou nebo obchodník s plynem zveřejňuje na svých internetových stránkách a poskytuje ji neprodleně Energetickému regulačnímu úřadu a operátorovi trhu; obchodník s elektřinou nebo plynem dále neprodleně sdělí operátorovi trhu, na který subjekt zúčtování odchylek přenesl odpovědnost za odchylku, není-li sám subjektem zúčtování odchylek. Pokud nedojde mezi obchodníky s elektřinou nebo obchodníky s plynem k dohodě, má pro kalendářní rok povinnost dodavatele poslední instance uvnitř vymezeného území držitele licence na distribuci elektřiny nebo plynu ten z držitelů licence na obchod s elektřinou nebo obchod s plynem podle věty první, který k 1. lednu kalendářního roku uvnitř vymezeného území dodává elektřinu nebo plyn do největšího množství odběrných míst spotřebitelů. Energetický regulační úřad zveřejňuje na svých internetových stránkách informaci o tom, který držitel licence na obchod s elektřinou nebo na obchod s plynem má povinnost dodavatele poslední instance uvnitř vymezeného území jednotlivých provozovatelů distribučních soustav.*
 >
-> *(1) Povinnost dodávky poslední instance zaniká uplynutím 6 měsíců od jejího vzniku, jestliže zákazník nezmění dodavatele elektřiny nebo plynu před uplynutím této doby.*
->
-> *(2) Jestliže zákazník nezměnil dodavatele, odebírá elektřinu nebo plyn a není v prodlení s úhradou žádné z plateb, vzniká uplynutím 6 měsíců závazek na dobu neurčitou za cenu a podmínek, které dodavatel poslední instance zaslal na adresu zákazníka před uplynutím doby; § 50 odst. 2 a § 72 odst. 2 o povinné písemné formě smlouvy se v tomto případě nepoužije.*
+> *(2) Dodavatel poslední instance je povinen dodávat elektřinu nebo plyn zákazníkovi, jehož dodavatel*
+> *- a) pozbyl oprávnění nebo možnost dodávat elektřinu nebo plyn,*
+> *- b) nesplňuje finanční podmínky zúčtování odchylek nebo nepřenesl odpovědnost za odchylku na jiný subjekt zúčtování, nebo*
+> *- c) nemá zajištěnu související službu*
+> *- 1. v elektroenergetice v případě dodávky elektřiny na základě smlouvy o sdružených službách dodávky elektřiny, nebo*
+> *- 2. v plynárenství v případě dodávky plynu na základě smlouvy o sdružených službách dodávky plynu.*
 
 **Výklad:**
 
