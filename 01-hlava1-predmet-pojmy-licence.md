@@ -338,6 +338,11 @@ V plynárenství zasluhuje pozornost rozšíření definice **plynu** (písm. b 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [32 Cdo 1264/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/675AB06289EE50E0C12585EF0018A437?openDocument) — 23. 6. 2020, kat. A
+  > „V případě prodlení provozovatele přenosové nebo regionální distribuční soustavy s úhradou některé z forem podpory výroby elektřiny (zeleného bonusu, výkupní ceny či příspěvku k ceně elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla) ve výši stanovené pro rok 2012 má výrobce elektřiny právo na úroky z prodlení. Odmítl-li provozovatel přenosové nebo regionální distribuční soustavy uhradit výrobci tuto podporu, přešla s účinností od 1. 1. 2013 povinnost k jejímu zaplacení včetně úroku z prodlení na operátora trhu"
+
 #### Výčet licencovaných činností (odst. 1)
 
 Odstavec 1 podává taxativní výčet předmětů podnikání v energetických odvětvích. Výčet zahrnuje vedle tradičních odvětvových činností i nové aktivity — **agregaci** (sdružování flexibility účastníků trhu) a **ukládání elektřiny**. Zákon v odst. 3 větě druhé výslovně stanoví, že na agregaci se vyžaduje licence na obchod s elektřinou — agregace tedy není samostatnou kategorií licence, ale podmnožinou obchodní licence. Naopak **zprostředkovatelská činnost** (odst. 7–9) stojí mimo licenční systém: vyžaduje pouze oprávnění zprostředkovatele udělované ERÚ. Zákon přesně vymezuje, co zprostředkovatelskou činností je (odst. 8) a co jí naopak není (odst. 9 — jednorázové bezúplatné zastoupení na základě plné moci).
@@ -821,6 +826,11 @@ ERÚ uveřejňuje v Energetickém regulačním věstníku rozhodnutí o udělen�
 > *(7) Žádost fyzické osoby o prodloužení doby, na kterou byla licence udělena, obsahuje náležitosti podle § 7 odst. 2. Žádost právnické osoby o prodloužení doby, na kterou byla licence udělena, obsahuje náležitosti podle § 7 odst. 3. Doklady podle § 7 odst. 4 se nevyžadují, ledaže si jejich doložení v případě důvodných pochybností o splnění podmínek pro udělení licence Energetický regulační úřad vyžádá. Ustanovení § 7 odst. 5 a 6 se použije obdobně.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [32 Cdo 1264/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/675AB06289EE50E0C12585EF0018A437?openDocument) — 23. 6. 2020, kat. A
+  > „V případě prodlení provozovatele přenosové nebo regionální distribuční soustavy s úhradou některé z forem podpory výroby elektřiny (zeleného bonusu, výkupní ceny či příspěvku k ceně elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla) ve výši stanovené pro rok 2012 má výrobce elektřiny právo na úroky z prodlení. Odmítl-li provozovatel přenosové nebo regionální distribuční soustavy uhradit výrobci tuto podporu, přešla s účinností od 1. 1. 2013 povinnost k jejímu zaplacení včetně úroku z prodlení na operátora trhu"
 
 #### Průběžná oznamovací povinnost držitele licence (odst. 1)
 

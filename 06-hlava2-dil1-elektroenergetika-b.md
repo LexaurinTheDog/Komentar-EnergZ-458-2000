@@ -329,6 +329,11 @@ Zákon rozlišuje zánik **ipso iure** (odst. 1, nastane splněním zákonné po
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [32 Cdo 1264/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/675AB06289EE50E0C12585EF0018A437?openDocument) — 23. 6. 2020, kat. A
+  > „V případě prodlení provozovatele přenosové nebo regionální distribuční soustavy s úhradou některé z forem podpory výroby elektřiny (zeleného bonusu, výkupní ceny či příspěvku k ceně elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla) ve výši stanovené pro rok 2012 má výrobce elektřiny právo na úroky z prodlení. Odmítl-li provozovatel přenosové nebo regionální distribuční soustavy uhradit výrobci tuto podporu, přešla s účinností od 1. 1. 2013 povinnost k jejímu zaplacení včetně úroku z prodlení na operátora trhu"
+
 #### Agregátor jako nový subjekt trhu
 
 Agregátor je subjekt, který sdružuje flexibilitu odběratelů a výrobců (řízení spotřeby, odložitelné zátěže, zásobníky) a nabízí ji jako konsolidovanou službu na trhu s elektřinou nebo jako podpůrnou službu pro přenosovou soustavu. Institut byl zaveden novelou transpozicí směrnice 2019/944/EU (čl. 17). Podmínkou pro agregaci je průběhové měření u zákazníka (odst. 1 písm. a) — bez průběhového měření nelze flexibilitu verifikovat a zúčtovat. Registrace u OTE (odst. 2 písm. a) zajišťuje identifikaci agregátora v tržním systému.

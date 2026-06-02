@@ -1063,6 +1063,11 @@ MSN je nejradikálnějším cenovým zásahem — smluvní ujednání o ceně se
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 3009/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9FAD232D4B379C13C12583C1001D669B?openDocument) — 13. 12. 2018, kat. A
+  > „Osoba, která po smrti původního odběratele odebírá v jeho bytě plyn navzdory tomu, že nemá uzavřenou smlouvu o odběru, je přinejmenším srozuměna s neoprávněností svého počínání i se způsobením škody dodavateli (nepřímý úmysl). Nárok na náhradu za neoprávněný odběr plynu se tak promlčuje v objektivní desetileté promlčecí době (§ 106 odst. 2 obč. zák.)"
+
 #### Neoprávněný odběr plynu — systematika a povaha institutu
 
 § 74 zakotvuje veřejnoprávní zákaz neoprávněného odběru, přepravy, distribuce a uskladnění plynu a současně stanoví soukromoprávní náhradu škody jako hlavní právní důsledek. Jde o smíšený institut: zákon jako takový vymezuje skutkové podstaty, porušení zákazu zakládá správní delikt (§ 91a a násl. energetického zákona), a zároveň zakládá povinnost náhrady škody sui generis s odlišným způsobem výpočtu od obecné právní úpravy.
