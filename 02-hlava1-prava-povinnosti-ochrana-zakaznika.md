@@ -307,6 +307,11 @@ Provozovatelé sítí a operátor trhu jsou povinni uskutečnit změnu dodavatel
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [55 A 26/2022 - 70](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714442) — 22. 8. 2023
+  > „Je-li … spotřebitel smluvní pokutou trestán za uplatnění práva odstoupit od smlouvy, které mu přiznává § 11a energetického zákona, jedná se o nekalou obchodní praktiku naplňující znaky generální klauzule podle § 4 odst. 1 zákona o ochraně spotřebitele. … Spotřebitelé přitom mají … právo odstoupit od smlouvy. Také mají … právo vypovědět smlouvu bez sankcí. Podstatnou skutečností přitom v daném případě je, že se jedná o ustanovení, která jsou svojí povahou kogentní, přičemž k odchylujícím ujednáním se v takových případech nepřihlíží"
+
 #### Transparentnost cen a podmínek — povinná publicita
 
 § 11a odst. 1–3 zavádí pro dodavatele elektřiny a plynu povinnost uveřejňovat smluvní podmínky a ceníky na internetu. Tato povinnost se vztahuje na spotřebitele a malé podnikatele (plyn do 630 MWh/rok, elektřina z nízkého napětí). Výslovný zákaz podmiňovat přístup k podmínkám poskytnutím osobních údajů nebo projevením zájmu (odst. 2 in fine) je zásadní ochranou před tzv. „paywalled" cenovými nabídkami. Odst. 3 umožňuje třetím stranám (srovnávacím portálům, spotřebitelským organizacím) volně využívat uveřejněné informace — zákonná výjimka z práva na ochranu dat a obchodního tajemství pro účely srovnání produktů.
@@ -611,6 +616,11 @@ Technická architektura příspěvku je víceúrovňová: ministerstvo poskytuje
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Konf 6/2008 - 66](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/613520) — 1. 10. 2008
+  > „bere-li na sebe finanční protiplnění za poskytnutou službu podobu prokazatelné ztráty či prokazatelných nákladů, děje se tak vždy jen v souvislosti s autoritativním rozhodnutím [… nárok držitele licence vydané pro podnikání v energetických odvětvích podle § 12 odst. 4 a § 13 zákona č. 458/2000 Sb. …]. Úhrada prokazatelné ztráty či prokázaných nákladů bývá přímým důsledkem výkonu vrchnostenské pravomoci ze strany jejích nositelů; … Ve všech označených případech je úhrada prokazatelné ztráty kompenzací za plnění úkolů veřejného zájmu, kterou stanoví zákon a od níž nepřipouští žádné odchylky …"
+
 #### Povinnost nad rámec licence — zákonné omezení svobody podnikání
 
 § 12 zavádí extrémní, ale nezbytný nástroj: ERÚ může autoritativně uložit držiteli licence povinnost pokračovat ve výkonu činnosti, nebo na sebe vzít výkon cizí licence, i když o to nestojí. Toto omezení svobody podnikání je odůvodněno veřejným zájmem na nepřetržitosti dodávek — jde o analogii s institutem nucené správy v jiných regulovaných sektorech. Zákon rozlišuje tři komodity (teplo, elektřina — distribuce, elektřina — výroba) s mírně odlišnými podmínkami.
@@ -748,6 +758,11 @@ Správa příspěvků probíhá podle daňového řádu (zákon č. 280/2009 Sb.
 > *Má-li účastník trhu podle čl. 8 Nařízení o velkoobchodním trhu s energií povinnost oznamovat Agentuře transakce na velkoobchodních trzích s energií, je povinen uchovávat záznamy o transakcích po dobu 3 let od uskutečnění transakce nebo od přijetí záměru transakci uskutečnit.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [31 A 69/2022 - 74](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/713676) — 2. 8. 2023
+  > „Při své činnosti Energetický regulační úřad využívá nejen informace z regulačních výkazů, ale má právo si na základě ustanovení § 15a zákona č. 458/2000 Sb. … vyžádat jakékoliv další potřebné informace. … Mimo institut regulačního výkaznictví může žalovaný rovněž dle § 15a energetického zákona požadovat po regulovaných subjektech, aby mu ve stanovené přiměřené lhůtě poskytly úplné, správné a pravdivé podklady a informace nezbytné pro výkon jeho působnosti"
 
 #### Informační povinnost jako pilíř regulace a dohledu
 

@@ -130,6 +130,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 82/2022 - 25](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/701397) — 15. 6. 2022
+  > „Energetický zákon ukládá operátorovi trhu řadu povinností (§ 20a odst. 4 a 5) a zároveň zakládá některá práva, zejména právo vyžadovat konkrétní údaje od ostatních účastníků trhu (§ 20a odst. 6). Při porovnání s právní úpravou, která stanoví působnost Energetického regulačního úřadu, včetně jemu svěřených konkrétních pravomocí (§ 17), je zjevné, že § 20a energetického zákona nekonstruuje postavení operátora trhu jako správního orgánu, nýbrž jako účastníka trhu (…). Operátor trhu pak sice má výlučné postavení, když na základě výlučné licence plní specifické povinnosti uložené mu zákonem, avšak toto ustanovení mu nezakládá žádnou působnost v oblasti veřejné správy a nesvěřuje mu žádné pravomoci k její realizaci. (…) Vztahy mezi účastníky trhu, včetně operátora trhu, jsou tedy regulovány soukromoprávní metodou regulace, bez prvků subordinace"
+
 #### Právní povaha a vlastnická struktura operátora trhu (odst. 1–2)
 
 Operátor trhu (v praxi OTE, a.s. — Operátor trhu s elektřinou) je **právnická osoba se zvláštním zákonným statutem**: zákon mu ukládá formu akciové společnosti, přičemž akcie znějí výhradně na jméno a mohou být v rukou státu nebo provozovatele přenosové soustavy. Tato vlastnická struktura odráží veřejnoprávní povahu funkce, kterou operátor trhu plní — organizace krátkodobých trhů a zúčtování odchylek jsou svou povahou infrastrukturní a systémové činnosti, u nichž si zákonodárce vyhrazuje státní kontrolu. Akciová forma současně umožňuje flexibilní správu a obchodní provoz typický pro tržní prostředí.

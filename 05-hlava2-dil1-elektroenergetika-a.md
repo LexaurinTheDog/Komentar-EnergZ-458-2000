@@ -475,6 +475,11 @@ Zákon výslovně připouští, aby se provozovatel přenosové soustavy podíle
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 As 276/2023 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/738205) — 14. 1. 2025
+  > „Podle § 25 odst. 4 energetického zákona je provozovatel distribuční soustavy povinen zřídit věcné břemeno umožňující využití cizí nemovitosti nebo její části pro účely uvedené v odstavci 3 písm. e) … poslední věta citovaného ustanovení byla do energetického zákona doplněna novelou č. 225/2017 Sb. s účinností od 1. 1. 2018 a stanovuje možnost omezit vlastnické právo i ex post, pokud již zařízení bylo zřízeno či je zřizováno bez věcného břemene. Vyvlastňovací úřad tedy vydá rozhodnutí i v případě, kdy je stavba, pro kterou se právo vyvlastňuje, zřizována nebo již byla zřízena a zřízení věcného břemene nezmařil provozovatel distribuční soustavy. To však neznamená, že by se v případě chybějícího soukromoprávního titulu nejednalo o stavbu neoprávněnou a že by se vlastník proti takovému postupu nemohl bránit soukromoprávními prostředky"
+
 #### Licenční zákaz souběhu u regionálního provozovatele distribuční soustavy (odst. 2)
 
 Zatímco u provozovatele přenosové soustavy zákon zakazuje jakýkoli jiný souběh licencí absolutně (§ 24 odst. 2), u provozovatele distribuční soustavy je zákaz podmíněný hranicí **90 000 odběrných míst**. Provozovatel, k jehož síti je připojeno více než 90 000 odběrných míst zákazníků, nesmí být souběžně držitelem licence na výrobu elektřiny, ukládání elektřiny, přenos elektřiny, obchod s elektřinou nebo obchod s plynem. Tato hranice odděluje regionální distributory (ČEZ Distribuce, EG.D, PREdistribuce) od místních nebo průmyslových provozovatelů distribučních soustav. Práh 90 000 odběrných míst se opakuje v zákoně na více místech: podmíní povinnost dodavatele poslední instance (§ 12a), povinnost funkčního oddělení (§ 25a odst. 9) i strukturu akcionářů datového centra (§ 27 odst. 1 písm. b).

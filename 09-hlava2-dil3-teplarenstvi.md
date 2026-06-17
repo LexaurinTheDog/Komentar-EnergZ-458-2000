@@ -195,6 +195,13 @@ Písm. j) — **kritéria udržitelnosti a úspory emisí skleníkových plynů*
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 3756/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3756-11_1) — nález, 18. 9. 2012
+  > „Legitimní zájem provozovatelů technických zařízení nelze totiž nadřazovat ústavnímu požadavku spravedlivě vymezit a ochránit práva vlastníků. Tu lze odkázat i na čl. 11 Listiny základních práv a svobod, podle něhož platí, že vlastnické právo všech vlastníků má stejný zákonný obsah a ochranu"
+- *NSS* [6 As 304/2018 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/650125) — 10. 4. 2019
+  > „Náklady spojené s provedením stavebních změn dle ustanovení § 77 odst. 5 energetického zákona je tedy povinen hradit ten, kdo tuto změnu iniciuje. […] Smyslem účastenství stěžovatelky v řízení podle § 77 odst. 5 energetického zákona má být ochrana jejích věcných práv k teplovodním rozvodům a instalacím na SZTE před neoprávněným zásahem do nich. Takovým zásahem přitom není a nemůže být prosté odpojení od SZTE […]; jde o logický důsledek povolení změny způsobu vytápění dotčeného objektu, a nic na tom nemění ani […] skutečnost, že se sníží hodnota SZTE […]"
+
 #### Právo na připojení a jeho podmínky (odst. 1)
 
 Právo na připojení odběratele (odst. 1) je zrcadlovým doplňkem povinnosti uzavřít smlouvu dle § 76 odst. 1. Čtyři podmínky pro vznik práva na připojení jsou obsahově shodné s podmínkami povinnosti uzavřít smlouvu — zákon tak vytváří konzistentní párovací mechanismus právo/povinnost. Dodavatel, který nesplní povinnost dle § 76 odst. 1 přesto, že žadatel splnil podmínky dle § 77 odst. 1, se dopouští přestupku a žadatel se může domáhat nápravy u ERÚ (viz [10-hlava3-prestupky.md](10-hlava3-prestupky.md)).
@@ -349,6 +356,11 @@ Vlastnictví rozvodného tepelného zařízení se přeložkou nemění — odst
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [57 A 78/2024 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745906) — 26. 8. 2025
+  > „Pokud jde o ochranné pásmo, aprobuje soud právní posouzení žalovaného, že podle energetického zákona v objektu bytového domu ochranné pásmo tepelného vedení není, ale při provádění stavebních prací je stavebníkovi zákonem uložena povinnost dbát na zajištění bezpečnosti tepelného vedení nebo zařízení. […] § 87 odst. 5 energetického zákona neznamená, že ochranné pásmo neexistuje, ale to, že ochranné pásmo není formálně definováno – ochrana zařízení musí být zajištěna a osoba provádějící stavební činnost má povinnost dbát na bezpečnost zařízení"
+
 #### Vznik, rozsah a tvar ochranného pásma (odst. 1–3)
 
 **Ochranné pásmo** je veřejnoprávním institutem — vzniká ze zákona (ex lege), nikoli rozhodnutím správního orgánu. Den vzniku je vázán na právní moc rozhodnutí o povolení záměru dle stavebního zákona (zákon č. 283/2021 Sb.); pokud stavební povolení není vyžadováno (typicky u drobných oprav nebo zařízení podprahové velikosti), vzniká pásmo dnem uvedení zařízení do provozu.
@@ -473,6 +485,11 @@ Zákon zavádí **dvoustupňovou vertikální strukturu**: ministerstvo pro celo
 > *(4) Při neoprávněném odběru tepelné energie je osoba, která neoprávněně odebírala nebo odebírá tepelnou energii, povinna nahradit v penězích vzniklou škodu. Nelze-li zjistit vzniklou škodu na základě prokazatelně zjištěných údajů, je povinna uhradit výši škody určenou výpočtem podle příkonu spotřebičů tepla a obvyklé doby jejich využití, nedohodnou-li se jinak. Škodou jsou i prokazatelně nezbytně nutné náklady vynaložené na zjišťování neoprávněného odběru tepelné energie.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 124/2013 - 26](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/629370) — 10. 10. 2013
+  > „Teleologický (účelový) výklad ustanovení § 89 odst. 1 písm. b) zákona č. 458/2000 Sb. tedy vede k jednoznačnému závěru, podle něhož k neoprávněnému odběru tepla může dojít jen při opakovaném nesplnění platební povinnosti, jež má základ ve smluvním vztahu mezi dodavatelem a odběratelem tepla. […] Smyslem tohoto ustanovení je totiž zvýšená ochrana dodavatele tepla jako subjektu s kontraktační povinností před nesplněním smluvních závazků ze strany odběratele"
 
 #### Taxativní definice neoprávněného odběru tepelné energie (odst. 1)
 

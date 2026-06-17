@@ -98,6 +98,13 @@ Povinnost vzájemné součinnosti a sdílení informací mezi ERÚ, NÚKIB a min
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 28/2014 - 62](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/631290) — 7. 5. 2014
+  > „Stát zde působí prostřednictvím nezávislého regulačního úřadu zejména jako garant odborné, finanční či technické způsobilosti subjektů vstupujících do sítě (licenční řízení), jako subjekt příslušný k rozhodování některých sporů, jako cenový regulátor a orgán projednávající správní delikty [srov. zejména § 17 zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon) …]. Regulační úřad pak rozhoduje o právech a povinnostech vyplývajících ze vztahů veřejného (např. rozhodování o licencích či správních deliktech), ale i soukromého práva (např. rozhodování sporů týkajících se přístupu k síti)"
+- *NSS* [3 As 374/2021 - 63](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/711080) — 18. 5. 2023
+  > „Význam kompetenčního ustanovení je … v obou případech shodný: správní orgán (namísto soudu) je povolán rozhodovat spor smluvních stran o uzavření smlouvy, o jejím obsahu, o úpravě práv a povinností smluvních stran v této smlouvě. … § 17 odst. 7 písm. a) energetického zákona a tam užitý pojem „spory o uzavření smlouvy“ je třeba vykládat tak, že případné spory o nové ujednání v situaci, kdy mezi stranami již smlouva uzavřena byla, pod tento pojem nespadají. … Stejně tak pod uvedené ustanovení nebudou spadat ani spory o plnění z již uzavřené smlouvy …"
+
 #### Zřízení a institucionální povaha ERÚ (odst. 1–2)
 
 ERÚ byl zřízen zákonem č. 458/2000 Sb. jako správní úřad — orgán státní správy sui generis, nikoli součást ministerské hierarchie. Odlišuje se od běžných správních úřadů zejména tím, že má samostatnou kapitolu státního rozpočtu, čímž je zajištěna jeho finanční nezávislost na ministerstvu. Sídlem je Jihlava, nikoli Praha — zákonodárce tím vědomě prostorově oddělil regulátor od centra politické moci.
@@ -175,6 +182,11 @@ Odst. 13 je obsahově totožný s § 16a — viz výklad tamtéž. Odst. 15 zav�
 > *(16) Předseda Energetického regulačního úřadu má nárok na plat, náhradu výdajů a naturální plnění jako prezident Nejvyššího kontrolního úřadu. Člen Rady má nárok na plat, náhradu výdajů a na naturální plnění jako člen Nejvyššího kontrolního úřadu. Člen Rady má po zániku funkce nárok na odchodné ve výši trojnásobku měsíčního platu, který mu náležel v době zániku funkce. Nárok na odchodné nevzniká, pokud byl člen Rady z funkce odvolán nebo jeho funkce zanikla proto, že se ujal funkce neslučitelné s funkcí člena Rady, nebo pokud byl po uplynutí funkčního období znovu jmenován členem Rady anebo pokud byl pravomocně odsouzen pro trestný čin.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 As 50/2023 - 129](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715749) — 2. 11. 2023
+  > „Mezi vládou a členem Rady ERÚ není pracovněprávní vztah. Vláda členy Rady ERÚ neřídí a řídit nesmí. Nesmí ani jakkoli jinak ovlivňovat jejich činnost. Důležité ale je též to, že energetický zákon v § 17b určuje délku funkčního období člena Rady ERÚ, upravuje obsazování na základě jmenování, stanoví neslučitelnost funkce s jinými tam uvedenými veřejnými funkcemi a výdělečnými činnostmi, to vše za účelem zajištění nezávislosti a nestrannosti výkonu funkce. … Procedura odvolání člena Rady chrání nejen veřejné subjektivní právo člena Rady ERÚ, ale též nezávislost úřadu samotného"
 
 #### Kolektivní model řízení ERÚ — Rada jako kolegiální orgán
 
@@ -432,6 +444,11 @@ Regionální koordinační centra (RCC) jsou novým prvkem zavedeným nařízen�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 242/2021 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/703461) — 29. 8. 2022
+  > „Uplatňování správní odpovědnosti (ukládání správních trestů nebo ochranných opatření) nelze směšovat s ukládáním opatření k nápravě nedostatků zjištěných při výkonu správního dozoru, neboť se jedná o samostatný právní institut odlišný od sankce. … Nápravné opatření se neukládá na základě vyslovení odpovědnosti za přestupek, ale na základě přičitatelnosti protiprávního stavu dané osobě. Je tedy možné ukládat nápravná opatření tam, kde nebude zároveň rozhodnuto o odpovědnosti za přestupek či uložení správní sankce …"
+
 #### Rozsah dozorové pravomoci ERÚ
 
 § 18 odst. 1 definuje předmět dozoru ERÚ čtyřmi kategoriemi:
@@ -464,6 +481,11 @@ Při kontrole dle REMIT zákon ERÚ přiznává rozšířené pravomoci typické
 > *(4) Pominou-li důvody, pro které Energetický regulační úřad opatření uložil, rozhodne Energetický regulační úřad o jejich změně nebo zrušení, popřípadě stanoví lhůtu, kdy uložená opatření zaniknou.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 294/2022 - 83](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722345) — 19. 6. 2024
+  > „Mezi těmito nástroji (srov. § 18 odst. 1 energetického zákona) a sektorovým šetřením ve smyslu jeho § 18a lze dovodit vztah speciality a obecnosti s tím, že sektorové šetření by se jako obecnější nástroj správního dozoru sloužící podpoře účinné hospodářské soutěže a zajištění řádného fungování trhu mělo uplatnit tam, kde není předvídaný nástroj specifický. … Nejvyšší správní soud … v institutu sektorového šetření spatřuje široce koncipovaný (a do jisté míry podpůrný) nástroj umožňující žalovanému eliminovat příčiny neúčinnosti hospodářské soutěže a negativní důsledky s tím spojené …"
 
 #### Sektorové šetření jako proaktivní regulatorní nástroj
 

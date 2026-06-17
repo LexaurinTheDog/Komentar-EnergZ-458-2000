@@ -273,6 +273,11 @@ Nařízení (EU) č. 1227/2011 (REMIT) ukládá členským státům zajistit ú�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 124/2013 - 26](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/629370) — 10. 10. 2013
+  > „Nutnost aplikace § 89 odst. 1 písm. b) zákona č. 458/2000 Sb. jen na případy nesplnění platební povinnosti sjednané ve smlouvě mezi dodavatelem a odběratelem je zřejmá obzvláště za situace, kdy znění § 91 odst. 4 téhož zákona považuje neoprávněný odběr tepla za správní delikt s poměrně vysokou sankcí. Smyslem tohoto ustanovení je totiž zvýšená ochrana dodavatele tepla jako subjektu s kontraktační povinností před nesplněním smluvních závazků ze strany odběratele"
+
 #### Systematika: § 91 jako lex specialis pro licencované subjekty
 
 § 91 dopadá výhradně na **držitele licencí** podle § 4 a násl. energetického zákona — tedy na subjekty, jimž ERÚ udělil licenci k výkonu energetické činnosti. Tyto subjekty jsou právnickými nebo podnikajícími fyzickými osobami. Zákon pro ně zavedl zvláštní soubor skutkových podstat, strukturovaný podle druhu licence (odst. 1 — všichni držitelé licence; odst. 2 až 16 — specifika každého druhu licence). Tato struktura je odrazem věcné specializace povinností: každý druh licence (výroba el., přenos, distribuce el., obchod s el., výroba plynu, přeprava, distribuce plynu, uskladňování plynu, obchod s plynem, výroba a rozvod tepla, OTE, datové centrum, ukládání elektřiny) nese vlastní regulatorní povinnosti, jejichž porušení je postihováno specificky.

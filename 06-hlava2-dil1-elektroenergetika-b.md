@@ -225,6 +225,11 @@ Povinnost nabízet dynamické i pevné ceny se týká pouze **velkých obchodní
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 A 151/2016 - 196](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/446178) — 19. 12. 2018
+  > „Instalovaný výkon výrobny elektřiny [§ 30a odst. 1 zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon)] je v případě fotovoltaické elektrárny určen jako součet instalovaných výkonů jednotlivých výrobních jednotek, tj. solárních panelů, z nichž se elektrárna skládá"
+
 #### Autorizace jako veřejnoprávní souhlas s výstavbou
 
 Státní autorizace je zvláštní správní rozhodnutí předcházející stavebnímu řízení. Threshold 1 MW instalovaného výkonu vymezuje věcnou působnost — menší výrobny autorizaci nevyžadují. Zákon výslovně stanoví, že autorizace **není** podkladem pro povolení záměru (odst. 5) — oba procesy probíhají souběžně, nikoliv v závislostním vztahu; zákonodárce tím odstranil původní pochybnost o povaze autorizace. Přenositelnost autorizace (odst. 4) chrání investory při restrukturalizaci projektů (převod na SPV). Žadatel je v řízení jediným účastníkem (odst. 2) — jde o zjednodušení procesu oproti obecnému správnímu řízení.
@@ -574,6 +579,11 @@ Zvláštní pravidla pro větrné elektrárny (odst. 14–15) reagují na specif
 
 Přeložka je dílčí změna trasy nebo přemístění prvku — nikoli demolice a nová stavba. Obecné pravidlo (causation principle): **náklady nese ten, kdo přeložku vyvolal** (typicky investor v území). Výjimkou je zastavěné území, kde PDS nese náklady přeložky NN, pokud přeložka vyplývá z rozhodnutí o odstranění stavby nebo ze špatného technického stavu zařízení — v těchto případech je na straně PDS povinnost udržovat zařízení v dobrém stavu. Informační povinnost PPS/PDS (odst. 3) chrání investora před překvapivými náklady. Vlastnictví zařízení přeložkou nezaniká ani nepřechází (odst. 4) — přeložka mění polohu, nikoli vlastnický vztah.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 341/2016 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/643389) — 26. 7. 2017
+  > „Pojem „přeložka“ je však jednoznačně definován v § 47 odst. 1 zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, jako „dílčí změna trasy vedení nebo přemístění některých prvků tohoto zařízení“. Přeložka zařízení se může tedy uskutečnit i ve stávající trase…"
+
 ---
 
 ### § 48 — Styk zařízení
@@ -760,6 +770,11 @@ Zákon zakotvuje **relativní neplatnost** za chybějící náležitosti smluv d
 > *(4) V případě, že při změně dodavatele elektřiny probíhá odběr elektřiny v odběrném místě zákazníka po dobu kratší než 10 pracovních dní bez smluvního subjektu zúčtování evidovaného pro odběrné místo zákazníka, nejedná se o neoprávněný odběr elektřiny. Dodávku elektřiny do tohoto odběrného místa zajišťuje budoucí dodavatel elektřiny a odpovědnost za odchylku nese budoucí subjekt zúčtování.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 668/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-668-15_1) — nález, 11. 8. 2015
+  > „Vypočtená výše škody je tak výší fiktivní, která nemá žádný vztah ke skutečnému množství neoprávněně odebrané elektřiny. […] Ústavní soud tedy nijak nezpochybňuje, že při výpočtu je možno z prováděcího předpisu vycházet. Nicméně pokud tento výpočet, jako v nyní posuzovaném případě, přináší zcela disproporcionální výsledky vzhledem k předchozí spotřebě na daném místě, nelze jej aplikovat mechanicky"
 
 #### Taxativní katalog forem neoprávněného odběru (odst. 1)
 

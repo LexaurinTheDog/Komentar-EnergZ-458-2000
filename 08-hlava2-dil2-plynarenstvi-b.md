@@ -381,6 +381,11 @@ Na výstavbu přímého plynovodu překračujícího zákonem stanovené paramet
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Afs 131/2014 - 31](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/636836) — 16. 12. 2015
+  > „Každá z plynových přípojek může být předmětem prodeje samostatně [§ 66 odst. 2 zákona č. 458/2000 Sb.] … vlastník plynové přípojky může být s odkazem na § 66 odst. 2 odlišný od vlastníka jiných částí distribuční soustavy. Naposledy uvedené ustanovení však pouze upřesňuje, že náklady na zřízení plynovodní přípojky hradí ten, v jehož prospěch byla zřízena, nedojde-li k jiné dohodě a stanoví, že vlastníkem přípojky je ten, kdo uhradil náklady na její zřízení"
+
 #### Přípojka — vlastnictví a provoz
 
 § 66 zakotvuje základní pravidla pro plynovodní přípojky — část distribuční infrastruktury propojující distribuční soustavu s odběrným plynovým zařízením zákazníka.
@@ -490,6 +495,11 @@ Rozhodnutí ERÚ podléhá dvojímu přezkumu: (a) souhlasné stanovisko ministe
 > *(7) Ochranné pásmo plynárenského zařízení zaniká trvalým odpojením zařízení od plynárenské soustavy nebo odstraněním stavby.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [66 A 2/2022 - 122](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/704421) — 6. 9. 2022
+  > „Zákonná šíře ochranného pásma se odvíjí od typu (velikosti, kapacity atd.) konkrétního zařízení … (viz … § 68 zákona č. 458/2000 Sb., energetický zákon). … V ochranném pásmu plynárenského zařízení je zase každý povinen zdržet se jednání, kterým by mohl poškodit či ohrozit plynárenskou soustavu. … v případě ochranných pásem [se] jedná o limitaci podmíněnou"
 
 #### Systematika ochranných pásem v plynárenství
 
@@ -686,6 +696,11 @@ Před instalací inteligentního měřicího zařízení (smart metru) má provo
 > *(10) Nedostatek písemné formy smlouvy podle odstavců 1 a 2 může namítat jen spotřebitel.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 3523/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3523-11_1) — nález, 7. 3. 2012
+  > „Energetický zákon … v § 72 uvádí, které povinné náležitosti musí mít smlouva o dodávce plynu. Tyto náležitosti (mimo jiné oprávnění zákazníka odstoupit od smlouvy) musí obsahovat … přímo smlouva … Pokud neobsahuje některou z povinných náležitostí, je platná pouze tehdy, jestliže se zákazník nedovolá její neplatnosti. … Využití práv, která dává zákon (tj. možnost odstoupit od smlouvy pro změnu smluvních podmínek), postihovat pokutou či jinou sankcí zajisté nelze"
 
 #### Smluvní typy v plynárenství — přehled
 
@@ -1065,7 +1080,7 @@ MSN je nejradikálnějším cenovým zásahem — smluvní ujednání o ceně se
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [25 Cdo 3009/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9FAD232D4B379C13C12583C1001D669B?openDocument) — 13. 12. 2018, kat. A
+- *NS* [25 Cdo 3009/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9FAD232D4B379C13C12583C1001D669B?openDocument) — kat. A, 13. 12. 2018
   > „Osoba, která po smrti původního odběratele odebírá v jeho bytě plyn navzdory tomu, že nemá uzavřenou smlouvu o odběru, je přinejmenším srozuměna s neoprávněností svého počínání i se způsobením škody dodavateli (nepřímý úmysl). Nárok na náhradu za neoprávněný odběr plynu se tak promlčuje v objektivní desetileté promlčecí době (§ 106 odst. 2 obč. zák.)"
 
 #### Neoprávněný odběr plynu — systematika a povaha institutu

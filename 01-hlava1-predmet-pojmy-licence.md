@@ -264,6 +264,13 @@ Zákon zavazuje jak **fyzické, tak právnické osoby**. Rozsah práv a povinnos
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 As 116/2024 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739827) — 13. 3. 2025
+  > „Dle § 2 odst. 2 písm. b) zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), přitom platí, že plynovodní soustava má být zřizována a provozována ve veřejném zájmu. V tomto ohledu je třeba veřejný zájem chápat jako zájem na rovných podmínkách odběratelů, aby se mohli napojit na distribuční soustavu"
+- *NSS* [3 As 89/2024 - 58](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722748) — 27. 6. 2024
+  > „… zákonnou definici pojmu výrobna elektřiny dle § 2 odst. 2 písm. a) zákona č. 458/2000 Sb. … Právní předpisy i důvodová zpráva vztahují stanovení individuálních podmínek podpory k výrobně, nikoli ke konkrétnímu výrobci elektřiny či k vlastníkovi výrobny, který investice vynaložil"
+
 #### Funkce a systematika § 2
 
 § 2 je jedním z nejrozsáhlejších definičních ustanovení v českém právním řádu. Odstavec 1 vymezuje pojmy průřezové pro celý zákon (vymezené území, kontrola, chráněná informace, podnik ve skupině, energeticky strategický celek a soubor pojmů pro jeho ochranu, dynamické určení ceny, index zajištění obchodníka a smlouva s pevnou cenou). Odstavec 2 pak přináší odvětvové definice pro tři sektory: elektroenergetiku (34 položek), plynárenství (39 položek) a teplárenství (15 položek).
@@ -340,8 +347,10 @@ V plynárenství zasluhuje pozornost rozšíření definice **plynu** (písm. b 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [32 Cdo 1264/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/675AB06289EE50E0C12585EF0018A437?openDocument) — 23. 6. 2020, kat. A
-  > „V případě prodlení provozovatele přenosové nebo regionální distribuční soustavy s úhradou některé z forem podpory výroby elektřiny (zeleného bonusu, výkupní ceny či příspěvku k ceně elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla) ve výši stanovené pro rok 2012 má výrobce elektřiny právo na úroky z prodlení. Odmítl-li provozovatel přenosové nebo regionální distribuční soustavy uhradit výrobci tuto podporu, přešla s účinností od 1. 1. 2013 povinnost k jejímu zaplacení včetně úroku z prodlení na operátora trhu"
+- *NSS* [7 A 251/2011 - 125](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/544373) — 1. 4. 2015
+  > „Podle § 3 odst. 2 zákona č. 458/2000 Sb. je ve veřejném zájmu pouze přenos elektřiny, přeprava plynu, distribuce elektřiny a distribuce plynu, uskladňování plynu, výroba a rozvod tepelné energie. Zákonodárce vědomě zařadil mezi uznané veřejné účely v energetickém zákoně právě jen některé činnosti související s elektřinou, a to činnosti, které umožní její rozvod a které musí stát garantovat, nikoliv např. výrobu, která může být vždy snadno substituovaná"
+- *NSS* [6 As 28/2026 - 113](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/780841) — 31. 3. 2026
+  > „… účel vyvlastnění stanoven v § 3 odst. 2 energetického zákona, podle kterého se kromě jiného výroba elektřiny … uskutečňuje ve veřejném zájmu. Stavby sloužící pro tuto činnost a stavby s nimi související jsou zřizovány a provozovány ve veřejném zájmu, přičemž pro zřízení a provozování těchto staveb a staveb souvisejících lze odejmout nebo omezit vlastnické právo k pozemku nebo ke stavbě podle jiného právního předpisu"
 
 #### Výčet licencovaných činností (odst. 1)
 
@@ -705,6 +714,11 @@ Ustanovení (i změna) odpovědného zástupce podléhá **schválení ERÚ** �
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 As 331/2015 - 136](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/639118) — 15. 6. 2016
+  > „Předmětem licenčního řízení není posouzení požadavků zvláštních právních předpisů na uvedení energetického zařízení do provozu a souvisejících závazných stanovisek [srov. § 5 odst. 3, § 7 odst. 4 písm. d) zákona č. 458/2000 Sb. …]. Žadatel o licenci dokládá splnění technických předpokladů pouze rozhodnutím stavebního úřadu a dokladem prokazujícím zajištění revize energetického zařízení ve vztahu k bezpečnosti práce"
+
 #### Formální náležitosti žádosti
 
 § 7 stanoví formální náležitosti licenční žádosti odděleně pro fyzické (odst. 2) a právnické osoby (odst. 3). Žádost je písemná; zákon neupravuje elektronické podání výslovně, ale zákon č. 300/2008 Sb. o elektronických úkonech a zákon o ERÚ mu elektronické podání jinak umožňuje. K žádosti se připojují doklady dle odst. 4 — výpisy z trestního rejstříku (pro zahraniční osoby z cizozemských evidencí ne starší 6 měsíců), doklady o odbornosti, finančních a technických předpokladech a vlastnickém nebo užívacím právu k energetickému zařízení.
@@ -730,6 +744,11 @@ Odst. 8 je doplňkem k § 5a — zatímco § 5a se vztahuje na obchodníky, odst
 > *(3) Oprávnění podnikat v oblasti obchodu s elektřinou nebo obchodu s plynem v České republice na základě rozhodnutí o uznání oprávnění podle odstavce 2 zaniká, zanikne-li oprávnění vydané v jiném členském státě, nebo rozhodne-li Energetický regulační úřad o zrušení rozhodnutí o uznání takového oprávnění. Pro zrušení rozhodnutí o uznání oprávnění se uplatní ustanovení § 10 odst. 2 písm. b) až e). Osoba podnikající v energetických odvětvích podle odstavce 1 je povinna Energetickému regulačnímu úřadu oznámit zánik předloženého oprávnění.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Afs 216/2020 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/673734) — 15. 10. 2021
+  > „… pokud bylo společnosti uznáno oprávnění k podnikání pro obchod s elektřinou, dává jí to stejné postavení jako držiteli licence na obchod s elektřinou, udělené českým Energetickým regulačním úřadem [§ 7a odst. 2 zákona č. 458/2000 Sb. …]"
 
 #### Vzájemné uznávání v rámci vnitřního trhu EU
 
@@ -781,6 +800,13 @@ Uznání oprávnění podle odst. 2 má za právní důsledek, že daná osoba s
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 A 40/2022 - 87](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/711171) — 19. 4. 2023
+  > „Udělování licence probíhá podle § 8 zákona č. 458/2000 Sb., energetický zákon, konstitutivním rozhodnutím. … „Rozhodnutí o udělení licence je konstitutivním správním aktem. Teprve na jeho základě se žadatel o udělení licence stává držitelem licence a vzniká mu nejen právo vykonávat licencovanou činnost, ale i povinnost plnit všechny povinnosti uložené držiteli licence.“"
+- *NSS* [30 A 74/2023 - 211](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/720227) — 22. 2. 2024
+  > „I podle § 8 odst. 1 zákona č. 458/2000 Sb., energetický zákon, obsahuje licence firmu právnické osoby, jíž se licence uděluje. O licenci žádá právnická osoba a prokázání vztahu k energetickému zařízení je jen jedna z podmínek pro udělení licence (§ 7 odst. 4 energetického zákona). Energetický zákon přímo počítá s tím, že žadatel o licenci nemusí být vlastníkem energetického zařízení"
+
 #### Podmínky udělení — vázaná pravomoc ERÚ
 
 ERÚ nemá správní uvážení ohledně udělení licence — jde o **vázanou pravomoc**: jsou-li splněny podmínky § 5 a nejsou dány překážky, ERÚ licenci udělit musí. Z toho vyplývá, že zamítnutí žádosti o licenci musí být vždy odůvodněno konkrétní nesplněnou podmínkou nebo existující překážkou.
@@ -829,8 +855,8 @@ ERÚ uveřejňuje v Energetickém regulačním věstníku rozhodnutí o udělen�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [32 Cdo 1264/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/675AB06289EE50E0C12585EF0018A437?openDocument) — 23. 6. 2020, kat. A
-  > „V případě prodlení provozovatele přenosové nebo regionální distribuční soustavy s úhradou některé z forem podpory výroby elektřiny (zeleného bonusu, výkupní ceny či příspěvku k ceně elektřiny z vysokoúčinné kombinované výroby elektřiny a tepla) ve výši stanovené pro rok 2012 má výrobce elektřiny právo na úroky z prodlení. Odmítl-li provozovatel přenosové nebo regionální distribuční soustavy uhradit výrobci tuto podporu, přešla s účinností od 1. 1. 2013 povinnost k jejímu zaplacení včetně úroku z prodlení na operátora trhu"
+- *NSS* [6 As 244/2015 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/638423) — 27. 4. 2016
+  > „… ve smyslu § 9 odst. 5 zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích, doložka právní moci na rozhodnutí o licenci pak osvědčuje vůči třetím osobám počátek oprávnění k podnikání v licencované oblasti … Nabytím právní moci rozhodnutí žalovaného o udělení licence tedy nepochybně vzniklo stěžovateli oprávnění provozovat licencovanou činnost"
 
 #### Průběžná oznamovací povinnost držitele licence (odst. 1)
 
