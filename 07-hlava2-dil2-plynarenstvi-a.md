@@ -58,6 +58,43 @@ Ve stavu nouze vyhlášeném provozovatelem přepravní soustavy nebo v mimořá
 
 Odst. 4 zavádí **propojení rezervace přepravní kapacity a zásobníkové kapacity**: účastník trhu si může rezervovat přepravní kapacitu k zásobníku a ze zásobníku pouze v rozsahu své rezervované skladovací kapacity. Překročí-li přepravní kapacita zásobníkovou, je povinen strpět odebrání přebytečné přepravní kapacity provozovatelem přepravní soustavy. Toto pravidlo zabraňuje spekulativnímu hromadění přepravní kapacity bez odpovídající zásobníkové pozice, čímž chrání efektivní využívání infrastruktury ve prospěch ostatních účastníků trhu. Zároveň zákon výslovně zachovává povinnost platit za **pevnou přepravní kapacitu** i v rozsahu, který nebyl přidělen jinému — jde o standardní tržní pravidlo, kdy rezervace pevné kapacity zavazuje k úhradě bez ohledu na využití.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník s plynem GASTRADE, a.s., rezervoval u provozovatele přepravní soustavy (NET4GAS) pevnou výstupní přepravní kapacitu z PZP (podzemního zásobníku) ve výši 200 GWh/den, ačkoli jeho rezervovaná skladovací kapacita ve stejném zásobníku činí pouze 120 GWh/den. PPS hodlá podle § 56 odst. 4 odebrat „přebytečných" 80 GWh/den a nabídnout je jako volnou kapacitu jinému zájemci. GASTRADE namítá, že za pevnou kapacitu řádně platí, a odebrání odmítá. Důkazy: smlouva o poskytnutí služby přepravy, smlouva o uskladnění plynu, evidence rezervací u operátora trhu (OTE), data o rezervovaných skladovacích kapacitách předaná PPS provozovatelem zásobníku podle § 60 odst. 8 písm. z).
+
+**2. Právní otázka.** Je PPS oprávněn jednostranně odebrat účastníkovi trhu rezervovanou přepravní kapacitu k zásobníku v rozsahu převyšujícím jeho rezervovanou skladovací kapacitu, a jaký vliv na úhradovou povinnost účastníka to má?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 56 odst. 4 — právo rezervovat přepravní kapacitu ze/do zásobníku jen do výše rezervované skladovací kapacity; povinnost strpět odebrání přebytku; nedotčená povinnost platit za pevnou kapacitu nepřidělenou jinému.
+- *Související ustanovení téhož zákona:* § 58 odst. 9 písm. g) (PPS nabízí kapacitu, k níž zaniklo právo dle § 56 odst. 4, jako volnou); § 60 odst. 8 písm. z) (provozovatel zásobníku předává PPS údaje o rezervovaných skladovacích kapacitách); § 56 odst. 2 (odpovědnost za odchylku).
+- *Související předpisy:* Pravidla trhu s plynem (vyhláška ERÚ k § 98a odst. 2 písm. i) energetického zákona); Nařízení o vnitřním trhu s plynem 2024/1789 (čl. o přidělování kapacit a řízení překročení); Řád provozovatele přepravní soustavy.
+- *Judikatura:* k povaze rezervace pevné kapacity a trvání platební povinnosti i bez využití srov. nosný závěr rozhodovací praxe, podle níž rezervace kapacity v regulovaných sítích zakládá samostatný úplatný závazek nezávislý na faktickém odběru (princip „capacity booking"); k mezím zásahu regulovaného monopolu do práv účastníků srov. obecné závěry NSS o nutnosti odůvodnění a proporcionality při výkonu vrchnostenských oprávnění provozovatele sítě.
+
+**4. Subsumpce.** Znak „rezervovaná přepravní kapacita ze/do zásobníku" je naplněn (200 GWh/den). Znak „nižší rezervovaná skladovací kapacita" je naplněn (120 < 200 GWh/den). Tím vzniká zákonná povinnost účastníka strpět odebrání rozdílu (80 GWh/den) a oprávnění PPS tuto kapacitu odebrat a nabídnout jako volnou (§ 58 odst. 9 písm. g)). Sporné je, zda PPS disponuje aktuálními a správnými daty o skladovací kapacitě — to závisí na plnění § 60 odst. 8 písm. z) provozovatelem zásobníku.
+
+**5. Řešení.** PPS je oprávněn přebytečnou kapacitu odebrat; účastník ji musí strpět ex lege. Úhradová povinnost za pevnou kapacitu však trvá pouze v rozsahu, v němž kapacita **nebyla přidělena jinému účastníku** — jakmile PPS 80 GWh/den znovu přidělí, platební povinnost GASTRADE v tomto rozsahu zaniká. Procesně PPS odebrání provede postupem dle Řádu PPS a Pravidel trhu; účastník se může bránit u ERÚ (dozor nad přístupem k soustavě), případně žalobou na vrácení neoprávněně účtované ceny. Riziko: nesprávná data o skladovací kapacitě → vadné odebrání → odpovědnost PPS za škodu.
+
+**6. Varianty.** (a) Pokud by GASTRADE rezervoval skladovací kapacitu 200 GWh/den shodně s přepravní, k odebrání by nebyl důvod a celá kapacita zůstává jeho. (b) Pokud by šlo o **přerušitelnou** (nikoli pevnou) přepravní kapacitu, neuplatní se pravidlo o úhradě nepřidělené kapacity a režim odebrání i platby se řídí odlišně dle Řádu PPS.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: Odebrání kapacity je zásah do smluvní svobody a legitimního očekávání.* Neutralizace: oprávnění PPS plyne přímo ze zákona (§ 56 odst. 4) a je účastníkovi známo již při uzavření smlouvy; jde o zákonné omezení proti spekulativnímu hromadění kapacity, nikoli o svévoli.
+- *Protiargument 2: Účastník platí za pevnou kapacitu, proto na ni má nárok bez ohledu na zásobníkovou pozici.* Neutralizace: platební povinnost zákon výslovně zachovává jen do rozsahu kapacity nepřidělené jinému; po přidělení jinému subjektu zaniká, takže k dvojí platbě nedochází.
+- *Slabé místo:* správnost odebrání zcela závisí na kvalitě dat o rezervovaných skladovacích kapacitách (§ 60 odst. 8 písm. z)); chybí-li aktuální data nebo jsou-li nesprávná, hrozí neoprávněný zásah. Doporučuje se před odebráním data ověřit u provozovatele zásobníku a vést o tom záznam.
+
+#### H. Praktický závěr
+
+V praxi § 56 odst. 4 propojuje přepravní a skladovací kapacitu: přepravní kapacitu k zásobníku lze rezervovat jen do výše skladovací kapacity, přebytek PPS odebírá a nabízí jako volný. Účastník nese důkazní břemeno o své skladovací pozici; PPS nese riziko správnosti dat.
+
+**Checklist (advokát / soud / ERÚ / účastník trhu):**
+- [ ] Porovnat rezervovanou přepravní kapacitu ze/do zásobníku s rezervovanou skladovací kapacitou téhož účastníka.
+- [ ] Ověřit data o skladovací kapacitě předaná PPS dle § 60 odst. 8 písm. z).
+- [ ] Posoudit, zda jde o pevnou či přerušitelnou kapacitu (vliv na platební povinnost).
+- [ ] Zjistit, zda byla odebraná kapacita přidělena jinému účastníku (zánik platební povinnosti v tomto rozsahu).
+- [ ] U sporu zkontrolovat dodržení postupu dle Řádu PPS a Pravidel trhu s plynem.
+
+**Typicky rozhodné důkazy / podklady:** smlouva o přepravě plynu a smlouva o uskladnění plynu; evidence rezervací u OTE; data o skladovacích kapacitách; Řád PPS; faktury za rezervaci kapacity; doklad o přidělení odebrané kapacity jinému subjektu.
+
 ---
 
 ### § 57 — Výrobce plynu
@@ -182,6 +219,43 @@ Odst. 8 obsahuje **26 povinností** označených písmeny a)–q), jde o jeden z
 **Kritéria udržitelnosti (odst. 8 písm. q))** jsou novinkou plynárenského trhu odrážející dekarbonizační cíle. Zákon rozlišuje: (i) plyn z paliv z biomasy — plná kritéria udržitelnosti i GHG úspor; (ii) paliva z biomasy z odpadů a zbytků (vyjma zemědělských a lesnických zbytků), obnovitelný plyn nebiologického původu a nízkoemisní plyn — pouze kritéria GHG úspor. Přechodné ustanovení pro rok 2025 stanoví zvláštní způsob předávání dat do systému operátora trhu. Tato úprava transponuje požadavky dekarbonizační směrnice 2024/1788 a navazuje na zákon o podporovaných zdrojích energie.
 
 **Odst. 9** pak ukládá výrobci zvláštní povinnost strpět instalaci zařízení provozovatele distribuční soustavy v prostoru výrobny — jde o technické opatření nezbytné pro úpravu složení plynu při připojení výrobny k distribuční soustavě.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost BIOMETAN CZ, s.r.o., provozuje bioplynovou stanici s úpravnou na biometan a vybudovala těžební plynovod dlouhý 1,8 km k připojení k distribuční soustavě. Plynovod vede přes pozemek pana N., s nímž výrobce nedohodl věcné břemeno — pan N. je dlouhodobě nedosažitelný (žije v zahraničí, na výzvy nereaguje). Současně výrobce dodává biometan, u něhož musí podle § 57 odst. 8 písm. q) vykazovat splnění kritérií udržitelnosti, avšak za rok 2025 data do systému operátora trhu nepředal. Důkazy: licence na výrobu plynu, projektová dokumentace plynovodu, doklady o pokusech kontaktovat vlastníka, výrobní a bilanční evidence, certifikáty udržitelnosti dle zákona o podporovaných zdrojích energie (POZE).
+
+**2. Právní otázka.** Jak může výrobce plynu legálně zajistit věcněprávní titul k cizí nemovitosti pro provoz těžebního plynovodu, je-li vlastník nedosažitelný, a jaké důsledky má nesplnění povinnosti vykázat kritéria udržitelnosti biometanu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 57 odst. 1 písm. f)–h) (vstupní právo, oklešťování, zřizování zařízení na cizích nemovitostech), odst. 2 (povinnost zřídit věcné břemeno smluvně, jinak vyvlastnění), odst. 8 písm. q) (kritéria udržitelnosti a úspor emisí pro biometan).
+- *Související ustanovení téhož zákona:* § 57 odst. 3 (dvouletá prekluzivní lhůta pro náhradu), § 68 (ochranná pásma plynárenských zařízení), § 59 odst. 11 (povinný odkup těžebního plynovodu OZE provozovatelem DS).
+- *Související předpisy:* zákon č. 416/2009 Sb. o urychlení výstavby (vyvlastnění pro energetickou infrastrukturu); oceňovací předpis (zákon č. 151/1997 Sb.) pro výši náhrady; zákon o podporovaných zdrojích energie (kritéria udržitelnosti, transpozice směrnice RED II / dekarbonizační směrnice 2024/1788); zákon č. 184/2006 Sb. o vyvlastnění.
+- *Judikatura:* k podmínkám vyvlastnění věcného břemene pro liniové stavby srov. nosné závěry NSS a ÚS, podle nichž je vyvlastnění krajním prostředkem (subsidiarita) přípustným jen po prokazatelném vyčerpání smluvní cesty a při existenci veřejného zájmu; k nedosažitelnosti vlastníka srov. judikaturu k doručování a fikci nedosažitelnosti.
+
+**4. Subsumpce.** Výrobce vykonává právo dle § 57 odst. 1 písm. h) (zřízení a provoz těžebního plynovodu na cizí nemovitosti). Vznikla mu povinnost zřídit věcné břemeno smluvně (odst. 2). Znak „vlastník je prokazatelně nedosažitelný" je naplněn (doklady o marných pokusech). Tím je otevřena cesta k rozhodnutí vyvlastňovacího úřadu o zřízení věcného břemene na návrh výrobce. U kritérií udržitelnosti je znak „plyn z obnovitelných zdrojů (biometan)" naplněn, povinnost vykázat plnění tedy existuje a nebyla splněna.
+
+**5. Řešení.** Výrobce podá vyvlastňovacímu úřadu návrh na zřízení věcného břemene podle § 57 odst. 2; úřad rozhodne i tehdy, je-li stavba již zřízena, pokud zřízení břemene nezmařil sám výrobce. Náhrada se stanoví dle oceňovacího předpisu. Pravděpodobný výsledek: zřízení věcného břemene za jednorázovou náhradu složenou do úschovy ve prospěch nedosažitelného vlastníka. K udržitelnosti: nesplnění povinnosti dle odst. 8 písm. q) je porušením povinnosti držitele licence (riziko sankce ERÚ/SEI dle § 90 a násl.) a může ohrozit nárok na podporu dle POZE; výrobce musí data neprodleně doplnit ve formátu dle internetových stránek ministerstva.
+
+**6. Varianty.** (a) Pokud by vlastník byl dosažitelný a odmítl jen výši náhrady, šlo by primárně o spor o cenu břemene, nikoli o vyvlastnění; břemeno lze zřídit smlouvou a o výši rozhodne soud. (b) Pokud by biometan byl vyroben z odpadů a zbytků mimo zemědělství a lesnictví, musel by splňovat **pouze** kritéria úspor emisí (nikoli plná kritéria udržitelnosti) — rozsah vykazovací povinnosti by byl užší.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: Vyvlastnění věcného břemene je nepřípustným zásahem do vlastnického práva.* Neutralizace: jde o zákonem aprobované omezení (čl. 11 odst. 4 Listiny) ve veřejném zájmu na energetické infrastruktuře, za náhradu a jako krajní prostředek po vyčerpání smluvní cesty.
+- *Protiargument 2: Stavba již stojí, proto nelze břemeno dodatečně vyvlastnit.* Neutralizace: § 57 odst. 2 výslovně připouští zřízení břemene i u již zřízené stavby, pokud jeho zřízení nezmařil výrobce.
+- *Slabé místo:* prekluze práva vlastníka na náhradu za omezení dle odst. 1 písm. f), g) během 2 let (odst. 3) — výrobce by neměl spoléhat na prekluzi, neboť neoznámení vstupu může založit jeho vlastní odpovědnost; chybějícím podkladem bývá doklad o oznámení vstupu vlastníkovi.
+
+#### H. Praktický závěr
+
+§ 57 dává výrobci plynu silná věcněprávní oprávnění (vstup, oklešťování, zřizování zařízení), ale podmiňuje je povinností zřídit věcné břemeno a šetřit práv vlastníků; teprve při nedosažitelnosti/nečinnosti vlastníka nastupuje vyvlastnění. Biometanoví výrobci navíc nově nesou vykazovací povinnosti k udržitelnosti.
+
+**Checklist (advokát / soud / vyvlastňovací úřad / výrobce plynu):**
+- [ ] Doložit pokus o smluvní zřízení věcného břemene a (ne)dosažitelnost/nečinnost vlastníka.
+- [ ] Stanovit náhradu dle oceňovacího předpisu; zvážit složení do úschovy.
+- [ ] Ověřit, zda jde o stavbu již zřízenou (vliv na § 57 odst. 2 větu poslední).
+- [ ] U omezení dle odst. 1 písm. f), g) ohlídat oznámení vstupu a dvouletou prekluzivní lhůtu náhrady.
+- [ ] U biometanu zařadit palivo (biomasa vs. odpady/zbytky) a vykázat příslušná kritéria udržitelnosti / úspor emisí.
+
+**Typicky rozhodné důkazy / podklady:** licence na výrobu plynu; projektová a geodetická dokumentace plynovodu; korespondence s vlastníkem a doklady o nedosažitelnosti; znalecký posudek k ceně břemene; certifikáty a evidence kritérií udržitelnosti dle POZE; doklady o předání dat operátorovi trhu.
 
 ---
 
@@ -331,6 +405,43 @@ PPS je povinen (p)) vytvořit technické podmínky pro dovoz plynu z různých z
 
 Tyto povinnosti jsou elementem funkčního unbundlingu na úrovni informační bariéry: chráněné informace získané od třetích osob nesmí být využity pro skupinový obchod s plynem a zaměstnanci PPS nesmí být přesouváni k obchodním entitám skupiny. Blíže viz komentář k §§ 58a–58m níže.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník s plynem TRADEX, a.s., požádal provozovatele přepravní soustavy (NET4GAS) o poskytnutí služby přepravy plynu na nově nabízené výstupní kapacitě do Rakouska. PPS žádost písemně odmítl s odůvodněním „prokazatelný nedostatek volné kapacity pro službu přepravy plynu" na daném výstupním bodě, avšak ve stejném období uzavřel dlouhodobou smlouvu o přepravě s obchodní entitou z vlastní skupiny. TRADEX má podezření na diskriminační jednání. Důkazy: žádost o přepravu a její písemné odmítnutí, údaje o nominované a přidělené kapacitě na výstupním bodě (PPS je povinen je nabízet odděleně dle § 58 odst. 8 písm. y)), Řád PPS, smlouvy o přepravě uzavřené ve stejném období.
+
+**2. Právní otázka.** Splnil PPS zákonné podmínky pro odmítnutí přístupu třetí strany k přepravní soustavě (§ 58 odst. 8 písm. d)), nebo jde o porušení povinnosti neznevýhodňujícího přístupu (písm. e)) ve prospěch entity vlastní skupiny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 58 odst. 8 písm. c)–e) (povinnost připojit, poskytnout přepravu, zajistit neznevýhodňující podmínky; odmítnutí jen při prokazatelném nedostatku kapacity nebo ohrožení bezpečnosti, písemně a odůvodněně), písm. y)–z) (oddělené nabízení a účtování vstupní a výstupní kapacity).
+- *Související ustanovení téhož zákona:* § 58 odst. 1 písm. j) (nákup/prodej plynu pro bilancování — není obchod), odst. 9 písm. e)–f) (zákaz zneužití chráněných informací a přesunu zaměstnanců), §§ 58a–58m / 58n (unbundling), § 58 odst. 8 písm. t) (Řád PPS).
+- *Související předpisy:* Nařízení o vnitřním trhu s plynem 2024/1789 (regulovaný přístup třetích stran, přidělování kapacit, řízení překročení); dříve nařízení 2017/459/EU (CAM NC) a 2017/460/EU (TAR NC); Pravidla trhu s plynem; pravomoci ERÚ dle energetického zákona.
+- *Judikatura:* k zákazu diskriminace v přístupu k infrastruktuře srov. nosné závěry SD EU k povinnosti regulovaného přístupu třetích stran a nediskriminace dle plynárenských směrnic; k přezkumu odmítnutí přístupu srov. obecné závěry NSS o nutnosti řádného a přezkoumatelného odůvodnění úkonu provozovatele sítě.
+
+**4. Subsumpce.** PPS má povinnost poskytnout přepravu každému oprávněnému žadateli (písm. d)). Odmítnutí je přípustné jen při prokazatelném nedostatku volné kapacity nebo ohrožení bezpečnosti, a to písemně a odůvodněně. Znak „písemná forma a odůvodnění" je formálně naplněn. Sporný je znak „prokazatelný nedostatek volné kapacity": uzavřel-li PPS současně smlouvu se skupinovou entitou na téže/srovnatelné kapacitě, je tvrzený nedostatek zpochybněn a hrozí porušení písm. e) (neznevýhodňující podmínky) a odst. 9 písm. e) (zneužití chráněných informací).
+
+**5. Řešení.** TRADEX se obrátí na ERÚ jako regulátora s pravomocí dozoru nad přístupem k přepravní soustavě; ERÚ prověří dostupnost volné kapacity na výstupním bodě a tržnost přidělení skupinové entitě. Prokáže-li se diskriminace, ERÚ uloží nápravné opatření a sankci; PPS bude povinen kapacitu nabídnout nediskriminačně (typicky aukčním mechanismem dle CAM). Pravděpodobný výsledek závisí na tom, zda kapacita byla nabízena odděleně a transparentně dle písm. y) — pokud ano a aukci vyhrála skupinová entita za rovných podmínek, odmítnutí TRADEX obstojí; pokud kapacita byla přidělena mimo transparentní mechanismus, jde o porušení.
+
+**6. Varianty.** (a) Pokud by šlo o **bezpečnostní** důvod odmítnutí (ohrožení spolehlivého provozu), posuzovala by se technická opodstatněnost, nikoli dostupnost kapacity. (b) Pokud by PPS byl vlastnicky oddělen (§ 58n) a skupinová entita neexistovala, podezření z diskriminace by odpadlo a spor by se omezil na výklad „volné kapacity".
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: Odmítnutí bylo řádně písemně odůvodněno, formální podmínky jsou splněny.* Neutralizace: formální odůvodnění nestačí — musí být věcně pravdivé; současné uzavření smlouvy se skupinovou entitou na srovnatelné kapacitě věcnou pravdivost zpochybňuje.
+- *Protiargument 2: Přidělení skupinové entitě proběhlo dříve, kapacita již nebyla volná.* Neutralizace: rozhodné je, zda byla kapacita nabízena transparentně a odděleně (písm. y)) a zda nedošlo ke zvýhodnění skupiny při využití chráněných informací (odst. 9 písm. e)).
+- *Slabé místo:* prokázání diskriminace vyžaduje přístup k interním datům PPS o kapacitě a o procesu jejího přidělení; bez součinnosti regulátora je důkazní pozice žadatele slabá.
+
+#### H. Praktický závěr
+
+§ 58 zakládá regulovaný přístup třetích stran k přepravní soustavě: PPS musí připojit a přepravovat pro každého oprávněného, odmítnout smí jen z taxativních důvodů, písemně a odůvodněně, a to nediskriminačně. Spory řeší ERÚ; klíčem je transparentní oddělené nabízení vstupní a výstupní kapacity.
+
+**Checklist (advokát / soud / ERÚ / žadatel o přepravu):**
+- [ ] Ověřit, zda odmítnutí přístupu má písemnou formu a věcné odůvodnění (nedostatek kapacity / ohrožení bezpečnosti).
+- [ ] Zkontrolovat, zda PPS nabízí vstupní a výstupní kapacitu odděleně a transparentně (písm. y)–z)).
+- [ ] Posoudit, zda současně nebyla srovnatelná kapacita přidělena skupinové entitě (diskriminace, písm. e)).
+- [ ] Prověřit dodržení zákazu zneužití chráněných informací a přesunu zaměstnanců (odst. 9 písm. e)–f)).
+- [ ] Uplatnit podnět/stížnost u ERÚ a vyžádat data o dostupné a přidělené kapacitě.
+
+**Typicky rozhodné důkazy / podklady:** žádost o přepravu a písemné odmítnutí; data o nabízené, nominované a přidělené kapacitě na bodě; Řád PPS; smlouvy o přepravě uzavřené ve sledovaném období; protokoly aukcí kapacity (CAM); korespondence a interní pokyny PPS.
+
 ---
 
 ### §§ 58a–58m — Nezávislý provozovatel přepravní soustavy (unbundling)
@@ -444,6 +555,43 @@ ERÚ sleduje plnění DPRPS (§ 58l odst. 1) a může nařídit uskutečnění o
 
 Žadatel, který uplatnil požadavek na investici v průběhu konzultace k DPRPS a investice je v plánu zahrnuta, má **právo na připojení** a ISO nemůže odmítnutí připojení odůvodnit jinak (§ 58m odst. 1). Povinnost připojení zaniká, nastane-li překážka, pro niž ERÚ nemůže nařídit uskutečnění investice (odst. 2). Totéž platí pro zvyšování přepravní kapacity v důsledku zvýšení výkonu připojeného zařízení (odst. 3).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vertikálně integrovaný plynárenský podnikatel zvolil pro svého provozovatele přepravní soustavy model nezávislého provozovatele (ISO, §§ 58a–58m). Valná hromada ISO (forma a.s.) zvolila nového člena statutárního orgánu pana K., který do předchozího roku působil jako obchodní ředitel obchodní entity téže skupiny. ISO smlouvu o výkonu funkce a volbu předložil ERÚ ke schválení. Současně ovládající mateřská společnost prosadila v dozorčí radě ISO odložení investice zahrnuté v desetiletém plánu rozvoje (DPRPS) o tři roky. Auditor programu rovného zacházení to zaznamenal. Důkazy: zápis z volby a smlouva o výkonu funkce, životopis pana K. dokládající předchozí pozici, žádost o schválení podaná ERÚ, zápis z dozorčí rady o odložení investice, DPRPS.
+
+**2. Právní otázka.** Může ERÚ schválit jmenování člena statutárního orgánu ISO, který byl v posledních 3 letech ve vedoucí obchodní pozici skupiny, a jaké jsou důsledky prosazení odložení investice z DPRPS ovládající osobou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 58c (schválení jmenování/odvolání člena statutárního orgánu ERÚ, funkční období, odvolání jen pro hrubé porušení), § 58d (tříletá předchozí a čtyřletá následná karenční lhůta), § 58f (lhůta 3 týdny, fikce schválení, neschválení při pochybnostech o nezávislosti), § 58j odst. 7 (oznamovací povinnost auditora při prosazení odložení investice z DPRPS).
+- *Související ustanovení téhož zákona:* § 58b (korporátní požadavky ISO), § 58e (rozšířená působnost dozorčí rady, zákaz zásahů do obchodního vedení), § 58g–§ 58h (zákaz držby podílů, zdroje a autonomie ISO), § 58i (program rovného zacházení), § 58k–§ 58l (DPRPS a vynucení investic).
+- *Související předpisy:* směrnice 2009/73/ES (model ITO — independent transmission operator) a Nařízení o vnitřním trhu s plynem 2024/1789; zákon o obchodních korporacích (subsidiárně ke korporátní úpravě ISO); správní řád (řízení o schválení u ERÚ).
+- *Judikatura:* k účelu unbundlingu a nezávislosti provozovatele přepravní soustavy srov. nosné závěry SD EU k plynárenským/elektroenergetickým směrnicím o oddělení sítí od výroby a obchodu a k pravomocem národního regulátora; k fikci rozhodnutí při nečinnosti orgánu srov. obecné závěry správních soudů.
+
+**4. Subsumpce.** Pan K. byl v posledních 3 letech ve vedoucí obchodní funkci entity skupiny → naplněn znak předchozí karenční překážky dle § 58d odst. 1. Jde o člena statutárního orgánu, na nějž dopadá zákaz jmenování v rámci nadpoloviční většiny (odst. 2). ERÚ proto v řízení dle § 58c odst. 3 ve spojení s § 58f odst. 3 musí mít pochybnost o nezávislosti a schválení neudělit. Odložení investice z DPRPS prosazené ovládající osobou naplňuje skutkovou podstatu § 58j odst. 7 → vzniká oznamovací povinnost vůči ERÚ.
+
+**5. Řešení.** ERÚ jmenování pana K. neschválí pro rozpor s karenční lhůtou (§ 58d odst. 1, § 58f odst. 3); pozor na lhůtu 3 týdnů a fikci schválení dle § 58f odst. 2 — ERÚ musí vydat zamítavé rozhodnutí včas, jinak by nastala fikce schválení. ISO musí zvolit jinou osobu splňující karenční podmínky. K investici: auditor programu oznámí odložení ERÚ (§ 58j odst. 7); ERÚ může v rámci dohledu nad plněním DPRPS (§ 58l) nařídit uskutečnění opožděné investice, případně výběrové řízení na úvěr či navýšení kapitálu, přičemž náklady budou ex lege oprávněnými náklady licencované činnosti (§ 58l odst. 5).
+
+**6. Varianty.** (a) Pokud by pan K. byl ve skupinové funkci naposledy před více než 3 lety, předchozí karenční překážka by odpadla a ERÚ by mohl jmenování schválit. (b) Pokud by integrovaný podnikatel zvolil **vlastnické oddělení** (§ 58n) namísto ISO, neuplatnila by se schvalovací pravomoc ERÚ k jmenování ani karenční lhůty §§ 58c–58d, neboť struktura ITO/ISO by se nepoužila.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: Pan K. je odborně způsobilý a jeho předchozí pozice nezakládá reálný střet zájmů.* Neutralizace: zákon konstruuje karenci objektivně (formální překážka), nezávisle na subjektivní bezúhonnosti; účelem je předejít i zdání závislosti.
+- *Protiargument 2: Mateřská společnost má právo schvalovat finanční plán, proto může ovlivnit i investice.* Neutralizace: § 58e odst. 2 a § 58g odst. 5 zakazují zásahy do obchodního vedení, provozu a přípravy DPRPS; schválení finančního plánu nesmí být zneužito k blokaci investic chráněných § 58j odst. 7 a § 58l.
+- *Slabé místo:* riziko marného uplynutí lhůty 3 týdnů u ERÚ a vzniku fikce schválení (§ 58f odst. 2) — procesní pochybení regulátora by mohlo legalizovat jmenování osoby nesplňující karenci; nutná pečlivá lhůtová kázeň.
+
+#### H. Praktický závěr
+
+Model ISO (§§ 58a–58m) zajišťuje nezávislost provozovatele přepravní soustavy uvnitř skupiny kombinací korporátních požadavků, schvalovací pravomoci ERÚ k personálnímu obsazení, karenčních lhůt a ochrany DPRPS před skupinovými zájmy. Klíčové je hlídat formální karenční překážky i procesní lhůty regulátora.
+
+**Checklist (advokát / ERÚ / dozorčí rada ISO / auditor programu):**
+- [ ] Ověřit splnění korporátních požadavků (forma, počet a kolektivní jednání orgánů — § 58b).
+- [ ] Prověřit u kandidáta předchozí 3letou karenci a po odchodu 4letou karenci (§ 58d).
+- [ ] Předložit ERÚ ke schválení jmenování/odvolání i smlouvy o výkonu funkce; hlídat lhůtu 3 týdnů a fikci schválení (§ 58f).
+- [ ] Sledovat zákaz zásahů ovládající osoby do obchodního vedení a do DPRPS (§ 58e, § 58g).
+- [ ] Při odložení investice z DPRPS aktivovat oznámení auditora (§ 58j odst. 7) a zvážit vynucení dle § 58l.
+
+**Typicky rozhodné důkazy / podklady:** stanovy a vnitřní řídicí/kontrolní předpisy ISO; životopisy a doklady o předchozích funkcích členů orgánů; žádosti a rozhodnutí ERÚ o schválení; smlouvy o výkonu funkce; DPRPS a zápisy z dozorčí rady; výroční zpráva a záznamy auditora programu rovného zacházení.
+
 ---
 
 ### § 58n — Vlastnické oddělení provozovatele přepravní soustavy
@@ -473,6 +621,43 @@ Model vlastnického oddělení (ownership unbundling, OU) je nejpřísnějším 
 **Veřejnoprávní výjimka (odst. 3):** Jsou-li různé státní orgány nebo orgány územní samosprávy vzájemně nezávislé, nepovažuje je zákon za tutéž osobu — stát tak může vlastnit jak PPS, tak výrobce plynu, pokud jsou tyto aktivity spravovány odlišnými, vzájemně nezávislými veřejnoprávními subjekty. Tím zákon reflektuje realitu vlastnické struktury energetiky v řadě členských států EU.
 
 **Transnacionální spolupráce PPS (odst. 4):** PPS vlastnicky oddělený může spolu s jinými vlastnicky oddělenými PPS zakládat společné entity pro provozování přepravních soustav a do nich vkládat soustavu — podmínkou je, aby všichni účastníci takové entity byli rovněž vlastnicky oddělenými, nezávislými nebo ISO provozovateli.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Stát prostřednictvím dvou odlišných veřejnoprávních subjektů kontroluje jednak provozovatele přepravní soustavy (vlastnicky oddělený dle § 58n), jednak majetkovou účast ve výrobci plynu. Soukromý obchodník s plynem namítá, že tím je porušena podmínka vlastnického oddělení, neboť „tatáž osoba" (stát) ovládá současně přepravu i výrobu. Současně PPS uvažuje o vstupu do mezinárodní entity provozující přepravní soustavy ve více státech a o vložení své soustavy do této entity. Důkazy: vlastnická struktura PPS a výrobce, doklady o tom, které státní orgány vykonávají kontrolu nad kterým subjektem a o jejich vzájemné nezávislosti, návrh smlouvy o účasti v mezinárodní entitě.
+
+**2. Právní otázka.** Je vlastnictví PPS a výrobce plynu týmž státem prostřednictvím dvou vzájemně nezávislých veřejnoprávních subjektů v souladu s podmínkami vlastnického oddělení (§ 58n), a za jakých podmínek může PPS vložit soustavu do mezinárodní provozní entity?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 58n odst. 1–2 (nezávislost společnické struktury, šest kumulativních podmínek), odst. 3 (veřejnoprávní výjimka — dva nezávislé státní/samosprávné subjekty nejsou táž osoba), odst. 4 (transnacionální spolupráce vlastnicky oddělených PPS), odst. 5 (zákaz kontroly PPS výrobcem/obchodníkem), odst. 6 (definice „jiného práva").
+- *Související ustanovení téhož zákona:* § 58a (volba mezi ISO a OU), §§ 58b–58m (alternativní model ISO), § 58o (obdobné použití na vodíkovou přepravní soustavu).
+- *Související předpisy:* směrnice 2009/73/ES (model ownership unbundling) a Nařízení o vnitřním trhu s plynem 2024/1789; pravidla certifikace provozovatele přepravní soustavy ze strany ERÚ ve spolupráci s Komisí (tzv. certifikace OU); pravidla o jednání ve shodě (zákon o obchodních korporacích).
+- *Judikatura:* k mezím vlastnického oddělení a k postavení státu jako vlastníka více energetických aktiv srov. nosné závěry SD EU vykládající směrnici o vnitřním trhu se zemním plynem (možnost veřejného vlastnictví více článků řetězce při zajištění reálné nezávislosti); k pojmu „kontrola" a „jednání ve shodě" srov. soutěžní a korporátní judikaturu.
+
+**4. Subsumpce.** Znak „kontrola PPS i výrobce týmž subjektem" by byl prima facie naplněn, kdyby kontrolu vykonával jediný orgán. Aplikuje se však odst. 3: jsou-li kontrolu nad PPS a nad výrobcem vykonávají **odlišné a vzájemně nezávislé** veřejnoprávní subjekty, nepovažují se za tutéž osobu → podmínka nezávislosti zůstává splněna. Pro vstup do mezinárodní entity (odst. 4) je rozhodný znak „všichni účastníci entity jsou vlastnicky oddělení / nezávislí / ISO provozovatelé" — pokud by mezi nimi byl subjekt neoddělený, podmínka by splněna nebyla.
+
+**5. Řešení.** Námitka obchodníka neobstojí, prokáže-li se, že kontrolu nad PPS a nad výrobcem vykonávají dva vzájemně nezávislé veřejnoprávní subjekty (odst. 3) — pak vlastnické oddělení trvá a certifikaci ERÚ nebrání. Pro vklad soustavy do mezinárodní entity (odst. 4) PPS musí doložit, že všichni účastníci entity jsou rovněž vlastnicky oddělenými, nezávislými nebo ISO provozovateli; jinak by se podmínky nezávislosti považovaly za nesplněné. Procesně se nezávislost ověřuje v certifikačním řízení u ERÚ (se stanoviskem Komise).
+
+**6. Varianty.** (a) Pokud by kontrolu nad PPS i výrobcem vykonával **týž** státní orgán (nikoli dva nezávislé), výjimka dle odst. 3 by se neuplatnila a šlo by o porušení vlastnického oddělení. (b) Pokud by se mezinárodní entity účastnil provozovatel, který nebyl určen jako vlastnicky oddělený/nezávislý/ISO, výjimka dle odst. 4 by nedopadla a PPS by nemohl soustavu vložit bez ztráty statusu OU.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: Stát je jediný vlastník, takže ovládá obě aktivity a oddělení je fiktivní.* Neutralizace: odst. 3 výslovně umožňuje, aby stát vlastnil PPS i výrobce, jsou-li spravováni odlišnými, vzájemně nezávislými veřejnoprávními subjekty — rozhodná je reálná nezávislost výkonu kontroly.
+- *Protiargument 2: Vklad soustavy do mezinárodní entity obchází vlastnické oddělení.* Neutralizace: odst. 4 to připouští výslovně, ovšem jen za podmínky, že všichni účastníci entity jsou sami oddělení/nezávislí/ISO — tím je riziko obcházení vyloučeno.
+- *Slabé místo:* posouzení „vzájemné nezávislosti" veřejnoprávních subjektů je skutkově náročné a může být zpochybněno (personální propojení, společné řízení); chybějícím podkladem bývá doložení faktické (nikoli jen formální) nezávislosti orgánů.
+
+#### H. Praktický závěr
+
+Vlastnické oddělení (§ 58n) je nejpřísnějším modelem unbundlingu: PPS nesmí být ovládán ani propojen s výrobou či obchodem s plynem nebo elektřinou. Stát smí vlastnit více článků řetězce jen přes vzájemně nezávislé veřejnoprávní subjekty (odst. 3); mezinárodní spolupráce je možná jen mezi oddělenými provozovateli (odst. 4). Nezávislost se prokazuje v certifikaci u ERÚ.
+
+**Checklist (advokát / ERÚ / PPS / dotčený účastník trhu):**
+- [ ] Projít šest kumulativních podmínek nezávislosti (§ 58n odst. 2 písm. a)–f)).
+- [ ] U veřejného vlastnictví doložit, že kontrolu nad PPS a nad výrobou/obchodem vykonávají odlišné, vzájemně nezávislé subjekty (odst. 3).
+- [ ] Ověřit absenci personálního propojení orgánů PPS a výrobce/obchodníka (odst. 2 písm. e), f)).
+- [ ] U vstupu do mezinárodní entity ověřit status všech účastníků (oddělení/nezávislí/ISO — odst. 4).
+- [ ] Zajistit/aktualizovat certifikaci PPS u ERÚ se stanoviskem Komise.
+
+**Typicky rozhodné důkazy / podklady:** vlastnická a organizační struktura PPS a propojených subjektů; doklady o výkonu kontroly a hlasovacích právech; přehled personálního obsazení orgánů; smlouva o účasti v mezinárodní entitě; rozhodnutí ERÚ o certifikaci a stanovisko Komise.
 
 ---
 
@@ -518,6 +703,43 @@ Model vlastnického oddělení (ownership unbundling, OU) je nejpřísnějším 
 **Výjimka z horizontálního oddělení** je možná, pokud přínosy (typicky: sdílená infrastruktura, synergie přestavby plynovodů na vodík, úspora investic) převyšují rizika soutěžního narušení a přenosu nákladů. ERÚ přezkoumává výjimku nejméně každých 7 let a může ji zrušit, pominou-li důvody (§ 58p odst. 6–7). Podmínkou je i analýza nákladů a přínosů jako součást žádosti (odst. 3).
 
 **DPRPS pro vodík (§ 58q):** Provozovatel vodíkové přepravní soustavy zpracovává vlastní desetiletý plán rozvoje (přiměřeně dle § 58k). Je-li udělena výjimka z horizontálního oddělení, zpracovává PPS plynu plán pro vodíkovou soustavu jako součást svého DPRPS, avšak s oddělenými opatřeními pro obě soustavy — zákon tak zachovává transparentnost a zamezuje přenosu investičních priorit z jednoho odvětví do druhého.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel přepravní soustavy (NET4GAS) hodlá část svých vysokotlakých plynovodů postupně přestavět na přepravu vodíku a provozovat současně přepravní soustavu plynu i vodíkovou přepravní soustavu. Aby nemusel zakládat samostatnou entitu, požádal ERÚ o **výjimku z horizontálního oddělení** provozovatele vodíkové přepravní soustavy (§ 58p). K žádosti připojil analýzu nákladů a přínosů a harmonogram úprav zařízení na příštích 7 let. Konkurenční výrobce vodíku namítá, že sdílení infrastruktury povede k přenosu nákladů přepravy plynu do cen přepravy vodíku a ke znevýhodnění nezávislých účastníků. Důkazy: žádost o výjimku, analýza nákladů a přínosů, harmonogram a rozsah úprav, oddělené kalkulace cen za přepravu plynu a vodíku.
+
+**2. Právní otázka.** Jsou splněny podmínky pro udělení výjimky z horizontálního oddělení provozovatele vodíkové přepravní soustavy podle § 58p odst. 4, a jak je zajištěno, že nedojde ke křížovému přenosu nákladů mezi přepravou plynu a vodíku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 58o (vertikální oddělení vodíkové přepravní soustavy — obdobné použití § 58n nebo §§ 58b–58m), § 58p (horizontální oddělení od přepravy plynu a elektroenergetiky; výjimka ERÚ, náležitosti žádosti, kritéria, periodický přezkum á 7 let, zrušení výjimky), § 58q (desetiletý plán rozvoje vodíkové přepravní soustavy; při udělené výjimce jako součást DPRPS s oddělenými opatřeními).
+- *Související ustanovení téhož zákona:* § 58n (vlastnické oddělení — obdobně dle § 58o odst. 1), §§ 58b–58m (ISO — obdobně dle § 58o odst. 2), § 58k (DPRPS — přiměřeně/obdobně), § 58 (povinnosti PPS).
+- *Související předpisy:* dekarbonizační směrnice 2024/1788 a nařízení 2024/1789 (regulační rámec pro vodíkové sítě, oddělení, přístup třetích stran k vodíku); správní řád (řízení o výjimce); pravomoc Komise dát podnět k přezkumu výjimky.
+- *Judikatura:* k mezím výjimek z oddělení síťových odvětví a k zákazu křížových dotací srov. nosné závěry SD EU k energetickým směrnicím (nákladová transparentnost, zákaz přenášení nákladů mezi regulovanými činnostmi); k přezkoumatelnosti rozhodnutí regulátora o výjimce srov. obecné závěry správních soudů o odůvodnění a proporcionalitě.
+
+**4. Subsumpce.** Žadatelem je PPS, který hodlá provozovat i vodíkovou přepravní soustavu (aktivní legitimace dle § 58p odst. 2). Náležitosti žádosti — analýza nákladů a přínosů a 7letý harmonogram úprav — jsou doloženy (odst. 3). ERÚ posoudí znaky odst. 4: (i) přínosy převyšují nepříznivé dopady na trh s plynem/vodíkem, (ii) nedojde k ohrožení nediskriminačního přístupu k vodíkové soustavě, (iii) nebude ohrožen přeshraniční obchod s vodíkem, (iv) nedojde k přenášení nákladů přepravy plynu do cen přepravy vodíku a naopak. Námitka konkurenta míří právě na znaky (ii) a (iv).
+
+**5. Řešení.** ERÚ udělí výjimku jen tehdy, převáží-li prokázané přínosy (synergie přestavby, úspora investic) nad riziky a budou-li vyloučeny křížové dotace a diskriminace; jinak žádost zamítne. ERÚ může výjimku časově omezit, jsou-li důvody dočasné (odst. 4 in fine), a je povinen ji nejméně každých 7 let přezkoumat a při pominutí důvodů zrušit (odst. 6–7). Rozhodnutí i analýzu zveřejní (s anonymizací chráněných informací, odst. 5). Při udělené výjimce PPS zpracuje plán rozvoje vodíkové soustavy jako součást DPRPS, avšak s **oddělenými opatřeními** pro plyn a vodík (§ 58q odst. 2) — to je nástroj transparentnosti proti přenosu nákladů.
+
+**6. Varianty.** (a) Pokud by analýza prokázala převahu rizik (reálné nebezpečí křížových dotací), ERÚ výjimku neudělí a PPS by musel pro vodík založit samostatnou, horizontálně oddělenou entitu. (b) Pokud by provozovatel vodíkové soustavy nebyl součástí integrovaného podnikatele, posuzovalo by se primárně vertikální oddělení dle § 58o odst. 1 (obdobně § 58n), nikoli horizontální výjimka.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: Sdílení infrastruktury šetří náklady, proto je výjimka vždy v zájmu trhu.* Neutralizace: úspora nákladů je jen jedním z kritérií; zákon vyžaduje kumulativně i vyloučení diskriminace a křížových dotací — úspora sama o sobě výjimku neodůvodní.
+- *Protiargument 2: Oddělené plány a kalkulace zajistí transparentnost dostatečně.* Neutralizace: oddělené opatření v DPRPS (§ 58q odst. 2) jsou nutnou, nikoli postačující podmínkou; ERÚ musí navíc periodicky ověřovat reálné neprolínání nákladů (odst. 6).
+- *Slabé místo:* posouzení budoucích nákladů a přínosů je prognostické a nejisté; harmonogram úprav na 7 let se může nesplnit — ERÚ proto plnění harmonogramu vyhodnocuje a může výjimku zrušit.
+
+#### H. Praktický závěr
+
+§§ 58o–58q zavádějí pro vodíkové přepravní soustavy dvojí oddělení: vertikální (od výroby/obchodu, § 58o) a horizontální (od přepravy plynu a elektroenergetiky, § 58p), z něhož ERÚ může udělit přezkoumatelnou a časově revidovanou výjimku. Klíčem je vyloučení diskriminace a křížových dotací a oddělené plánování vodíkové a plynové soustavy.
+
+**Checklist (advokát / ERÚ / PPS / žadatel o výjimku):**
+- [ ] Určit, zda je provozovatel vodíkové soustavy součástí integrovaného podnikatele (§ 58o — volba OU/ISO obdobně).
+- [ ] K žádosti o výjimku doložit analýzu nákladů a přínosů a 7letý harmonogram úprav (§ 58p odst. 3).
+- [ ] Prokázat splnění kritérií odst. 4 (přínosy > rizika, nediskriminační přístup, přeshraniční obchod, zákaz křížových dotací).
+- [ ] Zajistit oddělené opatření pro plyn a vodík v DPRPS (§ 58q odst. 2).
+- [ ] Počítat s periodickým přezkumem výjimky á 7 let a možností jejího zrušení (§ 58p odst. 6–7).
+
+**Typicky rozhodné důkazy / podklady:** žádost o výjimku a rozhodnutí ERÚ; analýza nákladů a přínosů; harmonogram a rozsah úprav zařízení; oddělené kalkulace cen přepravy plynu a vodíku; desetiletý plán rozvoje (vodíkové i plynové soustavy); podněty Komise k přezkumu.
 
 ---
 
@@ -679,6 +901,43 @@ Katalog povinností v odst. 8 obsahuje 26 položek (a)–z)). Zvláštní jsou:
 - **Písm. y):** povinnost zajišťovat propagaci energetických služeb za konkurenceschopné ceny — netradiční tržní povinnost pro regulovaného provozovatele sítě.
 - **Písm. z):** povinnost přerušit na základě žádosti obchodníka nebo výrobce dodávku při neoprávněném odběru.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pracovník dispečinku provozovatele distribuční soustavy (GasNet) zaregistroval na okraji obce zápach plynu a indikaci úniku z nízkotlakého plynovodu v blízkosti obytné zástavby. Hrozí bezprostřední ohrožení života a zdraví. Provozovatel DS uzavřel **hlavní uzávěr plynu** v dotčené části, čímž přerušil dodávku 40 odběratelům, a zahájil odstraňování poruchy. Jeden z odběratelů (pekárna) požaduje náhradu škody za znehodnocené pečivo z přerušení dodávky. Současně se ukáže, že příčinou úniku byla nekvalitní dodávka biometanu z připojené výrobny OZE odlišného složení. Důkazy: dispečerský záznam o úniku a zásahu, protokol o uzavření HUP, evidence dotčených odběrných míst, rozbor složení plynu z výrobny, oznámení o přerušení.
+
+**2. Právní otázka.** Je provozovatel DS oprávněn uzavřít hlavní uzávěr plynu bez předchozího oznámení a je v takovém případě vyloučena náhrada škody odběratelům za přerušení distribuce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 59 odst. 1 písm. l) (uzavření HUP při odvracení bezprostředního ohrožení života), písm. j) bod 1 (omezení/přerušení při bezprostředním ohrožení), bod 9 (omezení při dodávce z výroben ohrožující bezpečný provoz), odst. 5 (15denní oznamovací lhůta pro plánované práce; topná sezóna), odst. 7 (vyloučení náhrady škody, výjimky).
+- *Související ustanovení téhož zákona:* § 59 odst. 6 (obnovení distribuce), § 59 odst. 1 písm. k) (nákup plynu pro krytí ztrát — není obchod), § 57 odst. 8 písm. q) (kritéria kvality/udržitelnosti plynu výrobce), § 61 (ochrana zákazníka).
+- *Související předpisy:* prováděcí vyhlášky k energetickému zákonu (technické požadavky, kvalita plynu, pravidla provozu DS); občanský zákoník (§ 2913 a násl. — náhrada škody, případně liberace); Řád provozovatele distribuční soustavy.
+- *Judikatura:* k vyloučení odpovědnosti provozovatele sítě při zákonem aprobovaném přerušení dodávky z bezpečnostních důvodů srov. nosné závěry civilní judikatury o tom, že výkon zákonného oprávnění není protiprávním jednáním; k odpovědnosti za vadnou dodávku do sítě srov. obecné závěry o odpovědnosti původce vady.
+
+**4. Subsumpce.** Znak „bezprostřední ohrožení života/zdraví" je naplněn (únik plynu u obytné zástavby) → uzavření HUP dle písm. l) je po právu a nevyžaduje oznámení ani souhlas. Přerušení distribuce spadá pod písm. j) bod 1. Tím se aktivuje odst. 7 — právo na náhradu škody je vyloučeno, ledaže by šlo o výjimku (neoznámení u plánovaných prací podle odst. 5, což zde nenastalo, nebo prokazatelné zavinění poruchy provozovatelem DS). Příčinou úniku byla vadná dodávka z výrobny OZE → zavinění provozovatele DS se nejeví; naopak nastupuje skutková podstata písm. j) bod 9 vůči výrobně.
+
+**5. Řešení.** Nárok pekárny na náhradu škody vůči provozovateli DS je vyloučen dle § 59 odst. 7, neboť šlo o přerušení z bezprostředního ohrožení (písm. j) bod 1, písm. l)) a nebyla naplněna žádná výjimka (nešlo o plánované práce dle odst. 5 ani o poruchu zaviněnou provozovatelem DS). Provozovatel DS je povinen obnovit distribuci bezprostředně po odstranění příčin (odst. 6). Vůči výrobně OZE může provozovatel DS uplatnit omezení dodávky dle písm. j) bodu 9 (ohrožení bezpečného provozu) a případně regresní nárok na náhradu škody způsobené vadnou dodávkou; pekárna může směřovat nárok proti původci vady (výrobně), nikoli proti provozovateli DS.
+
+**6. Varianty.** (a) Pokud by přerušení bylo důsledkem **plánované** opravy, u níž provozovatel DS nedodržel 15denní oznamovací povinnost (odst. 5), vyloučení náhrady by neplatilo a odběratelé by mohli škodu nárokovat. (b) Pokud by poruchu prokazatelně zavinil sám provozovatel DS (např. zanedbáním údržby), odst. 7 věta druhá by vyloučení náhrady prolomila.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: Uzavření HUP bez oznámení porušuje práva odběratele.* Neutralizace: písm. l) výslovně opravňuje k okamžitému uzavření při odvracení bezprostředního ohrožení života; oznámení by mařilo záchrannou funkci a zákon je nevyžaduje.
+- *Protiargument 2: Odběratel utrpěl škodu, proto má nárok na náhradu.* Neutralizace: § 59 odst. 7 náhradu vylučuje u zákonem aprobovaného přerušení; nárok lze uplatnit jen při neoznámení plánovaných prací nebo zaviněné poruše — ani jedno zde nenastalo.
+- *Slabé místo:* hranice mezi „poruchou" a „plánovanou prací" a otázka zavinění mohou být sporné; chybějícím podkladem bývá dispečerská a údržbová dokumentace prokazující neexistenci zavinění a charakter zásahu.
+
+#### H. Praktický závěr
+
+§ 59 dává provozovateli DS rozsáhlá provozní oprávnění, mezi nimi unikátní právo uzavřít hlavní uzávěr plynu při bezprostředním ohrožení života (písm. l)). U bezpečnostních přerušení je náhrada škody vyloučena (odst. 7) s výjimkou neoznámení plánovaných prací a zaviněné poruchy. Vadnou dodávku z výroben OZE řeší písm. j) bod 9.
+
+**Checklist (advokát / soud / ERÚ / provozovatel DS / odběratel):**
+- [ ] Zařadit přerušení pod správný důvod (písm. j) body 1–9, příp. uzavření HUP dle písm. l)).
+- [ ] U plánovaných prací ověřit dodržení 15denní oznamovací lhůty a omezení v topné sezóně (odst. 5).
+- [ ] Posoudit zavinění poruchy provozovatelem DS (výjimka z vyloučení náhrady, odst. 7).
+- [ ] Při vadné dodávce z výrobny zvážit omezení dle písm. j) bodu 9 a regres vůči původci vady.
+- [ ] Ověřit splnění povinnosti obnovit distribuci bezprostředně po odstranění příčin (odst. 6).
+
+**Typicky rozhodné důkazy / podklady:** dispečerské a poruchové záznamy; protokol o uzavření HUP; evidence dotčených odběrných míst; rozbory složení dodávaného plynu; doklady o oznámení přerušení; údržbová dokumentace; Řád provozovatele distribuční soustavy.
+
 ---
 
 ### § 59a — Oddělení provozovatelů distribuční soustavy
@@ -737,6 +996,43 @@ Oddělení není vyžadováno u vertikálně integrovaného podnikatele, který 
 #### Zákaz podílů v obchodních entitách skupiny (odst. 6–8)
 
 Provozovatel DS nesmí od 1. 1. 2007 držet podíly v jiné právnické osobě s licencí na výrobu nebo obchod s plynem nebo elektřinou (odst. 6). Vedoucí zaměstnanci nesmí držet podíly přesahující 1 % základního kapitálu v takové osobě (odst. 7). Zákaz ovládacích smluv (odst. 8) uzavírá celý systém funkčního unbundlingu DS.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel distribuční soustavy je součástí vertikálně integrovaného plynárenského podnikatele, jehož součástí je i obchodník s plynem se shodným prvkem v obchodní firmě a totožným logem. Jednatelem provozovatele DS byla jmenována osoba, která je současně vedoucím zaměstnancem obchodníka s plynem téže skupiny. Konkurenční dodavatel namítá porušení funkčního unbundlingu a riziko záměny zákazníků mezi regulovaným distributorem a obchodníkem skupiny. Integrovaný podnikatel zásobuje 250 000 připojených zákazníků. Důkazy: výpis z obchodního rejstříku (personální propojení orgánů), srovnání obchodních firem a vizuální identity, program rovného zacházení a výroční zpráva auditora programu, evidence počtu připojených zákazníků.
+
+**2. Právní otázka.** Je přípustné personální propojení vedení provozovatele DS s vedením obchodníka s plynem v rámci téhož vertikálně integrovaného podnikatele, a je distributor povinen odlišit se tak, aby nedošlo k záměně s obchodníkem skupiny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 59a odst. 1 (funkční nezávislost bez oddělení vlastnictví), odst. 2 písm. a) (zákaz personálního propojení vedení DS s vedením výroby/obchodu skupiny), písm. b)–c) (zákaz odměn od skupiny, skutečná rozhodovací práva), odst. 3–5 (program rovného zacházení a auditor programu), odst. 6–8 (zákaz držby podílů a ovládacích smluv), odst. 10 (výjimka pro méně než 90 000 zákazníků), odst. 12 (zákaz uvedení v omyl/záměny s obchodníkem či výrobcem skupiny).
+- *Související ustanovení téhož zákona:* § 59 (povinnosti provozovatele DS), §§ 58a–58m a § 58n (přísnější modely unbundlingu PPS — srovnání), § 58i–§ 58j (program rovného zacházení u ISO — obdoba).
+- *Související předpisy:* směrnice 2009/73/ES, čl. 26 (funkční oddělení DS a de minimis výjimka pro malé soustavy); zákon o obchodních korporacích (postavení statutárního orgánu, prokuristy); pravomoc ERÚ k dozoru a sankcím dle energetického zákona.
+- *Judikatura:* k účelu a rozsahu funkčního unbundlingu distribuce srov. nosné závěry SD EU k plynárenské směrnici (požadavek reálné nezávislosti rozhodování DS, nikoli nutně vlastnického oddělení); k zákazu zaměnitelnosti označení regulované a obchodní entity srov. obecné závěry o ochraně před klamáním spotřebitele.
+
+**4. Subsumpce.** Znak „personální propojení vedení DS a vedení obchodu skupiny" je naplněn (jednatel DS je současně vedoucím zaměstnancem obchodníka skupiny) → rozpor s § 59a odst. 2 písm. a) větou druhou, která takovou souběžnou funkci výslovně zakazuje. Výjimka dle odst. 10 (méně než 90 000 zákazníků) se neuplatní (250 000 zákazníků). Znak „možnost záměny s obchodníkem skupiny" je naplněn shodným prvkem firmy a vizuální identity → rozpor s odst. 12 (zákaz uvést jiného účastníka v omyl ohledně záměny).
+
+**5. Řešení.** Personální propojení je nepřípustné: integrovaný podnikatel musí jednatele DS, který je současně vedoucím zaměstnancem obchodníka skupiny, z jedné z funkcí odvolat tak, aby souběh skončil (§ 59a odst. 2 písm. a)). K riziku záměny musí distributor přijmout opatření k odlišení (úprava označení, komunikace, oddělení vizuální identity) podle odst. 12. ERÚ vykonává dozor a může uložit nápravné opatření a sankci. Účinnost funkčního unbundlingu dohledem zajišťuje auditor programu rovného zacházení (odst. 4–5), jehož výroční zprávu obdrží ERÚ i ministerstvo.
+
+**6. Varianty.** (a) Pokud by integrovaný podnikatel zásoboval **méně než 90 000** připojených zákazníků, požadavek oddělení by se podle odst. 10 vůbec neuplatnil a personální propojení by nebylo závadou. (b) Pokud by propojená osoba nebyla ve vedení obchodu/výroby, nýbrž v nesouvisející činnosti skupiny mimo dosah zákazu, šlo by posoudit jen měřítka skutečné rozhodovací nezávislosti (odst. 2 písm. c)).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: U distribuce stačí funkční oddělení, personální souběh proto není zakázán.* Neutralizace: funkční oddělení sice nevyžaduje oddělení vlastnictví, ale § 59a odst. 2 písm. a) výslovně zakazuje souběh statutární/vedoucí funkce v DS a v entitě výroby/obchodu skupiny — to je tvrdé pravidlo.
+- *Protiargument 2: Shodná značka je obchodním aktivem skupiny a záměnu nezpůsobuje.* Neutralizace: odst. 12 zakazuje jednání, jež může vést k záměně regulovaného distributora s obchodníkem/výrobcem skupiny; rozhodující je objektivní způsobilost klamat, nikoli úmysl.
+- *Slabé místo:* hranice „vedoucího zaměstnance" a rozsah „skutečných rozhodovacích práv" (odst. 2 písm. c)) mohou být v konkrétní organizační struktuře sporné; chybějícím podkladem bývá organizační řád a doklad o reálné autonomii rozhodování DS.
+
+#### H. Praktický závěr
+
+§ 59a stanoví pro provozovatele DS mírnější, funkční unbundling (bez oddělení vlastnictví), avšak s tvrdým zákazem personálního propojení s výrobou/obchodem skupiny, zákazem závislého odměňování, požadavkem skutečných rozhodovacích práv a zákazem zaměnitelnosti s obchodníkem/výrobcem skupiny. Malé soustavy (do 90 000 zákazníků) jsou vyňaty.
+
+**Checklist (advokát / ERÚ / provozovatel DS / konkurent):**
+- [ ] Ověřit počet připojených zákazníků (výjimka dle odst. 10 — pod 90 000).
+- [ ] Vyloučit souběh statutární/vedoucí funkce v DS a v entitě výroby/obchodu skupiny (odst. 2 písm. a)).
+- [ ] Prověřit nezávislost odměňování vedení DS na výsledcích skupiny (odst. 2 písm. b)).
+- [ ] Doložit skutečná rozhodovací práva DS k provozu, údržbě a rozvoji (odst. 2 písm. c)).
+- [ ] Posoudit riziko záměny s obchodníkem/výrobcem skupiny a přijmout odlišovací opatření (odst. 12); zajistit funkčního auditora programu (odst. 4–5).
+
+**Typicky rozhodné důkazy / podklady:** výpis z obchodního rejstříku a organizační řád; doklady o odměňování vedení DS; program rovného zacházení a výroční zpráva auditora programu; evidence počtu připojených zákazníků; srovnání obchodních firem, log a marketingové komunikace.
 
 ---
 
@@ -872,6 +1168,43 @@ Přeshraniční služba zásobníku plynu je specifickým českým institutem um
 #### Povinnost informovat o rezervovaných kapacitách (odst. 8 písm. z))
 
 Provozovatel zásobníku musí předávat PPS informace o velikosti a době trvání skladovacích kapacit rezervovaných jednotlivými účastníky trhu. Tato povinnost je klíčová pro propojení § 56 odst. 4 (limitace přepravní kapacity výší zásobníkové rezervace) — PPS potřebuje tato data pro výkon své povinnosti odebrat přepravní kapacitu přesahující zásobníkovou pozici.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník s plynem ZIMA, a.s., uzavřel s provozovatelem zásobníku plynu (MND Gas Storage) smlouvu o uskladnění plynu na skladovací rok s povinností vytěžit uskladněný plyn do zániku závazku (30. dubna). Z důvodů na své straně (insolvenční potíže, neaktivita) plyn nevytěžil — v zásobníku zůstalo 80 GWh. Provozovatel zásobníku hodlá podle § 60 odst. 8 písm. k) tento plyn prodat. Současně jiný, zahraniční účastník trhu požaduje poskytnutí přeshraniční služby zásobníku plynu pro jinou tržní zónu, kterou provozovatel zásobníku poskytuje. Důkazy: smlouva o uskladnění plynu s ujednáním o zániku závazku, evidence skladovacích účtů a stavů plynu předaná operátorovi trhu, Řád provozovatele zásobníku, doklady o ceně za přeshraniční službu dle § 19a odst. 3.
+
+**2. Právní otázka.** Je provozovatel zásobníku oprávněn prodat neuskladněný (nevytěžený) plyn zákazníka po zániku závazku ze smlouvy o uskladnění, a jaké povinnosti mu vznikají při poskytování přeshraniční služby zásobníku plynu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 60 odst. 1 písm. h) (nákup/prodej plynu pro ztráty, vlastní spotřebu, základní náplň a službu uskladnění — není obchod), odst. 8 písm. j) (neznevýhodňující přístup třetích stran, odmítnutí jen z taxativních důvodů), písm. k) (povinný prodej nevytěženého plynu — není obchod), písm. w)–y) (bilance, výběr ceny a měření přeshraniční služby), písm. z) (informace PPS o rezervovaných kapacitách).
+- *Související ustanovení téhož zákona:* § 56 odst. 4 (vazba přepravní a skladovací kapacity), § 19a odst. 3 (cena za přeshraniční službu), § 60 odst. 8 písm. o) (Řád provozovatele zásobníku), § 58 odst. 1 písm. a) (přístup PPS k zásobníkům pro rovnováhu soustavy).
+- *Související předpisy:* Nařízení o vnitřním trhu s plynem 2024/1789 (čl. o regulovaném přístupu k zásobníkům); nařízení EU 2017/1938 a 2022/1032 (bezpečnost dodávek, povinné zásoby plynu); prováděcí vyhláška k množství plynu pro službu uskladnění; občanský zákoník (prodej věci, zánik závazku).
+- *Judikatura:* k povaze nuceného realizačního prodeje a k vypořádání výtěžku srov. obecné závěry civilní judikatury o svépomocném/zákonném prodeji zadržené věci a o povinnosti vydat výtěžek po odečtení nákladů; k zákazu diskriminace v přístupu k zásobníku srov. nosné závěry SD EU k regulovanému přístupu třetích stran v plynárenství.
+
+**4. Subsumpce.** Znak „plyn nevytěžen do zániku závazku z důvodů na straně účastníka" je naplněn (80 GWh, neaktivita zákazníka) → vzniká oprávnění i povinnost provozovatele zásobníku plyn prodat dle písm. k); zákon výslovně stanoví, že to není obchod s plynem (provozovatel nepotřebuje obchodní licenci). U přeshraniční služby je naplněn znak „provozovatel zásobníku službu poskytuje" → aktivují se povinnosti písm. w) (bilance), x) (výběr a odvod ceny PPS dle § 19a odst. 3) a y) (měření na vstupu/výstupu a předání agregovaných dat operátorovi trhu a PPS).
+
+**5. Řešení.** Provozovatel zásobníku je oprávněn (a podle dikce povinen) nevytěžený plyn prodat (písm. k)); výtěžek vypořádá se zákazníkem podle smlouvy a obecných pravidel (po odečtení dlužných plateb a nákladů). Procesně postupuje dle Řádu provozovatele zásobníku a smlouvy o uskladnění; prodej není obchodem s plynem, tedy bez nutnosti obchodní licence. U přeshraniční služby provozovatel zásobníku vybere cenu dle § 19a odst. 3 a odvede ji PPS (písm. x)), zajistí měření a předání dat (písm. y)) a zpracuje bilanci (písm. w)). Přístup třetích stran k zásobníku poskytne nediskriminačně; odmítnout smí jen pro prokazatelný nedostatek kapacity nebo ohrožení bezpečnosti, písemně a odůvodněně (písm. j)).
+
+**6. Varianty.** (a) Pokud by plyn nebyl vytěžen z důvodů na straně **provozovatele zásobníku** (nikoli zákazníka), oprávnění k prodeji dle písm. k) by nevzniklo a šlo by o odpovědnost provozovatele za neumožnění odběru. (b) Pokud by provozovatel zásobníku přeshraniční službu **neposkytoval**, povinnosti písm. w)–y) by se neuplatnily a režim zásobníku by se omezil na tuzemské uskladnění.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: Prodej plynu zákazníka bez jeho souhlasu je zásahem do vlastnictví.* Neutralizace: jde o zákonem aprobovaný realizační mechanismus (písm. k)) navázaný na zánik závazku a na prodlení/neaktivitu zákazníka; výtěžek se zákazníkovi vypořádá, takže k bezúplatnému odnětí nedochází.
+- *Protiargument 2: Prodej plynu činí z provozovatele zásobníku obchodníka, který potřebuje licenci.* Neutralizace: zákon výslovně stanoví, že prodej dle písm. h) i k) není obchodem s plynem; jde o funkční výjimku nezbytnou pro provoz zásobníku.
+- *Slabé místo:* vyúčtování výtěžku a odpočtu nákladů může být sporné; chybějícím podkladem bývá doklad o ceně realizace, o stavu skladovacího účtu k okamžiku zániku závazku a o příčině nevytěžení (na čí straně leží).
+
+#### H. Praktický závěr
+
+§ 60 vymezuje práva a povinnosti provozovatele zásobníku plynu: nákup/prodej plynu pro provoz zásobníku (bez obchodní licence), povinný prodej nevytěženého plynu zákazníka, regulovaný neznevýhodňující přístup třetích stran a zvláštní režim přeshraniční služby zásobníku. Provoz se řídí Řádem provozovatele zásobníku schvalovaným ERÚ.
+
+**Checklist (advokát / soud / ERÚ / provozovatel zásobníku / zákazník):**
+- [ ] Ověřit zánik závazku ze smlouvy o uskladnění a příčinu nevytěžení plynu (na čí straně — písm. k)).
+- [ ] Doložit cenu realizace a vypořádání výtěžku se zákazníkem.
+- [ ] U přístupu třetích stran ověřit nediskriminační podmínky a případné odmítnutí (písemně, odůvodněně — písm. j)).
+- [ ] U přeshraniční služby zajistit bilanci, výběr a odvod ceny PPS (§ 19a odst. 3) a měření/předání dat (písm. w)–y)).
+- [ ] Předávat PPS údaje o rezervovaných skladovacích kapacitách (písm. z); vazba na § 56 odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** smlouva o uskladnění plynu a ujednání o zániku závazku; evidence skladovacích účtů a stavů plynu; Řád provozovatele zásobníku; doklady o ceně realizace a o ceně za přeshraniční službu; měřicí data na vstupu/výstupu zásobníku; podklady o příčině nevytěžení plynu.
 
 ---
 

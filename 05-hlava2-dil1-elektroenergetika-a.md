@@ -54,6 +54,43 @@ Odst. 2 formuluje obecnou zásadu: každý účastník trhu nese **odpovědnost 
 
 Odst. 3 uzavírá obcházení regulovaných plateb: účastník trhu, který **využívá vlastní distribuční soustavu** k odběru elektřiny, je povinen hradit cenu za systémové služby, cenu za provoz nesíťové infrastruktury a složku ceny na podporu obnovitelných zdrojů i tehdy, **není-li uzavřena smlouva o zajištění služby distribuční soustavy**. Toto pravidlo reaguje na situace vertikálně integrovaných průmyslových subjektů nebo správců areálových sítí, kteří fakticky využívají soustavu, aniž by formálně uzavřeli příslušnou smlouvu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Průmyslový areál „Strojírny Kovohrad, a. s." je napájen z jednoho předávacího místa regionální distribuční soustavy a uvnitř areálu provozuje vlastní lokální distribuční soustavu (LDS), kterou rozvádí elektřinu k pěti nájemcům-podnikatelům odebírajícím v areálu. Kovohrad pro tento účel drží licenci na distribuci elektřiny pro méně než 90 000 odběrných míst. S regionálním distributorem uzavřel pouze smlouvu o připojení svého hlavního odběrného místa, nikoliv samostatnou smlouvu o zajištění služby distribuční soustavy pro celý úhrn odběru nájemců; v období sporu odebral z nadřazené soustavy 4,2 GWh. Důkazy: licence na distribuci, smlouva o připojení hlavního předávacího místa, naměřená data z fakturačního měření na rozhraní LDS a regionální soustavy, evidence předávacích míst nájemců u OTE, cenové rozhodnutí ERÚ pro daný rok.
+
+**2. Právní otázka.** Je provozovatel lokální distribuční soustavy povinen hradit cenu za systémové služby, cenu za provoz nesíťové infrastruktury a složku na podporu POZE i tehdy, neuzavřel-li samostatnou smlouvu o zajištění služby distribuční soustavy, využívá-li k odběru jím provozovanou (vlastní) distribuční soustavu (§ 22 odst. 3)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22 odst. 3 EnergZ — povinnost účastníka trhu hradit uvedené regulované složky ceny i bez smlouvy o zajištění služby distribuční soustavy, využívá-li k odběru jím provozovanou distribuční soustavu.
+- *Související ustanovení téhož zákona:* § 22 odst. 1 (katalog účastníků — provozovatel distribuční soustavy je účastníkem trhu); § 22 odst. 2 (odpovědnost za odchylku); § 25 (práva a povinnosti provozovatele distribuční soustavy); § 28 odst. 1 písm. c) (právo zákazníka na dopravu elektřiny za regulovanou cenu); zákon o podporovaných zdrojích energie (složka na podporu POZE).
+- *Související předpisy:* zákon č. 165/2012 Sb., o podporovaných zdrojích energie; cenová rozhodnutí ERÚ k cenám za systémové služby a za provoz nesíťové infrastruktury.
+- *Judikatura:* nosný závěr, že regulované složky ceny mají povahu veřejnoprávní platby vázané na faktické využití soustavy, nikoli na existenci soukromoprávní smlouvy; obecně ustálený výklad, že povinnost platit regulované ceny nelze obejít absencí smlouvy, je-li dán fyzický odběr přes soustavu.
+
+**4. Subsumpce.** Kovohrad je účastníkem trhu (provozovatel distribuční soustavy, § 22 odst. 1). Znak „využívá-li k odběru elektřiny jím provozovanou distribuční soustavu" je naplněn — odběr nájemců prochází jeho LDS. Znak „i v případě, kdy není uzavřena smlouva o zajištění služby distribuční soustavy" je rovněž naplněn; absence smlouvy je právě tou situací, na kterou odst. 3 míří. Sporné může být pouze správné určení rozhodného množství elektřiny pro výpočet (4,2 GWh) a přiřazení tarifních složek dle cenového rozhodnutí.
+
+**5. Řešení.** Kovohrad je povinen uvedené tři regulované složky uhradit. Ustanovení odst. 3 výslovně eliminuje obcházení regulovaných plateb absencí smlouvy. Praktický postup: regionální distributor (popř. OTE) doúčtuje regulované složky podle skutečně odebraného množství; Kovohrad je povinen poskytnout naměřená data. Riziko: spor o základ výpočtu — zda se počítá z odběru na hlavním předávacím místě, nebo z úhrnu odběru nájemců; tento spor řeší aplikace Pravidel trhu s elektřinou. Alternativní výklad, že bez smlouvy povinnost nevzniká, je odst. 3 přímo vyloučen.
+
+**6. Varianty.** (a) Kdyby Kovohrad neprovozoval vlastní distribuční soustavu, nýbrž každý nájemce by měl samostatnou smlouvu s regionálním distributorem, povinnost dle odst. 3 by Kovohrada netížila — platby by hradili jednotliví zákazníci. (b) Kdyby Kovohrad přenosl odpovědnost za odchylku smluvně na obchodníka (§ 22 odst. 2 písm. b), nijak by to nezměnilo jeho povinnost hradit regulované složky dle odst. 3 — jde o dvě oddělené roviny (odchylka vs. regulované ceny).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „bez smlouvy není plnění".* Lze namítnout, že bez smlouvy o zajištění služby distribuční soustavy chybí právní titul k platbě. Neutralizace: odst. 3 je speciální normou, která zakládá platební povinnost přímo ze zákona (ex lege) navázanou na faktické využití soustavy; soukromoprávní smlouva není podmínkou.
+- *Protiargument o dvojím zpoplatnění.* Subjekt může tvrdit, že již hradí cenu za připojení hlavního předávacího místa. Neutralizace: cena za připojení a regulované složky dle odst. 3 (systémové služby, nesíťová infrastruktura, POZE) jsou rozdílné položky s odlišným základem; nejde o dvojí platbu téhož.
+- *Slabé místo:* sporné je vymezení rozhodného množství a okamžiku vzniku povinnosti; chybí-li přesná evidence předávacích míst u OTE, hrozí důkazní nejistota o výši doúčtování.
+
+#### H. Praktický závěr
+
+Ustanovení § 22 je katalogem účastníků trhu (odst. 1), zakotvuje odpovědnost za odchylku a její smluvní přenos (odst. 2) a — prakticky nejvýznamněji — uzavírá obcházení regulovaných plateb provozovateli vlastních (areálových) distribučních soustav (odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda je subjekt účastníkem trhu dle § 22 odst. 1 (do které kategorie spadá).
+- [ ] U provozovatele vlastní distribuční soustavy prověřit, zda odebírá přes jím provozovanou soustavu (spouštěč odst. 3).
+- [ ] Zkontrolovat, zda je/není uzavřena smlouva o zajištění služby distribuční soustavy.
+- [ ] Vyčíslit rozhodné odebrané množství a aplikovat platné cenové rozhodnutí ERÚ na všechny tři regulované složky.
+- [ ] Ověřit registraci předávacích míst u OTE a smluvní přenos odpovědnosti za odchylku (odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** licence na distribuci, smlouva o připojení, fakturační měření na rozhraní soustav, evidence předávacích míst u OTE, cenové rozhodnutí ERÚ, smlouva o zúčtování odchylek.
+
 ---
 
 ### § 23 — Výrobce elektřiny
@@ -184,6 +221,43 @@ Klíčové pravidlo chrání výrobce před finanční sankcí za odchylku, jej�
 
 Odst. 5 řeší situaci hybridního subjektu. Výrobce provozující na předávacím místě výrobny také **zařízení pro ukládání elektřiny** přebírá všechna práva a povinnosti provozovatele zařízení pro ukládání elektřiny (§ 23a). Dodává-li výrobce zákazníkům, přebírá navíc povinnosti **obchodníka s elektřinou** dle § 30 odst. 2 — zejm. povinnosti vůči zákazníkovi (vyúčtování, informace, dodávka poslední instance není automaticky dotčena, ale ostatní povinnosti ANO).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost „Solární pole Jihočesko, s. r. o." plánuje výstavbu fotovoltaické výrobny o instalovaném výkonu 120 MW s bateriovým úložištěm a schopností poskytovat podpůrné služby. Část trasy potřebného připojení a samotné výrobny zasahuje na pozemky, jejichž jeden spoluvlastník (podíl 1/6) je dlouhodobě neznámého pobytu a nereaguje na výzvy; ostatní spoluvlastníci souhlasí a uzavřeli smlouvu o zřízení věcného břemene za cenu dle oceňovacího předpisu. Výrobce zároveň nainstaloval výrobnu, aniž do 30 dnů od udělení licence provedl registraci u OTE, a u výrobny o výkonu 120 kW dosud nezprovoznil zařízení umožňující dispečerské řízení. Důkazy: licence na výrobu, geometrický plán, výpis z katastru s vyznačením spoluvlastníků, doklady o výzvách neznámému spoluvlastníkovi, znalecký posudek o ceně, smlouva o připojení.
+
+**2. Právní otázka.** Za jakých podmínek může výrobce velké výrobny (≥ 100 MW s podpůrnými službami) dosáhnout omezení vlastnického práva k pozemku nedosažitelného spoluvlastníka (§ 23 odst. 2) a jaké sankčně relevantní povinnosti (registrace, dispečerské vybavení) musí současně splnit (§ 23 odst. 3)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23 odst. 2 (povinnost a oprávnění zajistit nemovitost smluvně za náhradu, jinak vyvlastnění); § 23 odst. 3 písm. m) (registrace u OTE do 30 dnů); písm. o) (dispečerské vybavení u výroben ≥ 100 kW).
+- *Související ustanovení téhož zákona:* § 24 odst. 4 (analogické pravidlo pro provozovatele přenosové soustavy); § 23 odst. 1 písm. a) (podmíněné právo na připojení); § 23 odst. 4 (vyloučení odpovědnosti za odchylku při redispatchi); § 26 odst. 5 (dispečerské řízení).
+- *Související předpisy:* zákon o vyvlastnění (zák. č. 184/2006 Sb.); zákon o urychlení výstavby strategicky významné infrastruktury; oceňovací předpis (zák. č. 151/1997 Sb. a prováděcí vyhláška).
+- *Judikatura:* ústavně konformní výklad podmínek vyvlastnění (subsidiarita, proporcionalita, plná náhrada) dle ustálené judikatury Ústavního soudu k čl. 11 odst. 4 Listiny; požadavek, aby vyvlastnění bylo až krajním prostředkem po vyčerpání dohody.
+
+**4. Subsumpce.** Výrobna o výkonu 120 MW s možností poskytovat podpůrné služby naplňuje hypotézu odst. 2 (práh 100 MW a více). Znak „vlastník není dosažitelný / nedošlo k dohodě" je u spoluvlastníka 1/6 splněn (doložené marné výzvy). Podmínka subsidiarity (přednost smluvního zajištění za cenu dle oceňovacího předpisu) je splněna vůči ostatním spoluvlastníkům. Naopak povinnost registrace u OTE do 30 dnů (písm. m) je porušena a povinnost dispečerského vybavení u výrobny ≥ 100 kW (písm. o) není splněna — obojí zakládá riziko správního deliktu.
+
+**5. Řešení.** Výrobce podá vyvlastňovacímu úřadu návrh na odejmutí nebo omezení vlastnického práva spoluvlastníka 1/6, doloží subsidiaritu (marnost dohody) a nabídne náhradu dle oceňovacího předpisu. Současně musí bez prodlení provést registraci u OTE a zprovoznit dispečerské zařízení, jinak hrozí sankce a riziko, že provozovatel soustavy uplatní omezení provozu. Riziko: vyvlastnění je krajním prostředkem — úřad zkoumá proporcionalitu; nedostatečné doložení marnosti dohody vede k zamítnutí návrhu.
+
+**6. Varianty.** (a) Kdyby výrobna měla výkon jen 40 MW, hypotéza odst. 2 (práh 100 MW) by nebyla naplněna a zvláštní vyvlastňovací režim by se neuplatnil — výrobce by byl odkázán na obecné instituty. (b) Kdyby výrobna využívala obnovitelný zdroj, byla poprvé uvedena do provozu do roku 2000 a měla výkon do 10 MW, povinnost dispečerského vybavení dle písm. o) by se na ni nevztahovala (zákonná výjimka).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument proti vyvlastnění.* Spoluvlastník (či jeho opatrovník) může namítat nedostatek subsidiarity nebo nepřiměřenost zásahu. Neutralizace: pečlivě zdokumentovat všechny pokusy o dohodu, nabídnout plnou náhradu dle oceňovacího předpisu a prokázat veřejný zájem na energetické bezpečnosti (stavba pro energetickou bezpečnost dle zákona o urychlení výstavby).
+- *Protiargument o povaze náhrady.* Lze tvrdit, že cena dle oceňovacího předpisu nepokrývá skutečnou tržní hodnotu. Neutralizace: zákon výslovně umožňuje odlišnou dohodu stran; přednostně tedy usilovat o smluvní cenu, vyvlastnění až subsidiárně.
+- *Slabé místo:* opomenutí registrace u OTE a dispečerského vybavení je samostatným pochybením — i při úspěšném vyvlastnění hrozí sankce za nesplnění provozních povinností; tato pochybení nelze „zhojit" úspěchem ve vyvlastnění.
+
+#### H. Praktický závěr
+
+§ 23 je rozsáhlým katalogem práv (odst. 1, vč. sdílení a agregace bez souhlasu dodavatele) a povinností výrobce (odst. 3, 20 položek a–t), doplněným zvláštním vyvlastňovacím režimem pro velké výrobny (odst. 2), vyloučením odpovědnosti za odchylku při redispatchi (odst. 4) a režimem kumulace rolí výrobce + úložiště + obchodník (odst. 5).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit výrobnu podle výkonu (prahy 10,8 kW / 100 kW / 30 MW / 100 MW) — určuje rozsah povinností.
+- [ ] U výroben ≥ 100 MW s podpůrnými službami: nejprve smluvní zajištění nemovitosti za cenu dle oceňovacího předpisu, vyvlastnění až subsidiárně.
+- [ ] Zkontrolovat registraci u OTE do 30 dnů od licence (písm. m).
+- [ ] Ověřit dispečerské vybavení (≥ 100 kW, písm. o) a havarijní plán (≥ 10 MW, písm. p).
+- [ ] U hybridního subjektu posoudit kumulaci povinností úložiště (§ 23a) a obchodníka (§ 30 odst. 2) dle odst. 5.
+
+**Typicky rozhodné důkazy / podklady:** licence na výrobu, smlouva o připojení, výpis z katastru a doklady o jednání s vlastníky, znalecký posudek o ceně, doklady o registraci u OTE, technická dokumentace dispečerského zařízení, havarijní plán.
+
 ---
 
 ### § 23a — Provozovatel zařízení pro ukládání elektřiny
@@ -247,6 +321,43 @@ Práva provozovatele úložiště (odst. 1) jsou konstruována analogicky s prá
 #### Povinnosti — totožná struktura s § 23 odst. 3
 
 Povinnosti (odst. 2 písm. a–l) odpovídají svou strukturou povinnostem výrobce elektřiny, s přiměřenými terminologickými odchylkami (např. „ukládání elektřiny" místo „výroby"). Prahové výkony pro dispečerské vybavení (100 kW, písm. j) a havarijní plánování (10 MW, písm. k) jsou shodné s výrobcem. Vyloučení odpovědnosti za odchylku při dispečerském řízení (odst. 3) je rovněž identické s § 23 odst. 4.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost „BatteryGrid CZ, a. s." provozuje samostatné bateriové úložiště o instalovaném výkonu 50 MW připojené k distribuční soustavě, drží licenci na ukládání elektřiny a do 30 dnů od jejího udělení se zaregistrovala u OTE. Úložiště nakupuje elektřinu pro ukládání v době nízkých cen a chce ji následně dodávat. Část uložené elektřiny hodlá BatteryGrid prodat přímo konečnému zákazníkovi (sousednímu výrobnímu závodu) bez prostřednictví obchodníka; zbytek nabízí na vnitrodenním trhu a jako podpůrnou službu pro ČEPS. Důkazy: licence na ukládání elektřiny, smlouva o připojení, doklad o registraci u OTE, smlouvy o dodávce, technické parametry úložiště, údaje z průběhového měření.
+
+**2. Právní otázka.** Komu smí provozovatel zařízení pro ukládání elektřiny dodávat elektřinu z úložiště — může ji dodat přímo konečnému zákazníkovi, nebo jen obchodníkovi s elektřinou, do zahraničí či na organizované trhy (§ 23a odst. 1 písm. b)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23a odst. 1 písm. b) — okruh subjektů, jimž lze dodávat elektřinu z úložiště (obchodník, zahraničí, organizované trhy); písm. c) (podpůrné služby/flexibilita); písm. d) (nákup elektřiny pro ukládání).
+- *Související ustanovení téhož zákona:* § 23 odst. 1 písm. b) (širší okruh u výrobce — „ostatní účastníci trhu") jako kontrast; § 23 odst. 5 (kumulace rolí výrobce + úložiště); § 28 odst. 9 (zákazník-prosumer smí dodávat jen obchodníkovi nebo na organizované trhy); § 30 (obchodník s elektřinou).
+- *Související předpisy:* směrnice 2019/944 (čl. 36–38, postavení úložišť); nařízení 2019/943 (vnitřní trh s elektřinou).
+- *Judikatura:* nosně relevantní je výklad úložiště jako infrastrukturního prvku, nikoli dodavatele konečným zákazníkům; obecná zásada, že okruh oprávněných odběratelů vymezený zákonem je taxativní.
+
+**4. Subsumpce.** BatteryGrid je provozovatelem zařízení pro ukládání elektřiny (odst. 1). Dodávka obchodníkovi, na vnitrodenní trh a poskytnutí podpůrné služby ČEPS naplňují dovolené formy dle písm. b) a c). Naopak zamýšlená přímá dodávka konečnému zákazníkovi (výrobnímu závodu) nespadá pod taxativní výčet písm. b) — ten zná pouze obchodníka, zahraničí a organizované trhy. Přímý prodej zákazníkovi tedy není dovolenou činností provozovatele úložiště „jako úložiště".
+
+**5. Řešení.** BatteryGrid nesmí dodávat elektřinu z úložiště přímo konečnému zákazníkovi. Chce-li tak činit, musí dodávku realizovat prostřednictvím obchodníka s elektřinou (kterému elektřinu prodá), nebo přijmout roli obchodníka samostatně (pak se na něj vztahují povinnosti § 30). Praktický postup: nasmlouvat odběr s obchodníkem, popř. realizovat prodej na organizovaném trhu. Riziko: přímý prodej zákazníkovi by byl výkonem činnosti nad rámec licence/oprávnění a mohl by být posouzen jako neoprávněné podnikání v energetice.
+
+**6. Varianty.** (a) Kdyby úložiště provozoval výrobce v předávacím místě své výrobny (§ 23 odst. 5), vztahovala by se na něj práva a povinnosti provozovatele úložiště, ale dodávky vyrobené elektřiny by se řídily širším režimem výrobce dle § 23 odst. 1 písm. b). (b) Kdyby BatteryGrid prodával elektřinu výhradně na organizovaném krátkodobém trhu OTE, šlo by o plně dovolenou činnost dle písm. b) bez nutnosti samostatné role obchodníka.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o rovnosti s výrobcem.* Lze namítnout, že úložiště „de facto vyrábí" (vydává elektřinu), a mělo by mít stejně široký okruh odběratelů jako výrobce. Neutralizace: zákon záměrně rozlišuje — úložiště je infrastrukturní prvek; širší okruh u výrobce (§ 23) je vědomá výjimka, kterou nelze analogicky rozšiřovat.
+- *Protiargument o efektivitě.* Přímá dodávka zákazníkovi by snížila náklady. Neutralizace: efektivita neospravedlňuje překročení taxativního výčtu; legální cestou je vstup obchodníka nebo přijetí role obchodníka.
+- *Slabé místo:* hranice mezi „dodávkou z úložiště" a „dodávkou vyrobené elektřiny" u hybridních zařízení (FVE + baterie) může být fakticky obtížně oddělitelná; klíčové je správné měření a evidence původu elektřiny.
+
+#### H. Praktický závěr
+
+§ 23a zrcadlí strukturu § 23 (práva v odst. 1, povinnosti v odst. 2, vyloučení odpovědnosti za odchylku při redispatchi v odst. 3), avšak s podstatným omezením: úložiště smí dodávat elektřinu jen obchodníkovi, do zahraničí nebo na organizované trhy — nikoli přímo konečným zákazníkům.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že odběratel elektřiny z úložiště je obchodník, zahraniční subjekt nebo organizovaný trh (§ 23a odst. 1 písm. b).
+- [ ] Zkontrolovat licenci na ukládání elektřiny a registraci u OTE do 30 dnů (odst. 2 písm. i).
+- [ ] U úložiště ≥ 100 kW prověřit dispečerské vybavení (písm. j), u ≥ 10 MW havarijní plán (písm. k).
+- [ ] U hybridního zařízení (výroba + ukládání) rozlišit režim § 23 a § 23a a zajistit oddělené měření.
+- [ ] Ověřit, zda nárokovaná náhrada za odchylku nespadá pod vyloučení dle odst. 3 (redispatch dle § 26 odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** licence na ukládání elektřiny, smlouva o připojení, doklad o registraci u OTE, smlouvy o dodávce/odběru, technické parametry úložiště, údaje z průběhového měření.
 
 ---
 
@@ -350,6 +461,43 @@ Zákon preferuje tržní pořizování nefrekvenčních podpůrných služeb (v�
 
 Odst. 15 výslovně zakazuje odmítnout připojení výrobny nebo úložiště na základě **hypotetického budoucího** nedostatku kapacity nebo hypotetických budoucích nákladů na rozšíření. Toto pravidlo — transponující čl. 6 odst. 3 nařízení 2019/943 — posiluje přístup k síti a má zabránit strategickému blokování kapacit provozovatelem přenosové soustavy.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel přenosové soustavy (ČEPS, a. s.) má v plánu obnovy vést rekonstrukci vedení 400 kV přes pozemek pana Nováka. Trasa je vymezena již dříve zřízeným věcným břemenem. Nad pozemkem zasahují do ochranného pásma vzrostlé stromy, které pan Novák přes písemné upozornění neodstranil. ČEPS chce provést plánovanou údržbu spojenou s krátkodobým přerušením dodávky pro několik připojených odběratelů a zároveň oklestit dřeviny. Pan Novák tvrdí, že mu přerušením dodávky a vstupem na pozemek vznikne škoda (zničení části úrody ve fóliovníku napájeném z dotčeného vedení) a požaduje její náhradu. ČEPS oznámil plánované přerušení 52 dnů předem způsobem v místě obvyklým. Důkazy: dokumentace věcného břemene, písemné upozornění vlastníka k oklestění, doklad o oznámení přerušení (datum, způsob), fotodokumentace porostu, protokol o provedení prací a uvedení do předchozího stavu.
+
+**2. Právní otázka.** Má vlastník dotčené nemovitosti právo na náhradu škody za přerušení dodávky elektřiny z důvodu plánovaných prací, splnil-li provozovatel přenosové soustavy oznamovací povinnost a poruchu nezavinil (§ 24 odst. 7 ve spojení s odst. 5)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 7 (vyloučení práva na náhradu škody při omezení/přerušení dodávky, s výjimkami); odst. 3 písm. c) bod 6 a písm. g) (plánované práce, oklešťování); odst. 5 (oznamovací lhůta 50 dnů); odst. 8 (povinnost šetřit práva vlastníků a uvést do předchozího stavu).
+- *Související ustanovení téhož zákona:* § 24 odst. 3 písm. e)–g) (zákonná věcná práva); odst. 4 (zřízení věcného břemene, vyvlastnění); odst. 9 (jednorázová náhrada za omezení v užívání, prekluze 2 roky); § 25 odst. 5, 7 (paralelní úprava u distribuční soustavy).
+- *Související předpisy:* občanský zákoník (náhrada škody, věcná břemena); zákon o vyvlastnění; nařízení 2019/943.
+- *Judikatura:* nosný závěr NSS 3 As 276/2023 (citovaný u § 25) o možnosti zřídit věcné břemeno i ex post a o tom, že chybějící soukromoprávní titul činí stavbu neoprávněnou; obecná zásada, že vyloučení náhrady škody platí jen při splnění zákonných podmínek (oznámení, absence zavinění).
+
+**4. Subsumpce.** Přerušení dodávky z důvodu plánované údržby spadá pod odst. 3 písm. c) bod 6. Oznamovací lhůta 50 dnů (odst. 5) byla dodržena (52 dnů). Oklešťování dřevin po marném upozornění vlastníka je dovoleno dle odst. 3 písm. g). Jelikož provozovatel splnil oznamovací povinnost a nezavinil poruchu, je naplněna hypotéza odst. 7 — právo na náhradu škody je vyloučeno. Případný nárok pana Nováka na jednorázovou náhradu za omezení v užívání nemovitosti (odst. 9) je odlišný od náhrady škody dle odst. 7 a posuzuje se samostatně.
+
+**5. Řešení.** Pan Novák nemá právo na náhradu škody za přerušení dodávky, neboť provozovatel splnil oznamovací povinnost a poruchu nezavinil (odst. 7). Provozovatel je však povinen co nejvíce šetřit jeho práva, vstup oznámit, po skončení prací uvést pozemek do předchozího stavu a zlikvidovat klest (odst. 8); za případné omezení v obvyklém užívání nemovitosti náleží jednorázová náhrada (odst. 9) s prekluzivní lhůtou 2 roky. Riziko pro provozovatele: nedodržení postupu dle odst. 8 nebo prokázané zavinění poruchy by aktivovalo výjimku z vyloučení náhrady.
+
+**6. Varianty.** (a) Kdyby provozovatel oznámil přerušení jen 20 dnů předem (méně než 50 dnů), výjimka z vyloučení náhrady by se uplatnila a vlastník by mohl nárokovat náhradu škody. (b) Kdyby šlo nikoli o plánované práce, ale o přerušení způsobené prokazatelně zaviněnou poruchou na straně provozovatele, právo na náhradu škody by rovněž zůstalo zachováno.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o nepřiměřenosti vyloučení náhrady.* Vlastník může namítat tvrdost vyloučení náhrady škody. Neutralizace: jde o standardní rozložení rizik u veřejné infrastruktury; vyloučení neplatí absolutně — aktivuje se výjimkami (porušení oznámení, zavinění) a nedotýká se jednorázové náhrady dle odst. 9.
+- *Protiargument o způsobu oznámení.* Lze tvrdit, že „způsob v místě obvyklý" nezajistil skutečné doručení. Neutralizace: zákon nevyžaduje individuální doručení, nýbrž obvyklý způsob; provozovatel musí způsob oznámení doložit (datum, forma).
+- *Slabé místo:* hranice mezi „plánovanými pracemi" a „poruchou" může být sporná; chybí-li dokumentace o charakteru zásahu, posune se důkazní břemeno k provozovateli ohledně absence zavinění.
+
+#### H. Praktický závěr
+
+§ 24 komplexně vymezuje postavení provozovatele přenosové soustavy (ČEPS): základní funkce (odst. 1), licenční exkluzivitu (odst. 2), katalog práv vč. zákonných věcných práv k cizím nemovitostem (odst. 3), zřízení věcného břemene a vyvlastnění (odst. 4), oznamovací lhůty (odst. 5), vyloučení náhrady škody s výjimkami (odst. 7), povinnost šetřit práva vlastníků (odst. 8–9) a rozsáhlé regulatorní povinnosti (odst. 10–16), vč. zákazu odmítnutí připojení pro hypotetický budoucí nedostatek kapacity (odst. 15).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat zákonný důvod omezení/přerušení dodávky (odst. 3 písm. c/d, příslušný bod).
+- [ ] Ověřit dodržení oznamovací lhůty 50 dnů (resp. 3 prac. dny u periodických zkoušek) — odst. 5.
+- [ ] Posoudit, zda je vyloučeno právo na náhradu škody (odst. 7) a zda se neuplatní výjimka (porušení oznámení / zavinění).
+- [ ] Rozlišit náhradu škody (odst. 7) od jednorázové náhrady za omezení v užívání (odst. 9, prekluze 2 roky).
+- [ ] U připojení prověřit zákaz odmítnutí pro hypotetický budoucí nedostatek kapacity (odst. 15) a režim non-firm připojení (odst. 12).
+
+**Typicky rozhodné důkazy / podklady:** dokumentace věcného břemene, doklad o oznámení přerušení (datum, způsob), písemné upozornění k oklestění, protokol o provedení prací a uvedení do předchozího stavu, posudek o příčině poruchy, znalecký posudek o ceně náhrady.
+
 ---
 
 ### § 24a — Vlastnické oddělení provozovatele přenosové soustavy
@@ -402,6 +550,43 @@ Zákon výslovně řeší situaci, kdy státní subjekty nebo územně samosprá
 #### Výjimka pro nadnárodní provozování přenosových soustav (odst. 4)
 
 Zákon výslovně připouští, aby se provozovatel přenosové soustavy podílel na zakládání nebo účastnil nadnárodních společností za účelem společného provozování přenosových soustav ve více státech — typicky přeshraniční propojovací vedení. Podmínkou je, aby ostatní účastníci takového subjektu byli rovněž certifikovanými vlastnicky oddělenými nebo nezávislými provozovateli přenosových soustav.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Energetická skupina „HoldEn, a. s." kontroluje prostřednictvím své dceřiné společnosti jak provozovatele přenosové soustavy (PPS), tak významného obchodníka s elektřinou. V rámci personální politiky skupina jmenovala do dozorčí rady PPS pana Dvořáka, který je zároveň členem představenstva obchodníka s elektřinou ze stejné skupiny. Skupina dále drží v PPS hlasovací práva přesahující 50 % a uplatňuje vůči PPS pokyny ohledně obchodní strategie. ERÚ v rámci certifikace provozovatele přenosové soustavy zkoumá splnění podmínek vlastnického oddělení. Důkazy: výpisy z obchodního rejstříku, struktura akcionářů a hlasovacích práv, stanovy PPS, seznam členů orgánů PPS a obchodníka, doklady o výkonu kontroly.
+
+**2. Právní otázka.** Splňuje provozovatel přenosové soustavy podmínky vlastnického oddělení podle § 24a odst. 2, je-li nad ním vykonávána kontrola osobou, která zároveň kontroluje obchodníka s elektřinou, a je-li ve statutárních/dozorčích orgánech personální průnik?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24a odst. 2 písm. b)–f) (podmínky nezávislosti — zákaz společné kontroly, zákaz personálního průniku v orgánech); odst. 5 (zákaz nabytí kontroly výrobcem/obchodníkem); odst. 6 (definice „jiného práva", práh 50 % základního kapitálu).
+- *Související ustanovení téhož zákona:* § 24 odst. 2 (licenční exkluzivita PPS); § 24 odst. 11 (informační bariéry); § 24a odst. 3 (výjimka pro veřejnoprávní vlastníky); § 25a (mírnější funkční oddělení u distribuce).
+- *Související předpisy:* směrnice 2019/944 (čl. 43–47, vlastnické oddělení); navazující dříve směrnice 2009/72/ES.
+- *Judikatura:* nosně relevantní je unijní výklad pojmu „kontrola" a „jednání ve shodě" v oblasti unbundlingu; obecná zásada efektivního oddělení vyžadující skutečnou, nejen formální nezávislost provozovatele soustavy.
+
+**4. Subsumpce.** Vykonává-li tatáž osoba (skupina) kontrolu nad PPS i nad obchodníkem, je porušena podmínka odst. 2 písm. b) (zákaz společné kontroly). Personální průnik — pan Dvořák je členem dozorčí rady PPS a současně členem představenstva obchodníka — porušuje podmínku odst. 2 písm. f) (zákaz souběhu funkcí). Hlasovací práva > 50 % a uplatňování pokynů naplňují „jiné právo" dle odst. 6 a jsou v rozporu s odst. 5. Podmínky vlastnického oddělení tedy splněny nejsou.
+
+**5. Řešení.** PPS v této struktuře nelze certifikovat jako vlastnicky odděleného provozovatele. Náprava vyžaduje: (i) odstranění společné kontroly (skupina se musí vzdát kontroly buď nad PPS, nebo nad obchodníkem); (ii) ukončení personálního průniku (pan Dvořák nemůže být současně v orgánech PPS a obchodníka); (iii) snížení/oddělení hlasovacích práv pod prahové hodnoty. Praktický postup: restrukturalizace vlastnických vztahů, změna obsazení orgánů, úprava stanov. Riziko: bez nápravy ERÚ certifikaci neudělí, resp. ji odejme.
+
+**6. Varianty.** (a) Kdyby na obou stranách stály dva odlišné a navzájem nezávislé státní orgány nebo orgány ÚSC, uplatnila by se výjimka dle odst. 3 — nešlo by o „tutéž osobu" a podmínky by mohly být splněny (klíčové pro českou situaci stát–ČEPS vs. stát–ČEZ). (b) Kdyby skupina držela v PPS jen menšinový podíl bez kontroly a bez personálního průniku, podmínky nezávislosti by mohly být splněny.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o čistě formálním pohledu.* Skupina může tvrdit, že fakticky do provozu PPS nezasahuje. Neutralizace: unbundling vyžaduje strukturální, nikoli jen faktickou nezávislost; existence kontroly a personálního průniku porušuje podmínky bez ohledu na to, zda je kontrola reálně vykonávána.
+- *Protiargument o veřejnoprávní výjimce.* Skupina by mohla nárokovat výjimku dle odst. 3. Neutralizace: výjimka platí jen pro stát/ÚSC a jen jsou-li dotčené orgány navzájem nezávislé; u soukromé skupiny se neuplatní.
+- *Slabé místo:* posouzení „jednání ve shodě" a „nepřímé kontroly" je skutkově náročné; chybí-li úplná dokumentace vlastnické struktury, hrozí nesprávné posouzení nezávislosti.
+
+#### H. Praktický závěr
+
+§ 24a zavádí nejpřísnější model unbundlingu — vlastnické oddělení provozovatele přenosové soustavy ve čtyřech dimenzích (kapitálová, personální, informační, provozní). Klíčová je výjimka pro veřejnoprávní vlastníky (odst. 3), bez níž by česká situace (stát ovládající ČEPS i ČEZ) byla neudržitelná.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že PPS je vlastníkem přenosové soustavy (odst. 2 písm. a).
+- [ ] Vyloučit společnou kontrolu nad PPS a nad výrobcem/obchodníkem (odst. 2 písm. b–d, odst. 5).
+- [ ] Zkontrolovat absenci personálního průniku v orgánech PPS a výrobce/obchodníka (odst. 2 písm. e–f).
+- [ ] Posoudit „jiné právo" a prahové hodnoty (hlasovací práva, podíl > 50 % — odst. 6).
+- [ ] U veřejnoprávních vlastníků prověřit aplikaci výjimky dle odst. 3 (vzájemná nezávislost orgánů).
+
+**Typicky rozhodné důkazy / podklady:** výpisy z obchodního rejstříku, schéma vlastnické a kontrolní struktury, stanovy PPS, seznam členů orgánů PPS a výrobce/obchodníka, akcionářské a hlasovací dohody, certifikační rozhodnutí ERÚ.
 
 ---
 
@@ -500,6 +685,43 @@ Zákon ukládá provozovatelům distribučních soustav zveřejňovat a jednou m
 
 Zákon výslovně ukládá, aby provozovatel distribuční soustavy **umožnil podávání žádostí o připojení výhradně v elektronické podobě**. Jde o digitalizační povinnost — alternativní papírová cesta pro žadatele je vyloučena. Podmínky elektronického systému si provozovatel stanoví v Pravidlech provozování distribuční soustavy.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Regionální provozovatel distribuční soustavy (PDS) zřídil před lety v rámci obnovy sítě nové kabelové vedení NN přes pozemek pana Procházky, aniž k němu zřídil věcné břemeno; PDS přitom zřízení věcného břemene sám nezmařil, jednání s předchozím vlastníkem zůstalo nedokončené. Pan Procházka, který pozemek nabyl později, se domáhá odstranění vedení jako neoprávněné stavby a odmítá uzavřít smlouvu o věcném břemeni. PDS podává vyvlastňovacímu úřadu návrh na zřízení věcného břemene ex post podle § 25 odst. 4. Současně PDS plánuje krátkou provozní manipulaci (přepojení), při níž bude dodávka přerušena na 15 minut, a neoznámil ji 15 dnů předem. Důkazy: geometrický plán a zaměření vedení, výpis z katastru, dokumentace o jednání s předchozím vlastníkem, doklad o tom, že PDS zřízení věcného břemene nezmařil, znalecký posudek o ceně náhrady.
+
+**2. Právní otázka.** Může vyvlastňovací úřad zřídit věcné břemeno k cizí nemovitosti i ex post — tedy poté, co již bylo zařízení distribuční soustavy zřízeno bez věcného břemene — a jaké procesní podmínky musí být splněny (§ 25 odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25 odst. 4 (povinnost zřídit věcné břemeno, ex post zřízení, vyvlastnění při nedostupnosti vlastníka); odst. 3 písm. e) (zákonné věcné právo zřizovat zařízení); odst. 5 (oznamovací lhůta 15 dnů, výjimka pro manipulace do 20 minut).
+- *Související ustanovení téhož zákona:* § 25 odst. 2 (zákaz souběhu licencí nad 90 000 OM); odst. 7 (vyloučení náhrady škody s výjimkami); odst. 9 (jednorázová náhrada, prekluze 2 roky); § 24 odst. 4 (paralelní úprava u přenosové soustavy).
+- *Související předpisy:* zákon o vyvlastnění (zák. č. 184/2006 Sb.); novela EnergZ č. 225/2017 Sb. (doplnění poslední věty odst. 4 s účinností od 1. 1. 2018); občanský zákoník (neoprávněná stavba, věcná břemena).
+- *Judikatura:* NSS 3 As 276/2023 - 36 ze 14. 1. 2025 (citováno v komentáři) — vyvlastňovací úřad vydá rozhodnutí i tehdy, je-li stavba zřizována nebo již zřízena a zřízení věcného břemene PDS nezmařil; to však neznamená, že při chybějícím soukromoprávním titulu nejde o stavbu neoprávněnou a že se vlastník nemůže bránit soukromoprávními prostředky.
+
+**4. Subsumpce.** Vedení NN je zařízením distribuční soustavy zřízeným podle odst. 3 písm. e). Znak „stavba již byla zřízena bez věcného břemene" je naplněn; znak „PDS zřízení věcného břemene nezmařil" je dle dokumentace rovněž naplněn — proto je aplikovatelná poslední věta odst. 4 umožňující ex post zřízení. Vyvlastňovací úřad tedy může věcné břemeno zřídit i zpětně. Současně plánovaná manipulace do 20 minut nepodléhá oznamovací povinnosti (výjimka v odst. 5) — neoznámení 15 dnů předem zde není pochybením.
+
+**5. Řešení.** Vyvlastňovací úřad může zřídit věcné břemeno ex post; PDS musí doložit subsidiaritu (marnost dohody) a nabídnout náhradu dle oceňovacího předpisu. Současně dle nosného závěru NSS 3 As 276/2023 zůstává stavba bez soukromoprávního titulu „neoprávněnou" a vlastník se proti ní může bránit i soukromoprávně — vyvlastňovací rozhodnutí tyto soukromoprávní prostředky teprve zhojí do budoucna. Praktický postup: paralelně vést vyvlastňovací řízení a nabízet smírné zřízení věcného břemene. Manipulaci do 20 minut lze provést bez předchozího 15denního oznámení.
+
+**6. Varianty.** (a) Kdyby PDS zřízení věcného břemene sám zmařil (např. ignoroval součinnost vlastníka), aplikace ex post zřízení dle poslední věty odst. 4 by byla vyloučena. (b) Kdyby plánované přerušení trvalo déle než 20 minut (např. 2 hodiny), výjimka by se neuplatnila a PDS by byl povinen oznámit přerušení nejméně 15 dnů předem; jeho opomenutí by aktivovalo výjimku z vyloučení náhrady škody (odst. 7).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument vlastníka o odstranění stavby.* Vlastník může trvat na odstranění vedení jako neoprávněné stavby. Neutralizace: NSS 3 As 276/2023 sice potvrzuje, že stavba je bez titulu neoprávněná, ale zároveň připouští ex post zřízení věcného břemene vyvlastněním; po jeho zřízení odpadá důvod pro odstranění.
+- *Protiargument o ceně náhrady.* Vlastník může zpochybnit výši náhrady dle oceňovacího předpisu. Neutralizace: zákon umožňuje odlišnou dohodu; přednostně usilovat o smluvní cenu, jinak ji určí znalecký posudek v řízení.
+- *Slabé místo:* podmínka „PDS zřízení věcného břemene nezmařil" je skutkově sporná; chybí-li dokumentace o jednání s původním vlastníkem, hrozí, že úřad ex post zřízení odmítne.
+
+#### H. Praktický závěr
+
+§ 25 vymezuje postavení provozovatele distribuční soustavy obdobně jako § 24 PPS, avšak s mírnějšími prahy (oznamovací lhůta 15 dnů místo 50, výjimka pro manipulace do 20 minut, podmíněný zákaz souběhu licencí nad 90 000 odběrných míst). Klíčový je judikaturou potvrzený institut ex post zřízení věcného břemene (odst. 4) a nové povinnosti transparentnosti (interaktivní mapa volné kapacity, elektronická podání).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U zařízení zřízeného bez věcného břemene prověřit, zda PDS jeho zřízení nezmařil (podmínka ex post zřízení dle odst. 4 a NSS 3 As 276/2023).
+- [ ] Posoudit subsidiaritu vyvlastnění (přednost smluvního zřízení za cenu dle oceňovacího předpisu).
+- [ ] U přerušení dodávky rozlišit, zda jde o manipulaci do 20 minut (bez oznámení), nebo plánovanou práci (oznámení 15 dnů předem).
+- [ ] Ověřit zákaz souběhu licencí u PDS nad 90 000 odběrných míst (odst. 2).
+- [ ] Zkontrolovat plnění povinností transparentnosti (interaktivní mapa volné kapacity, elektronická podání — odst. 11, 17).
+
+**Typicky rozhodné důkazy / podklady:** geometrický plán a zaměření vedení, výpis z katastru, dokumentace o jednání s vlastníky a o (ne)zmaření věcného břemene, znalecký posudek o ceně, doklad o oznámení přerušení, cenové rozhodnutí ERÚ.
+
 ---
 
 ### § 25a — Oddělení provozovatelů distribuční soustavy
@@ -552,6 +774,43 @@ Vedoucí zaměstnanci a členové statutárního orgánu provozovatele distribuc
 
 Odst. 8 výslovně upravuje případ, kdy oddělení je realizováno pachtem obchodního závodu nebo jeho části — typická situace ve skupinách s jedinou distribuční sítí. Pachtýř (provozovatel distribuce) přebírá závod do svého účetnictví; propachtovatel musí sdělit informace o hodnotě propachtovaného majetku v rozsahu nezbytném pro ERÚ při cenové regulaci. Tato povinnost zajišťuje transparentnost pro regulátora.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Regionální provozovatel distribuční soustavy „RegioDist, a. s." (250 000 odběrných míst) je součástí vertikálně integrované skupiny, jejíž součástí je i obchodník s elektřinou „RegioTrade". Skupina jmenovala ředitelem provozu RegioDist pana Krátkého, který je zároveň vedoucím zaměstnancem RegioTrade. Odměna pana Krátkého je z části navázána na celoskupinový hospodářský výsledek (vč. zisku obchodníka). RegioDist dosud nepřijal program rovného zacházení ani neobsadil auditora programu; zákazníci mimo skupinu si stěžují, že při vyřizování žádostí o připojení jsou systematicky upřednostňováni zákazníci RegioTrade. Důkazy: organizační schéma skupiny, pracovní smlouvy a popis funkcí pana Krátkého, mzdový předpis (vazba odměny na výsledek skupiny), evidence žádostí o připojení a lhůt jejich vyřízení, vnitřní předpisy RegioDist.
+
+**2. Právní otázka.** Splňuje provozovatel distribuční soustavy v rámci vertikálně integrovaného podnikatele minimální kritéria funkčního oddělení podle § 25a, je-li tatáž osoba současně ve vedení PDS i obchodníka a je-li její odměna vázána na výsledek skupiny, a chybí-li program rovného zacházení a auditor?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25a odst. 2 písm. a) (zákaz souběhu řídících funkcí PDS a obchodníka), písm. b) (nezávislost odměňování); odst. 3 (povinný program rovného zacházení); odst. 4–5 (auditor programu a výroční zpráva ERÚ a ministerstvu); odst. 9 (výjimka pod 90 000 OM).
+- *Související ustanovení téhož zákona:* § 25 odst. 2 (zákaz souběhu licencí nad 90 000 OM); § 25a odst. 6 (zákaz podílů vedoucích osob nad 1 %); odst. 7 (zákaz ovládacích smluv); odst. 10 (zákaz uvedení v omyl možností záměny); § 24a (přísnější vlastnické oddělení u PPS).
+- *Související předpisy:* směrnice 2019/944 (čl. 35, funkční oddělení distribuce).
+- *Judikatura:* nosně relevantní je unijní požadavek skutečné nezávislosti rozhodování PDS a zákazu diskriminace třetích stran; obecná zásada, že compliance nástroje (program, auditor) jsou obligatorní, nikoli fakultativní.
+
+**4. Subsumpce.** RegioDist má 250 000 odběrných míst — výjimka pod 90 000 OM (odst. 9) se neuplatní, oddělení je povinné. Souběh funkcí pana Krátkého (ředitel provozu PDS a současně vedoucí zaměstnanec obchodníka) porušuje odst. 2 písm. a). Navázání jeho odměny na výsledek skupiny porušuje odst. 2 písm. b). Absence programu rovného zacházení porušuje odst. 3; neobsazení auditora porušuje odst. 4. Systematické upřednostňování zákazníků RegioTrade je diskriminačním jednáním, jemuž má program rovného zacházení předcházet.
+
+**5. Řešení.** RegioDist musí: (i) ukončit souběh řídících funkcí pana Krátkého; (ii) oddělit jeho odměňování od výsledků ostatních licencovaných subjektů skupiny; (iii) přijmout program rovného zacházení a seznámit s ním zaměstnance; (iv) obsadit nezávislého auditora programu, který podává výroční zprávu ERÚ a ministerstvu. Praktický postup: změna organizační struktury, úprava mzdových předpisů, přijetí vnitřního předpisu, nominace auditora. Riziko: bez nápravy hrozí sankce ERÚ a důvodné stížnosti diskriminovaných zákazníků; diskriminace může vést k nápravným opatřením regulátora.
+
+**6. Varianty.** (a) Kdyby PDS poskytoval služby méně než 90 000 odběrným místům, výjimka dle odst. 9 by jej od povinnosti oddělení osvobodila — souběh funkcí i absence programu by nebyly v rozporu se zákonem. (b) Kdyby pan Krátký nebyl ve vedení obchodníka, ale jen řadovým zaměstnancem nesouvisejícího útvaru, k porušení odst. 2 písm. a) by nedošlo (zákaz míří na řídící/vedoucí pozice).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o menší přísnosti funkčního oddělení.* Skupina může tvrdit, že funkční oddělení (na rozdíl od vlastnického) je benevolentní a personální vazby toleruje. Neutralizace: i funkční oddělení obsahuje tvrdá minimální kritéria (odst. 2) vč. zákazu souběhu řídících funkcí a nezávislosti odměňování; ta jsou závazná.
+- *Protiargument o formálnosti programu.* Lze namítnout, že program rovného zacházení je formalitou. Neutralizace: program i auditor jsou obligatorní; jejich absence je samostatným porušením bez ohledu na to, zda k diskriminaci skutečně došlo.
+- *Slabé místo:* prokázání systematické diskriminace při vyřizování žádostí je důkazně náročné; bez evidence lhůt a srovnání s vlastními zákazníky skupiny hrozí, že stížnosti neobstojí.
+
+#### H. Praktický závěr
+
+§ 25a zavádí funkční oddělení provozovatele distribuční soustavy ve vertikálně integrované skupině — méně přísné než vlastnické oddělení PPS (§ 24a), neboť nevyžaduje oddělení vlastnictví majetku. Klíčovými nástroji jsou minimální kritéria nezávislosti (odst. 2), program rovného zacházení (odst. 3) a nezávislý auditor (odst. 4–5); povinnost se vztahuje na PDS nad 90 000 odběrných míst.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda PDS překračuje 90 000 odběrných míst (jinak výjimka dle odst. 9).
+- [ ] Zkontrolovat absenci souběhu řídících funkcí PDS a výrobce/obchodníka/PPS (odst. 2 písm. a).
+- [ ] Posoudit nezávislost odměňování vedení PDS na výsledcích skupiny (odst. 2 písm. b).
+- [ ] Ověřit existenci programu rovného zacházení (odst. 3) a obsazení nezávislého auditora s výroční zprávou ERÚ a ministerstvu do 30. 4. (odst. 4–5).
+- [ ] Prověřit zákaz podílů vedoucích osob nad 1 % (odst. 6) a zákaz ovládacích smluv (odst. 7).
+
+**Typicky rozhodné důkazy / podklady:** organizační schéma skupiny, pracovní smlouvy a popisy funkcí vedení, mzdové předpisy, program rovného zacházení a výroční zpráva auditora, evidence žádostí o připojení a lhůt jejich vyřízení.
+
 ---
 
 ### § 25b — Vlastnictví zařízení pro ukládání energie a dobíjecích stanic pro elektrická vozidla
@@ -594,6 +853,43 @@ Regionální provozovatel distribuční soustavy **nesmí vlastnit ani provozova
 #### Povinnost zcizení při neoprávněném vlastnictví (odst. 9)
 
 Zákon zavádí přísnou sankční normu: pokud provozovatel přenosové nebo distribuční soustavy nabyde zařízení pro ukládání energie v rozporu se zákonem (bez povolení ERÚ nebo mimo výjimky), je povinen je zcizit do **1 roku** od nabytí. Tato lhůta je pevná a nenastoupí automatické zrušení vlastnictví — zákon ponechává voluntaristický přístup k zcizení, ale stanoví jeho povinnost a časový limit.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Regionální provozovatel distribuční soustavy „RegioDist, a. s." chce v uzlové rozvodně instalovat bateriové úložiště o výkonu 10 MW, které by sloužilo k řízení napětí a okamžitému vyrovnávání lokálních výkyvů v dané části sítě (typicky frekvenční/napěťová regulace). RegioDist požádal ERÚ o povolení vlastnit a provozovat toto úložiště jako plně integrovaný prvek soustavy. Souběžně RegioDist zvažuje, že přebytečnou kapacitu úložiště bude v době nečinnosti nabízet jako podpůrnou službu na trhu a část elektřiny prodávat sousednímu obchodníkovi. Plánuje rovněž zřídit v areálu vlastní veřejně přístupnou dobíjecí stanici pro elektromobily. Důkazy: technický popis úložiště a jeho integrace do sítě, žádost o povolení ERÚ, projektová dokumentace rozvodny, doklad o charakteru dobíjecí stanice (veřejně přístupná dle zákona o pohonných hmotách).
+
+**2. Právní otázka.** Za jakých podmínek smí provozovatel distribuční soustavy vlastnit a provozovat zařízení pro ukládání energie (§ 25b odst. 1–3) a smí takové úložiště využívat komerčně (dodávky jiným, podpůrné služby) či provozovat veřejně přístupnou dobíjecí stanici (odst. 5)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25b odst. 1 (povolení ERÚ, výjimka pro vlastní potřebu); odst. 2 (podmínka plně integrovaného prvku); odst. 3 (zákaz komerčního využití úložiště); odst. 5 (zákaz veřejně přístupných dobíjecích stanic u regionální PDS); odst. 9 (povinnost zcizení do 1 roku při neoprávněném vlastnictví).
+- *Související ustanovení téhož zákona:* § 23a (provozovatel úložiště jako samostatný subjekt); § 24a odst. 1 a § 25a odst. 1 (právo vlastnit úložiště za podmínek § 25b); § 25b odst. 6 (mírnější režim u neregionálních/průmyslových distribučních soustav).
+- *Související předpisy:* směrnice 2019/944 (čl. 36, zákaz vlastnictví úložišť síťaři); nařízení 2019/943 (čl. 13, řízení přetížení); zákon o pohonných hmotách (veřejně přístupná dobíjecí stanice).
+- *Judikatura:* nosně relevantní je unijní princip oddělení síťové a komerční činnosti; úložiště síťaře je výjimkou striktně omezenou na funkci integrovaného prvku.
+
+**4. Subsumpce.** Úložiště RegioDist sloužící řízení napětí a vyrovnávání v dané části sítě splňuje podmínku „plně integrovaného prvku soustavy" (odst. 2) a ERÚ může povolení udělit. Naopak zamýšlené komerční využití — nabízení podpůrných služeb na trhu a prodej elektřiny obchodníkovi — je v přímém rozporu s odst. 3 (zákaz dodávek jiným, poskytování podpůrných služeb a využití jako náhrady služeb dle čl. 13 nařízení 2019/943). Veřejně přístupná dobíjecí stanice je u regionální PDS zakázána (odst. 5).
+
+**5. Řešení.** ERÚ může povolit vlastnictví a provoz úložiště jen jako plně integrovaného prvku sítě, který RegioDist nesmí využívat komerčně. Komerční ambice (podpůrné služby na trhu, prodej obchodníkovi) je nutné opustit, jinak by povolení nebylo udělitelné, resp. by bylo zrušeno (odst. 8). Veřejně přístupnou dobíjecí stanici regionální PDS provozovat nesmí — smí jen neveřejnou. Praktický postup: žádost omezit výlučně na funkci integrovaného prvku; pro dobíjecí stanici využít jiný subjekt skupiny mimo regionální PDS. Riziko: nabytí úložiště v rozporu se zákonem zakládá povinnost zcizení do 1 roku (odst. 9).
+
+**6. Varianty.** (a) Kdyby šlo o provozovatele jiné než regionální (např. průmyslové/uzavřené) distribuční soustavy splňujícího podmínky odst. 6, mohl by s povolením ERÚ vlastnit i neintegrované úložiště nebo veřejně přístupnou dobíjecí stanici. (b) Kdyby úložiště sloužilo jen vlastní provozní potřebě PDS nesouvisející s řízením soustavy (např. záložní UPS pro IT), nevyžadovalo by vůbec povolení ERÚ (výjimka v odst. 1).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o efektivním využití aktiv.* PDS může tvrdit, že komerční využití nečinné kapacity úložiště je hospodárné. Neutralizace: odst. 3 komerční využití kategoricky zakazuje; hospodárnost neospravedlňuje porušení zákazu — komerční úložiště musí provozovat netto subjekt mimo síťaře.
+- *Protiargument o „integrovaném prvku" extenzivně.* PDS by mohl pojem integrovaného prvku vykládat široce, aby pokryl i tržní aktivity. Neutralizace: integrovaný prvek je technicky vázán na potřeby soustavy (regulace napětí/frekvence v daném místě); nelze pod něj podřadit tržní obchodování.
+- *Slabé místo:* hranice mezi povolenou regulační funkcí a zakázaným využitím „jako náhrada služeb pro výkonovou rovnováhu/řízení přetížení" (čl. 13 nařízení) je odborně náročná; chybí-li jasné technické vymezení, hrozí spor o rozsah povolení.
+
+#### H. Praktický závěr
+
+§ 25b zakotvuje zásadu zákazu vlastnictví úložišť provozovateli soustav s úzkými výjimkami: vlastní provozní potřeba (bez povolení) a plně integrovaný prvek soustavy (s povolením ERÚ, bez komerčního využití). Regionální PDS nesmí provozovat veřejně přístupné dobíjecí stanice; neregionální/průmysloví provozovatelé mají mírnější režim (odst. 6). Neoprávněné vlastnictví aktivuje povinnost zcizení do 1 roku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Rozlišit, zda úložiště slouží vlastní provozní potřebě (bez povolení) nebo jako integrovaný prvek soustavy (povolení ERÚ).
+- [ ] Vyloučit komerční využití úložiště síťařem — dodávky jiným, podpůrné služby, náhrada služeb dle čl. 13 nařízení (odst. 3).
+- [ ] U dobíjecích stanic ověřit, zda jde o regionální PDS (zákaz veřejně přístupných) nebo neregionální provozovatel dle odst. 6.
+- [ ] Zkontrolovat oznámení změny skutečností ERÚ (odst. 7) a riziko zrušení povolení (odst. 8).
+- [ ] Při neoprávněném vlastnictví prověřit splnění povinnosti zcizení do 1 roku (odst. 9).
+
+**Typicky rozhodné důkazy / podklady:** technický popis úložiště a jeho integrace do sítě, žádost a povolení ERÚ, projektová dokumentace, doklad o charakteru dobíjecí stanice, evidence využití úložiště (vyloučení komerčních dodávek).
 
 ---
 
@@ -659,6 +955,43 @@ Odst. 6 stanoví povinnost provozovatele soustavy poskytnout výrobci **náhradu
 
 Odst. 8 výslovně vylučuje, že by dispečerské řízení **napětí a jalových výkonů** bylo považováno za omezení výroby. Tato klauzule má praktický dopad: výrobce nebo provozovatel úložiště nemůže nárokovat náhradu za pokyn ke změně napětí nebo jalového výkonu, protože taková opatření nejsou „redispatchem" ve smyslu odst. 5 a 6.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Při lokálním přetížení sítě v důsledku náhlého přebytku výroby z fotovoltaiky technický dispečink provozovatele přenosové soustavy (ČEPS) — poté, co vyčerpal sjednané možnosti omezování rezervovaných výkonů i dostupné tržní mechanismy (regulační energii) — vydal pokyn k dočasnému omezení výroby ve fotovoltaické výrobně „SluníčkoPower, s. r. o." (příjemce podpory POZE) o 8 MWh. Výrobna byla připojena standardně, tj. bez sjednané možnosti omezení rezervovaného výkonu bez náhrady. SluníčkoPower následně požaduje náhradu za neodebranou (nevyrobenou) elektřinu ve výši, kterou by získala, kdyby výroba nebyla omezena; provozovatel nabízí nižší částku. Důkazy: dispečerský příkaz a jeho časový záznam, doklad o vyčerpání omezování rezervovaných výkonů a tržních mechanismů, smlouva o připojení (absence non-firm doložky), údaje o objemu nevyrobené elektřiny, doklad o příjmu z podpory POZE.
+
+**2. Právní otázka.** Náleží výrobci OZE s podporou náhrada za omezení výroby provedené dispečinkem mimo stav nouze, a v jaké výši se náhrada vypočte (§ 26 odst. 6 písm. a) ve spojení s odst. 5)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26 odst. 5 (zákonné zmocnění k redispatchi a pořadí opatření); odst. 6 písm. a) (náhrada výrobci OZE s podporou ve výši celkového příjmu po odečtu nákladů); odst. 6 věta poslední (spory řeší ERÚ); odst. 8 (řízení napětí/jalového výkonu není omezení výroby).
+- *Související ustanovení téhož zákona:* § 23 odst. 4 (výrobce neodpovídá za odchylku z dispečerského řízení dle § 26 odst. 5); § 24 odst. 3 písm. d) bod 11 (oprávnění PPS k dispečerskému řízení); § 24 odst. 12 a § 25 odst. 13 (non-firm připojení bez náhrady); zákon o podporovaných zdrojích energie.
+- *Související předpisy:* nařízení 2019/943 (čl. 13 — redispatch a kompenzace); zákon č. 165/2012 Sb., o podporovaných zdrojích energie.
+- *Judikatura:* nosně relevantní je unijní princip plné kompenzace při nucené redukci výroby z OZE; obecná zásada, že náhrada má pokrýt ztrátu příjmu, jehož by výrobce bez omezení dosáhl.
+
+**4. Subsumpce.** Pokyn dispečinku byl vydán mimo stav nouze a teprve po vyčerpání omezování rezervovaných výkonů a tržních mechanismů — pořadí opatření dle odst. 5 bylo dodrženo. Výrobna je výrobnou OZE s podporou; připojení nebylo sjednáno jako non-firm. Tím je naplněna hypotéza odst. 6 písm. a): výrobci náleží náhrada ve výši celkového příjmu (po odečtu nákladů za nevyrobenou elektřinu), kterého by dosáhl, kdyby výroba nebyla omezena. Současně výrobce neodpovídá za odchylku vzniklou tímto řízením (§ 23 odst. 4).
+
+**5. Řešení.** SluníčkoPower má nárok na náhradu dle odst. 6 písm. a) ve výši celkového příjmu (vč. složek podpory) po odečtu ušetřených nákladů za nevyrobenou elektřinu. Liší-li se nabízená a požadovaná částka, jde o spor o výši náhrady, o němž rozhoduje ERÚ (odst. 6 in fine). Praktický postup: výrobce doloží objem nevyrobené elektřiny a strukturu příjmu; při neshodě podá podnět/návrh ERÚ. Riziko: nesprávné vyčíslení odečitatelných nákladů; sporné může být zahrnutí jednotlivých složek podpory do „celkového příjmu".
+
+**6. Varianty.** (a) Kdyby bylo připojení sjednáno jako non-firm (s možností omezení rezervovaného výkonu bez náhrady — § 24 odst. 12 / § 25 odst. 13), náhrada by dle odst. 6 nenáležela. (b) Kdyby šlo o výrobce bez podpory POZE, náhrada by se řídila odst. 6 písm. b) — ve výši sjednané ve smlouvě nebo stanovené dle nařízení 2019/943, nikoli dle režimu plného příjmu OZE.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o vyčerpání tržních mechanismů.* Výrobce může tvrdit, že dispečink nevyčerpal tržní mechanismy a redispatch byl předčasný. Neutralizace: provozovatel musí doložit pořadí opatření dle odst. 5 (omezení rezervovaných výkonů → tržní mechanismy → redispatch); chybí-li doklad, oslabuje to legalitu redispatchu, nikoli však nárok výrobce na náhradu.
+- *Protiargument o výši náhrady.* Provozovatel může odečítat širší okruh „nákladů". Neutralizace: odečítají se jen náklady za nevyrobenou elektřinu; spor o rozsah rozhodne ERÚ jako zákonný arbitr.
+- *Slabé místo:* zahrnutí podpory POZE do „celkového příjmu" je interpretačně sporné; bez precizního výpočtu hrozí podhodnocení i nadhodnocení náhrady.
+
+#### H. Praktický závěr
+
+§ 26 zavádí hierarchii dispečerského řízení (nadřazenost PPS, odst. 1–4) a zákonné zmocnění k redispatchi (odst. 5) s přísným pořadím opatření. Klíčové je právo výrobce na náhradu za nucené omezení mimo stav nouze (odst. 6): výrobci OZE s podporou náleží náhrada ve výši plného příjmu, ostatním dle smlouvy/nařízení; spory řeší ERÚ. Řízení napětí a jalového výkonu se za omezení výroby nepovažuje (odst. 8).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že redispatch proběhl mimo stav nouze a po vyčerpání omezování rezervovaných výkonů a tržních mechanismů (pořadí dle odst. 5).
+- [ ] Zjistit, zda bylo připojení sjednáno jako non-firm (vyloučení náhrady) nebo standardní.
+- [ ] Zařadit výrobce: OZE s podporou (odst. 6 písm. a — plný příjem) vs. ostatní (písm. b — smlouva/nařízení).
+- [ ] Při sporu o výši náhrady připravit podklady pro rozhodnutí ERÚ.
+- [ ] Odlišit redispatch od řízení napětí/jalového výkonu (odst. 8 — bez nároku na náhradu) a uplatnit vyloučení odpovědnosti za odchylku (§ 23 odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** dispečerský příkaz s časovým záznamem, doklad o vyčerpání omezování rezervovaných výkonů a tržních mechanismů, smlouva o připojení (non-firm doložka), údaje o objemu nevyrobené elektřiny, struktura příjmu a nákladů, doklad o podpoře POZE.
+
 ---
 
 ### § 26a — Národní výcvikový plán
@@ -674,6 +1007,43 @@ Odst. 8 výslovně vylučuje, že by dispečerské řízení **napětí a jalov�
 **Výklad:**
 
 § 26a zavádí **národní výcvikový plán** jako nástroj koordinace simulačního výcviku a krizových cvičení dispečerského personálu. Povinnost zpracovat plán leží na provozovateli přenosové soustavy ve spolupráci s regionálními distributory. Zákon navíc ukládá účast na výcviku i třetím stranám — **významným uživatelům sítě** (definovaným v technickém nařízení EU pro provoz přenosových soustav), **poskytovatelům podpůrných služeb** a **poskytovatelům flexibility**. Tím zákon reaguje na zvyšující se komplexitu moderní elektrizační soustavy s vysokým podílem variabilních obnovitelných zdrojů.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel přenosové soustavy (ČEPS) zpracoval ve spolupráci s regionálními distributory národní výcvikový plán a zveřejnil jej na svých internetových stránkách. Plán předpokládá pravidelný společný simulační výcvik dispečerů a krizová cvičení. Společnost „MegaWatt Industry, a. s.", která provozuje velkou výrobnu a je významným uživatelem sítě ve smyslu nařízení EU o provozu přenosových soustav a zároveň poskytovatelem podpůrných služeb, odmítla vyslat své dispečery na společný výcvik s tím, že jí žádná taková povinnost neplyne a že výcvik je věcí provozovatelů soustav. Důkazy: zveřejněný národní výcvikový plán, doklad o postavení MegaWatt jako významného uživatele sítě, smlouva o poskytování podpůrných služeb, pozvánka na společný výcvik a odmítavá reakce.
+
+**2. Právní otázka.** Je významný uživatel sítě, který je zároveň poskytovatelem podpůrných služeb, povinen účastnit se v rozsahu národního výcvikového plánu společného výcviku osob podílejících se na dispečerském řízení (§ 26a odst. 3)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26a odst. 1 (povinnost PPS zpracovat plán a součinnost regionálních PDS); odst. 2 (společný výcvik PPS a regionálních PDS); odst. 3 (povinná účast významných uživatelů sítě, poskytovatelů podpůrných služeb a flexibility).
+- *Související ustanovení téhož zákona:* § 24 odst. 1 a § 26 (dispečerské řízení a bezpečnost soustavy); § 23 odst. 1 písm. d) (poskytování podpůrných služeb/flexibility); § 31 (agregátor — poskytovatel flexibility).
+- *Související předpisy:* nařízení EU, kterým se stanoví rámcový pokyn pro provoz elektroenergetických přenosových soustav (definice významného uživatele sítě).
+- *Judikatura:* nosně relevantní je zásada, že provozní bezpečnost soustavy vyžaduje koordinovanou připravenost všech klíčových účastníků; obecný princip, že zákonem uložená účast na výcviku je veřejnoprávní povinností, nikoli dobrovolností.
+
+**4. Subsumpce.** MegaWatt je významným uživatelem sítě (dle nařízení EU) a současně poskytovatelem podpůrných služeb — naplňuje obě alternativy okruhu povinných osob dle odst. 3. Existuje zveřejněný národní výcvikový plán (odst. 1). Tím je naplněna hypotéza odst. 3: MegaWatt je povinen se v rozsahu plánu účastnit společného výcviku osob podílejících se na dispečerském řízení. Odmítnutí účasti je porušením této povinnosti.
+
+**5. Řešení.** MegaWatt je povinen vyslat dotčené osoby na společný výcvik v rozsahu národního výcvikového plánu. Argument, že jde výlučně o věc provozovatelů soustav, neobstojí — zákon výslovně rozšiřuje účast na třetí strany (významné uživatele sítě, poskytovatele podpůrných služeb a flexibility). Praktický postup: zařadit účast do interních provozních postupů, koordinovat termíny s PPS. Riziko: nesplnění povinnosti může být posouzeno jako porušení zákona s důsledky v rovině dohledu; v krajním případě ohrožuje koordinovanou připravenost soustavy.
+
+**6. Varianty.** (a) Kdyby MegaWatt nebyl významným uživatelem sítě ani poskytovatelem podpůrných služeb či flexibility, povinnost účasti dle odst. 3 by jej netížila. (b) Kdyby šlo o malého výrobce bez postavení významného uživatele sítě, byl by mimo osobní rozsah odst. 3, byť by se na něj nadále vztahovaly obecné povinnosti dispečerského řízení dle § 26.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o nepřiměřené zátěži.* Povinný subjekt může namítat náklady a organizační zátěž výcviku. Neutralizace: rozsah účasti je vymezen národním výcvikovým plánem (proporcionálně); veřejný zájem na provozní bezpečnosti soustavy zátěž ospravedlňuje.
+- *Protiargument o nejasném rozsahu.* Lze tvrdit, že „rozsah národního výcvikového plánu" je neurčitý. Neutralizace: plán je zveřejněn a konkretizuje rozsah; povinný subjekt z něj zjistí konkrétní požadavky.
+- *Slabé místo:* postavení „významného uživatele sítě" se určuje dle technického nařízení EU a může být sporné; bez jednoznačného zařazení je vymezení okruhu povinných osob nejisté.
+
+#### H. Praktický závěr
+
+§ 26a zavádí národní výcvikový plán jako nástroj koordinované připravenosti dispečerského personálu. Plán zpracovává PPS se součinností regionálních PDS; účast na společném výcviku je povinná i pro významné uživatele sítě, poskytovatele podpůrných služeb a poskytovatele flexibility (odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit existenci a zveřejnění národního výcvikového plánu (odst. 1).
+- [ ] Posoudit, zda subjekt spadá do okruhu povinných osob dle odst. 3 (významný uživatel sítě / poskytovatel podpůrných služeb / flexibility).
+- [ ] Zjistit z plánu konkrétní rozsah požadované účasti.
+- [ ] Zajistit organizační a personální podmínky účasti a koordinaci termínů s PPS.
+- [ ] U sporu o postavení „významného uživatele sítě" doložit zařazení dle technického nařízení EU.
+
+**Typicky rozhodné důkazy / podklady:** zveřejněný národní výcvikový plán, doklad o postavení významného uživatele sítě, smlouva o poskytování podpůrných služeb/flexibility, pozvánky a evidence účasti na společném výcviku.
 
 ---
 
@@ -713,6 +1083,43 @@ Zákon zavádí **uzavřenou akcionářskou strukturu**: akcie datového centra 
 
 Akcie jsou jen na jméno, převoditelnost je podmíněna **jednomyslným souhlasem dozorčí rady** a dozorčí rada musí souhlas odmítnout, má-li být akcie převedena na osobu mimo zákonný okruh. Tato opatření zabraňují privatizaci datové infrastruktury bez zákonného zmocnění.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Akcionář elektroenergetického datového centra — regionální provozovatel distribuční soustavy „RegioDist, a. s." — chce převést svůj akciový podíl v datovém centru na soukromou investiční společnost „FinCapital, s. r. o.", která není provozovatelem přenosové soustavy, regionálním distributorem se 100 000+ odběrnými místy ani Českou republikou. RegioDist předložil dozorčí radě datového centra žádost o souhlas s převodem akcií. Současně menší obchodník s elektřinou založil firmu s názvem obsahujícím slovní spojení „elektroenergetické datové centrum" a začal pod ním nabízet datové služby. Důkazy: stanovy datového centra s vyznačeným omezením převoditelnosti, výpis z obchodního rejstříku datového centra, smlouva o převodu akcií, doklad o tom, že FinCapital není osobou dle § 27 odst. 1, doklad o užívání chráněného označení obchodníkem.
+
+**2. Právní otázka.** Je přípustný převod akcií datového centra na osobu, která není provozovatelem přenosové soustavy, kvalifikovaným regionálním distributorem ani Českou republikou, a smí jiný subjekt užívat označení „elektroenergetické datové centrum" (§ 27 odst. 1, 2, 5)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27 odst. 1 (uzavřený okruh akcionářů); odst. 2 (ochrana označení „elektroenergetické datové centrum"); odst. 5 (převod akcií jen s jednomyslným souhlasem dozorčí rady, povinnost odmítnout souhlas u osoby mimo okruh); odst. 6 (zákaz přenechání akcií/práv jiné osobě).
+- *Související ustanovení téhož zákona:* § 27a (inkompatibilita funkcí); § 27b (státní zastoupení v dozorčí radě); § 27c (práva a povinnosti datového centra); § 4 (licence — datové centrum jako držitel licence na činnost datového centra).
+- *Související předpisy:* zákon č. 131/2024 Sb. (zavedení datového centra); zákon o obchodních korporacích (omezení převoditelnosti akcií na jméno, zápis do OR); nařízení EU o interoperabilitě měřených dat.
+- *Judikatura:* nosně relevantní je zásada ochrany kritické datové infrastruktury před privatizací bez zákonného zmocnění; obecný princip, že zákonem chráněné označení nesmí užívat neoprávněná osoba.
+
+**4. Subsumpce.** FinCapital není osobou uvedenou v § 27 odst. 1 (není PPS, kvalifikovaným regionálním distributorem ani ČR). Dozorčí rada datového centra je proto povinna souhlas s převodem odmítnout (odst. 5 věta druhá) — převod na FinCapital je nepřípustný. Užívání označení „elektroenergetické datové centrum" subjektem, který datovým centrem není, porušuje odst. 2 (výhradnost označení).
+
+**5. Řešení.** Převod akcií na FinCapital nelze realizovat — dozorčí rada musí souhlas odmítnout, omezení převoditelnosti je zapsáno v obchodním rejstříku a chrání uzavřenou strukturu. RegioDist může akcie převést jen na jinou osobu z okruhu § 27 odst. 1. Obchodník užívající chráněné označení je povinen je přestat užívat (odst. 2). Praktický postup: hledat nabyvatele z okruhu oprávněných osob; proti zneužití označení se bránit (zdržovací nárok). Riziko: pokus o obejití (přenechání práv/výkonu práv) je zakázán dle odst. 6.
+
+**6. Varianty.** (a) Kdyby nabyvatelem byla Česká republika nebo jiný regionální distributor se 100 000+ odběrnými místy, dozorčí rada by souhlas udělit mohla (osoba z okruhu odst. 1). (b) Kdyby akcionář přestal být osobou dle odst. 1 (např. poklesem počtu odběrných míst), uplatnil by se mechanismus ukončení účasti dle stanov (odst. 7), nikoli volný převod na libovolnou osobu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o smluvní svobodě.* Akcionář může namítat svobodu nakládat s akciemi. Neutralizace: zákon výslovně omezuje převoditelnost (odst. 5) a okruh akcionářů (odst. 1); omezení je zapsáno v OR a má přednost před obecnou smluvní volností.
+- *Protiargument o obcházení přenecháním práv.* Subjekt může zkusit místo převodu „přenechat" akcie k užívání či výkon práv. Neutralizace: odst. 6 výslovně zakazuje přenechání akcií, převod práv i přenechání výkonu práv jiné osobě než dle odst. 1.
+- *Slabé místo:* sankční mechanismus za zneužití označení a za pokus o nepřípustný převod není v komentovaném textu detailně rozveden; vymáhání se opírá o obecné instituty (neplatnost, zdržovací nárok, dohled).
+
+#### H. Praktický závěr
+
+§ 27 zakotvuje datové centrum jako nový regulovaný subjekt (od zák. č. 131/2024 Sb.) s uzavřenou akcionářskou strukturou (PPS, kvalifikovaní regionální distributoři se 100 000+ OM, ČR), chráněným označením a přísným režimem převoditelnosti akcií (jednomyslný souhlas dozorčí rady, povinnost odmítnout převod mimo okruh). Cílem je ochrana kritické datové infrastruktury před privatizací.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že nabyvatel akcií spadá do okruhu § 27 odst. 1 (PPS / regionální distributor 100 000+ OM / ČR).
+- [ ] Zkontrolovat jednomyslný souhlas dozorčí rady a zápis omezení převoditelnosti v OR (odst. 5).
+- [ ] Vyloučit obcházení přenecháním akcií, převodem nebo přenecháním výkonu práv (odst. 6).
+- [ ] U užívání označení „elektroenergetické datové centrum" ověřit, zda jde o datové centrum (odst. 2).
+- [ ] Prověřit mechanismus ukončení účasti, přestane-li akcionář být osobou dle odst. 1 (odst. 7).
+
+**Typicky rozhodné důkazy / podklady:** stanovy datového centra, výpis z obchodního rejstříku s omezením převoditelnosti, smlouva o převodu akcií, doklad o postavení nabyvatele dle odst. 1, doklad o užívání chráněného označení.
+
 ---
 
 ### § 27a — Způsobilost k výkonu funkce v datovém centru
@@ -724,6 +1131,43 @@ Akcie jsou jen na jméno, převoditelnost je podmíněna **jednomyslným souhlas
 **Výklad:**
 
 § 27a zakotvuje **inkompatibilitu funkcí** v datovém centru: personální propojení se subjekty, které nejsou akcionáři datového centra, je zakázáno. Cílem je zabránit tomu, aby měly energetické subjekty mimo okruh akcionářů vliv na správu a provoz datového centra prostřednictvím svých zástupců. Akcionáři datového centra (provozovatel přenosové soustavy, regionální distributoři, stát) mohou mít své zástupce v orgánech datového centra.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Valná hromada datového centra hodlá zvolit do svého představenstva pana Horáka, který je současně zaměstnancem obchodníka s elektřinou „TradeEl, s. r. o.". TradeEl není akcionářem datového centra (akcionáři jsou ČEPS, dva regionální distributoři a ČR). Vedení datového centra argumentuje, že pan Horák je odborník na datové systémy a jeho zaměstnání u obchodníka nevadí, protože do funkce nastoupí na zkrácený úvazek. Souběžně do dozorčí rady má být jmenován pan Beneš, který je členem statutárního orgánu jednoho z regionálních distributorů — akcionáře datového centra. Důkazy: pracovní smlouva pana Horáka s TradeEl, doklad, že TradeEl není akcionářem, výpis funkcí pana Beneše, struktura akcionářů datového centra.
+
+**2. Právní otázka.** Smí být členem představenstva, dozorčí rady nebo vedoucím zaměstnancem datového centra osoba, která je současně členem orgánu nebo zaměstnancem jiného držitele licence, jenž není akcionářem datového centra (§ 27a)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27a — inkompatibilita: zákaz souběhu funkce v datovém centru s funkcí/zaměstnáním u jiného držitele licence než akcionáře datového centra.
+- *Související ustanovení téhož zákona:* § 27 odst. 1 (okruh akcionářů datového centra); § 27b (státní zastoupení v dozorčí radě); § 24a odst. 2 písm. f) a § 25a odst. 2 písm. a) (obdobná inkompatibilita u unbundlingu PPS a PDS); § 4 (licence dle zákona).
+- *Související předpisy:* zákon č. 131/2024 Sb. (datové centrum); zákon o obchodních korporacích (výkon funkce člena orgánu).
+- *Judikatura:* nosně relevantní je princip prevence konfliktu zájmů a ochrany neutrality správce kritických dat; obecná zásada, že inkompatibilita funkcí je objektivní (nezávisí na rozsahu úvazku ani odbornosti osoby).
+
+**4. Subsumpce.** Pan Horák je zaměstnancem obchodníka TradeEl, který je držitelem licence, ale není akcionářem datového centra — souběh jeho zaměstnání u TradeEl s funkcí člena představenstva datového centra je v rozporu s § 27a. Naopak pan Beneš je členem orgánu regionálního distributora, který akcionářem datového centra je — jeho jmenování do dozorčí rady § 27a nebrání (akcionáři smějí mít v orgánech datového centra své zástupce).
+
+**5. Řešení.** Pan Horák nemůže být zvolen do představenstva datového centra, dokud trvá jeho zaměstnání u TradeEl (subjektu mimo okruh akcionářů); zkrácený úvazek ani jeho odbornost na tom nic nemění — inkompatibilita je objektivní. Pan Beneš naopak zvolen být může, neboť reprezentuje akcionáře. Praktický postup: buď pan Horák ukončí vztah k TradeEl, nebo bude do funkce zvolena jiná osoba. Riziko: jmenování neslučitelné osoby zakládá rozpor se zákonem a ohrožuje neutralitu správy dat.
+
+**6. Varianty.** (a) Kdyby TradeEl byl akcionářem datového centra, mohl by pan Horák funkci zastávat (souběh s funkcí/zaměstnáním u akcionáře je dovolen). (b) Kdyby pan Horák ukončil pracovní poměr u TradeEl před zvolením, překážka inkompatibility by odpadla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o odbornosti a zkráceném úvazku.* Lze tvrdit, že omezený rozsah činnosti a odbornost konflikt vylučují. Neutralizace: § 27a stanoví objektivní zákaz souběhu bez ohledu na rozsah úvazku či kvalifikaci; výjimkou je pouze vztah k akcionáři.
+- *Protiargument o nedostatku kandidátů.* Datové centrum může namítat omezený trh expertů. Neutralizace: personální nouze neopravňuje porušit inkompatibilitu; řešením je nábor osob bez vazby na neakcionářské držitele licence.
+- *Slabé místo:* hranice „vedoucího zaměstnance v řídící působnosti představenstva" může být nejasná u nižších manažerských pozic; bez jasného vymezení rolí hrozí spor o dosah zákazu.
+
+#### H. Praktický závěr
+
+§ 27a zakotvuje inkompatibilitu funkcí v datovém centru: osoba ve vedení nebo dozorčí radě datového centra nesmí být současně členem orgánu či zaměstnancem jiného držitele licence, který není akcionářem datového centra. Akcionáři (PPS, regionální distributoři, ČR) smějí mít v orgánech datového centra své zástupce. Cílem je neutralita správce kritických dat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda kandidát do orgánu/vedení datového centra má vazbu na jiného držitele licence.
+- [ ] Zjistit, zda je tento jiný držitel licence akcionářem datového centra (pak je souběh dovolen) nebo nikoli (pak je zakázán).
+- [ ] Posoudit, zda jde o „vedoucího zaměstnance v řídící působnosti představenstva" (dosah zákazu).
+- [ ] Při kolizi zajistit ukončení neslučitelného vztahu nebo nominaci jiné osoby.
+- [ ] Provázat s § 27b (státní zastoupení v dozorčí radě) při obsazování orgánů.
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouvy a výpisy funkcí kandidátů, struktura akcionářů datového centra, doklad o (ne)akcionářském postavení dotčeného držitele licence, stanovy datového centra.
 
 ---
 
@@ -740,6 +1184,43 @@ Akcie jsou jen na jméno, převoditelnost je podmíněna **jednomyslným souhlas
 **Výklad:**
 
 § 27b zaručuje **státní zastoupení v dozorčí radě** — Česká republika jmenuje třetinu členů dozorčí rady, a to i tehdy, pokud vlastní menšinový podíl nebo je jen jedním z více akcionářů. Tím je zajištěn veřejnoprávní dohled nad správou klíčové datové infrastruktury. Výjimka pro případ, kdy je Česká republika jediným akcionářem, je logická — v takovém případě by bylo státní zastoupení samozřejmé a zvláštní pravidlo nadbytečné.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Datové centrum má pětičlennou dozorčí radu. Akcionáři jsou provozovatel přenosové soustavy, dva regionální distributoři a Česká republika, přičemž ČR drží menšinový podíl. Při obnovení dozorčí rady ostatní akcionáři navrhli obsadit všech pět míst svými zástupci a státu žádné místo nepřiznat s odůvodněním, že stát je jen menšinovým akcionářem. Stát namítá, že mu náleží právo jmenovat třetinu členů dozorčí rady bez ohledu na výši podílu. V jiném datovém centru je naopak jediným akcionářem Česká republika. Důkazy: stanovy datového centra, struktura akcionářů a podílů, zápis z valné hromady o obsazení dozorčí rady, doklad o počtu členů dozorčí rady.
+
+**2. Právní otázka.** Má Česká republika právo jmenovat a odvolávat třetinu členů dozorčí rady datového centra i tehdy, je-li pouze menšinovým akcionářem, a uplatní se toto pravidlo, je-li ČR jediným akcionářem (§ 27b)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27b odst. 1 (nejméně tři členové dozorčí rady); odst. 2 (ČR jmenuje a odvolává třetinu členů); odst. 3 (výjimka, je-li ČR jediným akcionářem).
+- *Související ustanovení téhož zákona:* § 27 odst. 1 (okruh akcionářů); § 27 odst. 5 (souhlas dozorčí rady s převodem akcií); § 27a (inkompatibilita funkcí); § 27c (povinnosti datového centra).
+- *Související předpisy:* zákon č. 131/2024 Sb. (datové centrum); zákon o obchodních korporacích (dozorčí rada akciové společnosti s dualistickou strukturou).
+- *Judikatura:* nosně relevantní je princip veřejnoprávního dohledu nad kritickou infrastrukturou; obecná zásada, že zákonem garantované zastoupení státu je nezávislé na výši majetkové účasti.
+
+**4. Subsumpce.** Dozorčí rada má pět členů (splněn minimální počet tři dle odst. 1). ČR je akcionářem (byť menšinovým), tudíž jí náleží právo jmenovat a odvolávat třetinu členů dle odst. 2 — bez ohledu na výši podílu. Návrh ostatních akcionářů obsadit všechna místa a stát vyloučit je v rozporu s odst. 2. V druhém případě, kdy je ČR jediným akcionářem, se dle odst. 3 pravidlo odst. 2 nepoužije (zvláštní garance je nadbytečná).
+
+**5. Řízení.** ČR má v prvním případě nárok na jmenování třetiny členů dozorčí rady (u pětičlenné rady fakticky odpovídající podíl po zaokrouhlení dle stanov); ostatní akcionáři jí toto právo nemohou upřít poukazem na menšinový podíl. V druhém případě (ČR jediný akcionář) se garance neuplatní. Praktický postup: stanovy musí reflektovat státní nominační právo; valná hromada nemůže obsadit státem garantovaná místa proti vůli státu. Riziko: obsazení dozorčí rady v rozporu s odst. 2 zakládá vadu volby a ohrožuje veřejnoprávní dohled.
+
+**6. Varianty.** (a) Kdyby ČR nebyla vůbec akcionářem (hypoteticky), právo dle odst. 2 by jí nepříslušelo — okruh akcionářů však ČR mezi oprávněné osoby řadí (§ 27 odst. 1). (b) Kdyby dozorčí rada měla jen tři členy, státu by náležel jeden z nich (třetina); minimální počet členů (odst. 1) tím zůstává zachován.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o úměrnosti zastoupení podílu.* Ostatní akcionáři mohou tvrdit, že zastoupení v orgánech má odpovídat výši podílu. Neutralizace: odst. 2 zakládá zvláštní zákonné nominační právo státu nezávislé na podílu; jde o veřejnoprávní garanci dohledu, nikoli o poměrné zastoupení.
+- *Protiargument o nadbytečnosti u jediného akcionáře.* Lze namítat, že stát si garanci nárokuje i tam, kde je jediným vlastníkem. Neutralizace: odst. 3 takový případ výslovně vylučuje — garance se neuplatní, je-li ČR jediným akcionářem.
+- *Slabé místo:* způsob zaokrouhlení „třetiny" u rad s počtem členů nedělitelným třemi není v textu výslovně řešen; vyžaduje úpravu ve stanovách, jinak hrozí výkladový spor.
+
+#### H. Praktický závěr
+
+§ 27b garantuje státu zastoupení v dozorčí radě datového centra — ČR jmenuje a odvolává třetinu členů bez ohledu na výši svého podílu (odst. 2), s výjimkou případu, kdy je jediným akcionářem (odst. 3). Dozorčí rada musí mít nejméně tři členy (odst. 1). Cílem je veřejnoprávní dohled nad správou kritické datové infrastruktury.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit počet členů dozorčí rady (nejméně tři — odst. 1).
+- [ ] Zajistit státu právo jmenovat/odvolávat třetinu členů, je-li ČR akcionářem (odst. 2), bez ohledu na výši podílu.
+- [ ] Posoudit aplikaci výjimky dle odst. 3 (ČR jediný akcionář — garance se neuplatní).
+- [ ] Zkontrolovat, zda stanovy upravují způsob obsazení a zaokrouhlení „třetiny".
+- [ ] Provázat obsazení s inkompatibilitou dle § 27a.
+
+**Typicky rozhodné důkazy / podklady:** stanovy datového centra, struktura akcionářů a podílů, zápis z valné hromady o obsazení dozorčí rady, doklad o počtu členů a o nominacích státu.
 
 ---
 
@@ -779,6 +1260,43 @@ Akcie jsou jen na jméno, převoditelnost je podmíněna **jednomyslným souhlas
 
 Datové centrum smí vykonávat jiné než zákonné datové funkce jen s výslovným souhlasem ministerstva. Ministerstvo je vázáno materiálními podmínkami — neohrozit zákonné funkce, nezpůsobit diskriminaci, nenarušit hospodářskou soutěž. Tím zákon chrání datové centrum před rozptýlením od jeho primárního účelu a před konflikty zájmů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Agregátor flexibility „FlexAgreg, s. r. o." požádal datové centrum o uzavření smlouvy o přístupu do informačního systému datového centra, neboť potřebuje pro výkon své činnosti přijímat a předávat měřená data svých zákazníků. FlexAgreg splňuje podmínky přístupu stanovené Řádem datového centra a zákon mu vůči datovému centru zakládá práva i povinnosti. Datové centrum nicméně uzavření smlouvy odmítá s odůvodněním, že nemá kapacitu a že FlexAgreg může data získat oklikou přes obchodníka. Datové centrum zároveň zvažuje, že začne nabízet komerční analytické služby nad měřenými daty třetím stranám. Důkazy: žádost FlexAgreg o přístup, doklad o splnění podmínek dle Řádu datového centra, schválený Řád datového centra, odmítavá reakce datového centra, popis zamýšlených komerčních služeb.
+
+**2. Právní otázka.** Je datové centrum povinno uzavřít smlouvu o přístupu do svého informačního systému s každým, kdo splní podmínky a komu zákon vůči datovému centru zakládá práva či povinnosti (§ 27c odst. 2 písm. d), a smí datové centrum vykonávat komerční činnosti nad rámec zákonných datových funkcí (odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27c odst. 2 písm. a)–b) (Řád datového centra a jeho dodržování); písm. d) (povinnost uzavřít smlouvu o přístupu — kontraktační povinnost); odst. 3 (elektronické předávání údajů); odst. 4 (vedlejší činnosti jen se souhlasem ministerstva za materiálních podmínek).
+- *Související ustanovení téhož zákona:* § 27 (datové centrum, uzavřená struktura); § 27ca (poskytovatel přístupu k údajům dle nařízení); § 27d–27f (sdílení elektřiny); § 27c odst. 1 (právo na úhradu ceny a na údaje).
+- *Související předpisy:* nařízení EU o požadavcích na interoperabilitu a postupech pro přístup k údajům z měření; zákon č. 131/2024 Sb.
+- *Judikatura:* nosně relevantní je princip nediskriminačního přístupu k esenciální datové infrastruktuře; obecná zásada, že zákonná kontraktační povinnost (ius contrahendi) vylučuje libovůli při odmítnutí smlouvy.
+
+**4. Subsumpce.** FlexAgreg splňuje podmínky přístupu dle Řádu datového centra a zákon mu vůči datovému centru zakládá práva a povinnosti — jsou tedy naplněny podmínky odst. 2 písm. d). Datové centrum je povinno smlouvu o přístupu uzavřít; jde o zákonnou povinnost (ius contrahendi), nikoli diskreční rozhodnutí. Odmítnutí pro „nedostatek kapacity" nebo odkaz na okliku přes obchodníka nejsou zákonnými důvody odmítnutí. Zamýšlené komerční analytické služby spadají pod odst. 4 — bez předchozího souhlasu ministerstva (a splnění materiálních podmínek) je datové centrum vykonávat nesmí.
+
+**5. Řešení.** Datové centrum je povinno uzavřít s FlexAgreg smlouvu o přístupu do informačního systému; nesplnění kontraktační povinnosti je porušením zákona. Komerční analytické služby smí datové centrum poskytovat jen po předchozím souhlasu ministerstva, prokáže-li, že nejde o činnost vyhrazenou jinému subjektu, že neohrozí zákonné funkce, nezpůsobí diskriminaci a nenaruší hospodářskou soutěž. Praktický postup: FlexAgreg se domáhá uzavření smlouvy (popř. podnětem na dohled); datové centrum žádá ministerstvo o souhlas s vedlejší činností. Riziko: bez souhlasu ministerstva je výkon komerčních služeb protiprávní.
+
+**6. Varianty.** (a) Kdyby FlexAgreg nesplňoval podmínky přístupu stanovené Řádem datového centra, kontraktační povinnost by nevznikla a odmítnutí by bylo legitimní. (b) Kdyby zamýšlená činnost datového centra byla vyhrazena jinému účastníkovi trhu (např. činnost obchodníka), ministerstvo by souhlas dle odst. 4 udělit nesmělo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o kapacitě.* Datové centrum může odmítat smlouvu z provozních/kapacitních důvodů. Neutralizace: odst. 2 písm. d) stanoví kontraktační povinnost vůči každému, kdo splní podmínky Řádu; kapacita není zákonným důvodem odmítnutí — datové centrum musí kapacitu zajistit.
+- *Protiargument o oklice přes obchodníka.* Lze tvrdit, že žadatel může data získat nepřímo. Neutralizace: zákon zakládá přímé právo na přístup splňuje-li žadatel podmínky; existence nepřímé cesty nevylučuje povinnost uzavřít smlouvu.
+- *Slabé místo:* posouzení materiálních podmínek vedlejší činnosti dle odst. 4 (neohrožení funkcí, nediskriminace, nenarušení soutěže) je hodnotově náročné; chybí-li jasné vymezení, hrozí spor o rozsah povoleného souhlasu ministerstva.
+
+#### H. Praktický závěr
+
+§ 27c vymezuje práva (úhrada ceny, přístup k údajům — odst. 1) a povinnosti datového centra: zpracovat a dodržovat Řád datového centra (odst. 2 písm. a–b), chránit chráněné informace (písm. c) a uzavřít smlouvu o přístupu s každým oprávněným žadatelem (písm. d — kontraktační povinnost). Vedlejší činnosti smí datové centrum vykonávat jen se souhlasem ministerstva za materiálních podmínek (odst. 4).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda žadatel o přístup splňuje podmínky Řádu datového centra a zda mu zákon vůči datovému centru zakládá práva/povinnosti (odst. 2 písm. d).
+- [ ] Při odmítnutí smlouvy posoudit, zda nejde o porušení kontraktační povinnosti (kapacita není zákonným důvodem).
+- [ ] Zkontrolovat schválení Řádu datového centra ze strany ERÚ a jeho zveřejnění (odst. 2 písm. a).
+- [ ] U vedlejších činností ověřit předchozí souhlas ministerstva a splnění materiálních podmínek (odst. 4).
+- [ ] Zajistit elektronické předávání údajů dle odst. 3.
+
+**Typicky rozhodné důkazy / podklady:** žádost o přístup a doklad o splnění podmínek Řádu, schválený Řád datového centra, smlouva o přístupu (či doklad o jejím odepření), souhlas ministerstva s vedlejší činností, popis činnosti pro posouzení dle odst. 4.
+
 ---
 
 ### § 27ca — Datové centrum jako poskytovatel přístupu k údajům
@@ -790,6 +1308,43 @@ Datové centrum smí vykonávat jiné než zákonné datové funkce jen s výslo
 **Výklad:**
 
 § 27ca propojuje vnitrostátní právní úpravu s **unijním nařízením o interoperabilitě měřených dat** (tzv. Metering Data Regulation). Datové centrum je tímto zákonným zmocněním určeno jako **poskytovatel přístupu k údajům** (data access provider) ve smyslu tohoto nařízení. Rozsah výkonu této role je omezen na data, která datové centrum zpracovává pro plnění svých zákonných povinností — datové centrum tedy není obecnou datovou platformou, nýbrž specifickým subjektem s omezeným datovým mandátem.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zákazník „pan Svoboda" si přeje, aby data o jeho odběrech a dodávkách v předávacím místě byla zpřístupněna nezávislé energetické poradenské společnosti, kterou si zvolil jako třetí stranu (a která má smlouvu o přístupu do systému datového centra). Datové centrum odmítá data poskytnout s odůvodněním, že jeho role poskytovatele přístupu k údajům dle unijního nařízení se na požadovaný rozsah dat nevztahuje, neboť jde o data, která datové centrum zpracovává jen pro účely sdílení elektřiny, nikoli pro obecné poskytování. Zároveň poradenská společnost není účastníkem, s nímž datové centrum sjednalo smlouvu o přístupu, ale jedná za pana Svobodu. Důkazy: žádost zákazníka o zpřístupnění dat zvolené třetí straně, smlouva o přístupu poradenské společnosti do systému datového centra, evidence předávacího místa u datového centra, rozsah dat zpracovávaných datovým centrem.
+
+**2. Právní otázka.** V jakém rozsahu vykonává datové centrum činnost poskytovatele přístupu k údajům podle nařízení o interoperabilitě měřených dat — vztahuje se tato role na všechna data, nebo jen na data, která datové centrum zpracovává pro plnění svých zákonných povinností (§ 27ca)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27ca — datové centrum jako poskytovatel přístupu k údajům (data access provider) ve vztahu k účastníkům, s nimiž sjednalo smlouvu o přístupu, a to v rozsahu, v jakém zpracovává údaje o dodávkách a odběrech pro plnění svých zákonných povinností.
+- *Související ustanovení téhož zákona:* § 27c odst. 2 písm. d) (kontraktační povinnost); § 27d (data při sdílení elektřiny); § 28 odst. 1 písm. d) a obecná práva zákazníka na data; § 24 odst. 16 a § 25 odst. 18 (zpřístupňování údajů z měření provozovateli soustav dle nařízení).
+- *Související předpisy:* nařízení EU o požadavcích na interoperabilitu a postupech pro přístup k údajům z měření a o spotřebě (Metering Data Regulation).
+- *Judikatura:* nosně relevantní je unijní princip práva spotřebitele na přístup ke svým měřeným datům a jejich sdílení s třetí stranou dle vlastní volby; obecná zásada, že mandát data access providera je vymezen rozsahem zpracovávaných dat.
+
+**4. Subsumpce.** Datové centrum vykonává roli poskytovatele přístupu k údajům jen ve vztahu k účastníkům, s nimiž sjednalo smlouvu o přístupu, a jen v rozsahu, v jakém data o dodávkách a odběrech v evidovaném předávacím místě zpracovává pro plnění svých zákonných povinností (§ 27ca). Poradenská společnost smlouvu o přístupu má a jedná za pana Svobodu (oprávnění jiného účastníka). Jsou-li požadovaná data těmi, která datové centrum pro své zákonné funkce zpracovává a eviduje k danému předávacímu místu, role data access providera se na ně vztahuje; pokud jde o data mimo tento rozsah, datové centrum není povinno je v této roli poskytnout.
+
+**5. Řešení.** Klíčové je vymezit rozsah dat, která datové centrum zpracovává pro plnění svých zákonných povinností k danému předávacímu místu. V tomto rozsahu datové centrum data zpřístupní třetí straně (poradenské společnosti) jednající za pana Svobodu. Mimo tento rozsah datové centrum jako data access provider nevystupuje — pak je třeba data získat od jiného subjektu (typicky provozovatele distribuční soustavy dle § 25 odst. 18). Praktický postup: ověřit, zda data spadají do mandátu datového centra; zpřístupnit je prostřednictvím informačního systému. Riziko: nesprávné vymezení rozsahu vede buď k neoprávněnému odepření, nebo k poskytnutí dat nad rámec mandátu.
+
+**6. Varianty.** (a) Kdyby poradenská společnost neměla smlouvu o přístupu do systému datového centra ani nejednala za pana Svobodu, datové centrum by jí data v roli data access providera neposkytlo. (b) Kdyby šlo o data, která datové centrum vůbec nezpracovává (jsou jen u provozovatele distribuční soustavy), mandát dle § 27ca by se neuplatnil a přístup by bylo nutné řešit cestou § 25 odst. 18.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o širokém mandátu.* Zákazník může tvrdit, že datové centrum musí poskytnout veškerá jeho data. Neutralizace: § 27ca omezuje roli data access providera na data zpracovávaná pro zákonné povinnosti datového centra; zbylá data se získávají od jiných subjektů.
+- *Protiargument o ochraně dat.* Datové centrum může odmítat poukazem na ochranu osobních údajů. Neutralizace: jedná-li třetí strana na základě oprávnění zákazníka a má smlouvu o přístupu, je zpřístupnění v souladu s nařízením; ochrana dat není důvodem k odepření oprávněnému žadateli.
+- *Slabé místo:* vymezení „rozsahu, v jakém datové centrum zpracovává údaje pro plnění svých povinností" je technicky a právně náročné; bez jasné datové mapy hrozí spory o dosah mandátu.
+
+#### H. Praktický závěr
+
+§ 27ca propojuje vnitrostátní úpravu s unijním nařízením o interoperabilitě měřených dat a určuje datové centrum jako poskytovatele přístupu k údajům (data access provider), avšak jen ve vztahu k účastníkům se smlouvou o přístupu a jen v rozsahu dat, která datové centrum zpracovává pro plnění svých zákonných povinností. Datové centrum tedy není obecnou datovou platformou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda žadatel má smlouvu o přístupu do systému datového centra nebo jedná za účastníka, který ji má.
+- [ ] Vymezit, zda požadovaná data spadají do rozsahu, v jakém je datové centrum zpracovává pro své zákonné povinnosti (mandát dle § 27ca).
+- [ ] Pro data mimo mandát datového centra zvážit cestu přes provozovatele distribuční/přenosové soustavy (§ 25 odst. 18, § 24 odst. 16).
+- [ ] Zajistit soulad zpřístupnění s nařízením o interoperabilitě a s oprávněním zákazníka.
+- [ ] Zabránit poskytnutí dat nad rámec mandátu i neoprávněnému odepření.
+
+**Typicky rozhodné důkazy / podklady:** žádost zákazníka o zpřístupnění dat zvolené třetí straně, smlouva o přístupu do systému datového centra, evidence předávacího místa, datová mapa rozsahu zpracovávaných údajů.
 
 ---
 
@@ -818,6 +1373,43 @@ Datové centrum smí vykonávat jiné než zákonné datové funkce jen s výslo
 **Výklad:**
 
 § 27d upravuje specifické povinnosti datového centra v systému **sdílení elektřiny** — klíčovém novém institutu zavedeném transponující novelou směrnice 2019/944. Datové centrum plní v systému sdílení nezastupitelnou roli registrátora a procesora dat: eviduje registraci skupin sdílení, zpracovává naměřená data se zohledněním sdílené elektřiny a distribuuje tato data všem relevantním účastníkům (OTE, provozovateli distribuce, obchodníkovi, zákazníkovi, výrobci, zákazníkovi nebo společenství). Tím zajišťuje transparentnost a auditovatelnost sdílení elektřiny.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Skupina pěti domácností a jednoho malého výrobce (FVE) si zaregistrovala u datového centra skupinu sdílení s určeným způsobem alokace sdílené elektřiny. Dodavatel elektřiny jedné z domácností (obchodník „TradeEl") potřebuje pro správné vyúčtování informaci o způsobu alokace sdílené elektřiny do předávacích míst, v nichž zajišťuje dodávku, a souhrnnou informaci o alokaci. Datové centrum mu však tyto informace neposkytuje včas, takže obchodník nemůže korektně vyúčtovat odběr po zohlednění sdílení. Provozovatel distribuční soustavy zároveň datovému centru opožděně předává naměřené údaje z předávacích míst skupiny. Důkazy: registrace skupiny sdílení u datového centra s alokačním klíčem, žádosti obchodníka o data, evidence předání/nepředání dat, naměřené hodnoty z předávacích míst, smlouvy o dodávce.
+
+**2. Právní otázka.** Je datové centrum povinno poskytovat dodavateli elektřiny informaci o způsobu alokace sdílené elektřiny do předávacích míst, v nichž zajišťuje dodávku, a souhrnnou informaci o alokaci (§ 27d odst. 2 písm. d), a jaká data k tomu od provozovatele distribuční soustavy přijímá (odst. 1 písm. a)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27d odst. 1 písm. a) (právo na naměřené údaje od provozovatele distribuční soustavy); písm. b) (informace o přiřazení od OTE); odst. 2 písm. b)–d) (zpracování dat se zohledněním sdílení, jejich poskytování a informace dodavateli o alokaci); odst. 3 (registrace a poskytování na žádost členů skupiny sdílení).
+- *Související ustanovení téhož zákona:* § 27e (sdílení ve společenství); § 27f (sdílení mimo společenství); § 23 odst. 1 písm. j) (právo výrobce na informace o alokaci); § 25 odst. 10 (povinnost PDS předávat data datovému centru); § 28 odst. 7–8 (sdílení zákazníkem).
+- *Související předpisy:* směrnice 2019/944 (sdílení elektřiny, energetická společenství); nařízení o interoperabilitě měřených dat.
+- *Judikatura:* nosně relevantní je princip transparentnosti a auditovatelnosti sdílení elektřiny; obecná zásada, že korektní vyúčtování předpokládá včasný a úplný tok dat mezi datovým centrem, PDS, OTE a dodavatelem.
+
+**4. Subsumpce.** Datové centrum má dle odst. 2 písm. d) povinnost poskytovat dodavateli elektřiny informaci o způsobu alokace sdílené elektřiny do předávacích míst, v nichž zajišťuje dodávku, souhrnnou informaci o alokaci a informaci o průběhu výroby. Obchodník TradeEl je dodavatelem v dotčeném předávacím místě — povinnost datového centra vůči němu je naplněna. Pro zpracování dat datové centrum potřebuje naměřené údaje od provozovatele distribuční soustavy (odst. 1 písm. a); opožděné předání dat ze strany PDS je porušením jeho povinnosti dle § 25 odst. 10.
+
+**5. Řešení.** Datové centrum je povinno obchodníkovi TradeEl poskytnout informace o alokaci sdílené elektřiny nezbytné pro vyúčtování (odst. 2 písm. d). Předpokladem je, že datové centrum obdrží naměřené údaje od PDS; provozovatel distribuční soustavy je povinen je předat (§ 25 odst. 10). Praktický postup: datové centrum urguje data u PDS a následně poskytne alokační informace dodavateli; obchodník provede vyúčtování po zohlednění sdílení. Riziko: řetězec dat (PDS → datové centrum → dodavatel) je zranitelný — selhání jednoho článku znemožní korektní vyúčtování; odpovědnost za prodlení nese ten článek, který povinnost porušil.
+
+**6. Varianty.** (a) Kdyby obchodník nebyl dodavatelem v žádném z předávacích míst skupiny sdílení, povinnost datového centra poskytnout mu individualizovanou informaci o alokaci dle odst. 2 písm. d) by nevznikla. (b) Kdyby šlo o sdílení mimo společenství (§ 27f), uplatnila by se přiměřeně tatáž pravidla, avšak s omezením skupiny na nejvýše 11 předávacích míst (mimo společnou pojistkovou skříň).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o ochraně dat členů skupiny.* Datové centrum může odmítat poskytnutí informací poukazem na ochranu dat ostatních členů skupiny. Neutralizace: dodavateli se poskytuje informace o alokaci do předávacích míst, v nichž zajišťuje dodávku, a souhrnná informace — tedy v rozsahu nezbytném pro vyúčtování, nikoli individuální data cizích členů.
+- *Protiargument o odpovědnosti za prodlení.* Datové centrum může svádět prodlení na PDS. Neutralizace: každý článek řetězce má vlastní zákonnou povinnost (PDS předat data dle § 25 odst. 10, datové centrum je zpracovat a poskytnout dle § 27d); odpovědnost nese ten, kdo svou povinnost porušil.
+- *Slabé místo:* správnost alokačního klíče a kvalita naměřených dat jsou kritické; chyba v alokaci nebo v měření vede k nesprávnému vyúčtování a sporům mezi členy skupiny a dodavatelem.
+
+#### H. Praktický závěr
+
+§ 27d upravuje roli datového centra v systému sdílení elektřiny: přijímá naměřené údaje od provozovatele distribuční soustavy a informace o přiřazení od OTE (odst. 1), zpracovává data se zohledněním sdílené elektřiny, distribuuje je všem relevantním účastníkům a poskytuje dodavateli informaci o alokaci (odst. 2). Tím zajišťuje transparentnost a auditovatelnost sdílení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit registraci skupiny sdílení u datového centra a alokační klíč.
+- [ ] Zkontrolovat tok dat: PDS → datové centrum (odst. 1 písm. a, § 25 odst. 10) a OTE → datové centrum (odst. 1 písm. b).
+- [ ] Zajistit, aby datové centrum poskytlo dodavateli informaci o alokaci do jeho předávacích míst a souhrnnou informaci (odst. 2 písm. d).
+- [ ] Při prodlení identifikovat odpovědný článek řetězce (PDS vs. datové centrum).
+- [ ] Ověřit správnost naměřených dat a alokace pro korektní vyúčtování.
+
+**Typicky rozhodné důkazy / podklady:** registrace skupiny sdílení s alokačním klíčem, žádosti dodavatele o data, evidence předání/nepředání naměřených údajů, naměřené hodnoty z předávacích míst, smlouvy o dodávce.
 
 ---
 
@@ -849,6 +1441,43 @@ Každé předávací místo smí být přiřazeno jen do **jedné skupiny sdíle
 
 Zákon rozlišuje: (i) **úplatné sdílení** — společenství musí vyúčtovat sdílenou elektřinu a poskytovat člen evidenci o vyúčtování; ochranná ustanovení o vyúčtování energií (§ 11 odst. 7, 10, 14, 15) se použijí přiměřeně; (ii) **bezúplatné sdílení** — postačí poskytnutí informace o množství sdílené elektřiny za vyhodnocované období (max. 12 měsíců).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Bytové družstvo provozuje energetické společenství, jehož členy je 40 domácností a které vlastní střešní fotovoltaiku. Společenství zaregistrovalo u datového centra jednu skupinu sdílení a sdílí vyrobenou elektřinu členům úplatně (s drobnou marží na pokrytí nákladů). Jeden z členů, paní Marková, požádala o ukončení přiřazení svého předávacího místa do skupiny sdílení, neboť se stěhuje; společenství však ukončení odmítá s tím, že by to narušilo alokační klíč. Současně společenství neposkytuje členům vyúčtování sdílené elektřiny ani informace o vyúčtování. Předávací místo paní Markové je vybaveno průběhovým měřením. Důkazy: stanovy společenství, registrace skupiny sdílení u datového centra, souhlas člena s přiřazením, žádost paní Markové o ukončení přiřazení, doklad o úplatnosti sdílení, evidence vyúčtování.
+
+**2. Právní otázka.** Je společenství povinno na žádost člena ukončit přiřazení jeho předávacího místa do skupiny sdílení (§ 27e odst. 3) a poskytovat při úplatném sdílení vyúčtování sdílené elektřiny (§ 27e odst. 6)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27e odst. 1–2 (právo sdílet, podmínka registrace a průběhového měření, bezúplatnost registrace); odst. 3 (registrace jen se souhlasem člena, povinnost na žádost ukončit přiřazení); odst. 4 (jedno předávací místo jen do jedné skupiny sdílení); odst. 6 (vyúčtování při úplatném vs. informace při bezúplatném sdílení).
+- *Související ustanovení téhož zákona:* § 27d (povinnosti datového centra při sdílení); § 27f (sdílení mimo společenství, limit 11 předávacích míst); § 11 odst. 7, 10, 14, 15 (ochranná ustanovení o vyúčtování, použijí se obdobně); § 20b (společenství).
+- *Související předpisy:* směrnice 2019/944 (energetická společenství a sdílení); nařízení o interoperabilitě měřených dat.
+- *Judikatura:* nosně relevantní je princip dobrovolnosti účasti člena ve sdílení a jeho ochrana jako spotřebitele; obecná zásada, že úplatné poskytování energie zakládá vyúčtovací povinnosti.
+
+**4. Subsumpce.** Přiřazení předávacího místa paní Markové bylo provedeno s jejím souhlasem (odst. 3 věta druhá); společenství je povinno na její žádost přiřazení ukončit (odst. 3 věta třetí) — odmítnutí z důvodu narušení alokačního klíče není zákonným důvodem. Sdílení je úplatné, proto je společenství povinno vyúčtovávat sdílenou elektřinu a poskytovat členům vyúčtování a informace o vyúčtování (odst. 6), přičemž ochranná ustanovení § 11 odst. 7, 10, 14, 15 se použijí obdobně. Neposkytování vyúčtování je porušením odst. 6. Podmínka průběhového měření je u paní Markové splněna.
+
+**5. Řešení.** Společenství musí na žádost paní Markové ukončit přiřazení jejího předávacího místa do skupiny sdílení — účast je dobrovolná a vázaná na souhlas člena. Při úplatném sdílení musí společenství zavést vyúčtování sdílené elektřiny a poskytovat členům vyúčtování a informace o vyúčtování (obdobně dle § 11). Praktický postup: provést u datového centra ukončení přiřazení; nastavit vyúčtovací proces. Riziko: setrvalé odmítání ukončení přiřazení nebo neposkytování vyúčtování zakládá porušení zákona a může vést k nápravným opatřením a stížnostem členů.
+
+**6. Varianty.** (a) Kdyby společenství sdílelo elektřinu bezúplatně, postačilo by poskytovat členům údaje o množství sdílené elektřiny za vyhodnocované období (max. 12 měsíců) — plné vyúčtování dle odst. 6 by se nevyžadovalo. (b) Kdyby předávací místo nebylo vybaveno průběhovým měřením, sdílení by nebylo vůbec přípustné (odst. 2 — sdílet lze jen z/do míst s průběhovým měřením).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o narušení alokačního klíče.* Společenství může odmítat ukončení přiřazení s odkazem na stabilitu skupiny. Neutralizace: odst. 3 zakládá bezpodmínečné právo člena na ukončení přiřazení; provozní dopady na alokaci nejsou zákonným důvodem odmítnutí.
+- *Protiargument o bezúplatnosti registrace vs. úplatnosti sdílení.* Lze zaměňovat bezúplatnost registrace (odst. 2) s povinností vyúčtovat úplatné sdílení (odst. 6). Neutralizace: registrace u datového centra je vždy bezúplatná, ale je-li samotné sdílení úplatné, vzniká vyúčtovací povinnost dle odst. 6.
+- *Slabé místo:* rozsah obdobného použití § 11 odst. 7, 10, 14, 15 na vyúčtování ve společenství může být sporný; bez jasného nastavení procesu hrozí vady vyúčtování a spotřebitelské spory.
+
+#### H. Praktický závěr
+
+§ 27e upravuje sdílení elektřiny ve společenství: je podmíněno registrací skupiny sdílení u datového centra, průběhovým měřením a souhlasem člena; registrace je bezúplatná a jedno předávací místo smí být jen v jedné skupině sdílení. Člen má bezpodmínečné právo na ukončení přiřazení (odst. 3). Úplatné sdílení zakládá vyúčtovací povinnosti (odst. 6, obdobně dle § 11), bezúplatné jen informační povinnost (max. 12 měsíců).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit registraci skupiny sdílení u datového centra a souhlas člena s přiřazením (odst. 2–3).
+- [ ] Zkontrolovat průběhové měření u všech předávacích míst skupiny (odst. 2).
+- [ ] Respektovat právo člena na ukončení přiřazení na žádost (odst. 3).
+- [ ] Ověřit, že předávací místo je jen v jedné skupině sdílení (odst. 4).
+- [ ] U úplatného sdílení zajistit vyúčtování dle odst. 6 (obdobně § 11 odst. 7, 10, 14, 15); u bezúplatného informaci o množství (max. 12 měsíců).
+
+**Typicky rozhodné důkazy / podklady:** stanovy společenství, registrace skupiny sdílení u datového centra, souhlas člena s přiřazením a žádost o ukončení, doklad o úplatnosti/bezúplatnosti sdílení, evidence vyúčtování a údajů o množství sdílené elektřiny.
+
 ---
 
 ### § 27f — Sdílení elektřiny výrobcem, provozovatelem zařízení pro ukládání elektřiny nebo zákazníkem mimo společenství
@@ -866,6 +1495,43 @@ Zákon rozlišuje: (i) **úplatné sdílení** — společenství musí vyúčto
 § 27f rozšiřuje koncept sdílení elektřiny na situace **mimo formální strukturu společenství**: výrobce nebo provozovatel úložiště může sdílet elektřinu do jiného vlastního předávacího místa; zákazník může sdílet elektřinu jiným zákazníkům mimo společenství. Pravidla § 27e (registrace, průběhové měření, jednočlennost skupiny) se použijí přiměřeně.
 
 Klíčové omezení sdílení mimo jednu pojistkovou skříň: skupina sdílení může zahrnovat **nejvýše 11 registračních čísel předávacích míst**. Tím zákon zabraňuje vzniku rozsáhlých neformálních agregací obcházejících povinnosti obchodníků s elektřinou.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan Novotný vlastní rodinný dům s fotovoltaikou a chce sdílet přebytky elektřiny svým třem dospělým dětem, které bydlí v různých částech města (samostatná předávací místa připojená k distribuční soustavě, nikoli přes společnou pojistkovou skříň), a dále své chatě a dílně — celkem do 14 různých předávacích míst. Žádné z těchto míst netvoří energetické společenství; jde o neformální rodinné sdílení. Pan Novotný registroval přiřazení předávacích míst do jedné skupiny sdílení u datového centra. Jedna z dcer následně požádala o ukončení přiřazení svého předávacího místa. Důkazy: registrace skupiny sdílení u datového centra, seznam předávacích míst s registračními čísly, doklad o průběhovém měření, doklad o tom, že místa nejsou připojena přes jednu společnou pojistkovou skříň, žádost dcery o ukončení přiřazení.
+
+**2. Právní otázka.** Kolik předávacích míst smí zahrnovat skupina sdílení mimo společenství, nejsou-li místa připojena přes jednu společnou hlavní domovní pojistkovou skříň (§ 27f odst. 3), a má účastník, jenž registroval přiřazení, povinnost na žádost ukončit přiřazení předávacího místa (odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27f odst. 1 (sdílení mimo společenství — odběr v jiném předávacím místě); odst. 2 (přiměřené použití § 27e odst. 1–3 a 5, povinnost ukončit přiřazení na žádost); odst. 3 (jedno předávací místo jen do jedné skupiny; limit nejvýše 11 registračních čísel mimo společnou pojistkovou skříň).
+- *Související ustanovení téhož zákona:* § 27e (sdílení ve společenství — přiměřeně se použije); § 27d (povinnosti datového centra); § 28 odst. 7–8 (sdílení zákazníkem s/bez využití soustavy); § 23 odst. 1 písm. g)–h) (sdílení výrobcem).
+- *Související předpisy:* směrnice 2019/944 (sdílení elektřiny); nařízení o interoperabilitě měřených dat.
+- *Judikatura:* nosně relevantní je princip, že sdílení mimo formální společenství nesmí obcházet povinnosti obchodníků s elektřinou; obecná zásada dobrovolnosti účasti ve sdílení.
+
+**4. Subsumpce.** Předávací místa pana Novotného nejsou připojena přes jednu společnou hlavní domovní pojistkovou skříň — proto se uplatní limit odst. 3: skupina sdílení smí zahrnovat nejvýše 11 registračních čísel předávacích míst. Zamýšlených 14 míst tento limit překračuje — skupinu nelze v tomto rozsahu registrovat/udržet. Současně dle odst. 2 (přiměřené použití § 27e odst. 3) má pan Novotný jako registrující povinnost na žádost dcery ukončit přiřazení jejího předávacího místa.
+
+**5. Řešení.** Pan Novotný musí počet předávacích míst ve skupině snížit na nejvýše 11 (mimo společnou pojistkovou skříň); přebývající místa do skupiny zařadit nelze. Na žádost dcery je povinen ukončit přiřazení jejího předávacího místa (odst. 2). Praktický postup: provést u datového centra úpravu skupiny (redukce na 11 míst a ukončení přiřazení dceřina místa). Riziko: pokus o vytvoření rozsáhlejší neformální skupiny obchází limit a povinnosti obchodníků — datové centrum takovou registraci nad limit neprovede.
+
+**6. Varianty.** (a) Kdyby všechna předávací místa byla připojena k distribuční soustavě přes jednu společnou hlavní domovní pojistkovou (nebo kabelovou) skříň, limit 11 míst by se neuplatnil (výjimka v odst. 3 pro sdílení „za jednou skříní"). (b) Kdyby pan Novotný se členy rodiny založil energetické společenství dle § 20b, řídilo by se sdílení primárně § 27e (sdílení ve společenství) s vlastními pravidly, nikoli limitem 11 míst dle § 27f.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument o rodinné povaze sdílení.* Pan Novotný může tvrdit, že rodinné sdílení by nemělo podléhat početnímu limitu. Neutralizace: § 27f odst. 3 stanoví limit 11 míst objektivně (mimo společnou pojistkovou skříň) bez ohledu na příbuzenské vazby; účelem je zabránit obcházení povinností obchodníků.
+- *Protiargument o jednom místě ve více skupinách.* Lze zkusit přiřadit místo do více skupin pro obejití limitu. Neutralizace: odst. 3 výslovně připouští jen jednu skupinu pro dané předávací místo (ve společenství i mimo ně).
+- *Slabé místo:* posouzení, zda jsou místa „za jednou společnou pojistkovou skříní", je technické; chybí-li doklad o způsobu připojení, je sporné, zda se limit 11 míst uplatní.
+
+#### H. Praktický závěr
+
+§ 27f rozšiřuje sdílení elektřiny mimo formální společenství (výrobce/úložiště do vlastního jiného místa; zákazník jiným zákazníkům). Pravidla § 27e se použijí přiměřeně (registrace, průběhové měření, souhlas, ukončení na žádost, jedno místo v jedné skupině). Klíčové omezení: mimo společnou hlavní domovní pojistkovou skříň smí skupina zahrnovat nejvýše 11 registračních čísel předávacích míst — jako pojistka proti obcházení role obchodníků.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit, zda jsou předávací místa připojena přes jednu společnou hlavní domovní pojistkovou/kabelovou skříň (rozhoduje o aplikaci limitu).
+- [ ] Mimo společnou skříň ověřit dodržení limitu nejvýše 11 registračních čísel předávacích míst (odst. 3).
+- [ ] Ověřit, že každé předávací místo je jen v jedné skupině sdílení (odst. 3).
+- [ ] Zajistit registraci skupiny u datového centra, průběhové měření a souhlas dotčených osob (odst. 2 ve spojení s § 27e).
+- [ ] Respektovat povinnost ukončit přiřazení předávacího místa na žádost (odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** registrace skupiny sdílení u datového centra, seznam předávacích míst s registračními čísly, doklad o průběhovém měření, doklad o způsobu připojení (společná pojistková skříň ano/ne), žádosti o ukončení přiřazení.
 
 ---
 
@@ -981,6 +1647,43 @@ Odst. 10 ukládá vlastníkovi nemovitosti, do které je elektřina dodávána n
 #### Vyloučení odpovědnosti za odchylku při dispečerském řízení (odst. 11)
 
 Analogicky jako výrobce (§ 23 odst. 4) a provozovatel úložiště (§ 23a odst. 3) zákazník neodpovídá za odchylku vzniklou v souvislosti s dispečerským řízením jeho výrobny nebo úložiště dle § 26 odst. 5. Zákon tak důsledně aplikuje princip, že nucená změna výroby nebo ukládání provedená dispečinkem nemůže být přičtena k tíži regulovaného subjektu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan Veselý je zákazníkem (domácnost) s odběrným místem vybaveným průběhovým měřením. Pořídil si na rodinný dům fotovoltaickou elektrárnu o instalovaném výkonu 9,5 kW (jednofázové připojení nepřesahuje 10,8 kW) a chce ji připojit a provozovat. Záměr oznámil provozovateli distribuční soustavy (PDS) na jím určený elektronický kontakt, splnil technické podmínky připojení a jejich splnění doložil; v odběrném místě není připojena jiná výrobna. PDS se k oznámení do 30 dnů nijak nevyjádřil (neodmítl je z důvodů dle § 25 odst. 10 písm. a). Pan Veselý dále chce přebytky prodávat — uvažuje o přímém prodeji sousedovi. Důkazy: doklad o průběhovém měření, oznámení záměru PDS na elektronický kontakt, doklad o splnění technických podmínek, smlouva o připojení odběrného místa, potvrzení o doručení oznámení a marném uplynutí lhůty.
+
+**2. Právní otázka.** Nastává u zákazníka-prosumera s výrobnou do 10,8 kW marným uplynutím 30denní lhůty fikce změny obsahu závazku ze smlouvy o připojení tak, že předmětem je i připojení výrobny (§ 28 odst. 5), a komu smí zákazník dodávat elektřinu ze své výrobny (odst. 9)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 28 odst. 5 (zjednodušený oznamovací režim do 10,8 kW, fikce změny závazku po marném uplynutí 30 dnů); odst. 6 (povinnosti zákazníka-prosumera); odst. 9 (dodávka jen obchodníkovi nebo na organizované trhy); odst. 1 písm. a) (právo na připojení).
+- *Související ustanovení téhož zákona:* § 25 odst. 10 písm. a) (důvody odmítnutí připojení); § 28 odst. 7–8 (sdílení zákazníkem s/bez využití soustavy); odst. 11 (vyloučení odpovědnosti za odchylku při redispatchi); § 23a odst. 1 písm. b) (obdobné omezení dodávek u úložiště).
+- *Související předpisy:* směrnice 2019/944 (aktivní zákazník/prosumer, čl. 15); zákon o podporovaných zdrojích energie.
+- *Judikatura:* nosně relevantní je princip podpory aktivních zákazníků a zjednodušeného připojení malých výroben; obecná zásada, že fikce souhlasu nastává jen při splnění všech zákonných podmínek a marném uplynutí lhůty.
+
+**4. Subsumpce.** Výrobna pana Veselého má výkon 9,5 kW (do 10,8 kW) a v odběrném místě není připojena jiná výrobna — podmínky zjednodušeného oznamovacího režimu dle odst. 5 jsou splněny. Zákazník oznámil záměr elektronicky, splnil a doložil technické podmínky a PDS do 30 dnů neodmítl z důvodů dle § 25 odst. 10 písm. a). Tím nastává fikce: marným uplynutím lhůty se mění obsah závazku ze smlouvy o připojení tak, že jeho předmětem je i připojení výrobny s rezervovaným výkonem dle oznámení (nejvýše do instalovaného výkonu). Naopak zamýšlený přímý prodej sousedovi je v rozporu s odst. 9 — dodávat lze jen obchodníkovi nebo na organizované trhy.
+
+**5. Řešení.** Pan Veselý je oprávněn výrobnu připojit a provozovat na základě oznámení; změna obsahu závazku nastala ze zákona (fikce) a PDS ji bez zbytečného odkladu písemně potvrdí. Přebytky však nesmí prodávat přímo sousedovi — musí je dodávat obchodníkovi s elektřinou nebo na organizovaný trh (odst. 9); alternativně může elektřinu sdílet dle odst. 7–8 (do vlastních míst přes soustavu nebo sousedovi bez soustavy jen za jednou společnou pojistkovou skříní). Zákazník-prosumer přejímá povinnosti dle odst. 6 (bezpečnost, odbornost, kvalita, podřízenost dispečinku). Riziko: nesplnění technických podmínek by vyloučilo fikci souhlasu; přímý prodej mimo obchodníka by byl protiprávní.
+
+**6. Varianty.** (a) Kdyby výrobna měla výkon mezi 10,8 kW a 100 kW, neuplatnil by se zjednodušený oznamovací režim — bylo by nutné standardní připojení na základě smlouvy o připojení (odst. 5 první část). (b) Kdyby v odběrném místě již byla připojena jiná výrobna nebo úložiště, právo provozovat další výrobnu dle odst. 5 by zákazníkovi nevzniklo (podmínka jediné výrobny v odběrném místě).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument PDS proti fikci souhlasu.* PDS může tvrdit, že zákazník nesplnil technické podmínky, a fikce tudíž nenastala. Neutralizace: zákazník musí splnění technických podmínek doložit; je-li doloženo a PDS ve lhůtě neodmítl z důvodů dle § 25 odst. 10 písm. a), fikce nastává — pozdější námitky PDS jsou opožděné.
+- *Protiargument o právu volně prodávat přebytky.* Zákazník může namítat právo nakládat s vyrobenou elektřinou. Neutralizace: odst. 9 výslovně omezuje odbyt na obchodníka nebo organizované trhy; přímý prodej třetí osobě je vyloučen (cestou je sdílení dle odst. 7–8 nebo prodej obchodníkovi).
+- *Slabé místo:* prahová hodnota 10,8 kW a podmínka „jediné výrobny v odběrném místě" mohou být u kombinovaných instalací (FVE + baterie) sporné; bez přesné dokumentace výkonu a konfigurace hrozí spor o aplikaci zjednodušeného režimu.
+
+#### H. Praktický závěr
+
+§ 28 komplexně vymezuje postavení zákazníka: práva (připojení, volba dodavatele, dynamická/pevná cena, podpůrné služby, sdílení, agregace bez souhlasu dodavatele — odst. 1) a povinnosti (dispečink, měření, údržba, participace na nákladech — odst. 2). Pro zákazníka-prosumera zavádí dvoustupňový přístup (standardní připojení do 100 kW; zjednodušené oznamovací připojení do 10,8 kW s fikcí souhlasu po 30 dnech — odst. 5) a omezuje odbyt vyrobené elektřiny na obchodníka nebo organizované trhy (odst. 9).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit výrobnu zákazníka podle výkonu (do 10,8 kW — oznamovací režim; do 100 kW — smlouva o připojení; jediná výrobna v odběrném místě).
+- [ ] U oznamovacího režimu ověřit oznámení na elektronický kontakt, doložení technických podmínek a marné uplynutí 30denní lhůty (fikce změny závazku — odst. 5).
+- [ ] Zajistit, aby odbyt vyrobené/uložené elektřiny směřoval jen k obchodníkovi nebo na organizované trhy (odst. 9), případně využít sdílení dle odst. 7–8.
+- [ ] Ověřit splnění povinností prosumera dle odst. 6 (bezpečnost, odbornost, kvalita, dispečink).
+- [ ] U sporů o odchylku uplatnit vyloučení odpovědnosti při redispatchi dle odst. 11 (§ 26 odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** smlouva o připojení odběrného místa, oznámení záměru PDS na elektronický kontakt, doklad o splnění technických podmínek a o doručení/marném uplynutí lhůty, doklad o průběhovém měření, smlouva s obchodníkem nebo doklad o prodeji na organizovaném trhu.
 
 ---
 

@@ -98,6 +98,43 @@ Odstavce 9 až 13 tvoří kompaktní soubor věcněprávních pravidel pro věcn
 - **Odst. 12:** Pro znalecké posudky ke stanovení náhrady za věcné břemeno platí oceňovací předpis (vyhláška k zákonu o oceňování majetku).
 - **Odst. 13:** Při zřizování věcného břemene pro účely energetické infrastruktury se nepřihlíží k rozsahu ochranného a bezpečnostního pásma zřizované stavby — tím zákon brání cirkularitě: pásmo vzniká ze stavby, ale nesmí ovlivnit rozsah věcného břemene umožňujícího stavbu samotnou.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel regionální distribuční soustavy (DS) odmítl připojit fotovoltaickou výrobnu elektřiny investora s odůvodněním nedostatečné kapacity sítě. Investor podal k ERÚ návrh na rozhodnutí sporu o uzavření smlouvy o připojení podle § 17 odst. 7. Provozovatel DS ve vyjádření tvrdil vyčerpání rezervovaného výkonu v dané oblasti; investor naopak předložil vlastní technickou studii, podle níž je kapacita dostatečná. Důkazy: žádost o připojení a stanovisko provozovatele, technické podklady o stavu sítě, mapy zatížení transformovny, znalecký posudek k volné kapacitě.
+
+**2. Právní otázka.** Může ERÚ ve sporu o připojení výrobny svým rozhodnutím přímo nahradit smluvní konsens a konstitutivně stanovit obsah práv a povinností stran, a v jaké lhůtě je povinen rozhodnout?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96 odst. 3 (konstitutivní úprava vzájemných práv stran sporu se zákazem značné nerovnováhy) ve spojení s odst. 2 (lhůta 3 měsíce, ve zvláště složitých případech 6 měsíců, pro spor o připojení výrobny) a odst. 4 (ochrana chráněných informací ve spisu).
+- *Související ustanovení téhož zákona:* § 17 odst. 7 (vymezení sporů projednávaných ERÚ), § 96a (vyšetřovací pravomoc ve sporu), § 96b (účinky podání návrhu).
+- *Související předpisy:* § 141 správního řádu (sporné řízení), § 6 a § 547 občanského zákoníku (poctivost, zákaz zneužití), § 71 SŘ (obecné lhůty, od nichž se zde odchyluje).
+- *Judikatura:* obecně nosný závěr správních soudů, že ERÚ ve sporu o připojení rozhoduje konstitutivně a je povinen vypořádat technické námitky provozovatele soustavy na základě vlastního dokazování, nikoli pouze formálně (k povaze regulačních rozhodnutí srov. obecně přístup NSS k cenové a síťové regulaci).
+
+**4. Subsumpce.** Spor spadá pod § 17 odst. 7 (připojení k DS), tudíž je dána pravomoc ERÚ. Jde o spor o připojení výrobny elektřiny, proto platí zkrácená lhůta 3 měsíce (odst. 2 věta třetí). Podle odst. 3 ERÚ neuloží pouze povinnost uzavřít smlouvu, ale stanoví její obsah (rezervovaný výkon, podmínky, podíl na nákladech), přičemž dbá zákazu značné nerovnováhy. Sporná je faktická otázka kapacity — k jejímu posouzení musí ERÚ využít vyšetřovací pravomoc dle § 96a a případně chránit obchodní informace provozovatele dle § 96 odst. 4.
+
+**5. Řešení.** ERÚ provede dokazování (vyžádá technické podklady, ustanoví znalce), posoudí, zda je kapacita skutečně vyčerpána, a vydá konstitutivní rozhodnutí. Je-li kapacita dostatečná, stanoví obsah smlouvy o připojení. Pravděpodobný výsledek: při prokázané volné kapacitě bude provozovateli uloženo připojení za přiměřených podmínek. Rizikem je nedodržení lhůty (3/6 měsíců) — nečinnost lze napadnout. Alternativní výklad: pokud by šlo o spor mimo § 17 odst. 7 písm. b), uplatnila by se podmínka souhlasu odpůrce dle odst. 1.
+
+**6. Varianty.** (a) Šlo-li by o spor podle § 17 odst. 7 písm. b) (nikoli o připojení), ERÚ by návrh odložil usnesením, pokud by odpůrce do 15 dnů nevyslovil souhlas s jeho pravomocí (odst. 1). (b) Pokud by provozovatel DS byl prodán jinému subjektu během řízení, přešla by související oprávnění a věcná břemena na nového držitele licence dle odst. 10, řízení by pokračovalo s nástupcem.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: ERÚ nemá pravomoc nahradit smluvní vůli stran.* Neutralizace: odst. 3 výslovně zmocňuje ERÚ rozhodnout „o úpravě vzájemných práv a povinností stran sporu" — jde o zákonem aprobovaný konstitutivní akt, ústavně přípustný v regulovaném sektoru přirozeného monopolu.
+- *Protiargument 2: lhůta 3 měsíce je nereálná u technicky složitých sporů.* Neutralizace: zákon sám připouští prodloužení na 6 měsíců ve zvláště složitých případech; složitost je třeba řádně odůvodnit ve spisu.
+- *Slabé místo:* neurčitý pojem „značná nerovnováha" (odst. 3) i „zvláště složitý případ" (odst. 2) ponechává široký prostor pro uvážení a může být zdrojem soudního přezkumu; rozhodnutí musí být pečlivě odůvodněno.
+
+#### H. Praktický závěr
+
+§ 96 je procesní páteří řízení ERÚ — kombinuje podmíněnou jurisdikci (odst. 1), zvláštní lhůty (odst. 2), konstitutivní pravomoc (odst. 3), ochranu chráněných informací (odst. 4) a věcněprávní pravidla pro energetická břemena (odst. 9–13).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit typ sporu dle § 17 odst. 7 a ověřit, zda je nutný souhlas odpůrce (odst. 1).
+- [ ] Identifikovat správnou lhůtu pro rozhodnutí (4/6, 3/6 nebo 90/120 dnů) podle povahy sporu (odst. 2).
+- [ ] U rozhodnutí o obsahu smlouvy zkontrolovat zákaz značné nerovnováhy práv stran (odst. 3).
+- [ ] Zajistit duplicitní spis s anonymizací chráněných informací; u cenového výměru je uchovat mimo spis (odst. 4).
+- [ ] U převodu zařízení nebo licence ověřit přechod povinností a věcných břemen na nástupce/nabyvatele (odst. 7, 10).
+
+**Typicky rozhodné důkazy / podklady:** návrh a vyjádření stran, souhlas odpůrce s pravomocí ERÚ, technické podklady o kapacitě sítě, znalecký posudek, listiny s odstraněnými chráněnými informacemi, doklady o převodu zařízení/licence.
+
 ---
 
 ### § 96a — Povinnosti účastníků ve sporném řízení
@@ -125,6 +162,42 @@ Povinnost účastníků zahrnuje dvě složky:
 
 Tato pravomoc má zásadní praktický dopad ve sporech o přístup k sítím a o připojení: provozovatel soustavy disponuje informacemi o kapacitách, technické konfiguraci soustavy a obchodních podmínkách, které nejsou veřejně přístupné. Bez povinnosti zpřístupnění by ERÚ nemohl fakticky zjistit, zda odmítnutí připojení bylo oprávněné. Nesplnění povinnosti součinnosti je přestupkem dle hlavy III EnZ a zakládá odpovědnost za správní delikt.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ve sporném řízení o přístup k distribuční soustavě plynu obchodník (navrhovatel) tvrdí, že provozovatel DS mu neoprávněně odmítl přístup pro údajný nedostatek kapacity. Provozovatel DS na výzvu ERÚ nepředložil podrobné údaje o aktuálním vytížení soustavy ani neumožnil nahlédnout do svých obchodních záznamů o rezervacích kapacity, s odůvodněním obchodního tajemství. Důkazy: výzva ERÚ k předložení dokladů, evidence rezervací kapacity, technické bilance soustavy, korespondence o odmítnutí přístupu.
+
+**2. Právní otázka.** Je provozovatel DS povinen na výzvu ERÚ zpřístupnit své obchodní záznamy a předložit doklady o kapacitě, a jaké jsou důsledky odmítnutí součinnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96a písm. a) (povinnost poskytnout vysvětlení, předložit doklady, účastnit se jednání) a písm. b) (umožnit nahlédnutí do obchodních záznamů ke sporu).
+- *Související ustanovení téhož zákona:* § 96 odst. 2 (lhůty), § 96 odst. 4 (ochrana chráněných informací — anonymizace, nikoli odmítnutí předložení), § 17 odst. 7 (vymezení sporů); hlava III EnZ (přestupky).
+- *Související předpisy:* § 141 a § 52–53 správního řádu (dokazování ve sporném řízení, povinnost součinnosti).
+- *Judikatura:* obecně uznávaný závěr, že v regulačních řízeních o přístup k síti nese provozovatel soustavy jako informačně silnější strana zvýšenou povinnost součinnosti a obchodní tajemství není absolutní překážkou předložení důkazu, je-li zajištěna jeho ochrana ve spisu.
+
+**4. Subsumpce.** Výzva ERÚ směřovala k důkazům „vztahujícím se ke spornému" přístupu — naplnění hypotézy písm. a) i b). Odmítnutí předložit doklady a zpřístupnit záznamy je porušením povinnosti součinnosti. Obchodní tajemství neospravedlňuje úplné odmítnutí: § 96 odst. 4 řeší ochranu pomocí anonymizovaného výpisu, nikoli pomocí nepředložení. Nesplnění povinnosti zakládá odpovědnost za přestupek dle hlavy III EnZ.
+
+**5. Řešení.** ERÚ může povinnost vynutit (výzva, opakovaná výzva, případně pořádková opatření) a nesplnění hodnotit v neprospěch nesoučinné strany při hodnocení důkazů. Pravděpodobný výsledek: odmítne-li provozovatel prokázat tvrzený nedostatek kapacity, ERÚ vyjde z důkazů navrhovatele a může rozhodnout o přístupu. Procesní krok: zajistit ochranu chráněných informací podle § 96 odst. 4 (anonymizovaná verze do spisu). Riziko: spor o rozsah pojmu „záznamy týkající se sporu" — výzva musí být dostatečně určitá.
+
+**6. Varianty.** (a) Předloží-li provozovatel doklady, ale jen v plné verzi s obchodním tajemstvím, ERÚ vyžádá i anonymizovanou verzi (§ 96 odst. 4) a ve spisu zpřístupní jen tu. (b) Týkala-li by se výzva záznamů nesouvisejících se sporem, provozovatel by nebyl povinen je předložit — povinnost je vázána na předmět sporu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: zpřístupnění obchodních záznamů porušuje obchodní tajemství.* Neutralizace: § 96a je třeba číst spolu s § 96 odst. 4 — informace se chrání anonymizací ve spisu, nikoli odmítnutím jejich předložení regulátorovi.
+- *Protiargument 2: vyšetřovací pravomoc překračuje rámec sporného řízení dle SŘ.* Neutralizace: § 96a je lex specialis k § 141 SŘ a vyšetřovací oprávnění ERÚ výslovně rozšiřuje; zákonný základ je dán.
+- *Slabé místo:* hranice mezi „doklady ke sporu" a fishing expedition; nepřiměřeně široká výzva by mohla být napadena jako excesivní zásah do práv účastníka.
+
+#### H. Praktický závěr
+
+§ 96a vybavuje ERÚ aktivní vyšetřovací a informační pravomocí, jež je nezbytná zejména ve sporech o přístup a připojení, kde provozovatel soustavy drží klíčové neveřejné informace.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Formulovat výzvu k součinnosti určitě a s vazbou na předmět sporu (písm. a/b).
+- [ ] Stanovit přiměřenou lhůtu pro předložení dokladů a vysvětlení.
+- [ ] Při obchodním tajemství vyžádat anonymizovanou verzi dle § 96 odst. 4, nikoli akceptovat odmítnutí.
+- [ ] Nesoučinnost zohlednit při hodnocení důkazů a zvážit odpovědnost za přestupek dle hlavy III.
+
+**Typicky rozhodné důkazy / podklady:** výzva ERÚ a doklad o doručení, předložené doklady a vysvětlení, obchodní záznamy o kapacitě/rezervacích, anonymizované výpisy, protokol o nahlížení do záznamů.
+
 ---
 
 ### § 96b — Právní účinky podání návrhu ve sporném řízení
@@ -148,6 +221,42 @@ Tato pravomoc má zásadní praktický dopad ve sporech o přístup k sítím a 
 **Odst. 1 — rovnocennost s žalobou:** Podání návrhu ERÚ má tytéž právní účinky jako žaloba u soudu — tedy zakládá zejm. litispendenci (§ 83 OSŘ), staví promlčecí lhůty a způsobuje prekluzi lhůt závislých na uplatnění práva. Právní jistota navrhovatele je tím plně chráněna: nehrozí, že ERÚ bude zamítat z procesních důvodů a soudu mezitím uplyne promlčení.
 
 **Odst. 2 — nepřípustnost návrhu:** Návrh je nepřípustný, bylo-li v téže věci vydáno soudní rozhodnutí nebo zahájeno soudní řízení, anebo probíhá-li nebo proběhlo rozhodčí řízení. Zákonodárce tím vylučuje fórum shopping a duplicitu rozhodování — strana nemůže paralelně uplatnit totéž právo u ERÚ i u soudu nebo rozhodce. Podmínka „v téže věci" se vykládá dle kritérií totožnosti věci ve správním a civilním procesu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník s elektřinou podal k ERÚ návrh na rozhodnutí sporu o uzavření smlouvy o přístupu k distribuční soustavě podle § 17 odst. 7 písm. e). Krátce nato (resp. ještě před rozhodnutím ERÚ) podal v téže věci žalobu k civilnímu soudu, protože se obával průtahů. Odpůrce (provozovatel DS) namítl nepřípustnost návrhu u ERÚ. Důkazy: návrh podaný ERÚ s datem doručení, žaloba a doklad o zahájení soudního řízení, rozhodčí doložka ve smlouvě (pokud existuje).
+
+**2. Právní otázka.** Jaké procesní účinky má podání návrhu k ERÚ a je návrh přípustný, byla-li v téže věci současně podána žaloba k soudu nebo probíhá-li rozhodčí řízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96b odst. 1 (podání návrhu má tytéž účinky jako žaloba u soudu) a odst. 2 písm. a) a b) (nepřípustnost při soudním rozhodnutí/zahájeném řízení nebo rozhodčím řízení).
+- *Související ustanovení téhož zákona:* § 17 odst. 7 písm. e) (typ sporu), § 96 odst. 2 (lhůty pro rozhodnutí ERÚ).
+- *Související předpisy:* § 83 a § 159a OSŘ (litispendence, překážka věci rozhodnuté), § 642 OZ (stavení promlčení uplatněním práva u orgánu veřejné moci), zákon č. 216/1994 Sb., o rozhodčím řízení.
+- *Judikatura:* obecná zásada zákazu dvojího uplatnění téhož práva (litispendence) a ne bis in idem; nosný závěr, že totožnost věci se posuzuje podle účastníků a předmětu řízení.
+
+**4. Subsumpce.** Podání návrhu k ERÚ založilo dle odst. 1 tytéž účinky jako žaloba — staví promlčecí lhůty a zakládá litispendenci. Pozdější (nebo souběžná) žaloba k soudu v téže věci pak naráží na odst. 2: jakmile bylo soudní řízení zahájeno, stává se návrh u ERÚ nepřípustným; pokud byl návrh u ERÚ dřívější, je naopak nepřípustná pozdější žaloba u soudu z důvodu litispendence. Existence rozhodčího řízení (proběhlého i probíhajícího) rovněž zakládá nepřípustnost návrhu (písm. b).
+
+**5. Řešení.** ERÚ posoudí časovou prioritu a totožnost věci. Byl-li návrh k ERÚ podán dříve a teprve poté žaloba, ERÚ pokračuje a soud žalobu odmítne pro litispendenci. Byla-li dříve podána žaloba (nebo proběhlo rozhodčí řízení), ERÚ návrh odmítne jako nepřípustný (odst. 2). Procesní krok: prokázat data podání a totožnost předmětu. Riziko: spor o to, zda jde o „tutéž věc" — odlišný petit nebo jiný účastník totožnost vylučuje.
+
+**6. Varianty.** (a) Pokud by soudní řízení bylo zahájeno až po podání návrhu k ERÚ, byla by nepřípustná žaloba, nikoli návrh — prioritu má dříve zahájené řízení. (b) Pokud by spor nepatřil pod § 17 odst. 7 písm. e), ale pod písm. b), neaplikoval by se § 96b, nýbrž režim souhlasu odpůrce dle § 96 odst. 1.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: navrhovatel má právo na soud, nelze mu bránit žalobou.* Neutralizace: § 96b nebrání přístupu k soudu obecně, pouze vylučuje souběžné a duplicitní uplatnění; volba fóra zůstává navrhovateli, ale je vázán prioritou prvního zahájeného řízení.
+- *Protiargument 2: rozhodčí řízení nemůže vyloučit pravomoc regulátora.* Neutralizace: odst. 2 písm. b) výslovně činí návrh nepřípustným i tehdy, byl-li spor předmětem rozhodčího řízení — zákonodárce tím chrání před obcházením a dvojkolejností.
+- *Slabé místo:* posouzení „téže věci" napříč správním, civilním a rozhodčím procesem může být sporné; nejednotná judikatura k totožnosti předmětu řízení.
+
+#### H. Praktický závěr
+
+§ 96b zajišťuje, že řízení před ERÚ je plnohodnotnou alternativou soudního řízení (stavení promlčení, litispendence) a zároveň brání paralelnímu uplatnění téhož nároku u soudu, rozhodce i regulátora.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že jde o spor dle § 17 odst. 7 písm. e), na který § 96b dopadá.
+- [ ] Zjistit datum a pořadí zahájení řízení u ERÚ, soudu a případně rozhodce.
+- [ ] Posoudit totožnost věci (účastníci + předmět) pro účely nepřípustnosti.
+- [ ] Při podání návrhu k ERÚ počítat se stavením promlčení a litispendenčními účinky (odst. 1).
+
+**Typicky rozhodné důkazy / podklady:** návrh k ERÚ s datem doručení, doklad o zahájení soudního řízení/žaloba, rozhodčí doložka a doklady o rozhodčím řízení, vymezení předmětu sporu.
 
 ---
 
@@ -177,6 +286,42 @@ Zákon zavádí dva paralelní mechanismy: (i) **individuální výjimka** na ž
 
 Odstavec 6 zavádí maximální lhůty pro povolování OZE — jde o implementaci čl. 16 směrnice 2018/2001 (RED II) ve znění novelizovaném směrnicí 2023/2413 (RED III): do 12 měsíců pro výrobny do 150 kW, do 24 měsíců pro větší výrobny, do 1 měsíce pro solárních zařízení na umělých stavbách do 100 kW. Překročení lhůt nestanoví zákon jako přestupek, avšak v kombinaci s nečinností a správní žalobou jde o silný procesní tlak na ERÚ a stavební úřady.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobce elektřiny provozující nový typ střídače u větrné výrobny zjistí, že splnění některého technického požadavku kodexu sítě (nařízení EU 2016/631) je u jeho zařízení technicky neúčelné a ekonomicky neúnosné. Požádá ERÚ o udělení individuální výjimky. Souběžně provozovatel přenosové soustavy zvažuje plošnou výjimku pro celou kategorii obdobných zařízení formou opatření obecné povahy. Důkazy: technická specifikace zařízení, analýza nákladů a přínosů dle čl. 39 nařízení, stanovisko provozovatele soustavy.
+
+**2. Právní otázka.** Za jakých podmínek ERÚ udělí výjimku z požadavků kodexu sítě a jak se vzájemně vztahuje individuální řízení o žádosti a plošná výjimka opatřením obecné povahy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96ba odst. 1 (individuální výjimka rozhodnutím), odst. 2 (plošná výjimka OOP s možností stanovit náhradní požadavky), odst. 3 (povinná analýza nákladů a přínosů dle čl. 39), odst. 4 (zastavení individuálního řízení při existenci OOP), odst. 6 (maximální lhůty pro povolování OZE).
+- *Související ustanovení téhož zákona:* § 96bb (retrofitting stávajících výroben), § 96 odst. 2 (lhůty schvalovacích řízení), § 17e (konzultace).
+- *Související předpisy:* nařízení EU 2016/631 (kodex sítě pro připojení výroben — RfG), čl. 16 směrnice 2018/2001 (RED II) ve znění směrnice 2023/2413 (RED III), § 171 a násl. správního řádu (opatření obecné povahy).
+- *Judikatura:* obecné zásady soudního přezkumu opatření obecné povahy (test proporcionality a procesní řádnosti), aplikované na regulatorní OOP ERÚ.
+
+**4. Subsumpce.** Žádost výrobce naplňuje hypotézu odst. 1 — ERÚ rozhoduje o individuální výjimce za podmínek nařízení. Pokud ERÚ vydá pro tutéž kategorii zařízení plošnou výjimku OOP (odst. 2), musí ji podložit analýzou nákladů a přínosů (odst. 3) a individuální řízení o žádosti pak zastaví (odst. 4). Náhradní požadavky lze stanovit, je-li to účelné. Pominou-li důvody, ERÚ OOP změní nebo zruší (odst. 5).
+
+**5. Řešení.** ERÚ posoudí technické a ekonomické důvody výjimky. Pravděpodobný výsledek: je-li plošná výjimka vhodnější, ERÚ ji vydá OOP a individuální řízení zastaví; jinak rozhodne o individuální žádosti. Procesní krok: zveřejnit analýzu nákladů a přínosů. Riziko: kolize obou řízení a otázka, zda OOP pokrývá konkrétní zařízení žadatele — odst. 4 řeší zastavením jen „v téže věci". U OZE je nutné hlídat maximální lhůty dle odst. 6.
+
+**6. Varianty.** (a) Šlo-li by o solární zařízení na umělé stavbě (např. střecha) s výkonem do 100 kW, povolovací proces nesmí přesáhnout 1 měsíc (odst. 6 věta třetí) — extrémně zkrácená lhůta. (b) Pominou-li důvody výjimky (změna technologie sítě), ERÚ je povinen OOP změnit či zrušit (odst. 5), čímž výjimka pro futuro zanikne.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: ERÚ nemůže měnit přímo použitelné nařízení EU výjimkou.* Neutralizace: výjimky uděluje ERÚ na základě zmocnění obsaženého v samotném nařízení (RfG); nejde o derogaci unijního práva, ale o jím předvídaný mechanismus.
+- *Protiargument 2: lhůty dle odst. 6 jsou nevymahatelné, neboť zákon nestanoví sankci.* Neutralizace: překročení lhůt zakládá nečinnost napadnutelnou opatřeními proti nečinnosti a správní žalobou; lhůty plynou přímo ze směrnice RED III a mají přímý účinek ve prospěch žadatele.
+- *Slabé místo:* kvalita a nezávislost analýzy nákladů a přínosů (odst. 3) — bez robustní analýzy je OOP zranitelné v soudním přezkumu.
+
+#### H. Praktický závěr
+
+§ 96ba dává ERÚ dvojí nástroj — individuální i plošnou výjimku z kodexu sítě — a současně transponuje akcelerační lhůty pro povolování OZE z RED III.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posoudit, zda jsou dány technické/ekonomické důvody pro výjimku dle nařízení RfG.
+- [ ] Zvolit formu (individuální rozhodnutí dle odst. 1 vs. OOP dle odst. 2) a při OOP zveřejnit analýzu nákladů a přínosů (odst. 3).
+- [ ] Při souběhu zastavit individuální řízení, je-li o věci vydáno OOP (odst. 4).
+- [ ] U OZE hlídat maximální lhůty 12/24 měsíců, resp. 1 měsíc u solárních zařízení na umělých stavbách do 100 kW (odst. 6).
+
+**Typicky rozhodné důkazy / podklady:** žádost o výjimku, technická specifikace zařízení, analýza nákladů a přínosů dle čl. 39 RfG, stanovisko provozovatele soustavy, návrh a zveřejnění OOP.
+
 ---
 
 ### § 96bb — Rozšíření požadavků na připojení stávajících výroben elektřiny
@@ -199,6 +344,42 @@ Odstavec 6 zavádí maximální lhůty pro povolování OZE — jde o implementa
 
 Souhlas ERÚ se zpracováním kvantitativní analýzy (odst. 3) není správním rozhodnutím — jde o technický procesní úkon v rámci unijní procedury, jehož absence by blokovala vydání opatření obecné povahy. Zákon výslovně tuto kvalifikaci uvádí, aby nedošlo k povinnosti aplikovat opravné prostředky správního řízení na tento úkon.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel přenosové soustavy identifikuje, že větší množství starších výroben elektřiny (připojených před účinností kodexu sítě) ohrožuje stabilitu soustavy, protože nesplňuje moderní požadavky na podporu sítě při poruchách. Iniciuje proto u ERÚ úvahu o dodatečném uložení vybraných požadavků kodexu sítě i na tyto stávající výrobny. Důkazy: kvantitativní analýza nákladů a přínosů (čl. 4 odst. 4 nařízení), zpráva o veřejné konzultaci, stanovisko provozovatele PS dle čl. 38 odst. 4.
+
+**2. Právní otázka.** Může ERÚ uložit požadavky kodexu sítě dodatečně i na výrobny připojené před jeho účinností (retrofitting) a jakou formou a za jakých procesních podmínek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96bb odst. 1 (rozšíření požadavků na stávající výrobny dle čl. 4 odst. 2 nařízení), odst. 2 (OOP stanovící rozsah, kategorie a dobu platnosti, případně náběhové lhůty), odst. 3 (souhlas se zpracováním kvantitativní analýzy, jenž není správním rozhodnutím; zveřejnění analýzy a zprávy o konzultaci), odst. 4 (změna/zrušení OOP při odpadnutí důvodů).
+- *Související ustanovení téhož zákona:* § 96ba (výjimky pro nové výrobny — protipól), § 17e (konzultace).
+- *Související předpisy:* nařízení EU 2016/631 (RfG), čl. 3 odst. 4, čl. 4 odst. 2 a 4, čl. 38 odst. 4; § 171 a násl. správního řádu (OOP).
+- *Judikatura:* zásada ochrany legitimního očekávání provozovatelů stávajících výroben a test proporcionality při zpětném ukládání povinností; obecné meze soudního přezkumu OOP.
+
+**4. Subsumpce.** Uložení požadavků na stávající výrobny je přípustné jen za podmínek nařízení (odst. 1) a výhradně formou OOP (odst. 2), které musí vymezit rozsah požadavků, dotčené kategorie výroben a dobu platnosti, případně náběhové lhůty. Souhlas ERÚ se zpracováním kvantitativní analýzy (odst. 3) je technický procesní úkon, nikoli rozhodnutí — nelze proti němu uplatnit opravné prostředky. OOP musí být podloženo zveřejněnou analýzou nákladů a přínosů a zprávou o konzultaci.
+
+**5. Řešení.** ERÚ udělí souhlas se zpracováním analýzy, posoudí její závěry, provede konzultaci a vydá OOP vymezující retrofitting. Pravděpodobný výsledek: při prokázaném přínosu pro stabilitu soustavy převažujícím nad náklady ERÚ uloží vybrané požadavky s přiměřenými náběhovými lhůtami. Procesní krok: zveřejnit analýzu a zprávu o konzultaci současně s návrhem OOP. Riziko: napadení OOP pro nepřiměřenost zpětného zásahu a pro nedostatečnou analýzu.
+
+**6. Varianty.** (a) Pokud by analýza neprokázala převahu přínosů nad náklady, ERÚ retrofitting neuloží — kritériem je kvantitativní analýza nákladů a přínosů. (b) Odpadnou-li důvody (např. modernizace výroben proběhne dobrovolně), ERÚ OOP dle odst. 4 změní nebo zruší.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: zpětné uložení požadavků porušuje legitimní očekávání provozovatelů.* Neutralizace: nařízení RfG retrofitting výslovně připouští (čl. 4 odst. 2); zákon vyžaduje analýzu nákladů a přínosů a umožňuje náběhové lhůty, čímž je zásah proporcionální.
+- *Protiargument 2: souhlas dle odst. 3 by měl být přezkoumatelný jako rozhodnutí.* Neutralizace: zákon výslovně stanoví, že souhlas není správním rozhodnutím — jeho zákonnost lze přezkoumat až v rámci přezkumu samotného OOP.
+- *Slabé místo:* náročnost a nákladnost kvantitativní analýzy; spornost vymezení „kategorií" stávajících výroben a náběhových lhůt.
+
+#### H. Praktický závěr
+
+§ 96bb je nástrojem zpětné harmonizace technických standardů — umožňuje ERÚ chránit stabilitu soustavy uložením vybraných požadavků kodexu i na starší výrobny, vždy však opatřením obecné povahy podloženým analýzou nákladů a přínosů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit splnění podmínek nařízení RfG pro rozšíření požadavků na stávající výrobny (odst. 1).
+- [ ] Zajistit souhlas se zpracováním a vlastní kvantitativní analýzu nákladů a přínosů (odst. 3).
+- [ ] Provést a zveřejnit veřejnou konzultaci včetně stanoviska provozovatele PS.
+- [ ] V OOP vymezit rozsah požadavků, kategorie výroben, dobu platnosti a náběhové lhůty (odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** kvantitativní analýza nákladů a přínosů, zpráva o veřejné konzultaci, stanovisko provozovatele PS dle čl. 38 odst. 4, návrh a zveřejnění OOP.
+
 ---
 
 ### § 96c — Přezkum souladu rozhodnutí ERÚ s předpisem EU
@@ -220,6 +401,42 @@ Souhlas ERÚ se zpracováním kvantitativní analýzy (odst. 3) není správním
 Zákon stanoví povinnost ERÚ **zahájit přezkumné řízení a vydat rozhodnutí do 2 měsíců** od rozhodnutí Komise. Přezkumné řízení probíhá dle správního řádu (§§ 94–99 SŘ), avšak bez vázanosti standardními lhůtami pro zahájení a vydání rozhodnutí v přezkumném řízení. Tím je zajištěna procesní rychlost nezbytná pro udržení souladu s unijním právem.
 
 Odst. 3 rozšiřuje aplikaci i na opatření obecné povahy ERÚ a na situace, kdy Komise nebo ACER vydaly doporučení — tedy i nezávazný akt může fakticky zahájit přezkumný proces.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ERÚ vydal rozhodnutí o podmínkách přístupu k přeshraniční přenosové kapacitě. Evropská komise následně rozhodla, že toto rozhodnutí je v rozporu s přímo použitelným nařízením EU o vnitřním trhu s elektřinou. Komise své rozhodnutí oznámila ERÚ. Účastník trhu, jehož se původní rozhodnutí týkalo, vyčkává nápravy. Důkazy: původní rozhodnutí ERÚ, rozhodnutí Komise s datem vydání, oznámení doručené ERÚ, případně doporučení ACER.
+
+**2. Právní otázka.** Jakou povinnost a v jaké lhůtě má ERÚ poté, co Komise rozhodne o rozporu jeho rozhodnutí s předpisem EU, a podle jakého procesního režimu náprava probíhá?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96c odst. 1 (povinnost provést přezkumné řízení a vydat rozhodnutí do 2 měsíců od rozhodnutí Komise; informovat Komisi), odst. 2 (obdobné použití přezkumného řízení dle SŘ bez vázanosti lhůtami pro zahájení a rozhodnutí), odst. 3 (rozšíření na OOP a na doporučení Komise nebo Agentury).
+- *Související ustanovení téhož zákona:* § 17 a násl. (pravomoci ERÚ), § 96 odst. 2 (lhůty obecně).
+- *Související předpisy:* nařízení EU 2019/943 (vnitřní trh s elektřinou), nařízení EU 2024/1789 (vnitřní trh s plynem), §§ 94–99 správního řádu (přezkumné řízení).
+- *Judikatura:* zásada přednosti a účinného prosazení práva EU; obecný závěr, že národní regulační orgán je vázán rozhodnutími Komise/ACER v mezích nařízení o vnitřním trhu.
+
+**4. Subsumpce.** Rozhodnutí Komise o rozporu spustilo hypotézu odst. 1 — ERÚ je povinen zahájit přezkumné řízení a vydat rozhodnutí do 2 měsíců od vydání rozhodnutí Komise a o výsledku ji informovat. Procesně se použije přezkumné řízení dle §§ 94–99 SŘ, avšak bez vázanosti lhůtami pro vydání usnesení o zahájení a pro rozhodnutí ve věci (odst. 2). Týká-li se kolize OOP, nebo jde-li jen o doporučení Komise/ACER, postupuje se obdobně (odst. 3).
+
+**5. Řešení.** ERÚ zahájí přezkumné řízení, zruší nebo změní vadné rozhodnutí tak, aby bylo v souladu s nařízením EU, a informuje Komisi. Pravděpodobný výsledek: náprava do 2 měsíců. Procesní krok: vyhotovit usnesení o zahájení a meritorní rozhodnutí. Riziko: napětí mezi dvouměsíční unijní lhůtou a procesními právy účastníků původního řízení (právo vyjádřit se) — ERÚ musí obojí skloubit.
+
+**6. Varianty.** (a) Vydala-li by Komise nebo ACER pouze doporučení (nezávazný akt), přesto se postup dle odst. 3 použije obdobně — i doporučení může spustit přezkum. (b) Týkal-li by se rozpor opatření obecné povahy, ERÚ provede přezkum OOP, nikoli individuálního rozhodnutí (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: dvouměsíční lhůta neumožňuje řádné zachování práv účastníků přezkumu.* Neutralizace: odst. 2 výslovně uvolňuje ERÚ z procesních lhůt přezkumného řízení, čímž vytváří prostor pro rychlou nápravu; práva účastníků se zachovávají v možném rozsahu, prioritou je soulad s právem EU.
+- *Protiargument 2: doporučení Komise/ACER nemůže zakládat povinnost přezkumu.* Neutralizace: odst. 3 výslovně rozšiřuje režim i na doporučení — zákonodárce tím zajišťuje účinnost unijního dohledového mechanismu.
+- *Slabé místo:* kolize mezi povinností respektovat pravomocné rozhodnutí (právní jistota účastníků) a povinností je zrušit pro rozpor s právem EU; otázka náhrady škody způsobené původním vadným rozhodnutím.
+
+#### H. Praktický závěr
+
+§ 96c je transpozičním mostem mezi unijním dohledem (Komise, ACER) a národním přezkumným řízením — zavazuje ERÚ k rychlé (dvouměsíční) nápravě rozhodnutí i OOP, jež Komise shledala v rozporu s právem EU.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat akt Komise/ACER (rozhodnutí o rozporu vs. doporučení) a datum jeho vydání.
+- [ ] Zahájit přezkumné řízení a vydat rozhodnutí do 2 měsíců (odst. 1).
+- [ ] Aplikovat §§ 94–99 SŘ obdobně, ale bez vázanosti lhůtami pro zahájení a rozhodnutí (odst. 2).
+- [ ] Informovat Komisi o vydání rozhodnutí bez zbytečného odkladu.
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí/doporučení Komise nebo ACER, oznámení doručené ERÚ, původní rozhodnutí nebo OOP ERÚ, spis přezkumného řízení, informace zaslaná Komisi.
 
 ---
 
@@ -288,6 +505,42 @@ Zákon rozlišuje maxima donucovacích pokut podle subjektu:
 
 Horní sazby pro držitele licence a pro speciální případy (plnění nad rámec licence) jsou nastaveny výrazně výše, aby donucovací tlak byl fakticky účinný vůči velkým energetickým společnostem s miliardovými obraty. Opakované ukládání bez limitu počtu je záměrnou volbou zákonodárce: pokuta se stává eskalující a trváním povinnosti se zvyšuje celková zátěž — dokud není povinnost splněna.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ERÚ pravomocným rozhodnutím podle § 12 odst. 2 uložil držiteli licence na distribuci elektřiny povinnost zajišťovat distribuci nad rámec licence v oblasti, kde předchozí provozovatel pozbyl licenci, aby nedošlo k přerušení dodávek odběratelům. Držitel licence však distribuci nezajišťuje a rozhodnutí dlouhodobě nerespektuje. Důkazy: pravomocné rozhodnutí ERÚ dle § 12 odst. 2, doklad o jeho vykonatelnosti, zjištění o nečinnosti držitele, evidence dotčených odběrných míst.
+
+**2. Právní otázka.** Jakým nástrojem a do jaké výše může ERÚ vynutit splnění povinnosti distribuce nad rámec licence, není-li plněna dobrovolně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96d odst. 1 písm. c) (vymáhání povinnosti zajišťovat distribuci nad rámec licence dle § 12 odst. 2–4), odst. 4 (opakované ukládání; výše pokut — u písm. c) až 1 000 000 Kč fyzické osobě, u držitele licence až 10 000 000 Kč), odst. 3 (§ 105 odst. 2 SŘ není dotčen).
+- *Související ustanovení téhož zákona:* § 12 odst. 2–4 (povinnost nad rámec licence), § 96 odst. 6 (kontinuita dodavatelských smluv), § 96 odst. 7 (přechod povinnosti na nástupce).
+- *Související předpisy:* §§ 103–129 správního řádu (exekuce — subsidiárně), § 105 odst. 2 SŘ.
+- *Judikatura:* obecný závěr o povaze donucovací pokuty (astreinte) jako nástroje nepřímého vynucení nepeněžité povinnosti, odlišného od trestní sankce; zákaz dvojího postihu se na donucovací pokutu nevztahuje, neboť nejde o trest.
+
+**4. Subsumpce.** Povinnost zajišťovat distribuci nad rámec licence dle § 12 odst. 2 spadá pod § 96d odst. 1 písm. c). Jelikož jde o porušení dle písm. c), platí zvýšené maximum (u držitele licence 10 000 000 Kč dle odst. 4 písm. c), resp. zvláštní limity dle písm. a/b). Donucovací pokutu lze ukládat opakovaně až do splnění povinnosti. Nejde o sankci za přestupek, nýbrž o exekuční tlak — proto se neuplatní zásada ne bis in idem.
+
+**5. Řešení.** ERÚ uloží donucovací pokutu a v případě další nečinnosti ji ukládá opakovaně v eskalující podobě, dokud držitel licence povinnost nesplní. Pravděpodobný výsledek: ekonomický tlak donutí držitele distribuci zajistit. Procesní krok: vydat rozhodnutí o donucovací pokutě s vymezením vymáhané povinnosti a lhůty. Riziko: spor o to, zda povinnost je fakticky splnitelná (např. chybí-li vstupy) — zde se uplatní § 96 odst. 6 zajišťující kontinuitu dodávek paliva/energie.
+
+**6. Varianty.** (a) Jde-li o povinnost poskytnout zařízení a umožnit výkon povinnosti nad rámec licence dle § 12 odst. 2–4 (písm. b), platí pro právnickou osobu vyšší limit až 10 000 000 Kč. (b) U povinností vymáhaných ministerstvem (přístup do zásobníku plynu dle § 60d odst. 2, opatření dle § 73 odst. 9 nebo § 73d odst. 6) je příslušné ministerstvo, nikoli ERÚ (odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: opakované ukládání pokut je nepřípustný dvojí postih.* Neutralizace: donucovací pokuta není trestem za delikt, ale exekučním nástrojem k vynucení splnění povinnosti; zásada ne bis in idem se na ni nevztahuje a opakování zákon výslovně připouští (odst. 4).
+- *Protiargument 2: výše pokut je likvidační.* Neutralizace: horní hranice jsou nastaveny tak, aby byly účinné vůči velkým energetickým společnostem; ERÚ je povinen výši individualizovat s ohledem na účel (donutit ke splnění), nikoli potrestat.
+- *Slabé místo:* hranice mezi donucovací pokutou a sankcí za přestupek dle hlavy III při téže povinnosti; nutnost odlišit represivní a donucovací funkci v odůvodnění.
+
+#### H. Praktický závěr
+
+§ 96d je klíčovým exekučním nástrojem ERÚ a ministerstva pro vynucení nepeněžitých regulatorních povinností (zejména plnění nad rámec licence, opatření k nápravě, unbundling, uzavření smlouvy) — pokutu lze ukládat opakovaně a v sazbách odstupňovaných podle subjektu a typu povinnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit vymáhanou povinnost pod konkrétní písmeno § 96d odst. 1 (ERÚ) nebo odst. 2 (ministerstvo).
+- [ ] Ověřit vykonatelnost podkladového rozhodnutí, jehož splnění se vynucuje.
+- [ ] Stanovit výši pokuty v rámci limitu pro daný subjekt a typ povinnosti (odst. 4).
+- [ ] Při pokračující nečinnosti ukládat pokutu opakovaně až do splnění; odlišit od přestupkové sankce.
+
+**Typicky rozhodné důkazy / podklady:** pravomocné a vykonatelné podkladové rozhodnutí (§ 12, § 18, § 18a, § 58l, § 17 odst. 7), doklady o nesplnění povinnosti, evidence dotčených subjektů, předchozí rozhodnutí o donucovací pokutě.
+
 ---
 
 ### § 96e — Odvod neoprávněného majetkového prospěchu nebo nadměrného majetkového prospěchu
@@ -339,6 +592,42 @@ Správu placení odvodu vykonává **celní úřad** (odst. 8) — tato volba re
 
 Přeplatek na odvodu se vrací na žádost podanou do jednoho roku od splatnosti (odst. 9). Ministerstvo může rozhodnout i z moci úřední, je-li přeplatek zjevný ze zprávy.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V období vládního zastropování cen elektřiny (2022–2023) odebíral velký průmyslový podnik elektřinu za stanovenou (zastropovanou) cenu. Vláda nařízením stanovila nejvyšší přípustný rozsah majetkového prospěchu. Podnik však dosáhl prospěchu (rozdílu mezi smluvní a vládní cenou) převyšujícího toto maximum, ale nadměrný prospěch do státního rozpočtu sám neodvedl. Důkazy: smlouva o dodávce s původní cenou, doklady o odběru za stanovenou cenu, zpráva o posouzení vzniku nadměrného majetkového prospěchu, nařízení vlády o stropech a maximálním rozsahu prospěchu.
+
+**2. Právní otázka.** Vznikla podniku povinnost odvést nadměrný majetkový prospěch, který orgán o ní rozhoduje a jaké jsou důsledky neodvedení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96e odst. 1 (definice majetkového prospěchu), odst. 2 (povinnost odvést nadměrný prospěch), odst. 3 (vznik povinnosti, zpráva o posouzení, splatnost), odst. 4 (rozhodnutí ministerstva při neodvedení), odst. 6 (penále 0,1 % denně), odst. 7 (přechod na nástupce), odst. 8 (správa placení celním úřadem).
+- *Související ustanovení téhož zákona:* § 97 (analogický mechanismus u prokazatelné ztráty), § 19a a násl. (cenová regulace).
+- *Související předpisy:* nařízení Rady (EU) 2022/1854 (krizová intervence k vysokým cenám energie), zákon č. 280/2009 Sb., daňový řád (správa placení), § 1970 OZ (úrok z prodlení — pro srovnání).
+- *Judikatura:* k povaze veřejnoprávních odvodů a penále obecné závěry o ústavní přípustnosti mimořádných krizových odvodů při dodržení proporcionality a předvídatelnosti.
+
+**4. Subsumpce.** Podnik splnil podmínky pro vládní cenu, avšak jeho prospěch přesáhl maximum stanovené vládou — jde tedy o nadměrný majetkový prospěch dle odst. 2, nikoli o neoprávněný prospěch (ten řeší odst. 5, rozhoduje o něm ERÚ). Povinnost odvodu vznikla ex lege uplynutím cenového období (odst. 3); podnik měl zpracovat zprávu o posouzení a odvod sám provést. Neodvedl-li, rozhodne o vzniku, výši a povinnosti odvodu ministerstvo (odst. 4) a vzniká penále 0,1 % denně (odst. 6).
+
+**5. Řešení.** Ministerstvo rozhodne o vzniku nadměrného prospěchu, stanoví jeho výši a uloží odvod do státního rozpočtu; správu placení vykonává celní úřad (odst. 8). Pravděpodobný výsledek: podnik odvede dlužnou částku navýšenou o penále. Procesní krok: doložit/přezkoumat zprávu o posouzení. Riziko: spor o výpočet prospěchu (hypotetická srovnávací cena dle odst. 1) a o správnost stanovení maxima vládou.
+
+**6. Varianty.** (a) Pokud by vládní cena byla uplatněna, ač podnik nesplnil věcné podmínky (typ odběratele, výše spotřeby), šlo by o neoprávněný majetkový prospěch dle odst. 5 a rozhodoval by ERÚ, nikoli ministerstvo. (b) Odvedl-li by podnik více, než činí jeho nadměrný prospěch, může do jednoho roku od splatnosti požádat ministerstvo o stanovení výše přeplatku (odst. 9).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: odvod je nepřípustně retroaktivní zásah do majetku.* Neutralizace: jde o nepravou retroaktivitu navázanou na unijní krizové nařízení 2022/1854; povinnost odvodu se týká prospěchu z vládou regulované ceny, tedy z veřejnoprávně modifikovaného vztahu, nikoli z běžného tržního výnosu.
+- *Protiargument 2: penále 0,1 % denně je nepřiměřené.* Neutralizace: sazba odpovídá úroku z prodlení dle daňového řádu a je standardní pro veřejnoprávní odvody; není sankcí trestní povahy.
+- *Slabé místo:* složitost výpočtu hypotetické srovnávací ceny dle odst. 1 (cena, za kterou by účastník odebíral bez stropu) — zdroj výkladových a důkazních sporů; rozdělení kompetence mezi ministerstvo (nadměrný) a ERÚ (neoprávněný) může vést k nejasnostem příslušnosti.
+
+#### H. Praktický závěr
+
+§ 96e je krizovým fiskálním nástrojem energetické krize 2022 — odčerpává do státního rozpočtu nadměrný prospěch (rozhoduje ministerstvo) a neoprávněný prospěch (rozhoduje ERÚ) z vládou zastropovaných cen; správu placení vykonává celní úřad.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odlišit nadměrný (odst. 2, ministerstvo) a neoprávněný (odst. 5, ERÚ) majetkový prospěch.
+- [ ] Zpracovat a včas podat zprávu o posouzení vzniku nadměrného prospěchu (odst. 3).
+- [ ] Provést odvod do splatnosti (poslední den šestého měsíce, není-li jinak); jinak počítat s penále 0,1 % denně (odst. 6).
+- [ ] Při přeplatku podat žádost o jeho stanovení do 1 roku od splatnosti (odst. 9).
+
+**Typicky rozhodné důkazy / podklady:** smlouva o dodávce s ujednanou cenou, doklady o odběru za stanovenou cenu, nařízení vlády o cenách a maximálním rozsahu prospěchu, zpráva o posouzení vzniku nadměrného prospěchu, výpočet srovnávací ceny.
+
 ---
 
 ### § 97 — Prokazatelná ztráta a přiměřený zisk poskytnuté v nesprávné výši
@@ -375,6 +664,42 @@ Zákon zakotvuje **sankcí za nepravdivé podklady** penále 0,1 % denně (odst.
 #### Správa odvodu daňovým způsobem (odst. 5)
 
 Zvláštnost § 97 spočívá v tom, že ERÚ vykonává správu odvodů **podle zákona upravujícího správu daní** (daňový řád) a účastník trhu má postavení daňového subjektu. Tato volba zajišťuje ERÚ plný aparát daňové správy — exekuci, doměřování, zástavní práva — pro vymáhání veřejnoprávní pohledávky. Prekluzivní lhůta pro vyměření odvodu je **10 let od počátku roku následujícího po roce platby** — výrazně delší než standardní tříletá lhůta v daňovém řádu, odůvodněná složitostí vyhodnocení plateb a obvyklou latencí kontrol ERÚ.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Dodavatel plnící povinnost nad rámec licence (zásobování chráněných zákazníků) obdržel od operátora trhu (OTE, a.s.) platbu na úhradu prokazatelné ztráty a přiměřeného zisku. Při následné kontrole ERÚ zjistí, že žádost obsahovala nadhodnocené nákladové položky, takže platba byla poskytnuta v nesprávné (vyšší) výši. Dodavatel platbu dobrovolně nevrátil ani nedošlo k započtení. Důkazy: žádost o úhradu prokazatelné ztráty s podklady, rozhodnutí/výpočet OTE, kontrolní zjištění ERÚ o nesprávných nákladech, evidence zálohových plateb.
+
+**2. Právní otázka.** Jak se vymáhá platba na úhradu prokazatelné ztráty poskytnutá v nesprávné výši a jaké jsou důsledky, byla-li nesprávnost způsobena nepravdivými údaji v žádosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 97 odst. 1 (vrácení/započtení u OTE), odst. 2–3 (rozhodnutí ERÚ z moci úřední a odvod do státního rozpočtu), odst. 4 (penále 0,1 % denně při nesprávných/nepravdivých údajích), odst. 5 (správa odvodu dle daňového řádu, prekluze 10 let), odst. 6 (obdobné použití na vypořádání záloh).
+- *Související ustanovení téhož zákona:* § 96e (analogický odvod nadměrného/neoprávněného prospěchu), § 12 (povinnost nad rámec licence), ustanovení o prokazatelné ztrátě a fondu (§ 98a odst. 2 písm. d).
+- *Související předpisy:* zákon č. 280/2009 Sb., daňový řád (správa odvodu, postavení daňového subjektu); prováděcí vyhláška k výpočtu prokazatelné ztráty.
+- *Judikatura:* obecné závěry k vymáhání veřejnoprávních pohledávek v režimu správy daní a k odpovědnosti za nesprávné podklady při čerpání veřejných prostředků.
+
+**4. Subsumpce.** Platba byla poskytnuta v nesprávné výši — primárně měla být vrácena OTE nebo započtena (odst. 1). Jelikož k tomu nedošlo, ERÚ rozhodne z moci úřední o rozsahu nesprávné úhrady a uloží odvod do státního rozpočtu (odst. 2–3). Protože nesprávnost byla způsobena nepravdivými/nadhodnocenými údaji v žádosti, vzniká navíc penále 0,1 % denně (odst. 4) a o této kvalifikaci ERÚ rozhodne v rozhodnutí dle odst. 2. Odvod se spravuje dle daňového řádu (odst. 5) s prekluzí 10 let.
+
+**5. Řešení.** ERÚ vydá rozhodnutí o nesprávné výši, uloží odvod a penále a vymáhá je v režimu správy daní. Pravděpodobný výsledek: dodavatel vrátí přeplatek navýšený o penále. Procesní krok: kvalifikovat, zda šlo o nepravdivé údaje (rozhoduje o výši penále). Riziko: spor o správnost výpočtu prokazatelné ztráty a o to, zda nesprávné údaje byly zaviněné či pouze chybné.
+
+**6. Varianty.** (a) Vrátil-li by dodavatel platbu dobrovolně OTE (nebo by OTE provedl započtení dle odst. 1), nebylo by třeba rozhodnutí ERÚ ani odvodu do státního rozpočtu. (b) Šlo-li by jen o nevypořádání rozdílu mezi zálohami a skutečnou výší ztráty (bez nepravdivých údajů), postupuje se obdobně dle odst. 6, avšak bez penále dle odst. 4.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: jde o soukromoprávní vztah s OTE, ERÚ nemá pravomoc ukládat odvod do státního rozpočtu.* Neutralizace: § 97 odst. 2–3 výslovně zakládá veřejnoprávní pravomoc ERÚ rozhodnout o odvodu do státního rozpočtu, nedojde-li k nápravě u OTE; jde o zvláštní zákonný režim.
+- *Protiargument 2: desetiletá prekluzivní lhůta je nepřiměřeně dlouhá.* Neutralizace: lhůta je odůvodněna složitostí vyhodnocení plateb a latencí kontrol; zákonodárce ji výslovně stanovil odchylně od tříleté lhůty daňového řádu.
+- *Slabé místo:* hranice mezi „nesprávnými" a „nepravdivými" údaji rozhodná pro penále (odst. 4); důkazní obtížnost prokázání zavinění při dokládání nákladů.
+
+#### H. Praktický závěr
+
+§ 97 nastavuje dvoustupňový mechanismus nápravy chybně vyplacené prokazatelné ztráty a přiměřeného zisku — dobrovolné vrácení/započtení u OTE, jinak rozhodnutí ERÚ o odvodu do státního rozpočtu v režimu správy daní, s penále při nepravdivých podkladech.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit, zda došlo k dobrovolnému vrácení nebo započtení platby u OTE (odst. 1).
+- [ ] Při nečinnosti vydat rozhodnutí ERÚ o rozsahu nesprávné úhrady a odvodu do státního rozpočtu (odst. 2–3).
+- [ ] Posoudit, zda nesprávnost způsobily nepravdivé/neúplné údaje, a podle toho uložit penále 0,1 % denně (odst. 4).
+- [ ] Vést správu odvodu dle daňového řádu a hlídat desetiletou prekluzivní lhůtu (odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** žádost o úhradu prokazatelné ztráty a její podklady, výpočet a doklady OTE, kontrolní zjištění ERÚ, evidence zálohových plateb, doklady o vrácení/započtení.
 
 ---
 
@@ -420,6 +745,42 @@ Odst. 6 a 7 zavádějí povinné veřejné konzultační kolo: ERÚ zveřejní n
 
 Kritériem pro schválení/zamítnutí je dvojice podmínek (odst. 9): (i) soulad s právním předpisem a (ii) absence **značné nerovnováhy v právech a povinnostech účastníků trhu**. Toto druhé kritérium je neurčitý právní pojem, jenž ERÚ umožňuje přezkoumávat i věcnou přiměřenost podmínek — tedy nejen zákonnost, ale i korektnost regulačního rámce pro účastníky trhu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel distribuční soustavy předloží ERÚ ke schválení návrh změny Řádu provozovatele distribuční soustavy, který nově zavádí poplatkovou položku za některé úkony zákazníků. Sdružení odběratelů v rámci zveřejnění návrhu uplatní odůvodněné připomínky, že položka zakládá nerovnováhu v neprospěch zákazníků. Důkazy: návrh řádu a jeho odůvodnění, doklad o zveřejnění na 10 pracovních dnů, uplatněné připomínky s odůvodněním, vyhodnocení připomínek.
+
+**2. Právní otázka.** Za jakých podmínek ERÚ schválí návrh řádu, jak naloží s připomínkami dotčených osob a co následuje, pokud návrh zamítne?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 97a odst. 1 (řízení na žádost vs. z moci úřední), odst. 3 (lhůty pro předložení návrhu řádu), odst. 6 (zveřejnění návrhu na 10 pracovních dnů), odst. 7 (uplatnění a vypořádání připomínek), odst. 8 (vyloučení obecných předpisů o správním řízení; stavení lhůty), odst. 9 (kritéria schválení — soulad s právem a absence značné nerovnováhy; jinak zamítnutí a stanovení z moci úřední).
+- *Související ustanovení téhož zákona:* § 96 odst. 2 (lhůta 4/6 měsíců pro schvalovací řízení), § 97aa (projednání návrhu řádu u držitele licence), § 17e (konzultace), § 25 odst. 12 a § 59 odst. 10 (výjimky z lhůt).
+- *Související předpisy:* § 171 a násl. správního řádu (subsidiárně), prováděcí vyhláška k obsahovým náležitostem řádů (§ 98a odst. 2 písm. b).
+- *Judikatura:* k povaze provozních řádů jako sekundárních normativních aktů schvalovaných regulátorem a k přezkumu kritéria „značné nerovnováhy" jako neurčitého právního pojmu.
+
+**4. Subsumpce.** Řízení bylo zahájeno na žádost držitele licence (odst. 1). ERÚ zveřejnil návrh na zákonných 10 pracovních dnů (odst. 6), po dobu zveřejnění neběžela lhůta pro rozhodnutí (odst. 8). Připomínky sdružení byly odůvodněné a uplatněné dotčenou osobou — ERÚ je povinen se jimi zabývat a výsledky vypořádání zveřejnit (odst. 7). Pro schválení musí být splněna obě kritéria odst. 9: soulad s právním předpisem a absence značné nerovnováhy. Zakládá-li nová položka značnou nerovnováhu, ERÚ návrh (zčásti) zamítne.
+
+**5. Řešení.** ERÚ vyhodnotí připomínky a buď návrh upraví (odst. 7), schválí jej, nebo při značné nerovnováze zčásti zamítne a v rozsahu zamítnutí může řád stanovit z moci úřední (odst. 9). Pravděpodobný výsledek: sporná položka bude odmítnuta nebo upravena. Procesní krok: zveřejnit vypořádání připomínek před vydáním rozhodnutí. Riziko: při podstatné úpravě návrhu nutnost opakovaného zveřejnění (odst. 7 in fine); spor o naplnění pojmu „značná nerovnováha".
+
+**6. Varianty.** (a) Nepředloží-li držitel licence návrh řádu ve lhůtě (odst. 3), ERÚ jej vyzve a po marném uplynutí lhůty zahájí řízení o stanovení řádu z moci úřední (odst. 4). (b) Dostal-li by se schválený řád do rozporu s novým právním předpisem, je držitel povinen předložit návrh nového/změněného řádu do 3 měsíců od účinnosti předpisu (odst. 3 věta první).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: vyloučení správního řádu zkracuje procesní práva připomínkovatelů.* Neutralizace: odst. 8 vylučuje obecné předpisy jen pro fázi zveřejnění a vypořádání připomínek, která má povahu regulatorní konzultace; meritorní rozhodnutí o schválení podléhá přezkumu a musí být odůvodněno.
+- *Protiargument 2: kritérium „značné nerovnováhy" je příliš neurčité.* Neutralizace: jde o standardní neurčitý právní pojem umožňující ERÚ věcný přezkum přiměřenosti; jeho aplikace je soudně přezkoumatelná a musí být v rozhodnutí vyložena.
+- *Slabé místo:* riziko nečinnosti při opakovaném zveřejnění a prodlužování řízení; stanovení řádu z moci úřední je intenzivní zásah vyžadující pečlivé odůvodnění.
+
+#### H. Praktický závěr
+
+§ 97a upravuje schvalování provozních řádů soustav a operátora trhu — kombinuje řízení na žádost, povinné veřejné konzultační kolo (zveřejnění na 10 pracovních dnů, vypořádání připomínek) a subsidiární stanovení řádu z moci úřední při zamítnutí nebo nečinnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Dodržet lhůty pro předložení návrhu řádu (3 měsíce dle odst. 3) a hlídat výjimky dle § 25 odst. 12 a § 59 odst. 10.
+- [ ] Zveřejnit návrh řádu nejméně na 10 pracovních dnů a oznámit na úřední desce (odst. 6).
+- [ ] Zabývat se pouze řádně uplatněnými odůvodněnými připomínkami dotčených osob a zveřejnit jejich vypořádání (odst. 7).
+- [ ] Při schválení ověřit soulad s právem i absenci značné nerovnováhy; při zamítnutí zvážit stanovení řádu z moci úřední (odst. 9).
+
+**Typicky rozhodné důkazy / podklady:** návrh řádu a odůvodnění, doklad o zveřejnění a oznámení na úřední desce, uplatněné připomínky s odůvodněním, vyhodnocení a zveřejnění vypořádání připomínek, doklad o projednání s dotčenými osobami dle § 97aa.
+
 ---
 
 ### § 97aa — Projednání návrhu řádu
@@ -449,6 +810,42 @@ Kritériem pro schválení/zamítnutí je dvojice podmínek (odst. 9): (i) soula
 Povinnost používat tutéž proceduru vzniká i tehdy, rozhodne-li se držitel licence pro dobrovolnou konzultaci (odst. 5 věta druhá). Tím zákon brání selektivní a netransparentní praxi — buď konzultace probíhá regulovaně, nebo neprobíhá vůbec.
 
 Průřezové ustanovení odst. 5 rozšiřuje aplikaci § 97aa i na plány rozvoje distribuční soustavy a jiná obdobná opatření — tedy na veškerou regulatorní dokumentaci, u níž zákon konzultaci ukládá.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel distribuční soustavy má povinnost projednat s dotčenými osobami návrh změny svého řádu. Zveřejní jej na svých internetových stránkách, avšak stanoví pro připomínky lhůtu pouze 10 dní a oznámení ERÚ podá až v den zveřejnění. Účastník trhu namítá, že lhůta i postup jsou v rozporu se zákonem. Důkazy: zveřejněný návrh řádu, údaj o stanovené lhůtě a postupu, oznámení ERÚ o záměru zveřejnit, zpráva o projednání.
+
+**2. Právní otázka.** Jaké minimální procesní požadavky musí držitel licence při projednání návrhu řádu s dotčenými osobami splnit, neupravuje-li způsob projednání zvláštní předpis?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 97aa odst. 1 (zveřejnění na webu, předchozí oznámení ERÚ s uvedením dne zveřejnění), odst. 2 (lhůta pro připomínky alespoň 30 dní, není-li stanoveno jinak), odst. 3 (zveřejnění připomínek a jejich vypořádání), odst. 4 (zpráva o projednání pro ERÚ), odst. 5 (rozšíření na plán rozvoje DS a na dobrovolné projednání).
+- *Související ustanovení téhož zákona:* § 97a (schvalovací řízení, jehož podkladem je zpráva o projednání), § 17e (konzultace).
+- *Související předpisy:* prováděcí vyhláška k obsahovým náležitostem řádů a plánů rozvoje (§ 98a odst. 2 písm. b).
+- *Judikatura:* obecné zásady transparentnosti a participace dotčených osob v regulačním procesu; požadavek řádného vypořádání připomínek.
+
+**4. Subsumpce.** Držitel licence byl povinen zveřejnit návrh na webu a v dostatečném předstihu oznámit ERÚ záměr s uvedením dne zveřejnění (odst. 1) — oznámení „až v den zveřejnění" nesplňuje požadavek dostatečného předstihu. Stanovená lhůta 10 dní je v rozporu s odst. 2, který vyžaduje nejméně 30 dní, není-li zvláštním předpisem stanoveno jinak. Připomínky a jejich vypořádání musí být zveřejněny (odst. 3) a o projednání zpracována zpráva pro ERÚ (odst. 4).
+
+**5. Řešení.** Vada spočívá v nedostatečné lhůtě a v opožděném oznámení ERÚ. Řešení: prodloužit lhůtu na zákonných 30 dní, řádně oznámit ERÚ a projednání zopakovat či dokončit v souladu se zákonem; jinak zpráva o projednání nebude řádným podkladem pro schvalovací řízení dle § 97a. Pravděpodobný výsledek: ERÚ ve schvalovacím řízení vadu projednání zohlední a může vyžadovat nápravu. Riziko: zpochybnění výsledků projednání pro procesní vadu.
+
+**6. Varianty.** (a) Stanovil-li by zvláštní předpis pro připomínky kratší lhůtu, použila by se tato zvláštní lhůta namísto třicetidenní (odst. 2). (b) Rozhodl-li by se držitel licence projednat návrh dobrovolně, ač k tomu není povinen, musel by stejně postupovat dle odst. 1–4 (odst. 5 věta druhá) — zákon brání selektivní netransparentní konzultaci.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: jde o interní postup držitele licence, formální vady nemají právní význam.* Neutralizace: § 97aa stanoví závazné minimální požadavky; jejich porušení činí zprávu o projednání vadným podkladem pro schvalovací řízení dle § 97a.
+- *Protiargument 2: třicetidenní lhůta zbytečně prodlužuje proces.* Neutralizace: lhůta je zákonným minimem chránícím právo dotčených osob se vyjádřit; zkrátit ji lze jen na základě zvláštního předpisu.
+- *Slabé místo:* neurčitost pojmu „dostatečný předstih" pro oznámení ERÚ; absence výslovné sankce za vadné projednání — důsledky se projeví až v navazujícím schvalovacím řízení.
+
+#### H. Praktický závěr
+
+§ 97aa standardizuje konzultaci návrhu řádu prováděnou samotným držitelem licence — povinné zveřejnění s předchozím oznámením ERÚ, minimálně třicetidenní lhůta, zveřejnění vypořádání připomínek a zpráva o projednání jako podklad pro § 97a.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zveřejnit návrh řádu na webu a v dostatečném předstihu oznámit ERÚ den zveřejnění (odst. 1).
+- [ ] Stanovit lhůtu pro připomínky nejméně 30 dní, není-li zvláštním předpisem stanoveno jinak (odst. 2).
+- [ ] Zveřejnit uplatněné připomínky a způsob jejich vypořádání s odůvodněním (odst. 3).
+- [ ] Zpracovat zprávu o projednání a předložit ji ERÚ se schvalovaným řádem (odst. 4); stejně postupovat i při dobrovolném projednání (odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** zveřejněný návrh řádu, oznámení ERÚ o záměru zveřejnit s uvedením dne, doklad o stanovené lhůtě a postupu, uplatněné připomínky a jejich vypořádání, zpráva o projednání.
 
 ---
 
@@ -491,6 +888,42 @@ Vlastník státní nemovitosti má právo na náhradu za věcné břemeno ve vý
 #### Zánik věcného břemene (odst. 5)
 
 Věcné břemeno zaniká dvěma způsoby: (i) uplynutím 5 let od vzniku, nedojde-li k zahájení stavby — tím je chráněn vlastník před trvalým zatížením, na něž se nerealizovalo; (ii) trvalým odstraněním stavby nebo zařízení. V obou případech musí oprávněný zajistit výmaz z katastru.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel distribuční soustavy v elektroenergetice získá pravomocné rozhodnutí o povolení záměru umožňujícího umístit vedení a trafostanici na pozemcích ve vlastnictví státního podniku. Po výstavbě a kolaudaci podá návrh na vklad věcného břemene do katastru. Státní podnik (vlastník) se rozhodne uplatnit nárok na náhradu. Důkazy: rozhodnutí o povolení záměru s vyznačením právní moci, kolaudační rozhodnutí, výpis z katastru s upozorněním a vkladem věcného břemene, žádost vlastníka o náhradu, znalecký odhad.
+
+**2. Právní otázka.** Kdy a jak vzniká věcné břemeno k nemovitosti státního podniku pro energetickou stavbu, jak se zapisuje do katastru a v jaké lhůtě má vlastník právo na náhradu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 97b odst. 1 (vznik věcného břemene ex lege právní mocí rozhodnutí o povolení záměru na nemovitostech státu/státních osob), odst. 2 (zápis upozornění a následný vklad po kolaudaci/dokončení), odst. 3 (jednorázová náhrada dle oceňovacího předpisu na žádost), odst. 4 (prekluzivní lhůta 3 roky pro žádost; odhad a výplata do 6 měsíců), odst. 5 (zánik břemene po 5 letech bez zahájení stavby nebo odstraněním stavby).
+- *Související ustanovení téhož zákona:* § 96 odst. 9–13 (pravidla věcných břemen, pořadí, oceňování), § 96 odst. 10–11 (přechod břemen a povinností).
+- *Související předpisy:* zákon č. 256/2013 Sb., katastrální zákon; zákon č. 151/1997 Sb., o oceňování majetku a oceňovací vyhláška; zákon č. 184/2006 Sb., o vyvlastnění (pro soukromé pozemky); stavební zákon (rozhodnutí o povolení záměru, kolaudace).
+- *Judikatura:* k zákonným věcným břemenům energetické infrastruktury a zásadě nepravé retroaktivity srov. nález Pl.ÚS 25/04 (legitimita zákonných věcných břemen) citovaný u § 98.
+
+**4. Subsumpce.** Vlastníkem zatížených nemovitostí je státní podnik — tedy subjekt uvedený v odst. 1, na jehož pozemcích věcné břemeno vzniká přímo ze zákona právní mocí rozhodnutí o povolení záměru. Po právní moci měl oprávněný podat návrh na zápis upozornění, po kolaudaci pak návrh na vklad věcného břemene se současným výmazem upozornění (odst. 2). Vlastník má právo na jednorázovou náhradu dle oceňovacího předpisu, požádá-li o to do 3 let od vkladu (odst. 3 a 4); jinak nárok zaniká.
+
+**5. Řešení.** Oprávněný zajistí katastrální publicitu (upozornění → vklad) a po žádosti vlastníka opatří odhad a vyplatí náhradu do 6 měsíců (odst. 4). Pravděpodobný výsledek: břemeno trvá, vlastník obdrží náhradu dle oceňovacího předpisu. Procesní krok: hlídat tříletou prekluzivní lhůtu. Riziko: zmeškání lhůty vlastníkem (zánik nároku na náhradu) nebo zánik břemene, nezahájí-li se stavba do 5 let (odst. 5).
+
+**6. Varianty.** (a) Šlo-li by o pozemek soukromého vlastníka (nikoli státu/státní osoby), § 97b se neuplatní — věcné břemeno se zřizuje dohodou nebo vyvlastněním dle zákona č. 184/2006 Sb. (b) Nezahájí-li se stavba do 5 let od vzniku břemene, břemeno zaniká a oprávněný musí zajistit jeho výmaz z katastru (odst. 5).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: vznik břemene bez souhlasu vlastníka a bez vkladu je protiústavní zásah do vlastnictví.* Neutralizace: jde o zákonné věcné břemeno ve veřejném zájmu omezené na nemovitosti státu/státních osob, s nárokem na náhradu; ústavní konformita zákonných energetických břemen byla aprobována (Pl.ÚS 25/04).
+- *Protiargument 2: náhrada „až ve výši" ceny dle oceňovacího předpisu umožňuje vyplatit méně.* Neutralizace: formulace stanoví horní hranici; konkrétní výši určí odhad, vlastník se může bránit, je-li náhrada nepřiměřeně nízká.
+- *Slabé místo:* běh a počítání tříleté prekluzivní lhůty od vkladu a pětileté lhůty zániku; riziko, že upozornění/vklad nebudou podány „bez zbytečného odkladu", což oslabuje publicitu vůči třetím osobám.
+
+#### H. Praktický závěr
+
+§ 97b zavádí zákonné věcné břemeno ex lege ve prospěch energetické infrastruktury na nemovitostech státu a státních osob — vzniká právní mocí povolení záměru, do katastru se promítá upozorněním a vkladem, vlastník má na žádost (do 3 let) nárok na jednorázovou náhradu dle oceňovacího předpisu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že zatížená nemovitost patří státu nebo státní osobě dle odst. 1 (jinak nutná dohoda/vyvlastnění).
+- [ ] Po právní moci povolení záměru podat návrh na zápis upozornění, po kolaudaci/dokončení návrh na vklad a výmaz upozornění (odst. 2).
+- [ ] Vlastník: uplatnit žádost o náhradu do 3 let od vkladu, jinak nárok zaniká (odst. 4).
+- [ ] Hlídat zánik břemene (5 let bez zahájení stavby; odstranění stavby) a zajistit výmaz z katastru (odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o povolení záměru s právní mocí, kolaudační rozhodnutí nebo doklad o dokončení, výpis z katastru (upozornění, vklad), žádost vlastníka o náhradu, znalecký odhad výše náhrady.
 
 ---
 
@@ -550,6 +983,42 @@ Souběžně s energetickým zákonem byl novelizován živnostenský zákon (viz
 #### Procesní a věcné kontinuity při zahájených řízeních a změnách parametrů (odst. 9–12)
 
 Zákon volí standardní přístup procesní kontinuity: (i) probíhající fyzické procesy změny parametrů soustav se dokončí dle starého práva (odst. 9); (ii) nová povolení záměru si vyžadují novou autorizaci na výstavbu (odst. 10); (iii) Státní energetická inspekce dle zákona č. 222/1994 Sb. je totožná institucí jako SEI dle zákona č. 458/2000 Sb. — zachování personální a institucionální kontinuity bez nového jmenování; (iv) pokutová řízení zahájená před 1. 1. 2001 se dokončí dle starého práva (odst. 12) — neretroaktivita sankcí.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník pozemku zjistí, že přes jeho pozemek vede vysokonapěťové vedení distribuční soustavy postavené v roce 1985 podle tehdejších předpisů, aniž by k němu bylo zapsáno věcné břemeno v katastru. Vlastník v roce 2025 požaduje odstranění vedení s tvrzením, že žádné věcné břemeno neexistuje. Provozovatel DS namítá kontinuitu oprávnění dle přechodných ustanovení. Důkazy: doklad o době a způsobu zřízení vedení, dřívější právní úprava (zákon č. 79/1957 Sb. o elektrizaci, resp. č. 222/1994 Sb.), nabývací titul vlastníka k pozemku, výpis z katastru.
+
+**2. Právní otázka.** Zůstává oprávnění k cizí nemovitosti (věcné břemeno) zřízené pro energetické vedení před účinností energetického zákona zachováno, ačkoli nebylo zapsáno do katastru?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 98 odst. 4 (oprávnění k cizím nemovitostem a omezení jejich užívání vzniklá před účinností zákona zůstávají nedotčena), odst. 2–3 (kontinuita ochranných a bezpečnostních pásem).
+- *Související ustanovení téhož zákona:* § 96 odst. 9 (prolomení intabulačního principu u historických nezapsaných břemen), § 96 odst. 10–11 (přechod břemen a povinností na nabyvatele).
+- *Související předpisy:* dřívější energetické předpisy (zákon č. 79/1957 Sb., zákon č. 222/1994 Sb.); občanský zákoník (věcná práva); katastrální zákon.
+- *Judikatura:* nález Pl.ÚS 25/04 (legitimita zákonných věcných břemen a zásada nepravé retroaktivity — práva a povinnosti plynou ze současné úpravy zákonných břemen) a nález I.ÚS 137/03 (oprávnění vzniklá před účinností zůstávají nedotčena; nutnost materiálního výkladu), oba citované přímo v textu komentáře.
+
+**4. Subsumpce.** Vedení bylo zřízeno v roce 1985 podle tehdejších předpisů, na jejichž základě vzniklo oprávnění k cizí nemovitosti. Podle § 98 odst. 4 takové oprávnění zůstává nedotčeno i po 1. 1. 2001. Absence zápisu v katastru není rozhodná: dle § 96 odst. 9 historická nezapsaná břemena energetické infrastruktury požívají ochrany a nepodléhají zásadě přednosti zapsaných práv. Práva a povinnosti se přitom dle Pl.ÚS 25/04 řídí současnou úpravou zákonných věcných břemen (nepravá retroaktivita).
+
+**5. Řešení.** Oprávnění provozovatele DS trvá; vlastník se nemůže domáhat odstranění vedení jen pro absenci zápisu. Pravděpodobný výsledek: žaloba na odstranění bude neúspěšná. Procesní krok: prokázat dobu a právní základ zřízení vedení. Riziko: důkazní nouze ohledně okolností zřízení starého vedení (chybějící dobová dokumentace) — pak je sporné, zda oprávnění vzniklo platně.
+
+**6. Varianty.** (a) Vzniklo-li by vedení až po 1. 1. 2001 bez řádného titulu, § 98 odst. 4 by se neuplatnil a vlastník by se mohl bránit jako proti neoprávněné stavbě. (b) Bylo-li by oprávnění zřízeno smluvně (nikoli ze zákona), řídilo by se režimem té smlouvy, avšak kontinuita dle odst. 4 by zůstala zachována.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: nezapsané věcné břemeno nemůže být účinné vůči novému vlastníkovi (princip materiální publicity katastru).* Neutralizace: § 96 odst. 9 výslovně prolamuje intabulační princip pro historická energetická břemena a § 98 odst. 4 jejich kontinuitu chrání; ústavně aprobováno Pl.ÚS 25/04.
+- *Protiargument 2: aplikace staré úpravy je nepřípustně retroaktivní.* Neutralizace: jde o nepravou retroaktivitu — trvání břemene se posuzuje podle současné úpravy zákonných břemen, což ÚS shledal ústavně konformním.
+- *Slabé místo:* důkazní břemeno o platném vzniku oprávnění podle dobových předpisů; chybějící odstavce 6–8 v § 98 (anomálie číslování) a konzumace většiny přechodných ustanovení časem snižují jejich přímou aplikovatelnost.
+
+#### H. Praktický závěr
+
+§ 98 zajišťuje kontinuitu při přechodu z předchozí energetické úpravy (zákon č. 222/1994 Sb.) — zachovává licenční oprávnění (po splnění přechodné lhůty), ochranná a bezpečnostní pásma i historická věcná oprávnění k cizím nemovitostem, a stanoví procesní kontinuitu zahájených řízení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U historických energetických zařízení zjistit dobu a právní základ vzniku oprávnění k cizí nemovitosti (odst. 4).
+- [ ] Nezaměňovat absenci zápisu v katastru s neexistencí břemene — uplatní se § 96 odst. 9.
+- [ ] Ověřit kontinuitu ochranných a bezpečnostních pásem zřízených dle dřívějších předpisů (odst. 2–3).
+- [ ] U řízení a změn parametrů zahájených před 1. 1. 2001 aplikovat dosavadní předpisy (odst. 9, 12).
+
+**Typicky rozhodné důkazy / podklady:** dobová dokumentace ke zřízení zařízení a oprávnění, dřívější energetické předpisy, nabývací tituly k pozemku, výpis z katastru, doklady o existenci pásem dle starých předpisů.
 
 ---
 
@@ -780,6 +1249,42 @@ Rozsah zmocnění je mimořádně široký — § 98a je jedním z nejrozsáhlej
 | r) | Způsob stanovení indexu zajištění obchodníka |
 | s) | Srovnávací nástroj — informace o nabídkách dodávek el. nebo plynu |
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ERÚ vydá vyhlášku, kterou stanoví způsob regulace cen v elektroenergetice, a následně na jejím základě cenovým rozhodnutím (cenovým výměrem) reguluje konkrétní ceny služby distribuční soustavy. Účastník trhu napadne cenové rozhodnutí s argumentem, že totéž téma (regulace cen) nemůže být upraveno současně vyhláškou i cenovým rozhodnutím a že chybí hierarchie mezi nimi. Důkazy: text vyhlášky ERÚ vydané dle § 98a odst. 2 písm. f), cenové rozhodnutí ERÚ, zákonné zmocnění.
+
+**2. Právní otázka.** Může být tatáž oblast (regulace cen v energetice) regulována dvěma druhy podzákonných aktů — vyhláškou ERÚ a cenovým rozhodnutím — a je to v souladu se zákonným zmocněním dle § 98a?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 98a odst. 2 písm. f) (zmocnění ERÚ stanovit vyhláškou způsob regulace cen a postupy pro regulaci cen), § 98a odst. 1 a 2 obecně (rozdělení normotvorby mezi ministerstvo a ERÚ).
+- *Související ustanovení téhož zákona:* § 17 a násl. (pravomoc ERÚ k cenové regulaci), § 19a (cenová regulace), § 96 odst. 4 (chráněné informace v řízení o cenovém výměru).
+- *Související předpisy:* čl. 79 odst. 3 Ústavy (zmocnění k vydání podzákonného předpisu „na základě a v mezích zákona"), zákon č. 526/1990 Sb., o cenách; zákon č. 265/1991 Sb., o působnosti orgánů ČR v oblasti cen.
+- *Judikatura:* rozsudek NSS 7 As 45/2014 - 28 (citovaný v komentáři) — rozsah a obsah zmocnění k vydání vyhlášky a cenového rozhodnutí je odlišný; absence hierarchie podzákonných předpisů nebrání tomu, aby byla oblast regulována více druhy podzákonných předpisů.
+
+**4. Subsumpce.** § 98a odst. 2 písm. f) zmocňuje ERÚ stanovit vyhláškou způsob a postupy regulace cen; cenové rozhodnutí pak na základě tohoto rámce reguluje konkrétní ceny. Podle závěru NSS 7 As 45/2014 jde o dva nástroje s odlišným rozsahem a obsahem zmocnění — vyhláška stanoví metodu, cenové rozhodnutí aplikuje. Neexistence formální hierarchie mezi nimi není vadou; oba se pohybují v mezích zákonného zmocnění (čl. 79 odst. 3 Ústavy).
+
+**5. Řešení.** Námitka neobstojí: souběžná úprava vyhláškou a cenovým rozhodnutím je přípustná, neboť každý akt plní jinou funkci. Pravděpodobný výsledek: cenové rozhodnutí zůstane v platnosti, je-li v mezích vyhlášky a zákona. Procesní krok: ověřit, že vyhláška i cenové rozhodnutí nepřekračují zákonné zmocnění. Riziko: cenové rozhodnutí překračující rámec vyhlášky nebo zákona by bylo nezákonné (test mezí zmocnění).
+
+**6. Varianty.** (a) Pokud by vyhláška ERÚ upravovala něco nad rámec zmocnění v § 98a odst. 2 (např. ukládala povinnosti bez opory v zákoně), byla by v této části neaplikovatelná pro rozpor s čl. 79 odst. 3 Ústavy. (b) Šlo-li by o oblast svěřenou ministerstvu (odst. 1, např. stav nouze či bilance), nebyl by k vyhlášce příslušný ERÚ, nýbrž ministerstvo — kompetenční vada.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: tatáž oblast nemůže být upravena dvěma podzákonnými akty bez hierarchie.* Neutralizace: NSS 7 As 45/2014 výslovně dovodil, že absence hierarchie nebrání regulaci více druhy podzákonných předpisů, mají-li odlišný rozsah a obsah zmocnění.
+- *Protiargument 2: rozsah zmocnění v § 98a je tak široký, že jde o nepřípustnou blanketní delegaci.* Neutralizace: jednotlivá písmena § 98a vymezují předmět vyhlášek konkrétně a věcně; meze jsou dány účelem zákona a kompetenčním rozdělením mezi ministerstvo a ERÚ.
+- *Slabé místo:* mimořádná šíře a detailnost zmocnění (zejm. Pravidla trhu s elektřinou a plynem) ztěžuje přezkum, zda konkrétní ustanovení vyhlášky nepřekročilo zákonné meze; riziko překrývání kompetencí ministerstva a ERÚ.
+
+#### H. Praktický závěr
+
+§ 98a je architekturou prováděcí normotvorby energetického práva — rozděluje zmocnění mezi ministerstvo (odst. 1: bezpečnost, bilance, autorizace, stav nouze, teplo) a ERÚ (odst. 2: pravidla trhů, připojování, kvalita, regulační výkazy, ceny); souběh vyhlášky a cenového rozhodnutí je přípustný.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat správné zmocňovací písmeno (§ 98a odst. 1 — ministerstvo, nebo odst. 2 — ERÚ) pro danou vyhlášku.
+- [ ] Ověřit, že vyhláška nepřekračuje meze zákonného zmocnění (čl. 79 odst. 3 Ústavy).
+- [ ] Odlišit metodickou úpravu vyhláškou od aplikačního cenového rozhodnutí (NSS 7 As 45/2014).
+- [ ] Při kolizi kompetencí zkontrolovat, zda akt vydal věcně příslušný orgán (ministerstvo vs. ERÚ).
+
+**Typicky rozhodné důkazy / podklady:** text dotčené prováděcí vyhlášky, zákonné zmocnění v § 98a, navazující cenové rozhodnutí nebo jiný individuální akt, vymezení kompetence orgánu.
+
 ---
 
 ### § 99 — Závěrečná ustanovení (zrušovací ustanovení)
@@ -804,6 +1309,42 @@ Rozsah zmocnění je mimořádně široký — § 98a je jedním z nejrozsáhlej
 
 Rozsah derogace je výrazně užší než u daňového řádu či jiných kodifikačních zákonů — zákon č. 458/2000 Sb. zrušuje jen přímého předchůdce a jednu jeho novelu; ostatní novely zákona č. 222/1994 Sb. (zákon č. 83/1998 Sb. v jiných částech, zákon č. 158/1999 Sb. aj.) byly tímto rušením konzumovány v rozsahu, v jakém meníly zákon č. 222/1994 Sb.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V soudním sporu z roku 2024 účastník dovozuje práva z institutu zřízeného výhradně zákonem č. 222/1994 Sb. (např. specifický typ oprávnění Státní energetické inspekce nebo procesní institut), aniž by zohlednil, že tento zákon byl zrušen. Protistrana namítá, že zákon č. 222/1994 Sb. byl derogován § 99 energetického zákona k 1. 1. 2001. Důkazy: text zrušovacího ustanovení § 99, zákon č. 222/1994 Sb. a jeho novela č. 83/1998 Sb., přechodná ustanovení § 98.
+
+**2. Právní otázka.** Lze po 1. 1. 2001 aplikovat zákon č. 222/1994 Sb. (a čl. V zákona č. 83/1998 Sb.), a jaký je vztah derogace dle § 99 ke kontinuitě dle přechodných ustanovení § 98?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 99 bod 1 (zrušení zákona č. 222/1994 Sb.) a bod 2 (zrušení čl. V zákona č. 83/1998 Sb.).
+- *Související ustanovení téhož zákona:* § 98 (přechodná ustanovení — kontinuita oprávnění, pásem, řízení), § 104 (účinnost k 1. 1. 2001).
+- *Související předpisy:* zákon č. 222/1994 Sb. (derogovaný předchůdce); směrnice 96/92/ES (elektřina) a 98/30/ES (plyn) — důvod komplexní náhrady; zákon č. 83/1998 Sb. (novela stavebního zákona).
+- *Judikatura:* obecné zásady intertemporality a derogace; nález I.ÚS 137/03 (citovaný v komentáři) potvrzující, že oprávnění vzniklá za staré úpravy zůstávají nedotčena i po derogaci.
+
+**4. Subsumpce.** § 99 zrušil zákon č. 222/1994 Sb. i čl. V zákona č. 83/1998 Sb. ke dni účinnosti EnZ (1. 1. 2001). Po tomto datu nelze derogovaný zákon aplikovat na nově vznikající vztahy. Práva a oprávnění vzniklá za jeho účinnosti však zůstávají zachována dle přechodných ustanovení § 98 (zejm. odst. 4 a odst. 11 ke kontinuitě SEI) — derogace ruší normu do budoucna, nikoli již nabytá práva.
+
+**5. Řešení.** Argumentace opřená o platnost zrušeného zákona neobstojí pro nově posuzované vztahy; aplikuje se EnZ. Tam, kde jde o ochranu dříve nabytých práv, se uplatní kontinuita dle § 98, nikoli přímá aplikace derogovaného zákona. Pravděpodobný výsledek: soud posoudí věc dle EnZ s respektem k přechodným ustanovením. Riziko: záměna derogace (zrušení normy) s konzumací přechodných ustanovení — derogovaný zákon může být stále relevantní jako výkladové východisko pro posouzení historicky vzniklých vztahů.
+
+**6. Varianty.** (a) Posuzuje-li se výhradně událost nastalá před 1. 1. 2001, použije se zákon č. 222/1994 Sb. podle pravidel intertemporality (rozhodné právo v době vzniku vztahu), ač je formálně zrušen. (b) Jde-li o jinou novelu zákona č. 222/1994 Sb. než čl. V zákona č. 83/1998 Sb., byla konzumována v rozsahu, v jakém měnila zrušený zákon.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: zrušený zákon nelze vůbec použít.* Neutralizace: derogace působí do budoucna; pro posouzení vztahů vzniklých za jeho účinnosti zůstává zrušený zákon rozhodným právem dle zásad intertemporality a § 98.
+- *Protiargument 2: rozsah derogace je nejasný, protože ostatní novely nejsou výslovně zrušeny.* Neutralizace: novely sdílejí osud novelizovaného zákona — zrušením zákona č. 222/1994 Sb. byly konzumovány v rozsahu, v jakém jej měnily; výslovně se ruší jen samostatně stojící čl. V zákona č. 83/1998 Sb.
+- *Slabé místo:* úzký rozsah derogace (jen přímý předchůdce a jedna novela) vyžaduje pečlivé posouzení, které dřívější předpisy byly nahrazeny implicitně.
+
+#### H. Praktický závěr
+
+§ 99 deroguje předchozí energetickou úpravu (zákon č. 222/1994 Sb. a čl. V zákona č. 83/1998 Sb.) k 1. 1. 2001; derogace působí do budoucna, zatímco dříve nabytá práva chrání přechodná ustanovení § 98.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit rozhodný okamžik vzniku posuzovaného vztahu (před vs. po 1. 1. 2001) pro volbu rozhodného práva.
+- [ ] Pro vztahy po 1. 1. 2001 aplikovat EnZ, nikoli zrušený zákon č. 222/1994 Sb.
+- [ ] Pro dříve nabytá práva uplatnit kontinuitu dle § 98 (odst. 4, 11 aj.).
+- [ ] Nezaměňovat derogaci normy s ochranou nabytých práv a s konzumací ostatních novel.
+
+**Typicky rozhodné důkazy / podklady:** text § 99 a derogovaných předpisů, doba vzniku posuzovaného vztahu, přechodná ustanovení § 98, dobové znění zákona č. 222/1994 Sb.
+
 ---
 
 ## Změny souvisejících zákonů a účinnost
@@ -813,6 +1354,42 @@ Rozsah derogace je výrazně užší než u daňového řádu či jiných kodifi
 ### Část druhá — Změna zákona o zřízení ministerstev (§ 100)
 
 Část druhá zákona (§ 100) novelizuje zákon č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky. Do § 2 odst. 1 tohoto zákona (výčet ústředních orgánů státní správy) byl doplněn bod 11 zní: **„Energetický regulační úřad."** Novelizace tak v kompetenčním zákoně zakotvila ERÚ jako ústřední správní orgán se zákonnou působností v oblasti regulace energetiky. Tím byl ERÚ zařazen do formálního systému státní správy vedle ministerstev a jiných ústředních orgánů. Obsáhlý výčet předchozích novel kompetenčního zákona v textu § 100 je standardním legislativně-technickým postupem zajišťujícím autentické znění novelizovaného ustanovení; pro výklad energetického zákona není relevantní. Část druhá sama o sobě nemá věcný dopad na výkon státní správy v energetice — ten vychází z kompetencí stanovených přímo EnZ; § 100 má toliko organizačně-systemizační charakter.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V kompetenčním sporu je zpochybněno, zda ERÚ je ústředním správním orgánem oprávněným samostatně vystupovat ve správním soudnictví a v legislativním procesu, nebo zda jde o pouhý úřad podřízený ministerstvu. Protistrana namítá, že ERÚ není ministerstvem, a tudíž nemá postavení ústředního orgánu. Důkazy: zákon č. 2/1969 Sb. (kompetenční zákon) ve znění doplněném § 100 EnZ, zřizovací ustanovení ERÚ v EnZ.
+
+**2. Právní otázka.** Má ERÚ na základě § 100 (novela kompetenčního zákona) postavení ústředního správního orgánu, a jaký je věcný význam této novelizační části pro výkon státní správy v energetice?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 100 části druhé EnZ (doplnění bodu 11 „Energetický regulační úřad" do § 2 odst. 1 zákona č. 2/1969 Sb.).
+- *Související ustanovení téhož zákona:* ustanovení EnZ o zřízení, působnosti a pravomoci ERÚ (zejm. § 17 a násl.).
+- *Související předpisy:* zákon č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy (kompetenční zákon); soudní řád správní (postavení správních orgánů).
+- *Judikatura:* obecné závěry o postavení nezávislých regulačních úřadů jako ústředních správních orgánů s vlastní zákonem vymezenou působností.
+
+**4. Subsumpce.** § 100 doplnil ERÚ do výčtu ústředních orgánů státní správy v § 2 odst. 1 kompetenčního zákona (bod 11). Tím byl ERÚ formálně zařazen mezi ústřední správní orgány vedle ministerstev a jiných ústředních orgánů. Skutečné kompetence ERÚ však plynou přímo z EnZ; § 100 má toliko organizačně-systemizační (deklaratorní zařazovací) charakter a sám nezakládá věcné pravomoci.
+
+**5. Řešení.** ERÚ má postavení ústředního správního orgánu se zákonnou působností v regulaci energetiky — námitka o jeho podřízenosti ministerstvu neobstojí. Pravděpodobný výsledek: ERÚ je uznán jako samostatný ústřední orgán. Procesní krok: odkázat na bod 11 § 2 odst. 1 kompetenčního zákona a na působnost dle EnZ. Riziko: záměna formálního zařazení (§ 100) s věcnými kompetencemi (ty jsou v EnZ, nikoli v kompetenčním zákoně).
+
+**6. Varianty.** (a) Bez novelizace § 100 by ERÚ existoval jen na základě EnZ, ale chyběl by jeho formální status v kompetenčním zákoně — což by oslabovalo jeho postavení v systému státní správy. (b) Pozdější novely kompetenčního zákona mohou postavení a název ERÚ dále upravovat; rozhodné je vždy aktuální znění § 2 odst. 1 zákona č. 2/1969 Sb.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: § 100 zakládá pravomoci ERÚ.* Neutralizace: § 100 má jen organizačně-systemizační charakter; věcné kompetence ERÚ plynou z EnZ, nikoli z kompetenčního zákona.
+- *Protiargument 2: výčet předchozích novel v textu § 100 je věcně relevantní pro výklad EnZ.* Neutralizace: obsáhlý výčet novel je standardní legislativně-technický postup zajišťující autentické znění novelizovaného ustanovení a pro výklad energetického práva relevantní není.
+- *Slabé místo:* formální zařazení samo o sobě negarantuje faktickou nezávislost regulátora — ta vyplývá z dalších záruk v EnZ a v právu EU (požadavek nezávislosti národního regulačního orgánu).
+
+#### H. Praktický závěr
+
+§ 100 (část druhá) je novelizační ustanovení, jež zařadilo ERÚ mezi ústřední orgány státní správy v kompetenčním zákoně (bod 11) — jde o organizačně-systemizační krok bez vlastního věcného dopadu na výkon státní správy, jejíž obsah určuje přímo EnZ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pro postavení ERÚ odkázat na bod 11 § 2 odst. 1 zákona č. 2/1969 Sb. ve znění § 100 EnZ.
+- [ ] Věcné kompetence ERÚ dovozovat z EnZ, nikoli z kompetenčního zákona.
+- [ ] Nepřikládat výkladový význam výčtu předchozích novel v textu § 100.
+- [ ] Ověřit aktuální znění kompetenčního zákona (pozdější novely mohou postavení ERÚ měnit).
+
+**Typicky rozhodné důkazy / podklady:** aktuální znění § 2 odst. 1 zákona č. 2/1969 Sb., ustanovení EnZ o působnosti ERÚ, text části druhé (§ 100) EnZ.
 
 ---
 
@@ -824,6 +1401,42 @@ Rozsah derogace je výrazně užší než u daňového řádu či jiných kodifi
 - **Podmínky:** Úplné střední vzdělání na střední odborné škole technického směru zakončené maturitní zkouškou a 5 let praxe v oboru
 
 Tímto doplněním zákon přesunul obchod s LPG (propan-butan v tlakových nádobách) z kategorie volných živností do kategorie vázaných živností s výraznými odbornými požadavky. Důvodem je bezpečnostní riziko spojené s manipulací s tlakovými nádobami s hořlavými plyny. Souběžně § 98 odst. 5 EnZ stanovil přechodnou lhůtu jednoho roku pro stávající provozovatele.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnikatel chce po roce 2001 zahájit nákup, prodej a skladování propan-butanu v tlakových nádobách včetně jejich dopravy a domnívá se, že jde o volnou živnost. Živnostenský úřad mu sdělí, že jde o vázanou živnost vyžadující odborné předpoklady. Podnikatel namítá, že tato činnost není výslovně vázaná. Důkazy: ohlášení živnosti, doklad o vzdělání a praxi, příloha č. 2 živnostenského zákona (skupina 207) ve znění § 102 EnZ.
+
+**2. Právní otázka.** Je nákup, prodej a skladování zkapalněných uhlovodíkových plynů v tlakových nádobách včetně dopravy vázanou živností a jaké odborné předpoklady se pro ni vyžadují?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 102 části čtvrté EnZ (doplnění nového oboru vázané živnosti do skupiny 207 přílohy č. 2 živnostenského zákona; podmínka úplného středního odborného vzdělání technického směru s maturitou a 5 let praxe v oboru).
+- *Související ustanovení téhož zákona:* § 98 odst. 5 (přechodná jednoletá lhůta pro stávající provozovatele).
+- *Související předpisy:* zákon č. 455/1991 Sb., živnostenský zákon (vázané živnosti, příloha č. 2); předpisy o bezpečnosti tlakových nádob a hořlavých plynů.
+- *Judikatura:* obecné závěry k zařazování činností mezi vázané živnosti a k povaze odborných předpokladů jako podmínky provozování živnosti.
+
+**4. Subsumpce.** Činnost spočívající v nákupu, prodeji a skladování LPG v tlakových nádobách včetně dopravy byla § 102 EnZ zařazena do skupiny 207 přílohy č. 2 živnostenského zákona jako vázaná živnost. Podnikatel proto musí prokázat odbornou způsobilost — úplné střední odborné vzdělání technického směru s maturitou a 5 let praxe v oboru. Bez splnění těchto předpokladů nelze živnostenské oprávnění získat.
+
+**5. Řešení.** Živnostenský úřad postupuje správně: jde o vázanou živnost. Podnikatel musí doložit požadované vzdělání a praxi, případně ustanovit odpovědného zástupce splňujícího předpoklady. Pravděpodobný výsledek: oprávnění bude vydáno jen při doložení odborných předpokladů. Procesní krok: doložit doklady o vzdělání a praxi. Riziko: neuznání oboru praxe nebo typu vzdělání jako „technického směru".
+
+**6. Varianty.** (a) Provozoval-li by žadatel tuto činnost již před 1. 1. 2001, platila pro něj jednoroční přechodná lhůta dle § 98 odst. 5 k podání žádosti o živnostenské oprávnění; nepodáním lhůty oprávnění zaniklo. (b) Nesplňuje-li žadatel sám odborné předpoklady, může živnost provozovat prostřednictvím odpovědného zástupce, který je splňuje.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: obchod s LPG by měl být volnou živností, jde jen o prodej zboží.* Neutralizace: § 102 EnZ jej výslovně zařadil mezi vázané živnosti z důvodu bezpečnostního rizika manipulace s tlakovými nádobami s hořlavými plyny.
+- *Protiargument 2: požadavek 5 let praxe a maturitní zkoušky je nepřiměřený.* Neutralizace: odborné předpoklady odpovídají rizikovosti činnosti; jejich splnění lze zajistit i odpovědným zástupcem.
+- *Slabé místo:* výklad pojmů „technický směr" vzdělání a „praxe v oboru" může být v hraničních případech sporný; nutnost posoudit konkrétní obsah činnosti (zda zahrnuje dopravu a skladování, nikoli jen prodej).
+
+#### H. Praktický závěr
+
+§ 102 (část čtvrtá) přeřadil obchod s LPG v tlakových nádobách (nákup, prodej, skladování, doprava) z volných do vázaných živností s odbornými předpoklady — důvodem je bezpečnostní riziko; stávajícím provozovatelům § 98 odst. 5 poskytl jednoletou přechodnou lhůtu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda činnost spadá do oboru vázané živnosti dle skupiny 207 přílohy č. 2 (LPG v tlakových nádobách).
+- [ ] Doložit úplné střední odborné vzdělání technického směru s maturitou a 5 let praxe v oboru.
+- [ ] Při nesplnění předpokladů zvážit ustanovení odpovědného zástupce.
+- [ ] U činnosti provozované před 1. 1. 2001 zohlednit přechodnou lhůtu dle § 98 odst. 5.
+
+**Typicky rozhodné důkazy / podklady:** ohlášení/žádost o živnost, doklady o vzdělání technického směru a o praxi, příloha č. 2 živnostenského zákona (skupina 207), případně doklad o odpovědném zástupci.
 
 ---
 
@@ -842,6 +1455,42 @@ Zákon č. 458/2000 Sb. byl schválen a podepsán v roce 2000 (podpisy Klaus, Ha
 Datum 1. 1. 2001 je interpretačním klíčem pro všechna přechodná ustanovení § 98: slova „ode dne účinnosti tohoto zákona" nebo „před nabytím účinnosti tohoto zákona" odkazují výhradně k 1. 1. 2001 v jeho původním kontextu. Pozdější novely mají vlastní data účinnosti a vlastní přechodná ustanovení — tato § 98a nejsou ničím dotčena.
 
 Zákon byl od svého přijetí novelizován více než šedesátkrát (k 1. 1. 2026). Přes tuto nesmírnou legislativní aktivitu zůstala jeho základní struktura zachována: licenční systém, ERÚ jako regulátor, ministerstvo jako silové centrum správy, oddělení provozování soustav od obchodu (unbundling), ochrana spotřebitele a systém prováděcí normotvorby dle § 98a. Tato stabilita svědčí o zdařilé základní architektuře zákona, i když mnohé konkrétní technické detaily musely být novelami průběžně přizpůsobovány vyvíjejícímu se unijnímu právu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V soudním sporu z roku 2025 je posuzována povinnost, kterou má účastník na základě přechodného ustanovení § 98 odst. 1 (jednoletá lhůta k podání žádosti o licenci). Účastník namítá, že lhůta začala běžet jindy, než protistrana tvrdí, a sporné je datum účinnosti zákona. Důkazy: text § 104, znění § 98 odst. 1, doklady o podání žádosti o licenci a datu jejího doručení.
+
+**2. Právní otázka.** K jakému datu nabyl energetický zákon účinnosti a jak toto datum určuje běh lhůt v přechodných ustanoveních § 98?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 104 části šesté EnZ (nabytí účinnosti dnem 1. ledna 2001).
+- *Související ustanovení téhož zákona:* § 98 (přechodná ustanovení navázaná na „den účinnosti tohoto zákona"), § 99 (derogace ke dni účinnosti).
+- *Související předpisy:* zákon č. 309/1999 Sb., o Sbírce zákonů (vyhlášení a nabývání platnosti a účinnosti); čl. 52 Ústavy (podmínka vyhlášení).
+- *Judikatura:* obecné zásady intertemporality a výkladu odkazů „ode dne účinnosti tohoto zákona" k původnímu datu účinnosti.
+
+**4. Subsumpce.** § 104 stanoví účinnost zákona pevným datem 1. 1. 2001. Veškeré odkazy v § 98 na „den účinnosti tohoto zákona" se proto vztahují k 1. 1. 2001 v původním kontextu. Jednoletá lhůta dle § 98 odst. 1 tak běžela od 1. 1. 2001 do 1. 1. 2002. Pozdější novely mají vlastní data účinnosti a vlastní přechodná ustanovení, jimiž § 104 ani § 98 nejsou dotčeny.
+
+**5. Řešení.** Datum účinnosti je jednoznačně 1. 1. 2001; lhůty § 98 se počítají od tohoto data. Pravděpodobný výsledek: spor o běh lhůty se vyřeší fixací počátku na 1. 1. 2001. Procesní krok: doložit datum podání žádosti a porovnat s koncem lhůty (1. 1. 2002). Riziko: záměna původního data účinnosti s daty účinnosti pozdějších novel — ty mají vlastní přechodný režim a nelze je směšovat.
+
+**6. Varianty.** (a) Posuzuje-li se povinnost zavedená až pozdější novelou, rozhodné je datum účinnosti té novely a její vlastní přechodná ustanovení, nikoli 1. 1. 2001. (b) Pokud by konkrétní novela neobsahovala vlastní přechodné ustanovení, uplatnily by se obecné zásady intertemporality, nikoli automaticky § 98 vázaný na rok 2001.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: opakované novely posunuly „účinnost zákona", takže lhůty § 98 běží od novějších dat.* Neutralizace: § 104 fixuje původní účinnost na 1. 1. 2001; novely mají vlastní data účinnosti a vlastní přechodná ustanovení, jimiž původní přechodný režim § 98 není dotčen.
+- *Protiargument 2: po šedesáti novelách je odkaz na „den účinnosti tohoto zákona" nejednoznačný.* Neutralizace: ustálený výklad odkazuje k původnímu datu účinnosti konkrétního ustanovení; novelizovaná ustanovení nabývají účinnosti dle účinnosti příslušné novely.
+- *Slabé místo:* u vícenásobně novelizovaných ustanovení může být obtížné určit, které znění a které datum účinnosti je pro daný vztah rozhodné — nutná pečlivá rekonstrukce časové verze předpisu.
+
+#### H. Praktický závěr
+
+§ 104 stanoví účinnost energetického zákona ke dni 1. 1. 2001 — toto datum je interpretačním klíčem pro všechna přechodná ustanovení § 98; pozdější novely mají vždy vlastní data účinnosti a vlastní přechodný režim.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pro odkazy „ode dne účinnosti tohoto zákona" v § 98 vycházet z data 1. 1. 2001.
+- [ ] U povinností zavedených novelami určit datum účinnosti té konkrétní novely a její přechodná ustanovení.
+- [ ] Při výpočtu lhůt § 98 fixovat počátek na původní účinnost (např. § 98 odst. 1: 1. 1. 2001 – 1. 1. 2002).
+- [ ] Rekonstruovat časově správné znění předpisu rozhodné pro posuzovaný vztah.
+
+**Typicky rozhodné důkazy / podklady:** text § 104, znění dotčeného přechodného ustanovení § 98, doklady o datu rozhodné události (podání žádosti, zahájení řízení), znění a datum účinnosti případné relevantní novely.
 
 ---
 

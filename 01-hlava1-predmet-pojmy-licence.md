@@ -24,6 +24,42 @@ Zákon se vztahuje na tři energetická odvětví: **elektroenergetiku**, **plyn
 
 Zákon zavazuje jak **fyzické, tak právnické osoby**. Rozsah práv a povinností se liší podle toho, zda jde o držitele licence (podnikatel v energetice), zákazníka (odběratele), regulátora (ERÚ) nebo stát (ministerstvo). Bližší vymezení práv a povinností viz [02-hlava1-prava-povinnosti-ochrana-zakaznika.md](02-hlava1-prava-povinnosti-ochrana-zakaznika.md).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Slovenský obchodník se zemním plynem, držitel platného oprávnění uděleného slovenským regulátorem (ÚRSO), zahájí dodávky plynu pěti českým odběratelům, aniž by se obrátil na ERÚ; spoléhá na to, že „energetika je v EU jednotný trh". ERÚ zahájí řízení o správním deliktu (podnikání bez oprávnění). Účastníci: zahraniční obchodník (delikvent), ERÚ (správní orgán), čeští odběratelé. Důkazy: slovenské oprávnění, smlouvy o dodávce, doklad o zahájení dodávek na území ČR.
+
+**2. Právní otázka.** Stačí samotné oprávnění z jiného členského státu EU k podnikání v energetice na území ČR podle § 1, nebo je nutný formální krok vůči ERÚ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 vymezuje předmět úpravy — podmínky podnikání v elektroenergetice, plynárenství a teplárenství a navázanost na přímo použitelné předpisy EU.
+- *Související ustanovení téhož zákona:* § 3 odst. 3 (podnikání jen na základě licence ERÚ) a zejm. § 7a (uznání oprávnění podnikat uděleného jiným členským státem) — § 1 sám oprávnění nezakládá.
+- *Související předpisy:* směrnice 2009/73/ES a 2019/944, nařízení (EU) 2019/943 a 2017/1938 jako přímo použitelné předpisy, na něž § 1 odkazuje; SFEU (volný pohyb služeb).
+- *Judikatura:* NSS k § 7a (10 Afs 216/2020) — uznané oprávnění propůjčuje stejné postavení jako česká licence; samotné cizí oprávnění bez uznání však k podnikání v ČR neopravňuje.
+
+**4. Subsumpce.** § 1 určuje pouze věcnou působnost a vztah k unijnímu právu; podmínku vstupu na trh formuluje až § 3 a § 7a. Volný pohyb služeb je zde realizován procedurou uznání, nikoli automatickým průmětem cizího oprávnění. Sporné je, zda obchodník jednal v omluvitelném právním omylu — to však nevylučuje protiprávnost.
+
+**5. Řešení.** Obchodník měl před zahájením dodávek požádat ERÚ o uznání oprávnění podle § 7a. Pravděpodobný výsledek: konstatování podnikání bez oprávnění, pokyn k nápravě, případně sankce. Praktický krok: bezodkladně podat žádost o uznání, dodávky do rozhodnutí ERÚ pozastavit nebo právně ošetřit.
+
+**6. Varianty.** (a) Kdyby obchodník dodával plyn pro pohon motorových vozidel, nešlo by o „plyn" ve smyslu zákona (§ 2 odst. 2 písm. b bod 9) a věcná působnost by se neuplatnila. (b) Kdyby šlo o přímo použitelné nařízení EU ukládající povinnost přímo, aplikovalo by se i bez transpozice — § 1 to výslovně předjímá.
+
+#### G. Protiargumenty a rizika
+
+- *„Vnitřní trh EU znamená automatické uznání."* Neutralizace: směrnice harmonizují podmínky, ale § 7a vyžaduje formální uznání; volný pohyb služeb v energetice je realizován regulovaným postupem, ne automaticky.
+- *„§ 1 je jen proklamace bez normativního obsahu."* Částečně platí — § 1 sám povinnosti nezakládá, ale určuje rozsah působnosti a interpretační rámec (eurokonformní výklad), což je právně významné při výkladu navazujících ustanovení.
+- Slabé místo: § 1 neobsahuje konkrétní výčet transponovaných směrnic — ten je třeba dohledat v poznámkách pod čarou a v jednotlivých novelách, což ztěžuje přesnou identifikaci unijního základu.
+
+#### H. Praktický závěr
+
+§ 1 čte se jako rozcestník: vymezuje tři odvětví, adresáty (FO i PO) a zakotvuje dvojí vrstvu regulace (transponované směrnice + přímo použitelná nařízení EU). Sám o sobě nezakládá oprávnění podnikat — to plyne až z § 3 a násl.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá činnost do elektroenergetiky, plynárenství nebo teplárenství podle pojmů § 2?
+- [ ] Existuje k dané otázce přímo použitelné nařízení EU, které se aplikuje nad rámec zákona?
+- [ ] U zahraničního subjektu: byla podána žádost o uznání oprávnění podle § 7a, resp. licence podle § 3?
+- [ ] Je výklad sporného ustanovení eurokonformní (v souladu se směrnicemi 2019/944 a 2009/73/ES)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o předmětu a místě činnosti, identifikace odběratelů na území ČR, cizí oprávnění a jeho rozsah, relevantní unijní nařízení.
+
 ---
 
 ### § 2 — Vymezení pojmů
@@ -293,6 +329,42 @@ Nová definice **vodíkové přepravní soustavy** (písm. b bod 38) a **vodíku
 
 V plynárenství zasluhuje pozornost rozšíření definice **plynu** (písm. b bod 9) — vedle zemního plynu zahrnuje biometan, syntetický metan a vodík, což reflektuje dekarbonizační cíle a postupnou konverzi plynárenské soustavy na obnovitelné a nízkoemisní plyny.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel rozsáhlé fotovoltaické elektrárny instaluje vedle ní bateriové úložiště a chce ho provozovat jako „plně integrovaný prvek soustavy", aby se vyhnul samostatné licenci. Současně vlastník pozemku napadá vyvlastňovací řízení k vybudování přípojky 110 kV s tím, že nejde o „distribuční soustavu". Účastníci: výrobce/provozovatel úložiště, provozovatel distribuční soustavy, vlastník pozemku, ERÚ. Důkazy: technická dokumentace zařízení, projekt připojení, vlastnictví vedení, instalovaný výkon.
+
+**2. Právní otázka.** Spadá konkrétní zařízení pod legální definici v § 2 (distribuční soustava, zařízení pro ukládání elektřiny, plně integrovaný prvek soustavy), a jaké právní následky tato kvalifikace vyvolává?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 — legální definice (odst. 2 písm. a body 1, 11, 29, 32 — distribuční/přenosová soustava, zařízení pro ukládání elektřiny, plně integrovaný prvek soustavy).
+- *Související ustanovení téhož zákona:* § 3 odst. 2 (veřejný zájem, vyvlastnění), § 3 odst. 3 a 5 (licence na ukládání a poměr 1,2násobku výkonu výrobny), § 24 a násl. (povinnosti provozovatelů soustav).
+- *Související předpisy:* zákon č. 184/2006 Sb. o vyvlastnění; stavební zákon; směrnice 2019/944 (definice úložiště a integrovaného prvku přejaty z unijního práva).
+- *Judikatura:* NSS 8 As 116/2024 (plynovodní soustava se zřizuje a provozuje ve veřejném zájmu — rovné podmínky odběratelů); NSS 3 As 89/2024 (definice výrobny elektřiny váže podmínky podpory k výrobně, nikoli k vlastníkovi).
+
+**4. Subsumpce.** „Plně integrovaný prvek soustavy" (písm. a bod 32) je vyhrazen zařízení vlastněnému/provozovanému provozovatelem soustavy a sloužícímu výhradně k taxativně vyjmenovaným systémovým účelům — komerční úložiště u FV tyto znaky nesplňuje, jde o „zařízení pro ukládání elektřiny" (bod 29), na něž se vztahuje § 3. Vedení 110 kV naplňuje definici distribuční soustavy (bod 1), která je výslovně zřizována ve veřejném zájmu, takže vyvlastnění podle § 3 odst. 2 je přípustné.
+
+**5. Řešení.** Úložiště podléhá licenci, ledaže výkon nepřesáhne hranice § 3 odst. 4/5; jako „integrovaný prvek" je nelze kvalifikovat. Vyvlastnění k přípojce 110 kV je důvodné, neboť jde o distribuční soustavu ve veřejném zájmu. Kroky: ověřit instalovaný výkon a vlastnické poměry, případně podat žádost o licenci na ukládání.
+
+**6. Varianty.** (a) Kdyby úložiště vlastnil a provozoval sám provozovatel distribuční soustavy výhradně pro stabilizaci napětí, šlo by o plně integrovaný prvek soustavy bez samostatné licence. (b) Kdyby vedení mělo napětí 0,4 kV ve vlastnictví zákazníka, nešlo by o distribuční soustavu, ale o přípojku/odběrné zařízení a vyvlastňovací oprávnění by se neuplatnilo stejně.
+
+#### G. Protiargumenty a rizika
+
+- *„Definice jsou jen technický slovník bez samostatné normativní síly."* Neutralizace: subsumpce pod pojem § 2 je předpokladem aplikace celého zákona (licence, veřejný zájem, povinnosti) — chybná kvalifikace mění celý právní režim, jak ukazuje judikatura NSS k veřejnému zájmu.
+- *„Úložiště u výrobny je vždy součást výrobny."* Neutralizace: zákon definuje zařízení pro ukládání elektřiny samostatně (bod 29) a § 3 odst. 5 výslovně limituje bezlicenční akumulaci u výrobny poměrem 1,2násobku — nad tento rámec jde o samostatnou činnost.
+- Slabé místo: pojmy jsou velmi početné a vzájemně provázané (přes 80 definic), výklad jednoho pojmu může záviset na jiném; riziko vnitřní nekonzistence při novelizacích (např. vodíkové pojmy doplněné později).
+
+#### H. Praktický závěr
+
+§ 2 je výkladovým klíčem celého zákona: před jakoukoli aplikací je nutné každý skutkový prvek subsumovat pod konkrétní legální definici. Zvláštní pozornost zasluhují definice soustav (z nich plyne veřejný zájem a vyvlastnění) a nové pojmy (úložiště, agregace, flexibilita, vodík, energeticky strategický celek).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pod kterou konkrétní definici § 2 (odstavec, písmeno, bod) skutkový prvek spadá?
+- [ ] Je zařízení zákonem prohlášeno za zřizované/provozované ve veřejném zájmu (přenosová/přepravní soustava, zásobník, výrobna plynu)?
+- [ ] Liší se odvětvová definice (elektro × plyn × teplo) — použila se ta správná?
+- [ ] U úložiště: jde o „zařízení pro ukládání elektřiny", nebo o „plně integrovaný prvek soustavy" (vlastník + výhradní systémový účel)?
+
+**Typicky rozhodné důkazy / podklady:** technická dokumentace a parametry zařízení, údaje o napěťové hladině a instalovaném výkonu, vlastnické/užívací poměry, projekt připojení.
+
 ---
 
 ### § 3 — Podnikání v energetických odvětvích a licence jako podmínka vstupu na trh
@@ -364,6 +436,42 @@ Odstavec 2 je klíčovým ustanovením z pohledu veřejného práva: výslovně 
 
 Zákon zavádí hybridní systém: licence je povinná vždy, ale zákon explicitně vyjmenovává případy, kdy se licence nevyžaduje (odst. 4) — jde zejm. o malé výrobny do 100 kW nezapojené do sdílení, výrobu tepla pro vlastní objekt, dobíjecí stanice a zprostředkovatelskou činnost. Odst. 3 pak stanoví výjimky ze svobody bezlicenčního provozu malých zdrojů — pokud je výroba dotována (podpora dle zákona o podporovaných zdrojích energie) nebo pokud jsou v odběrném místě sdruženy výrobny, licence se vyžaduje vždy. Odst. 5 řeší tzv. „akumulaci při výrobně" — držitel výrobní licence smí provozovat storage bez další licence, pokud výkon storage nepřesáhne 1,2násobek výkonu výrobny.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Majitel rodinného domu instaluje na střechu fotovoltaiku o výkonu 80 kW připojenou k distribuční soustavě; přebytky chce „sdílet" sousedům a zároveň pobírat provozní podporu. Bez licence začne dodávat. Současně ve stejném odběrném místě je již připojena starší FV elektrárna jeho manželky. ERÚ posuzuje, zda jde o podnikání vyžadující licenci. Účastníci: provozovatel FV, manželka (druhá výrobna), provozovatel distribuční soustavy, ERÚ. Důkazy: smlouva o připojení, instalovaný výkon obou zdrojů, doklad o podpoře, doklad o sdílení.
+
+**2. Právní otázka.** Vyžaduje výroba elektřiny v dané výrobně licenci podle § 3, nebo spadá pod některou z výjimek § 3 odst. 4?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 odst. 3 písm. a), b), e) (kdy se licence vždy vyžaduje) a odst. 4 písm. e) (kdy se neuděluje — výrobny do 100 kV včetně).
+- *Související ustanovení téhož zákona:* § 4 (druhy a doby licence), § 5 (podmínky), § 28 a násl. (ochrana zákazníka), definice výrobny v § 2.
+- *Související předpisy:* zákon o podporovaných zdrojích energie (č. 165/2012 Sb.) — podmiňuje povinnost licence při čerpání podpory; zákon o vyvlastnění u veřejného zájmu dle odst. 2.
+- *Judikatura:* NSS 7 A 251/2011 (veřejný zájem v § 3 odst. 2 zahrnuje jen rozvodné činnosti, ne výrobu — výroba je snadno substituovatelná); NSS 6 As 28/2026 (účel vyvlastnění v § 3 odst. 2 — stavby ve veřejném zájmu).
+
+**4. Subsumpce.** Ačkoli výkon 80 kW je pod hranicí 100 kW (odst. 4 písm. e), výjimka se neuplatní hned ze dvou důvodů: (i) na elektřinu je poskytována podpora — pak licence dle odst. 3 písm. e) vždy; (ii) ve stejném odběrném místě je připojena jiná výrobna — pak licence dle odst. 3 písm. b) vždy. Bezúplatné sdílení samo o sobě by výjimku zachovalo, ale podpora i druhá výrobna ji vylučují.
+
+**5. Řešení.** Výrobce musí získat licenci na výrobu elektřiny (§ 4 odst. 1 — max. 25 let). Bez licence jde o neoprávněné podnikání. Krok: podat žádost dle § 7, doložit technické předpoklady; do udělení licence dodávky s podporou nečerpat.
+
+**6. Varianty.** (a) Bez čerpání podpory a bez druhé výrobny, jen s bezúplatným sdílením, by výrobna do 100 kV licenci nevyžadovala (odst. 4 písm. e). (b) Při výkonu 120 kW by licence byla nutná vždy (odst. 3 písm. a — nad 100 kW).
+
+#### G. Protiargumenty a rizika
+
+- *„Malý střešní zdroj je vždy bez licence."* Neutralizace: hranice 100 kW je prolomena, je-li čerpána podpora nebo je-li v odběrném místě další výrobna — § 3 odst. 3 písm. b) a e) mají přednost před výjimkou odst. 4.
+- *„Výroba je ve veřejném zájmu, takže výrobce má privilegované postavení (vyvlastnění)."* Neutralizace: dle NSS 7 A 251/2011 je veřejný zájem omezen na rozvodné činnosti; výrobu novelizovaný § 3 odst. 2 sice u velkých zdrojů za veřejný zájem prohlašuje, ale jen u taxativně vymezených výroben (100 MW+ apod.), nikoli plošně.
+- Slabé místo: hranice výkonů a kategorie výjimek se častými novelami mění; je nutné aplikovat znění účinné k rozhodnému dni a ověřit přechodná ustanovení.
+
+#### H. Praktický závěr
+
+§ 3 je branou na trh: bez licence ERÚ nelze v energetice podnikat (odst. 3). Systém je hybridní — licence povinná, s taxativními výjimkami (odst. 4), které však padají při čerpání podpory nebo sdružení výroben v jednom odběrném místě. Odst. 2 navíc zakládá veřejný zájem a vyvlastňovací oprávnění u vymezené infrastruktury.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o některou z činností vyjmenovaných v § 3 odst. 1 (předmět podnikání)?
+- [ ] Přesahuje výkon zákonné prahy, nebo platí výjimka § 3 odst. 4?
+- [ ] Je čerpána podpora podle zákona o podporovaných zdrojích, resp. je v odběrném místě další výrobna/úložiště (pak licence vždy)?
+- [ ] U infrastruktury: jde o činnost/stavbu ve veřejném zájmu (odst. 2) odůvodňující vyvlastnění?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o připojení, technické parametry a instalovaný výkon, doklad o poskytované podpoře, údaje o dalších zařízeních v odběrném místě.
+
 ---
 
 ### §§ 3a–3e — Souhlas ministerstva s nabytím vlivu nad energeticky strategickým celkem
@@ -378,13 +486,125 @@ Zákon zavádí hybridní systém: licence je povinná vždy, ale zákon explici
 
 § 3a zakládá **absolutní zákaz** nabytí vlivu nad energeticky strategickým celkem bez souhlasu ministerstva průmyslu a obchodu. Sankce za porušení je civilněprávní: Česká republika se může dovolat **neplatnosti** takového právního jednání. Ministerstvo musí rozhodnout do 60 dnů od zahájení řízení; marné uplynutí lhůty má za následek **fikci souhlasu** (§ 3a odst. 4) — jde o ústavně konformní řešení respektující princip právní jistoty investorů.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Zahraniční obchodní korporace ovládaná holdingem se sídlem mimo EU uzavře smlouvu, kterou nabude 35 % hlasovacích práv v české akciové společnosti provozující přenosovou/distribuční soustavu (energeticky strategický celek). Souhlas ministerstva průmyslu a obchodu si před uzavřením smlouvy neopatří, neboť se domnívá, že podíl pod 50 % „ovládání nezakládá". Po podpisu začne prosazovat změnu obsazení představenstva. Účastníci: nabyvatel, prodávající akcionář, cílová společnost, MPO, Česká republika. Důkazy: akviziční dokumentace, struktura financování a vlastnictví nabyvatele, kvalifikace soustavy jako energeticky strategického celku, doklad o (ne)podání žádosti.
+
+**2. Právní otázka.** Vztahuje se na nabytí 35% podílu absolutní zákaz nabytí vlivu bez souhlasu podle § 3a, a jaké jsou soukromoprávní následky uzavření smlouvy bez tohoto souhlasu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3a (absolutní zákaz nabytí vlivu nad energeticky strategickým celkem bez souhlasu MPO; lhůta 60 dnů; fikce souhlasu při nečinnosti dle § 3a odst. 4; možnost ČR dovolat se neplatnosti právního jednání).
+- *Související ustanovení téhož zákona:* § 2 odst. 1 písm. e–i (energeticky strategický celek, účinná míra kontroly, vliv, nabytí vlivu); § 3d (dodatečný souhlas a zákaz výkonu práv); § 3e (povinná nabídka ČR).
+- *Související předpisy:* nařízení (EU) 2019/452 o prověřování přímých zahraničních investic (screening); občanský zákoník (neplatnost právního jednání, dovolání se relativní neplatnosti).
+- *Judikatura:* k těmto novým ustanovením není ustálena; nosně lze vyjít z obecné zásady, že omezení vlastnických dispozic z důvodu bezpečnosti státu musí mít zákonný podklad a být přiměřené sledovanému cíli ochrany kritické infrastruktury.
+
+**4. Subsumpce.** Přenosová/distribuční soustava je prvkem kritické energetické infrastruktury → energeticky strategický celek (§ 2 odst. 1 písm. e). Nabytí 35 % hlasovacích práv překračuje práh účinné míry kontroly (zejm. 10 %, § 2 odst. 1 písm. f–g) → vzniká vliv nad celkem (písm. h) a jeho nabytí (písm. i). Tím se aktivuje zákaz dle § 3a; souhlas nebyl udělen, jednání je proto stiženo možností ČR dovolat se neplatnosti. Argument nabyvatele, že nejde o „ovládání" v korporačním smyslu, je nepřípadný — zákon váže režim na nižší práh účinné míry kontroly, nikoli na nadpoloviční většinu.
+
+**5. Řešení.** Nabyvatel měl žádost podat před uzavřením smlouvy. Nyní musí postupovat dle § 3d (žádost o dodatečný souhlas do 30 dnů, zdržení se výkonu hlasovacích a dispozičních práv). Marné uplynutí 60denní lhůty pro rozhodnutí MPO by založilo fikci souhlasu (§ 3a odst. 4). Do té doby je výkon práv v cílové společnosti vyloučen a ČR může napadnout platnost akvizice.
+
+**6. Varianty.** (a) Nabytí pouze 8 % bez jiného vlivu by práh účinné míry kontroly (10 %) nedosáhlo a souhlas by nebyl třeba. (b) Pokud by MPO o žádosti nerozhodlo do 60 dnů od zahájení řízení, nastoupila by fikce souhlasu a transakce by byla ze zákona aprobována.
+
+##### G. Protiargumenty a rizika
+
+- *„Absolutní zákaz nabytí bez souhlasu je nepřiměřeným zásahem do volného pohybu kapitálu."* Neutralizace: režim navazuje na nařízení (EU) 2019/452 a chrání veřejnou a energetickou bezpečnost — uznané důvody omezení; uplatní se zejména vůči subjektům ze třetích zemí a sleduje legitimní cíl ochrany kritické infrastruktury.
+- *„Fikce souhlasu (§ 3a odst. 4) oslabuje ochranu, neboť bezpečnostně rizikovou transakci může aprobovat pouhá nečinnost úřadu."* Neutralizace: fikce slouží právní jistotě investora a tlaku na včasné rozhodování; bezpečnostní zájem je chráněn dostatečně dlouhou 60denní lhůtou a navazujícími nástroji (§ 3d, § 3e).
+- Slabé místo: hranice mezi „nabytím vlivu" a běžnou portfoliovou investicí je u neurčitých pojmů účinné míry kontroly sporná; riziko neplatnosti nese nabyvatel, jenž by měl v pochybnostech žádost podat preventivně.
+
+##### H. Praktický závěr
+
+§ 3a je nosným zákazovým ustanovením celé skupiny: bez předchozího souhlasu MPO nelze nabýt vliv nad energeticky strategickým celkem. Před každou akvizicí prvku kritické energetické infrastruktury (či kvalifikovaného podílu ve společnosti, která jej kontroluje) je nutné prověřit povinnost souhlasu a žádost podat předem; jinak hrozí neplatnost jednání a zákaz výkonu práv.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je předmětem transakce energeticky strategický celek, resp. podíl ve společnosti s účinnou mírou kontroly nad ním?
+- [ ] Dosahuje nabytí prahu účinné míry kontroly (zejm. 10 %, § 2 odst. 1 písm. f–i)?
+- [ ] Byla žádost MPO podána PŘED uzavřením smlouvy (jinak režim § 3d a riziko neplatnosti)?
+- [ ] Byla sledována 60denní lhůta a možnost fikce souhlasu (§ 3a odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** akviziční smlouva a její časová posloupnost, doklad o podání žádosti MPO, struktura vlastnictví a financování nabyvatele, kvalifikace předmětu jako energeticky strategického celku.
+
+---
+
 #### §§ 3b–3c — Žádost a kritéria posouzení
 
 Žádost podává nabyvatel elektronicky prostřednictvím datové schránky. § 3b podrobně specifikuje obsah žádosti — liší se pro fyzické (odst. 1) a právnické osoby (odst. 2) a zahrnuje povinné informace o vlastnické struktuře, financování nabytí a podnikatelské činnosti žadatele. § 3c stanoví kritéria zamítnutí: hrozba pro bezpečnost dodávek, bezpečnost energeticky strategického celku, přístup k nemovitostem nezbytným pro funkčnost celku a bezpečnost informací a technologií důležitých pro energetickou bezpečnost ČR. Zákon umožňuje zamítnout žádost i pro nepravdivé informace (§ 3c odst. 3). Proti rozhodnutí ministerstva není přípustný rozklad (§ 3c odst. 6) — zákon tak vylučuje standardní opravný prostředek ve správním řízení, čímž zdůrazňuje politický charakter rozhodnutí.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Nabyvatel — právnická osoba financující akvizici úvěrem od banky se sídlem ve třetím státě — podá MPO žádost o souhlas s nabytím vlivu nad společností provozující velký zásobník plynu. V žádosti uvede konečné vlastníky, avšak zamlčí, že fakticky jedná ve shodě s dalším subjektem z téhož státu, čímž by reálný vliv třetí země byl výrazně vyšší. Účastníci: žadatel (nabyvatel), MPO, propojený subjekt, banka poskytující financování. Důkazy: obsah žádosti dle § 3b, doklady o vlastnické struktuře a financování, indicie o jednání ve shodě, podklady o bezpečnosti dodávek a technologií.
+
+**2. Právní otázka.** Splňuje žádost obsahové náležitosti § 3b a jsou dány důvody pro její zamítnutí podle § 3c — zejména hrozba pro bezpečnost dodávek a vliv třetí země, případně zamítnutí pro nepravdivé informace?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3b (náležitosti žádosti; odlišný obsah pro fyzické a právnické osoby; informace o vlastnické struktuře, financování a podnikatelské činnosti); § 3c (kritéria zamítnutí — bezpečnost dodávek, bezpečnost celku, přístup k nezbytným nemovitostem, bezpečnost informací a technologií; zamítnutí pro nepravdivé informace dle odst. 3; vyloučení rozkladu dle odst. 6).
+- *Související ustanovení téhož zákona:* § 3a (zákaz a lhůta 60 dnů); § 2 odst. 1 písm. e–i (vymezení celku, kontroly a vlivu); § 3d–3e (dodatečný souhlas a povinná nabídka ČR).
+- *Související předpisy:* nařízení (EU) 2019/452 (kritéria prověřování vč. vlivu vlád třetích zemí a struktury financování); soudní řád správní (přezkum rozhodnutí MPO nahrazující vyloučený rozklad).
+- *Judikatura:* ustálená judikatura k těmto ustanovením není; podpůrně lze využít obecné zásady, že povinnost tvrdit pravdivé údaje v řízení a důsledky jejich porušení musí být zákonem předvídatelné.
+
+**4. Subsumpce.** Žádost formálně obsahuje náležitosti § 3b odst. 2 (právnická osoba). Zamlčení jednání ve shodě však znamená, že údaje o skutečné vlastnické a vlivové struktuře jsou neúplné/nepravdivé → naplněn důvod zamítnutí dle § 3c odst. 3. Současně vyšší reálný vliv třetí země a financování z této země zakládají hrozbu pro bezpečnost dodávek a bezpečnost celku → samostatné důvody zamítnutí dle § 3c odst. 1. Proti zamítavému rozhodnutí není přípustný rozklad (§ 3c odst. 6); obrana je možná žalobou ve správním soudnictví.
+
+**5. Řešení.** MPO může žádost zamítnout jak pro nepravdivé/neúplné informace (§ 3c odst. 3), tak pro věcná bezpečnostní kritéria (§ 3c odst. 1). Po zamítnutí, je-li předmětem nabývané vlastnictví či podíly, nastupuje povinnost nabídnout celek ČR za cenu obvyklou dle znaleckého posudku s platností nabídky min. 6 měsíců (§ 3e). Žadateli zbývá v praxi výhodnější předložit úplné a pravdivé údaje a případně navrhnout zmírňující opatření (mitigations) k bezpečnostním rizikům.
+
+**6. Varianty.** (a) Při úplné a pravdivé žádosti a financování z EU bez vlivu třetí země by bezpečnostní kritéria § 3c nemusela být naplněna a souhlas by mohl být udělen. (b) Pokud by MPO o žádosti nerozhodlo v 60denní lhůtě, nastala by fikce souhlasu (§ 3a odst. 4) bez ohledu na neúplnost údajů — což zvyšuje tlak na řádné a včasné posouzení.
+
+##### G. Protiargumenty a rizika
+
+- *„Rozsah požadovaných údajů dle § 3b je nepřiměřený a zasahuje do soukromí žadatele."* Neutralizace: údaje o vlastnické struktuře a financování jsou nezbytné k posouzení vlivu třetích zemí a odpovídají standardu screeningu dle nařízení (EU) 2019/452; rozsah je odstupňován podle povahy žadatele (FO/PO).
+- *„Vyloučení rozkladu (§ 3c odst. 6) porušuje právo na obranu."* Neutralizace: jednoinstančnost odráží politicko-bezpečnostní povahu rozhodnutí a je kompenzována plným soudním přezkumem ve správním soudnictví.
+- Slabé místo: kritéria § 3c (bezpečnost dodávek, bezpečnost informací a technologií) jsou neurčitá a dávají MPO široký prostor pro uvážení; hrozí nepředvídatelnost rozhodování a obtížná soudní přezkoumatelnost odůvodnění — riziko, které žadatel zmírní pečlivým doložením a návrhem mitigací.
+
+##### H. Praktický závěr
+
+§§ 3b–3c určují, co musí žádost obsahovat a kdy ji MPO zamítne. Klíčem je úplnost a pravdivost údajů o vlastnické struktuře a financování (jinak hrozí zamítnutí dle § 3c odst. 3) a anticipace bezpečnostních kritérií (bezpečnost dodávek, celku, nezbytných nemovitostí, informací a technologií). Proti zamítnutí nelze podat rozklad — obranou je správní žaloba.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje žádost všechny náležitosti § 3b podle povahy žadatele (FO odst. 1 / PO odst. 2), zejm. vlastnickou strukturu a financování?
+- [ ] Jsou údaje úplné a pravdivé (jinak zamítnutí dle § 3c odst. 3)?
+- [ ] Byla posouzena bezpečnostní kritéria § 3c odst. 1 (dodávky, celek, nemovitosti, informace a technologie) a navržena zmírňující opatření?
+- [ ] Je počítáno s vyloučením rozkladu (§ 3c odst. 6) a obranou cestou správní žaloby?
+
+**Typicky rozhodné důkazy / podklady:** vyplněná žádost dle § 3b, doklady o vlastnické a vlivové struktuře a financování nabytí, podklady o jednání ve shodě, bezpečnostní analýzy dodávek a technologií, znalecký posudek pro případnou nabídku dle § 3e.
+
+---
+
 #### §§ 3d–3e — Dodatečný souhlas a povinná nabídka České republice
 
 § 3d řeší případ nabytí bez souhlasu: nabyvatel může požádat o dodatečný souhlas do 30 dnů od nabytí vlivu; do udělení souhlasu nelze vykonávat hlasovací ani dispoziční práva. § 3e pak zavádí povinnost nabídnout převod energeticky strategického celku České republice, pokud ministerstvo zamítne žádost a předmětem bylo nabývané vlastnictví či podíly — nabídková cena je limitována cenou obvyklou dle znaleckého posudku, platnost nabídky musí být nejméně 6 měsíců a po dobu platnosti nabídky nesmějí být k předmětu nabídky zřizována práva snižující jeho hodnotu nebo znemožňující jeho funkci jako energeticky strategického celku.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Investiční fond ovládaný subjektem ze třetího státu odkoupí 60 % akcií české společnosti, která vlastní velký zásobník plynu (prvek kritické infrastruktury). Transakci uzavře přímo, bez předchozí žádosti ministerstvu průmyslu a obchodu. Po dvou měsících začne fond uplatňovat hlasovací práva a vyměňovat management. Účastníci: nabyvatel (fond), prodávající, cílová společnost, MPO, Česká republika. Důkazy: akviziční smlouva, struktura vlastnictví a financování, kvalifikace zásobníku jako energeticky strategického celku.
+
+**2. Právní otázka.** Bylo nabytí 60% podílu nabytím vlivu nad energeticky strategickým celkem vyžadujícím souhlas MPO podle § 3a, a jaké jsou následky jeho absence?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3a (zákaz nabytí bez souhlasu, lhůta 60 dnů, fikce souhlasu), § 3b–3c (žádost a kritéria zamítnutí), § 3d (dodatečný souhlas, zákaz výkonu práv), § 3e (povinná nabídka ČR).
+- *Související ustanovení téhož zákona:* § 2 odst. 1 písm. e–i (energeticky strategický celek, účinná míra kontroly, vliv, nabytí vlivu); § 2 odst. 1 písm. b (kontrola).
+- *Související předpisy:* nařízení (EU) 2019/452 o prověřování přímých zahraničních investic; občanský zákoník (neplatnost právního jednání); znalecké oceňování pro § 3e.
+- *Judikatura:* specifická judikatura k těmto novým ustanovením není ustálena; nosně lze vyjít z obecné zásady, že omezení vlastnických dispozic z důvodu bezpečnosti státu musí být přiměřené a zákonem předvídané.
+
+**4. Subsumpce.** Zásobník plynu je prvkem kritické infrastruktury → energeticky strategický celek (§ 2 odst. 1 písm. e). Nabytí 60 % akcií zakládá účinnou míru kontroly nad společností s účinnou mírou kontroly nad celkem (§ 2 odst. 1 písm. g bod 1 — práh 10 %) → vliv nad celkem (písm. h) → nabytí vlivu (písm. i). Tím vznikla povinnost souhlasu dle § 3a; ten nebyl dán, jednání je proto stiženo možností dovolat se neplatnosti (§ 3a) a výkon hlasovacích a dispozičních práv je do dodatečného souhlasu zakázán (§ 3d).
+
+**5. Řešení.** Nabyvatel měl podat žádost před transakcí; nyní musí do 30 dnů od nabytí požádat o dodatečný souhlas (§ 3d) a zdržet se výkonu práv. Zamítne-li MPO žádost, nastupuje povinnost nabídnout celek ČR za cenu obvyklou dle znaleckého posudku s platností nabídky min. 6 měsíců (§ 3e). ČR se může dovolat neplatnosti akvizice.
+
+**6. Varianty.** (a) Při nabytí jen 8 % bez dalšího vlivu by práh účinné míry kontroly (10 %) nebyl dosažen a souhlas by nebyl třeba. (b) Kdyby MPO nerozhodlo do 60 dnů od zahájení řízení, nastala by fikce souhlasu (§ 3a odst. 4) a transakce by byla aprobována ze zákona.
+
+#### G. Protiargumenty a rizika
+
+- *„Jde o nepřípustný zásah do volného pohybu kapitálu v EU."* Neutralizace: režim navazuje na nařízení (EU) 2019/452 a chrání veřejnou bezpečnost a energetickou bezpečnost — uznané důvody omezení; navíc se primárně uplatní vůči subjektům ze třetích zemí.
+- *„Vyloučení rozkladu (§ 3c odst. 6) porušuje právo na obranu."* Neutralizace: vyloučení řádného opravného prostředku je kompenzováno soudním přezkumem ve správním soudnictví; jednoinstančnost odráží politicko-bezpečnostní povahu rozhodnutí.
+- Slabé místo: pojmy „účinná míra kontroly" a „jiný způsob vlivu" (§ 2 odst. 1 písm. f bod 4, písm. g bod 3) jsou neurčité; hrozí spory o to, zda konkrétní transakce vůbec spadá pod režim — riziko nese nabyvatel, který by měl v pochybnostech žádost podat.
+
+#### H. Praktický závěr
+
+§§ 3a–3e zavádějí povolovací (screeningový) režim pro nabytí vlivu nad energeticky strategickou infrastrukturou. Před každou akvizicí prvku kritické energetické infrastruktury (nebo podílu nad 10 % ve společnosti, která jej kontroluje) je nutné prověřit povinnost souhlasu MPO. Sankce jsou tvrdé: neplatnost jednání, zákaz výkonu práv a povinná nabídka státu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je předmětem transakce energeticky strategický celek nebo podíl ve společnosti, která nad ním má účinnou míru kontroly?
+- [ ] Dosahuje nabytí prahu účinné míry kontroly (zejm. 10 % hlasů/kapitálu nebo jiný vliv) podle § 2 odst. 1 písm. f–i?
+- [ ] Byla podána žádost MPO před transakcí, resp. žádost o dodatečný souhlas do 30 dnů (§ 3d)?
+- [ ] Hrozí při zamítnutí povinnost nabídnout celek ČR za cenu obvyklou (§ 3e)?
+
+**Typicky rozhodné důkazy / podklady:** akviziční dokumentace, vlastnická a ovládací struktura nabyvatele, doklad o financování nabytí, kvalifikace aktiva jako kritické infrastruktury, znalecký posudek o ceně obvyklé.
 
 ---
 
@@ -467,6 +687,42 @@ Pokud žadatel doloží pouze nájemní nebo jiné užívací právo k energetic
 #### Zákaz opakovaného udělení po zrušení pro pokračování ve výrobě (odst. 4)
 
 Pokud ERÚ zrušil licenci na výrobu elektřiny podle § 10 odst. 3 písm. g) (pokračování ve výrobě navzdory oznámenému ukončení), nelze pro totéž zařízení využívající stejný typ paliva licenci znovu udělit — ledaže nastane naléhavá potřeba ve veřejném zájmu. Toto ustanovení reaguje na situace, kdy výrobce elektřiny oznámí ukončení provozu, čímž se vyváže z povinností, ale pak v provozu fakticky pokračuje.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost provozuje teplárnu (zdroj tepelné energie) na pozemku a v objektu, k nimž má pouze nájemní smlouvu na dobu 12 let. Žádá ERÚ o licenci na výrobu tepelné energie (kategorie max. 25 let) a požaduje udělení na plných 25 let. Souběžně jí byla v minulosti zrušena licence na výrobu elektřiny v jiné uhelné výrobně podle § 10 odst. 3 písm. g) a nyní žádá o novou licenci pro tutéž výrobnu na stejné palivo. Účastníci: žadatel, vlastník nemovitosti (pronajímatel), ERÚ. Důkazy: nájemní smlouva (doba trvání), předchozí rozhodnutí o zrušení licence, údaj o palivu výrobny.
+
+**2. Právní otázka.** Na jakou dobu lze licenci udělit při časově omezeném užívacím právu (odst. 3) a brání zrušení dřívější licence podle § 10 odst. 3 písm. g) novému udělení (odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 odst. 1 (kategorie a doby platnosti), odst. 3 (zkrácení doby dle trvání věcného/užívacího práva), odst. 4 (zákaz opětovného udělení po zrušení dle § 10 odst. 3 písm. g).
+- *Související ustanovení téhož zákona:* § 5 odst. 3 (doložení vlastnického/užívacího práva), § 10 odst. 3 písm. g) (zrušení při pokračování ve výrobě po oznámeném ukončení), § 9 odst. 6 (prodloužení obchodních licencí).
+- *Související předpisy:* zákon o podporovaných zdrojích energie (vazba na životnost výrobny); občanský zákoník (nájem).
+- *Judikatura:* k dobám platnosti judikatura nosně chybí; lze vyjít z konstitutivní povahy licenčního rozhodnutí (NSS 30 A 40/2022 u § 8).
+
+**4. Subsumpce.** Výroba tepla spadá do kategorie „max. 25 let" (odst. 1 písm. a bod 3). Protože užívací právo trvá jen 12 let, licence se podle odst. 3 udělí nejvýše na 12 let (dobu trvání nájmu). Pro výrobnu elektřiny na stejné palivo, k níž byla zrušena licence podle § 10 odst. 3 písm. g), platí zákaz nového udělení (odst. 4), ledaže je dána naléhavá potřeba ve veřejném zájmu.
+
+**5. Řešení.** Licence na teplo bude udělena maximálně na 12 let (ne 25). Nová licence pro „uhelnou" výrobnu elektřiny bude zamítnuta, neprokáže-li žadatel naléhavou potřebu ve veřejném zájmu. Krok: prodloužit nájem před vydáním rozhodnutí, chce-li delší licenci; u výrobny elektřiny doložit veřejný zájem nebo upustit od žádosti.
+
+**6. Varianty.** (a) Kdyby žadatel byl vlastníkem nemovitosti, licenci na teplo by bylo možné udělit na plných 25 let. (b) Kdyby předchozí zrušení proběhlo z jiného důvodu než § 10 odst. 3 písm. g) (např. na vlastní žádost), zákaz odst. 4 by se neuplatnil.
+
+#### G. Protiargumenty a rizika
+
+- *„Doba licence je věcí uvážení ERÚ."* Neutralizace: u časově omezeného užívacího práva jde o vázané pravidlo — odst. 3 přikazuje zkrátit licenci na dobu trvání práva; ERÚ nemá diskreci ji udělit na déle.
+- *„Naléhavá potřeba ve veřejném zájmu prolomí zákaz odst. 4 vždy, jde-li o energetiku."* Neutralizace: jde o úzkou výjimku, kterou musí žadatel prokázat konkrétně (např. hrozící výpadek dodávek); samotný zájem na podnikání nestačí.
+- Slabé místo: pojem „naléhavá potřeba ve veřejném zájmu" (odst. 4) je neurčitý a judikaturně nevyložený; rozhodnutí ERÚ je proto třeba pečlivě odůvodnit a je přezkoumatelné soudem.
+
+#### H. Praktický závěr
+
+§ 4 určuje, na jak dlouho se licence uděluje: výroba a ukládání max. 25 let, síťové a regulované monopoly na neurčito, obchod 5 let (s prodloužením dle § 9). Doba se zkracuje podle trvání doloženého věcného/užívacího práva (odst. 3) a opětovné udělení po zrušení dle § 10 odst. 3 písm. g) je zapovězeno (odst. 4).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Do které kategorie doby platnosti (25 let / neurčito / 5 let) činnost spadá?
+- [ ] Je doložené užívací/vlastnické právo kratší než zákonná doba (pak se licence zkrátí dle odst. 3)?
+- [ ] Jde o výlučnou licenci pro celé území ČR (přenos, přeprava, operátor trhu, datové centrum)?
+- [ ] Byla téže výrobně na stejné palivo zrušena licence dle § 10 odst. 3 písm. g) — brání odst. 4 novému udělení?
+
+**Typicky rozhodné důkazy / podklady:** doklad o vlastnickém/užívacím právu k zařízení a jeho době trvání, specifikace činnosti a paliva, předchozí licenční rozhodnutí.
 
 ---
 
@@ -555,6 +811,42 @@ Zákon konstruuje finanční nezpůsobilost jako objektivní faktický stav: pro
 
 Institut „provozu pro ověření technologie" umožňuje omezeně provozovat energetické zařízení před udělením licence za účelem prokázání technických předpokladů. Podmínkou je smluvní zajištění dodávky a oznámení ERÚ nejméně 30 dnů předem. Provoz nad 1 rok vyžaduje výslovný souhlas ERÚ — jde o pojistku proti obcházení licenční povinnosti formálním odvolávání se na „testování technologie". Po dobu provozu se na provozovatele vztahují povinnosti jako na řádného držitele příslušné licence.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost s ručením omezeným žádá o licenci na obchod s elektřinou. Jediný jednatel má dokončené vysokoškolské vzdělání a 3 roky praxe, je bezúhonný. Společnost má však u finančního úřadu evidovaný nedoplatek na DPH ve výši 400 000 Kč, u něhož dosud nebylo povoleno posečkání ani splátky. Žadatel tvrdí, že nedoplatek je „v řešení" a finanční předpoklady jsou splněny. Účastníci: žadatel (s. r. o.), jednatel, ERÚ, finanční úřad. Důkazy: doklad o vzdělání a praxi jednatele, výpis z evidence nedoplatků FÚ, výpis z rejstříku trestů.
+
+**2. Právní otázka.** Splňuje žadatel finanční předpoklady podle § 5 odst. 3 a 6, eviduje-li daňový nedoplatek bez povoleného posečkání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 odst. 1 a 2 (svéprávnost, bezúhonnost, odbornost/odpovědný zástupce), odst. 3 a 6 (finanční předpoklady), odst. 5 (odborná způsobilost), odst. 6 písm. e) (nedoplatky).
+- *Související ustanovení téhož zákona:* § 6 (odpovědný zástupce), § 7 odst. 6 (aktivní ověření nedoplatků ERÚ), § 8 (vázaná pravomoc — udělení při splnění podmínek), § 10 odst. 3 písm. c) (zrušení při ztrátě finančních předpokladů).
+- *Související předpisy:* daňový řád (posečkání, splátky); insolvenční zákon; zákon o pojistném na sociální zabezpečení a zdravotní pojištění.
+- *Judikatura:* NSS 7 As 331/2015 (technické předpoklady se v licenčním řízení dokládají rozhodnutím stavebního úřadu a revizí, nikoli posuzováním zvláštních předpisů znovu).
+
+**4. Subsumpce.** Jednatel splňuje odbornou způsobilost pro obchod (VŠ + 3 roky praxe, odst. 5) i bezúhonnost a svéprávnost (odst. 1 ve spojení s odst. 2). Finanční předpoklady ale dle odst. 6 písm. e) nejsou splněny po dobu, po kterou má žadatel evidovány nedoplatky u finanční správy — s výjimkou povoleného posečkání či splátek, které zde nenastaly. Žadatel proto v okamžiku rozhodování finanční předpoklady nesplňuje.
+
+**5. Řešení.** ERÚ žádost zamítne (nebo vyzve k odstranění vady), dokud nedoplatek trvá. Náprava: uhradit nedoplatek nebo dosáhnout povolení posečkání/splátkového kalendáře — pak výluka odpadá a ERÚ je povinen licenci udělit (vázaná pravomoc dle § 8). ERÚ si stav nedoplatků sám ověří dle § 7 odst. 6.
+
+**6. Varianty.** (a) Kdyby finanční úřad povolil posečkání úhrady, nedoplatek by se podle odst. 6 písm. e) nezapočítával a finanční předpoklady by byly splněny. (b) Kdyby šlo o licenci na výrobu elektřiny do 200 kW, finanční předpoklady by se vůbec nedokládaly (odst. 3 in fine).
+
+#### G. Protiargumenty a rizika
+
+- *„Drobný nedoplatek nemůže bránit licenci."* Neutralizace: odst. 6 písm. e) nestanoví bagatelní hranici — jakýkoli evidovaný nedoplatek bez posečkání zakládá nesplnění finančních předpokladů; jde o objektivní, nikoli proporcionalitou vážený předpoklad.
+- *„Odbornost lze nahradit zkušeností bez formálního vzdělání."* Neutralizace: odst. 5 stanoví formální kvalifikační stupně; u obchodu se vyžaduje VŠ + 3 roky praxe, jinak je nutné ustanovit odpovědného zástupce (§ 6) splňujícího tyto podmínky.
+- Slabé místo: údaje o nedoplatcích a bezúhonnosti se mění v čase; rozhodný je stav k okamžiku rozhodování ERÚ — riziko, že vada vzniklá v průběhu řízení změní výsledek; žadatel by měl stav průběžně ošetřovat (§ 7 odst. 9 — ohlašovací povinnost).
+
+#### H. Praktický závěr
+
+§ 5 vymezuje, kdo a za jakých podmínek může licenci získat: svéprávnost a bezúhonnost (u PO členů statutárního orgánu), odborná způsobilost (nebo odpovědný zástupce), finanční a technické předpoklady a doložení práva k energetickému zařízení. Finanční a technické předpoklady mají objektivní, faktickou povahu; ERÚ je z velké části ověřuje sám.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Splňují FO (resp. členové statutárního orgánu PO) svéprávnost a bezúhonnost dle odst. 1, 2 a 4?
+- [ ] Je doložena odborná způsobilost dle správného stupně odst. 5, nebo ustanoven odpovědný zástupce (§ 6)?
+- [ ] Neexistuje překážka finančních předpokladů (insolvence, post-insolvence, nedoplatky bez posečkání) dle odst. 6?
+- [ ] Je doloženo vlastnické/užívací právo k energetickému zařízení a osvědčena jeho technická bezpečnost (odst. 3 a 7)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z rejstříku trestů, doklady o vzdělání a praxi, potvrzení o bezdlužnosti (FÚ, OSSZ, ZP, celní správa), doklad o vlastnickém/užívacím právu, revize a kolaudace zařízení.
+
 ---
 
 ### § 5a — Překážky udělení licence pro obchod s elektřinou nebo plynem
@@ -614,6 +906,42 @@ Zákon rozlišuje tři autonomní skupiny překážek:
 
 ERÚ může překážku prominout u pasivních členů statutárního orgánu, kteří prokáží, že: (i) nepřispěli porušením povinností k úpadku nebo k porušení licenčních povinností a (ii) vynaložili veškeré úsilí k zabránění těmto následkům. Jde o objektivní exkulpaci — ERÚ má správní uvážení, ale žadatel musí aktivně nést důkazní břemeno.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodníku s elektřinou (s. r. o. „Alfa") byla zrušena licence podle § 10 odst. 2 písm. b), protože porušováním povinností ohrožoval majetek zákazníků (neplnění dodávek, předlužení). Bývalý jednatel Alfy do tří měsíců založí novou společnost „Beta", v níž je rovněž jednatelem, a žádá ERÚ o licenci na obchod s elektřinou. Tvrdí, že Beta je nový subjekt bez závazků Alfy. Účastníci: Beta (žadatel), jednatel (společný oběma firmám), ERÚ. Důkazy: rozhodnutí o zrušení licence Alfy a jeho právní moc, výpis z OR (totožnost jednatele), doklad o době vzniku skutečností vedoucích ke zrušení.
+
+**2. Právní otázka.** Brání zrušení licence společnosti Alfa udělení licence společnosti Beta, jejímž statutárním orgánem je tatáž osoba (§ 5a odst. 1 písm. d)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5a odst. 1 písm. a)–d) (5letá překážka navázaná na zrušení dle § 10 odst. 2 písm. b/c a § 10 odst. 3 písm. b), odst. 4 (promíjení překážky), odst. 5 (odpadnutí překážky u FO po oddlužení).
+- *Související ustanovení téhož zákona:* § 10 odst. 2 písm. b) a c) a odst. 3 písm. b) (důvody zrušení); § 7 odst. 8 (5letá lhůta pro opětovné udělení v témže odvětví); § 12a odst. 2 (dodávka poslední instance — odst. 2 § 5a).
+- *Související předpisy:* insolvenční zákon (oddlužení dle odst. 5); zákon o obchodních korporacích (statutární orgán).
+- *Judikatura:* k § 5a ustálená judikatura chybí; nosně se uplatní zásada, že překážka má preventivní a ochrannou funkci a vykládá se podle účelu (ochrana zákazníků před opakovaným selháním).
+
+**4. Subsumpce.** Licence Alfy byla zrušena dle § 10 odst. 2 písm. b) — to je jeden z důvodů aktivujících překážku. Jednatel byl členem statutárního orgánu Alfy v době, kdy nastaly skutečnosti vedoucí ke zrušení. Beta je PO, jejímž statutárním orgánem je tato osoba → naplněn § 5a odst. 1 písm. d). Po dobu 5 let od právní moci zrušení licence Alfy nelze Betě licenci udělit.
+
+**5. Řešení.** ERÚ žádost Bety zamítne pro překážku dle § 5a odst. 1 písm. d). Jediná cesta: jednatel požádá o prominutí překážky dle odst. 4 a prokáže, že (i) nepřispěl porušením povinností k porušení/úpadku Alfy a (ii) vynaložil veškeré úsilí k zabránění následku. Neunese-li toto důkazní břemeno, licence se neudělí po celých 5 let.
+
+**6. Varianty.** (a) Kdyby jednatel prokázal exkulpaci dle odst. 4 (např. že byl přehlasován a aktivně varoval), ERÚ překážku promine. (b) Kdyby šlo o FO, jíž byla zrušena licence dle § 10 odst. 3 písm. b) (insolvence), a tato osoba následně splnila oddlužení, překážka dle odst. 1 písm. a) a c) by odpadla nabytím právní moci rozhodnutí o splnění oddlužení (odst. 5).
+
+#### G. Protiargumenty a rizika
+
+- *„Beta je samostatná právnická osoba, nemůže nést následky selhání Alfy."* Neutralizace: § 5a odst. 1 písm. d) cílí právě na obcházení překážky zakládáním nových entit — překážka se váže na osobu statutára, ne na kontinuitu právnické osoby.
+- *„Překážka je nepřiměřená kolektivní sankce vůči celému vedení."* Neutralizace: odst. 4 umožňuje individuální exkulpaci pasivních členů orgánu; kdo prokáže nezavinění a vynaložení úsilí, překážku nepocítí.
+- Slabé místo: dokazování „doby, kdy nastaly nebo trvaly skutečnosti" vedoucí ke zrušení může být sporné; rozhodnutí o zrušení licence Alfy musí být v právní moci a jeho odůvodnění určovat rozhodné období.
+
+#### H. Praktický závěr
+
+§ 5a chrání retailový trh před recidivou neúspěšných obchodníků: na 5 let blokuje udělení obchodní licence subjektům, jejichž licence byla zrušena z kvalifikovaných důvodů, jakož i osobám, které je ovládaly, a jejich novým entitám. Klíčové je prověřit personální propojení na úrovni statutárních orgánů a možnost prominutí dle odst. 4.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla žadateli (nebo propojené osobě) zrušena obchodní licence dle § 10 odst. 2 písm. b)/c) nebo odst. 3 písm. b), či zahájena dodávka poslední instance (§ 12a odst. 2)?
+- [ ] Je některý člen statutárního orgánu žadatele osobou postiženou překážkou dle odst. 1 nebo 2?
+- [ ] Uplynula 5letá lhůta od právní moci zrušení / od zahájení dodávky poslední instance?
+- [ ] Lze uplatnit prominutí dle odst. 4 (exkulpace), resp. odpadla překážka po oddlužení dle odst. 5?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o zrušení licence a doložka právní moci, výpisy z OR prokazující personální propojení, doklad o době vzniku rozhodných skutečností, podklady k exkulpaci (zápisy z jednání orgánů, varování, hlasování).
+
 ---
 
 ### § 6 — Odpovědný zástupce
@@ -645,6 +973,42 @@ Zákon výslovně zakazuje kumulaci funkce odpovědného zástupce a člena dozo
 #### Schvalování ERÚ a povinnost náhrady (odst. 5–6)
 
 Ustanovení (i změna) odpovědného zástupce podléhá **schválení ERÚ** — nejde tedy o volné právo držitele licence. Pokud odpovědný zástupce přestane funkci vykonávat nebo přestane splňovat podmínky, musí držitel licence do **15 dnů** navrhnout nástupce. Do schválení nástupce odpovídá za licencovanou činnost přímo **držitel licence** — jde o přechodnou personální odpovědnost zabraňující mezeře v odborném dohledu nad provozem.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Akciová společnost — držitel licence na výrobu tepelné energie — měla jako odpovědného zástupce technika, který náhle ze dne na den rezignoval a odešel ke konkurenci. Společnost po dobu dvou měsíců nového odpovědného zástupce nenavrhne. Mezitím dojde k provozní havárii kotelny. Společnost tvrdí, že za výkon licencované činnosti v mezidobí neodpovídala, protože „neměla odpovědného zástupce". Současně chce do funkce navrhnout člena své dozorčí rady. Účastníci: držitel licence (a. s.), odstoupivší a navrhovaný odpovědný zástupce, ERÚ. Důkazy: rezignace zástupce, doklad o (ne)podání návrhu nového zástupce do 15 dnů, funkce navrhované osoby v dozorčí radě.
+
+**2. Právní otázka.** Kdo odpovídá za výkon licencované činnosti v době, kdy držitel nemá schváleného odpovědného zástupce, a může jím být člen dozorčí rady?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 1 a 3 (povinné ustanovení u PO), odst. 2 (splnění podmínek § 5 odst. 1), odst. 4 (zákaz kumulace s kontrolním orgánem), odst. 5 (schválení ERÚ), odst. 6 (15denní lhůta a odpovědnost držitele do schválení nástupce).
+- *Související ustanovení téhož zákona:* § 5 odst. 1 a 2 (podmínky, jež musí zástupce splnit; výjimka pro operátora trhu a datové centrum), § 9 (oznamování změn), § 10 odst. 2 písm. a) (zrušení při ztrátě podmínek).
+- *Související předpisy:* zákon o obchodních korporacích (postavení člena dozorčí rady, péče řádného hospodáře).
+- *Judikatura:* specifická judikatura k § 6 chybí; nosně se uplatní zásada, že odpovědnost za licencovanou činnost nelze přenést na neobsazenou funkci.
+
+**4. Subsumpce.** Jako akciová společnost je držitel povinen mít odpovědného zástupce vždy (odst. 3). Odešel-li, vznikla povinnost do 15 dnů navrhnout nového (odst. 6); do schválení nástupce odpovídá za výkon licencované činnosti přímo držitel licence (odst. 6 věta druhá). Argument o neexistenci odpovědnosti je proto lichý. Navrhovaný člen dozorčí rady nemůže být odpovědným zástupcem (odst. 4 — zákaz kumulace s kontrolním orgánem).
+
+**5. Řešení.** Za havárii v mezidobí odpovídá držitel licence. Návrh člena dozorčí rady ERÚ neschválí. Kroky: bezodkladně navrhnout způsobilou osobu mimo kontrolní orgány splňující § 5 odst. 1; zmeškání 15denní lhůty a setrvalý stav bez zástupce mohou vést až ke zrušení licence dle § 10 odst. 2 písm. a).
+
+**6. Varianty.** (a) Kdyby šlo o licenci na činnost operátora trhu nebo datového centra, odpovědný zástupce by se nevyžadoval vůbec (§ 5 odst. 2). (b) Kdyby držitel byl fyzickou osobou splňující sám odbornou způsobilost, odpovědného zástupce by ustanovovat nemusel (odst. 3 věta druhá).
+
+#### G. Protiargumenty a rizika
+
+- *„Bez schváleného zástupce nemůže držitel nést odbornou odpovědnost."* Neutralizace: odst. 6 výslovně přenáší odpovědnost na držitele licence do schválení nového zástupce — vakuum odpovědnosti zákon nepřipouští.
+- *„Člen dozorčí rady má nejlepší přehled, je vhodným zástupcem."* Neutralizace: odst. 4 to kategoricky zakazuje kvůli konfliktu zájmů (kontrolovaný vs. kontrolující); jde o absolutní neslučitelnost.
+- Slabé místo: 15denní lhůta je krátká a její zmeškání není samo o sobě důvodem automatického zániku licence, ale může vést k řízení o zrušení dle § 10 odst. 2 písm. a) — riziko nese držitel, který by měl mít připraveného náhradníka.
+
+#### H. Praktický závěr
+
+§ 6 zajišťuje, že za odborný výkon licencované činnosti vždy někdo osobně odpovídá. U právnických osob je odpovědný zástupce povinný (mimo operátora trhu a datové centrum), musí splňovat podmínky § 5 odst. 1, nesmí být členem kontrolního orgánu a podléhá schválení ERÚ. Při výpadku zástupce nese odpovědnost přímo držitel licence.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je u daného držitele odpovědný zástupce povinný (PO mimo operátora trhu a datové centrum; FO bez vlastní odbornosti)?
+- [ ] Splňuje navrhovaný zástupce podmínky § 5 odst. 1 (svéprávnost, bezúhonnost, odbornost) a není členem kontrolního orgánu (odst. 4)?
+- [ ] Bylo ustanovení/změna schváleno ERÚ (odst. 5)?
+- [ ] Při výpadku zástupce: byl do 15 dnů navržen nástupce a kdo odpovídá v mezidobí (držitel licence)?
+
+**Typicky rozhodné důkazy / podklady:** prohlášení zástupce o souhlasu s funkcí, doklady o jeho odbornosti a bezúhonnosti, rozhodnutí ERÚ o schválení, doklad o funkcích osoby v orgánech držitele.
 
 ---
 
@@ -731,6 +1095,42 @@ Zákon výslovně ukládá ERÚ aktivně si vyžádat výpis z rejstříku trest
 
 Odst. 8 je doplňkem k § 5a — zatímco § 5a se vztahuje na obchodníky, odst. 8 § 7 dopadá na každého, komu byla licence zrušena z důvodu ohrožení osob nebo závažného porušení předpisů (§ 10 odst. 2 písm. b) nebo c)). Tato pětiletá čekací lhůta platí pro podnikání v témže odvětví — tedy osoba nemůže získat licenci na distribuci elektřiny, byla-li jí zrušena licence na distribuci elektřiny.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Žadatel o licenci na výrobu elektřiny ve fotovoltaické elektrárně předloží ERÚ kompletní žádost dle § 7 odst. 2, ale ohledně technických předpokladů přiloží jen vlastní prohlášení o bezpečnosti zařízení a fotodokumentaci; nedoloží rozhodnutí stavebního úřadu (kolaudaci) ani revizní zprávu. ERÚ řízení přeruší a vyzve k doplnění. Žadatel namítá, že ERÚ má povinnost si vše ověřit sám z informačních systémů. Účastníci: žadatel, ERÚ, stavební úřad. Důkazy: žádost a přílohy, rozhodnutí stavebního úřadu, revizní zpráva, výpisy, které si ERÚ vyžádal.
+
+**2. Právní otázka.** Které doklady musí předložit sám žadatel a které si ERÚ obstará z úřední povinnosti (odst. 4 vs. odst. 5 a 6)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 odst. 2 a 3 (náležitosti žádosti FO/PO), odst. 4 (přílohy, zejm. písm. d) finanční a technické předpoklady), odst. 5 a 6 (aktivní zjišťovací povinnost ERÚ — rejstřík trestů, veřejné rejstříky, nedoplatky), odst. 7 (lhůta 7 dnů orgánů), odst. 9 (ohlašovací povinnost změn).
+- *Související ustanovení téhož zákona:* § 5 odst. 3 a 7 (finanční a technické předpoklady), § 8 odst. 4 (stavění lhůty po dobu obstarávání dokladů), § 7 odst. 8 (5letá lhůta po zrušení dle § 10 odst. 2 písm. b/c).
+- *Související předpisy:* zákon č. 300/2008 Sb. o elektronických úkonech; stavební zákon (kolaudace); předpisy BOZP a revize vyhrazených technických zařízení.
+- *Judikatura:* NSS 7 As 331/2015 — v licenčním řízení žadatel dokládá technické předpoklady rozhodnutím stavebního úřadu a dokladem o revizi; ERÚ neposuzuje znovu zvláštní předpisy a závazná stanoviska.
+
+**4. Subsumpce.** Technické předpoklady patří mezi přílohy, které dle odst. 4 písm. d) předkládá žadatel — dle NSS 7 As 331/2015 konkrétně rozhodnutím stavebního úřadu a revizní zprávou. Aktivní zjišťovací povinnost ERÚ dle odst. 5 a 6 se týká bezúhonnosti (rejstřík trestů), zápisů ve veřejných rejstřících a nedoplatků, nikoli technické dokumentace zařízení. Vlastní prohlášení a fotodokumentace technické předpoklady neprokazují.
+
+**5. Řešení.** ERÚ správně vyzval k doplnění kolaudace a revize; žadatel je musí předložit. ERÚ si naopak sám vyžádá výpis z rejstříku trestů a ověří bezdlužnost a zápis v OR. Po dobu obstarávání dokladů od jiných orgánů lhůta pro rozhodnutí neběží (§ 8 odst. 4). Krok: doplnit chybějící technické doklady, jinak žádost nemůže být kladně vyřízena.
+
+**6. Varianty.** (a) Kdyby žadatel sám k žádosti připojil výpis z OR a potvrzení o bezdlužnosti, ERÚ by si je nevyžadoval (odst. 5 a 6 — „pokud žadatel tyto doklady nepřipojil"). (b) Kdyby v průběhu řízení žadatel změnil odpovědného zástupce, byl by povinen to neprodleně ohlásit dle odst. 9.
+
+#### G. Protiargumenty a rizika
+
+- *„ERÚ si má vše zjistit sám, žadatel nemá nic dokládat."* Neutralizace: aktivní zjišťovací povinnost (odst. 5 a 6) je omezena na bezúhonnost, veřejné rejstříky a nedoplatky; technické a vlastnické doklady nese žadatel (odst. 4).
+- *„Prohlášení o bezpečnosti nahrazuje revizi."* Neutralizace: dle NSS 7 As 331/2015 se technické předpoklady dokládají kvalifikovaně (stavební úřad + revize), nikoli vlastním tvrzením žadatele.
+- Slabé místo: rozhraní mezi doklady žadatele a úřední zjišťovací povinností není v zákoně vždy ostré; sporné situace řeší výzva k doplnění a stavění lhůty dle § 8 odst. 4 — žadatel by měl předkládat raději více než méně.
+
+#### H. Praktický závěr
+
+§ 7 stanoví obsah a přílohy licenční žádosti a rozděluje důkazní břemeno: identifikační, odborné, technické a vlastnické doklady předkládá žadatel (odst. 2–4), zatímco bezúhonnost, zápis ve veřejných rejstřících a nedoplatky si ověří sám ERÚ (odst. 5–6). Změny údajů je nutné neprodleně ohlašovat (odst. 9).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje žádost všechny náležitosti dle odst. 2 (FO) nebo odst. 3 (PO) a přílohy dle odst. 4?
+- [ ] Jsou technické předpoklady doloženy rozhodnutím stavebního úřadu a revizní zprávou (NSS 7 As 331/2015)?
+- [ ] Které doklady si obstará ERÚ sám (rejstřík trestů, veřejné rejstříky, nedoplatky) a které musí dodat žadatel?
+- [ ] Neuplatní se 5letá lhůta dle odst. 8 (opětovné udělení v témže odvětví po zrušení dle § 10 odst. 2 písm. b/c)?
+
+**Typicky rozhodné důkazy / podklady:** vyplněná žádost, doklad o vzniku PO, výpisy z evidence trestů (i cizozemské), doklady o odbornosti, kolaudace a revize zařízení, doklad o vlastnickém/užívacím právu, prohlášení odpovědného zástupce.
+
 ---
 
 ### § 7a — Uznání oprávnění podnikat
@@ -759,6 +1159,42 @@ Odst. 8 je doplňkem k § 5a — zatímco § 5a se vztahuje na obchodníky, odst
 Uznání oprávnění podle odst. 2 má za právní důsledek, že daná osoba se **považuje za držitele licence** — má tedy stejná práva a povinnosti jako český obchodník s licencí. Uznané oprávnění zaniká automaticky se zánikem zahraničního oprávnění nebo rozhodnutím ERÚ o zrušení; důvody pro zrušení jsou totožné s důvody zrušení české licence (§ 10 odst. 2 písm. b)–e)).
 
 > **Anomálie číslování:** Zákon obsahuje § 7a jako zvláštní paragraf s písmenem vložený mezi §§ 7 a 8 — jde o standardní legislativní techniku pro pozdější doplnění. Stejně tak §§ 3a–3e, § 5a a § 10a–10b jsou písmenné paragrafy vložené do systematiky zákona.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Rakouský obchodník s plynem, držitel oprávnění k obchodu s plynem vydaného příslušným rakouským orgánem, požádá ERÚ o uznání tohoto oprávnění pro působení v ČR. ERÚ uznání udělí. Po roce rakouský orgán obchodníkovi oprávnění odejme pro závažné porušení povinností, ale obchodník v ČR dál uzavírá smlouvy se zákazníky a tuto skutečnost ERÚ neoznámí. Účastníci: rakouský obchodník, rakouský regulátor, ERÚ, čeští zákazníci. Důkazy: rakouské oprávnění a rozhodnutí o jeho odnětí, rozhodnutí ERÚ o uznání, doklad o pokračujících dodávkách.
+
+**2. Právní otázka.** Trvá oprávnění obchodníka podnikat v ČR, zaniklo-li uznané zahraniční oprávnění, a jaké má obchodník povinnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7a odst. 1 (povinnost požádat o uznání), odst. 2 (podmínky uznání a fikce držitele licence), odst. 3 (zánik oprávnění při zániku cizího oprávnění nebo zrušení uznání ERÚ; oznamovací povinnost; přiměřené použití § 10 odst. 2 písm. b–e).
+- *Související ustanovení téhož zákona:* § 3 odst. 3 (podnikání jen na základě licence/uznání), § 10 odst. 2 písm. b)–e) (důvody zrušení), § 1 (vztah k právu EU).
+- *Související předpisy:* směrnice 2009/73/ES (vnitřní trh s plynem); SFEU (volný pohyb služeb a vzájemné uznávání).
+- *Judikatura:* NSS 10 Afs 216/2020 — uznané oprávnění propůjčuje stejné postavení jako česká licence na obchod.
+
+**4. Subsumpce.** Uznáním získal rakouský obchodník postavení držitele licence (odst. 2 ve spojení s NSS 10 Afs 216/2020). Podle odst. 3 však oprávnění podnikat v ČR zaniká, zanikne-li oprávnění vydané v jiném členském státě. Odnětím rakouského oprávnění tedy zaniklo i oprávnění obchodníka v ČR; pokračující dodávky jsou podnikáním bez oprávnění. Obchodník navíc porušil oznamovací povinnost dle odst. 3 věty třetí.
+
+**5. Řešení.** Obchodník měl zánik rakouského oprávnění ERÚ oznámit a dodávky ukončit. ERÚ konstatuje zánik oprávnění a pokračující činnost posoudí jako neoprávněné podnikání; přiměřeně se uplatní pravidla § 10 odst. 2 písm. b)–e). Kroky: zastavit dodávky nebo zajistit zákazníky režimem dodavatele poslední instance, splnit oznamovací povinnost.
+
+**6. Varianty.** (a) Kdyby rakouské oprávnění nezaniklo, ale ERÚ by sám rozhodl o zrušení uznání z důvodů § 10 odst. 2 písm. b)–e), oprávnění by zaniklo rozhodnutím ERÚ. (b) Kdyby obchodník chtěl podnikat i v jiné než obchodní činnosti (např. distribuce), § 7a by se neuplatnil — vzájemné uznávání se týká jen obchodu s elektřinou a plynem, jinak je nutná plnohodnotná licence dle § 3.
+
+#### G. Protiargumenty a rizika
+
+- *„Jednou uznané oprávnění platí v ČR samostatně bez ohledu na cizí stát."* Neutralizace: odst. 3 výslovně váže trvání českého oprávnění na trvání cizího — zánikem zahraničního oprávnění zaniká i působení v ČR.
+- *„Volný pohyb služeb znamená, že oznamovací povinnost je formalita bez následků."* Neutralizace: oznamovací povinnost (odst. 3) zajišťuje ochranu zákazníků a dohled ERÚ; její porušení spolu s pokračováním v činnosti zakládá neoprávněné podnikání.
+- Slabé místo: § 7a se vztahuje jen na obchod s elektřinou a plynem; pro ostatní činnosti uznávání neplatí — riziko mylného rozšiřování režimu na distribuci či výrobu.
+
+#### H. Praktický závěr
+
+§ 7a realizuje vzájemné uznávání v EU pro obchodníky s elektřinou a plynem: namísto plné licence postačí uznání cizího oprávnění ERÚ, čímž subjekt získá postavení držitele licence. Toto oprávnění je však akcesorické — zaniká se zánikem cizího oprávnění nebo zrušením uznání a podléhá oznamovací povinnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o obchod s elektřinou nebo plynem (jen na ně § 7a dopadá)?
+- [ ] Bylo cizí oprávnění z jiného členského státu EU uznáno rozhodnutím ERÚ dle odst. 2?
+- [ ] Trvá nadále zahraniční oprávnění (jeho zánik = zánik oprávnění v ČR dle odst. 3)?
+- [ ] Byla splněna oznamovací povinnost vůči ERÚ při zániku cizího oprávnění?
+
+**Typicky rozhodné důkazy / podklady:** zahraniční oprávnění a doklad o jeho rozsahu a trvání, rozhodnutí ERÚ o uznání, případné rozhodnutí cizího orgánu o odnětí, doklady o vykonávané činnosti v ČR.
 
 ---
 
@@ -831,6 +1267,42 @@ Pro zahraniční osoby a zakládané české právnické osoby platí možnost z
 
 ERÚ uveřejňuje v Energetickém regulačním věstníku rozhodnutí o udělení, změně i zrušení licencí. Tím se zajišťuje transparentnost licenčního systému a ochrana třetích osob — každý si může ověřit, zda daný subjekt skutečně disponuje licencí. Z uveřejnění jsou vyloučeny chráněné informace ve smyslu § 2 odst. 1 písm. c).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zakladatel zakládá českou akciovou společnost, která má provozovat výrobnu elektřiny; společnost je již založena (sepsány stanovy, splacen základní kapitál), ale dosud nezapsána v obchodním rejstříku. Aby mohla rychle zahájit činnost, požádá zakladatel ERÚ o udělení licence ještě před zápisem do OR. ERÚ licenci udělí. Společnost však následně po dobu více než tří měsíců nepodá návrh na zápis do OR. Účastníci: zakladatel/založená a. s., ERÚ, rejstříkový soud. Důkazy: zakladatelské právní jednání, doklad o založení společnosti, rozhodnutí ERÚ o udělení licence a datum jeho doručení, doklad o (ne)podání návrhu na zápis.
+
+**2. Právní otázka.** Za jakých podmínek lze udělit licenci před zápisem do OR a co se stane, není-li návrh na zápis podán včas (odst. 6 a 7)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 odst. 1 (vázaná pravomoc; fikce licence dle zákona o volném pohybu služeb), odst. 2 (obsah rozhodnutí), odst. 3 (jedna licence na jedno zařízení), odst. 5–7 (udělení před zápisem do OR a zánik platnosti při nepodání návrhu do 90 dnů), odst. 8 (publikace ve věstníku).
+- *Související ustanovení téhož zákona:* § 5 (podmínky udělení), § 7 (žádost), § 9 (změny rozhodnutí), § 10 (zánik licence).
+- *Související předpisy:* zákon o obchodních korporacích a o veřejných rejstřících (vznik PO zápisem); zákon č. 222/2009 Sb. o volném pohybu služeb (§§ 28–30); zákon č. 184/2006 Sb. (veřejný zájem u staveb).
+- *Judikatura:* NSS 30 A 40/2022 (licence se uděluje konstitutivním rozhodnutím — teprve jím vzniká postavení držitele a soubor práv i povinností); NSS 30 A 74/2023 (žadatel o licenci nemusí být vlastníkem energetického zařízení — vztah k zařízení je jen jednou z podmínek).
+
+**4. Subsumpce.** Odst. 6 umožňuje udělit licenci založené (nikoli nutně zapsané) české PO, je-li prokázáno založení — tato podmínka je splněna. Rozhodnutí má konstitutivní povahu (NSS 30 A 40/2022). Podle odst. 7 však platnost rozhodnutí o udělení licence zaniká, není-li návrh na zápis do OR podán do 90 dnů od doručení rozhodnutí (nebo není-li mu vyhověno). Tříměsíční nečinnost se blíží limitu; uplynutím 90 dnů platnost licence zaniká ex lege.
+
+**5. Řešení.** Společnost musí podat návrh na zápis do OR do 90 dnů od doručení rozhodnutí ERÚ, jinak platnost „předběžné" licence zanikne a bylo by nutné žádat znovu. Krok: bezodkladně podat rejstříkový návrh a doložit zápis ERÚ.
+
+**6. Varianty.** (a) U licence na obchod s elektřinou/plynem by mohla nastoupit fikce licence marným uplynutím lhůty dle zákona o volném pohybu služeb (odst. 1 věta druhá). (b) Kdyby na totéž energetické zařízení již byla vydána licence jinému subjektu, novou licenci by nebylo možné udělit (odst. 3 — jedna licence na jedno zařízení).
+
+#### G. Protiargumenty a rizika
+
+- *„Udělením licence před zápisem vzniká trvalé oprávnění bez ohledu na zápis."* Neutralizace: odst. 7 stanoví zánik platnosti rozhodnutí při nepodání návrhu do 90 dnů; oprávnění je do zápisu podmíněné.
+- *„ERÚ může licenci odepřít z důvodů vhodnosti či tržní situace."* Neutralizace: ERÚ má vázanou pravomoc (odst. 1, NSS 30 A 40/2022) — při splnění podmínek § 5 a absenci překážek licenci udělit musí; zamítnutí lze jen pro konkrétní nesplněnou podmínku.
+- Slabé místo: souběh konstitutivní povahy rozhodnutí a podmíněnosti zápisem do OR může vést k nejistotě o okamžiku vzniku oprávnění; rozhodný je den vzniku oprávnění uvedený v rozhodnutí (odst. 2 písm. e) ve spojení se zápisem.
+
+#### H. Praktický závěr
+
+§ 8 upravuje samotné udělení licence: ERÚ rozhoduje vázaně (splnění podmínek § 5 + absence překážek), rozhodnutí je konstitutivní a má zákonem daný obsah. Umožňuje udělení i před zápisem PO do OR, ale takové oprávnění je podmíněno podáním rejstříkového návrhu do 90 dnů. Platí zásada jedné licence na jedno zařízení a publicita rozhodnutí ve věstníku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou splněny podmínky § 5 a chybí překážky (pak ERÚ licenci udělit musí — vázaná pravomoc)?
+- [ ] Obsahuje rozhodnutí všechny náležitosti dle odst. 2 (vč. vymezeného území, technických podmínek, doby a dne vzniku oprávnění)?
+- [ ] U udělení před zápisem do OR: byl podán návrh na zápis do 90 dnů (jinak platnost zaniká dle odst. 7)?
+- [ ] Není na totéž zařízení již vydána jiná licence (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o založení/vzniku PO, rozhodnutí ERÚ o udělení licence s doložkou právní moci a datem doručení, doklad o podání návrhu na zápis do OR, doklad o vztahu k energetickému zařízení.
+
 ---
 
 ### § 9 — Změny rozhodnutí o udělení licence
@@ -873,6 +1345,42 @@ Pokud změna licence spočívá v omezení rozsahu (zmenšení vymezeného územ
 #### Prodloužení obchodních licencí (odst. 6–7)
 
 Obchodní licence (5letá) se prodlužuje na žádost podanou v okně 6 měsíců až 90 dní před uplynutím. Zákon chrání kontinuitu provozu: **licence nezaniká** do právní moci rozhodnutí o prodloužení — ERÚ tedy musí rozhodnout dříve, než licence formálně uplyne.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník s elektřinou má licenci udělenou na 5 let; její platnost končí 30. září. O prodloužení požádá až 60 dní před koncem (tedy po uplynutí okna „nejpozději 90 dní předem"). ERÚ namítá opožděnost žádosti. Obchodník zároveň namítá, že jeho licence stejně nemůže zaniknout, dokud ERÚ nerozhodne. V jiné věci tentýž obchodník rozšířil počet provozoven a zahájil v nich činnost ještě před nabytím právní moci rozhodnutí o změně licence. Účastníci: držitel licence, ERÚ. Důkazy: rozhodnutí o udělení licence a doba platnosti, datum podání žádosti o prodloužení, datum zahájení činnosti v nových provozovnách, doložka právní moci.
+
+**2. Právní otázka.** Lze obchodní licenci prodloužit při opožděné žádosti a od kdy smí držitel vykonávat činnost v nově přidaných provozovnách (odst. 5 a 6)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 odst. 1 (oznamovací povinnost; souhrnné roční hlášení síťových provozovatelů), odst. 3 (změna z moci úřední), odst. 4 (přiměřené použití § 10 odst. 4–9 při zmenšení rozsahu), odst. 5 (výkon činnosti až dnem právní moci rozhodnutí o změně), odst. 6 a 7 (prodloužení obchodní licence — okno 6 měsíců až 90 dní předem; licence nezaniká do právní moci).
+- *Související ustanovení téhož zákona:* § 4 odst. 1 písm. c) (5letá doba obchodní licence), § 8 (aplikace na rozhodnutí o změně), § 10 odst. 4–9 (zrušení/odložení účinků).
+- *Související předpisy:* správní řád (právní moc, lhůty); zákon o ERÚ (regulační výkazy).
+- *Judikatura:* NSS 6 As 244/2015 — doložka právní moci na rozhodnutí o licenci osvědčuje vůči třetím osobám počátek oprávnění; nabytím právní moci rozhodnutí o udělení (změně) vzniká oprávnění provozovat činnost.
+
+**4. Subsumpce.** Žádost o prodloužení musí být podána nejdříve 6 měsíců a nejpozději 90 dní před uplynutím doby (odst. 6). Podání 60 dní předem je opožděné — mimo zákonné okno; ERÚ proto o prodloužení takto podané žádosti nerozhodne kladně a licence uplynutím doby zanikne (§ 10 odst. 1 písm. c). Ochrana „licence nezaniká do právní moci" (odst. 6 věta druhá) se vztahuje jen na včas podanou žádost. V nových provozovnách smí držitel vykonávat činnost až dnem právní moci rozhodnutí o změně (odst. 5, NSS 6 As 244/2015) — dřívější zahájení je výkonem nad rámec licence.
+
+**5. Řešení.** Opožděná žádost o prodloužení nezachová licenci; obchodník měl podat žádost v zákonném okně. Činnost v nových provozovnách zahájenou před právní mocí je nutné posoudit jako neoprávněnou. Kroky: hlídat lhůty pro prodloužení (6 měsíců–90 dní předem); nezahajovat činnost v nových provozovnách před právní mocí rozhodnutí o změně.
+
+**6. Varianty.** (a) Při podání žádosti o prodloužení např. 120 dní předem (v okně) by licence nezanikla do právní moci rozhodnutí (odst. 6). (b) Kdyby šlo o zmenšení vymezeného území, ERÚ by přiměřeně použil § 10 odst. 4–9 (odst. 4) a mohl odložit účinky až o 12 měsíců kvůli ochraně zákazníků.
+
+#### G. Protiargumenty a rizika
+
+- *„Licence nikdy nezanikne, dokud ERÚ nerozhodne o prodloužení."* Neutralizace: ochrana dle odst. 6 platí jen pro žádost podanou v zákonném okně (6 měsíců–90 dní předem); opožděná žádost zánik uplynutím doby neodvrátí.
+- *„Po podání žádosti o změnu lze v nových provozovnách rovnou podnikat."* Neutralizace: odst. 5 váže oprávnění na den právní moci rozhodnutí o změně (NSS 6 As 244/2015); dřívější činnost je nad rámec licence.
+- Slabé místo: souhrnný roční režim oznamování pro síťové provozovatele (odst. 1) může vést k časovému nesouladu mezi faktickým stavem zařízení a obsahem licence; rozhodné je řízení o změně z moci úřední, které ERÚ zahajuje na základě výkazů.
+
+#### H. Praktický závěr
+
+§ 9 upravuje udržování licence v souladu se skutečností: držitel musí neprodleně oznamovat změny a žádat o změnu rozhodnutí; síťoví provozovatelé mají zjednodušený roční režim. Výkon činnosti v nově přidaných provozovnách je možný až dnem právní moci rozhodnutí o změně. Obchodní licence se prodlužuje jen na žádost podanou v okně 6 měsíců až 90 dní před koncem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla změna podmínek či údajů neprodleně oznámena ERÚ a podána žádost o změnu (odst. 1)?
+- [ ] Jde o rozšíření (činnost až právní mocí, odst. 5), nebo o zmenšení rozsahu (přiměřeně § 10 odst. 4–9, odst. 4)?
+- [ ] U obchodní licence: byla žádost o prodloužení podána v okně 6 měsíců až 90 dní před uplynutím doby (odst. 6)?
+- [ ] Je dán důvod pro změnu z moci úřední (odst. 3), případně souhrnné roční hlášení síťového provozovatele (odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o udělení licence a doba platnosti, doklad o datu podání žádosti o změnu/prodloužení, doložka právní moci rozhodnutí o změně, regulační výkazy síťového provozovatele.
 
 ---
 
@@ -980,6 +1488,42 @@ Zákon zavádí pro případ smrti fyzické osoby zvláštní přechodný režim
 #### Přeměny právnických osob (odst. 11)
 
 Přeměna právnické osoby (fúze, rozdělení, odštěpení) sama o sobě nezpůsobuje zánik licence — zákon umožňuje právnímu nástupci nebo odštěpenému subjektu pokračovat v provozování licencované činnosti po dobu do vydání nové licence, a to pod podmínkou oznámení ERÚ do 1 měsíce od právních účinků přeměny a souběžného podání žádosti o licenci. U odštěpených subjektů zákon výslovně chrání datum prvního uvedení výrobny do provozu — zachování tohoto data má přímý dopad na práva k podpoře z obnovitelných zdrojů a další regulatorní výhody vázané na stáří výrobny.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Fyzická osoba — držitel licence na výrobu tepelné energie pro malou blokovou kotelnu zásobující bytový dům — náhle zemře. Jediným dědicem ze zákona je dcera, která je zároveň spoluvlastnicí kotelny. Dcera chce v provozu kotelny pokračovat, aby obyvatelé domu nezůstali bez tepla, ale neví, jaké lhůty a povinnosti ji tíží. Současně ERÚ zvažuje, zda licence smrtí zůstavitele zanikla. Účastníci: zemřelý držitel licence, dcera (dědička, spoluvlastnice zařízení), ERÚ, odběratelé tepla. Důkazy: úmrtní list, doklad o dědickém právu a spoluvlastnictví kotelny, oznámení ERÚ o pokračování, žádost o licenci po skončení dědického řízení.
+
+**2. Právní otázka.** Zaniká licence smrtí fyzické osoby a za jakých podmínek může dědic pokračovat ve výkonu licencované činnosti (odst. 1 písm. a) a odst. 8–10)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10 odst. 1 písm. a) (zánik smrtí s výjimkou pokračování dědiců), odst. 8 (okruh osob oprávněných pokračovat do skončení dědického řízení), odst. 9 (oznámení ERÚ do 3 měsíců), odst. 10 (žádost o licenci do 1 měsíce od právní moci usnesení o dědictví a pokračování na základě licence zůstavitele do rozhodnutí ERÚ).
+- *Související ustanovení téhož zákona:* § 5 (podmínky udělení — dědic je musí splnit při vlastní žádosti), § 7 (žádost), § 8 (udělení), § 10 odst. 11 (přeměny PO — obdobný režim kontinuity).
+- *Související předpisy:* občanský zákoník (dědické právo, správce pozůstalosti); zákon o zvláštních řízeních soudních (řízení o pozůstalosti).
+- *Judikatura:* nosně NSS 30 A 40/2022 (konstitutivní povaha licence — nové oprávnění vzniká až rozhodnutím ERÚ o udělení licence dědici); k zániku licence specifická judikatura chybí.
+
+**4. Subsumpce.** Licence sice zaniká smrtí (odst. 1 písm. a), ale tato výjimka se neuplatní, pokud dědic pokračuje dle odst. 8–10. Dcera je dědičkou ze zákona i spoluvlastnicí zařízení — patří do okruhu osob dle odst. 8 písm. a). Musí oznámit pokračování ERÚ do 3 měsíců od smrti (odst. 9) a po skončení dědického řízení do 1 měsíce od právní moci usnesení podat vlastní žádost o licenci (odst. 10); do rozhodnutí ERÚ pokračuje na základě licence zůstavitele.
+
+**5. Řešení.** Dcera může nepřerušeně provozovat kotelnu: (i) do skončení dědického řízení na základě odst. 8–9 (oznámení do 3 měsíců), (ii) po jeho skončení na základě licence zůstavitele do rozhodnutí ERÚ o její vlastní žádosti (odst. 10). Vydáním rozhodnutí ERÚ licence zůstavitele zaniká. Kroky: včas oznámit, doložit spoluvlastnictví, podat vlastní žádost dle § 7 a splnit podmínky § 5.
+
+**6. Varianty.** (a) Kdyby dcera nebyla spoluvlastnicí zařízení a nešlo o dědice ze závěti, mohla by pokračovat jen za podmínek odst. 8 (např. prostřednictvím správce pozůstalosti). (b) Kdyby místo smrti FO šlo o fúzi PO, kontinuitu by řešil odst. 11 (oznámení a žádost do 1 měsíce od právních účinků přeměny, se zachováním data prvního uvedení výrobny do provozu).
+
+#### G. Protiargumenty a rizika
+
+- *„Smrtí držitele licence vždy končí provoz a zákazníci zůstanou bez dodávek."* Neutralizace: odst. 8–10 zakládají přechodný režim kontinuity pro dědice a správce pozůstalosti; provoz lze zachovat při splnění oznamovacích lhůt.
+- *„Dědic automaticky přebírá licenci zůstavitele natrvalo."* Neutralizace: licence je osobní — dědic provozuje dočasně, ale trvale ji získá až novou licencí na vlastní žádost (odst. 10, konstitutivní povaha dle NSS 30 A 40/2022).
+- Slabé místo: zmeškání tříměsíční lhůty dle odst. 9 nebo měsíční lhůty dle odst. 10 ukončí oprávnění pokračovat; běh dědického řízení a lhůt je nutné pečlivě sledovat, jinak dojde k zániku licence a přerušení dodávek.
+
+#### H. Praktický závěr
+
+§ 10 komplexně řeší zánik a zrušení licence. Rozlišuje pět způsobů zániku (odst. 1) a dvě skupiny důvodů zrušení — povinné (odst. 2) a fakultativní (odst. 3); u povinného zrušení může ERÚ odložit účinky až o 12 měsíců kvůli ochraně zákazníků (odst. 4). Pro smrt FO a přeměnu PO zákon zavádí režim kontinuity (odst. 8–11), který brání přerušení dodávek, ale je vázán na přísné oznamovací lhůty a následnou vlastní žádost o licenci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o zánik ex lege (smrt, zánik/přeměna PO, uplynutí doby), nebo o zrušení rozhodnutím ERÚ či soudu (odst. 1)?
+- [ ] Při zrušení: jde o důvod povinný (odst. 2), nebo fakultativní (odst. 3) — a je namístě odložení účinků až o 12 měsíců (odst. 4)?
+- [ ] Při smrti FO: patří pokračovatel do okruhu odst. 8 a byly dodrženy lhůty dle odst. 9 (3 měsíce) a odst. 10 (1 měsíc + žádost o licenci)?
+- [ ] Při přeměně PO: bylo do 1 měsíce od právních účinků oznámeno pokračování a podána žádost o licenci (odst. 11), se zachováním data prvního uvedení výrobny do provozu?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o udělení licence; u zrušení doklady o naplnění důvodu (ohrožení osob, porušení předpisů, insolvence, neplacení); u smrti úmrtní list, doklad o dědickém právu a spoluvlastnictví zařízení, oznámení ERÚ; u přeměny projekt přeměny a doklad o právních účincích.
 
 ---
 
