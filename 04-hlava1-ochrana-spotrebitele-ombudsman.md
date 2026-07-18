@@ -230,6 +230,170 @@ V praxi je nutné důsledně odlišovat OTE (účastníka trhu se soukromoprávn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2f82cefeaa0fc7f7ed79 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 20a — Operátor trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Operátor trhu je akciová společnost založená státem, jejíž akcie znějí na jméno.
+>
+> (2) Akcie operátora trhu vlastní stát nebo provozovatel přenosové soustavy.
+>
+> (3) Operátor trhu musí mít ke své činnosti licenci podle § 4 odst. 1 písm. b) bodu 7. Operátor trhu ani právnické osoby, v nichž má operátor trhu [[majetkový podíl|majetkový podíl]], nesmí být držitelem jiné licence uvedené v [[#§ 4|§ 4]]. Členem statutárního orgánu, členem dozorčí rady nebo vedoucím zaměstnancem operátora trhu nemůže být fyzická osoba, která je současně členem statutárního orgánu nebo zaměstnancem držitele licence uvedené v § 4 odst. 1 písm. a) a písm. b) bodech 2 až 6 a [[#§ 8|8]] a v § 4 odst. 1 písm. c).
+>
+> (4) Operátor trhu je povinen
+>
+> - a) organizovat krátkodobý trh s plynem a krátkodobý trh s elektřinou,
+>
+> - b) vyhodnocovat odchylky za celé území České republiky a toto vyhodnocení předávat jednotlivým subjektům zúčtování a provozovateli přenosové nebo přepravní soustavy,
+>
+> - c) na základě vyhodnocení odchylek zajišťovat zúčtování a vypořádání odchylek subjektů zúčtování, které jsou povinny je uhradit,
+>
+> - d) informovat provozovatele přenosové soustavy, provozovatele přepravní soustavy a provozovatele zásobníků plynu nebo provozovatele distribuční soustavy o neplnění platebních povinností účastníků trhu a subjektů zúčtování vůči operátorovi trhu,
+>
+> - e) zpracovávat a zveřejňovat měsíční a roční zprávu o trhu s elektřinou a měsíční a roční zprávu o trhu s plynem v České republice,
+>
+> - f) registrovat dodavatele a agregátora u předávacích míst,
+>
+> - g) zajistit ochranu chráněných informací,
+>
+> - h) zpracovávat podklady pro návrh Pravidel trhu s elektřinou a Pravidel trhu s plynem a předávat je ministerstvu a Energetickému regulačnímu úřadu,
+>
+> - i) zajišťovat a poskytovat registrovaným účastníkům trhu s elektřinou nebo plynem skutečné hodnoty dodávek a odběrů elektřiny nebo plynu a další nezbytné informace související s vyúčtováním dodávek a odběrů elektřiny nebo plynu a s právem zákazníka na změnu dodavatele nebo agregátora,
+>
+> - j) zpracovávat a po schválení Energetickým regulačním úřadem zveřejňovat na svých internetových stránkách obchodní podmínky operátora trhu pro elektroenergetiku a pro plynárenství,
+>
+> - k) zajišťovat v součinnosti s provozovateli distribučních soustav zpracovávání typových diagramů dodávek, a to na základě údajů od provozovatelů distribučních soustav,
+>
+> - l) na základě údajů předaných provozovatelem přenosové soustavy nebo provozovatelem přepravní soustavy zajišťovat zúčtování a vypořádání regulační energie64) nebo vyrovnávacího plynu včetně zúčtování při stavech nouze,
+>
+> - m) účtovat odděleně za činnosti vykonávané v elektroenergetice a v plynárenství,
+>
+> - n) uzavřít smlouvu o zúčtování odchylek a umožnit obchodovat s elektřinou nebo plynem na jím organizovaných trzích každému, kdo o to požádá a splňuje obchodní podmínky operátora trhu pro elektroenergetiku nebo obchodní podmínky operátora trhu pro plynárenství,
+>
+> - o) v případech podle [[#§ 12a|§ 12a]] oznamovat dodavateli poslední instance registrační čísla odběrných míst zákazníků a jejich předávacích míst,
+>
+> - p) sledovat množství skladovaného plynu v jednotlivých zásobnících plynu a jejich kapacitu a bilanci služby přeshraničního využití zásobníku plynu, pokud ji provozovatel zásobníku poskytuje,
+>
+> - q) zpracovávat statistiku dovozu plynu ze zahraničí a jeho vývozu do zahraničí, a statistiku zákazníků, kteří změnili dodavatele plynu,
+>
+> - r) zpracovávat a předávat ministerstvu a Energetickému regulačnímu úřadu alespoň jednou měsíčně zprávu s vyhodnocením dodávek a spotřeb plynárenské soustavy včetně vyhodnocení dovozu plynu do České republiky a vývozu plynu z České republiky,
+>
+> - s) zpracovávat měsíční bilance o rozsahu bezpečnostního standardu dodávek plynu obchodníků s plynem a předávat je Energetickému regulačnímu úřadu,
+>
+> - t) zpracovávat a vést evidenci výroben elektřiny, kterým provozovatel přenosové soustavy nebo provozovatel přepravní soustavy nebo provozovatel distribuční soustavy stanovil termín a podmínky připojení, a poskytovat evidované údaje ministerstvu a úřadu,
+>
+> - u) hradit výrobcům elektřiny zelený bonus a aukční bonus na elektřinu z obnovitelných zdrojů, druhotných zdrojů a vysokoúčinné kombinované výroby elektřiny a tepla,
+>
+> - v) hradit povinně vykupujícímu rozdíl mezi výkupní cenou a hodinovou cenou a cenu za jeho činnost,
+>
+> - w) hradit výrobcům tepla zelený bonus na teplo, výrobcům tepla z neobnovitelného zdroje bonus k transformaci výroby tepla a výrobcům biometanu zelený bonus na biometan,
+>
+> - x) vést evidenci záruk původu energie, jejíž součástí je vnitrostátní databáze kritérií udržitelnosti a úspor emisí skleníkových plynů pro energii vyrobenou z paliva z biomasy, nízkouhlíkových plynů a plynů z obnovitelných zdrojů a zajistit napojení evidence záruk původu energie na databázi Evropské unie, organizovat aukce záruk původu energie,
+>
+> - y) zpracovávat na základě požadavku ministerstva nebo Energetického regulačního úřadu analýzy týkající se budoucí očekávané spotřeby elektřiny a plynu, vývoje trhu s elektřinou a plynem, způsobů zabezpečení dodávek elektřiny a plynu a rozvoje zdrojů,
+>
+> - z) účastníkům trhu, kteří mají podle čl. 8 Nařízení o velkoobchodním trhu s energií povinnost oznamovat Agentuře transakce na velkoobchodních trzích s energií, poskytovat na základě smlouvy údaje z evidence o jejich obchodních transakcích včetně příkazů z obchodování, a to nejpozději ke dni vzniku vykazovací povinnosti podle Nařízení o velkoobchodním trhu s energií,
+>
+> - za) sestavovat a zveřejňovat zbytkový energetický mix, který reprezentuje celkovou roční skladbu zdrojů energie při spotřebě elektřiny v České republice,
+>
+> - zb) na základě údajů předávaných ministerstvem pravidelně aktualizovat seznam provozovatelů čerpacích stanic, vlastníků výdejních jednotek a provozovatelů dobíjecích stanic, v rozsahu nezbytném pro plnění svých povinností podle tohoto zákona, zákona o podporovaných zdrojích energie a zákona [[o ochraně ovzduší|o ochraně ovzduší]], poskytnutých ministerstvem podle zákona [[o pohonných hmotách|o pohonných hmotách]], a v rámci vedení seznamu
+>
+> - 1. evidovat informace o množství pohonných hmot použitých v dopravě,
+>
+> - 2. evidovat informace na základě údajů pravidelně předávaných Celní správou České republiky o množství biopaliv, které bylo uvedeno do volného daňového oběhu pro dopravní účely nebo dodáno na daňové území České republiky pro dopravní účely v pohonných hmotách uvedených do volného daňového oběhu v jiném členském státě Evropské unie,
+>
+> - 3. evidovat informace o množství elektřiny, která byla spotřebována v dobíjecí stanici pro dopravní účely a doložena uplatněnými zárukami původu prokazujícími původ této elektřiny z obnovitelného zdroje energie,
+>
+> - 4. evidovat informace o množství elektřiny, která byla vyrobena a spotřebována pro dopravní účely přímo v odběrném místě, ve kterém je připojena dobíjecí stanice, bez využití přenosové nebo distribuční soustavy,
+>
+> - 5. evidovat informace o množství biometanu, který byl spotřebován v čerpací stanici nebo výdejní jednotce a doložen uplatněnými zárukami původu prokazujícími původ tohoto biometanu z obnovitelného zdroje energie,
+>
+> - 6. evidovat informace o množství biometanu, který byl spotřebován v čerpací stanici nebo výdejní jednotce bez využití plynárenské soustavy včetně informací a dokladů o surovinách využitých pro výrobu tohoto biometanu,
+>
+> - zc) poskytovat nebo zpřístupňovat registrovanému účastníkovi trhu s elektřinou naměřené a vyhodnocené údaje o dodávkách a odběrech elektřiny se zohledněním sdílené elektřiny,
+>
+> - zd) poskytovat datovému centru informaci o přiřazení dodavatele elektřiny, subjektu zúčtování a provozovatele distribuční soustavy k předávacím místům přiřazeným do skupiny sdílení,
+>
+> - ze) předávat Energetickému regulačnímu úřadu a Inspekci informace o vydaných a uplatněných zárukách původu energie.
+>
+> (5) Operátor trhu je dále povinen
+>
+> - a) na výzvu ministerstva zahájit činnosti jménem České republiky a na její účet dodávat subjektům zúčtování nebo od nich odebírat za úplatu plyn, a to v případě, že Česká republika na základě Nařízení o opatřeních na zajištění bezpečnosti dodávek zemního plynu přijme nebo poskytne mezinárodní pomoc v krizových situacích v plynárenství; toto není považováno za obchod s plynem,
+>
+> - b) na základě rozhodnutí ministerstva vyplácet finanční kompenzace nepřímých nákladů podle zákona upravujícího podmínky obchodování s povolenkami na emise skleníkových plynů,
+>
+> - c) v rozsahu stanoveném ve smlouvě o vyrovnávacím režimu administrovat a vyplácet úhradu vyrovnávací platby podle zákona o opatřeních k přechodu České republiky k nízkouhlíkové energetice a plnit své případné další povinnosti podle smlouvy o vyrovnávacím režimu.
+>
+> (6) Operátor trhu má právo
+>
+> - a) na údaje nezbytné pro plnění svých povinností od subjektů zúčtování a registrovaných účastníků trhu s elektřinou nebo trhu s plynem a údaje nezbytné pro zpracování zprávy o budoucí očekávané spotřebě elektřiny a plynu a o zabezpečení rovnováhy mezi nabídkou a poptávkou elektřiny a plynu,
+>
+> - b) na naměřené a vyhodnocené údaje od provozovatele přenosové soustavy a provozovatele přepravní soustavy a provozovatelů distribučních soustav a zásobníků plynu a další údaje nezbytné pro plnění svých povinností,
+>
+> - c) zrušit registraci subjektu na zúčtování, který neplní platební povinnosti vůči operátorovi trhu,
+>
+> - d) vyžadovat od plynárenských podnikatelů a obchodníků s plynem údaje pro zpracování bilancí,
+>
+> - e) vyžadovat od plynárenských podnikatelů a obchodníků s plynem jednou až dvakrát ročně údaje ke zpracování kontrolního hodinového odečtu dodávek a spotřeb plynárenské soustavy,
+>
+> - f) vyžadovat od zákazníků s roční spotřebou plynu vyšší než 400 tis. m3 a od obchodníků s plynem informace o změnách dodavatele plynu,
+>
+> - g) vyžadovat od plynárenských podnikatelů a obchodníků s plynem údaje o kapacitách a výkonech jednotlivých částí plynárenské soustavy České republiky,
+>
+> - h) na úhradu složky ceny na podporu elektřiny z podporovaných zdrojů podle zákona o podporovaných zdrojích energie od účastníků trhu s elektřinou,
+>
+> - i) na naměřené a vyhodnocené údaje o dodávkách a odběrech elektřiny a naměřené a vyhodnocené údaje o dodávkách a odběrech elektřiny se zohledněním sdílené elektřiny v předávacích místech přiřazených do skupiny sdílení od datového centra,
+>
+> - j) na úhradu ceny za činnosti operátora trhu a poplatku na činnost Energetického regulačního úřadu od provozovatelů distribučních soustav, provozovatele přepravní soustavy a provozovatele přenosové soustavy.
+>
+> (7) Operátor trhu má právo po schválení ministerstvem vykonávat další činnosti, jejichž ceny nepodléhají regulaci.
+>
+> (8) Operátor trhu vede evidenci využití obnovitelných zdrojů energie v dopravě.
+>
+> (9) Operátor trhu zpracovává a předává ministerstvu alespoň jednou ročně zprávu o dosaženém podílu elektřiny a biometanu na hrubé konečné spotřebě energie v dopravě.
+>
+> (10) Operátor trhu vykonává činnost poskytovatele přístupu k údajům registrovaným účastníkům trhu s elektřinou podle Nařízení o požadavcích na interoperabilitu a postupech pro přístup k údajům z měření a o spotřebě, a to v rozsahu, v jakém používá předané naměřené a vyhodnocené údaje z měření pro plnění povinností operátora trhu podle tohoto zákona a prováděcích právních předpisů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 8, § 12a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2f82cefeaa0fc7f7ed79 -->
+
 ### § 20b — Energetické společenství a společenství pro obnovitelné zdroje
 
 > **§ 20b**
@@ -379,6 +543,106 @@ Energetické společenství nesmí být zastřenou komerční strukturou ovláda
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7f43ddc58fe81f2d58c8 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 20b — Energetické společenství a společenství pro obnovitelné zdroje
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Společenstvími jsou energetické společenství a společenství pro obnovitelné zdroje.
+>
+> (2) Energetickým společenstvím je právnická osoba s formou spolku, družstva nebo jiná korporace, jejíž vnitřní poměry podle zakladatelského právního jednání jsou co do obsahu a účelu v podstatných rysech obdobné zákonem vymezeným vnitřním poměrům spolku nebo družstva, a
+>
+> - a) jejímž účelem je poskytovat environmentální, hospodářské nebo sociální přínosy svým členům nebo na území, na kterém provozuje svou činnost,
+>
+> - b) jejímž předmětem činnosti je výroba elektřiny, sdílení elektřiny, dodávka elektřiny nebo výkon jiných činností nebo poskytování jiných služeb souvisejících se zajišťováním energetických potřeb jejích členů,
+>
+> - c) v níž hlasovací práva náleží jen členům, kterými jsou fyzické osoby, malé podniky60), církve a náboženské společnosti a jejich evidované právnické osoby61), územní samosprávné celky nebo dobrovolné svazky obcí nebo jiné příspěvkové organizace územních samosprávných celků, a ani nikdo jiný než tito členové v ní nesmí přímo nebo nepřímo jinak uplatňovat rozhodující vliv,
+>
+> - d) v níž je možné ukončit členství jednostranným právním jednáním vůči energetickému společenství, a to kdykoliv a bezplatně, a
+>
+> - e) která je registrována jako energetické společenství v registru společenství vedeném Energetickým regulačním úřadem.
+>
+> (3) Společenstvím pro obnovitelné zdroje je právnická osoba s formou spolku, družstva nebo jiná korporace, jejíž vnitřní poměry podle zakladatelského právního jednání jsou co do obsahu a účelu v podstatných rysech obdobné zákonem vymezeným vnitřním poměrům spolku nebo družstva, a
+>
+> - a) jejímž účelem je poskytovat environmentální, hospodářské nebo sociální přínosy svým členům nebo na území, na kterém provozuje svou činnost,
+>
+> - b) jejímž předmětem činnosti je výroba elektřiny nebo jiných forem energie z obnovitelných zdrojů energie, dodávka elektřiny, sdílení elektřiny nebo výkon jiných činností nebo poskytování jiných služeb souvisejících se zajišťováním energetických potřeb jejích členů,
+>
+> - c) jejímiž členy jsou jen fyzické osoby, malé nebo střední podniky60), církve a náboženské společnosti a jejich evidované právnické osoby61), územní samosprávné celky nebo dobrovolné svazky obcí nebo jiné příspěvkové organizace územních samosprávných celků,
+>
+> - d) v níž hlasovací práva náleží jen členům, kteří se nacházejí v blízkosti energetických zařízení provozovaných touto právnickou osobou, a ani nikdo jiný než tito členové v ní nesmí přímo nebo nepřímo jinak uplatňovat rozhodující vliv,
+>
+> - e) v níž je možné ukončit členství jednostranným právním jednáním vůči společenství pro obnovitelné zdroje, a to kdykoliv a bezplatně, a
+>
+> - f) která je registrována jako společenství pro obnovitelné zdroje v registru vedeném Energetickým regulačním úřadem.
+>
+> (4) Název energetického společenství může obsahovat označení „energetické společenství“ a název společenství pro obnovitelné zdroje může obsahovat označení „společenství pro obnovitelné zdroje“. Ten, kdo není společenstvím, nesmí používat označení „energetické společenství“ a „společenství pro obnovitelné zdroje“.
+>
+> (5) Zakladatelské právní jednání společenství obsahuje také vymezení účelu společenství. Zakladatelské právní jednání společenství pro obnovitelné zdroje obsahuje dále vymezení území, na kterém má společenství pro obnovitelné zdroje vyrábět elektřinu z obnovitelných zdrojů energie a které je právně významné pro určení postavení člena v blízkosti energetických zařízení. Toto území může zahrnovat souvislé území správních obvodů nejvýše 3 obcí s rozšířenou působností nebo území hlavního města Prahy.
+>
+> (6) Členem v blízkosti energetických zařízení se rozumí člen, který má bydliště nebo sídlo nebo provozovnu na území vymezeném v zakladatelském právním jednání podle odstavce 5.
+>
+> (7) Společenství je povinné vést seznam členů, který obsahuje také následující údaje:
+>
+> - a) jméno a příjmení, název nebo obchodní firma člena, bydliště nebo sídlo a den narození v případě fyzické osoby, sídlo právnické osoby a identifikační číslo, bylo-li přiděleno,
+>
+> - b) druh členství,
+>
+> - c) počet hlasů člena s hlasovacími právy,
+>
+> - d) u členů energetického společenství s hlasovacím právem údaj o tom, zda je člen fyzickou osobou, malým podnikem, územním samosprávným celkem, dobrovolným svazkem obcí nebo jinou příspěvkovou organizací územního samosprávného celku,
+>
+> - e) u členů společenství pro obnovitelné zdroje údaj o tom, zda je člen fyzickou osobou, malým nebo středním podnikem, územním samosprávným celkem, dobrovolným svazkem obcí nebo jinou příspěvkovou organizací územního samosprávného celku,
+>
+> - f) u členů společenství pro obnovitelné zdroje v blízkosti energetických zařízení adresa bydliště nebo sídla nebo provozovny na území vymezeném v zakladatelském právním jednání podle odstavce 5.
+>
+> (8) Má-li společenství formu družstva nebo jiné obdobné obchodní korporace, může, připouští-li to zakladatelské právní jednání, rozdělit nejvýše 33 % zisku a jiných vlastních zdrojů pouze mezi své členy,
+>
+> - a) neohrozí-li naplňování účelu společenství a zajišťování potřeb členů společenství,
+>
+> - b) vytvoří-li fond ze zisku ve výši nejméně 30 % základního kapitálu, který nelze rozdělit mezi členy.
+>
+> (9) Má-li společenství formu spolku nebo jiné obdobné korporace, která není obchodní korporací, rozdělení zisku nebo jiných vlastních zdrojů se zakazuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7f43ddc58fe81f2d58c8 -->
+
 ### § 20c — Některé požadavky na členství a opatření na ochranu členů společenství
 
 > **§ 20c**
@@ -465,6 +729,64 @@ Ustanovení chrání slabší stranu uvnitř společenství: fyzické osoby (coo
 **Typicky rozhodné důkazy / podklady:** zakladatelské právní jednání (druhy členství, výpovědní doby); zápis z členské schůze a výsledky hlasování; doklady o doručení rozhodnutí o změně obsahu členství; písemná oznámení o ukončení členství; doklady o zániku práva k odběrnému místu (kupní/nájemní smlouva); seznam členů dle § 20b odst. 7.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6625aa433d1a22eca5cf generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 20c — Některé požadavky na členství a opatření na ochranu členů společenství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Členství členů společenství s hlasovacími právy má stejný obsah, ledaže v zakladatelském právním jednání jsou určeny různé druhy členství členů společenství s hlasovacími právy v závislosti na rozdílném druhu potřeb členů zajišťovaných společenstvím nebo je-li dán jiný spravedlivý důvod. Pro určení obsahu členství členů společenství bez hlasovacích práv platí věta první obdobně.
+>
+> (2) Ukončí-li členství člen společenství, který je fyzickou osobou, do 1 měsíce po vzniku členství na základě přihlášky, platí, že se členem společenství nestal, pokud již nezačal vykonávat práva spojená s členstvím ve společenství.
+>
+> (3) Společenství je povinno všem členům, do jejichž práv a povinností se zasahuje, doručit rozhodnutí o změně obsahu členství. Rozhodne-li společenství o změně obsahu členství, nejsou takové změny účinné vůči členovi společenství, který pro takovou změnu nehlasoval a nejpozději do 1 měsíce ode dne doručení rozhodnutí o změně obsahu členství společenství písemně oznámil, že ukončuje členství.
+>
+> (4) Členství přechází na právního nástupce, jestliže splňuje podmínky členství podle tohoto zákona a zakladatelského právního jednání. Člen společenství je oprávněn své členství převést na jiného, splňuje-li taková osoba podmínky členství podle tohoto zákona a zakladatelského právního jednání. K zákazu nebo omezení převodu členství v zakladatelském právním jednání se nepřihlíží. Převodem nebo přechodem členství nesmí dojít ke změně obsahu členství.
+>
+> (5) Určuje-li zakladatelské právní jednání společenství výpovědní dobu pro ukončení členství, nesmí být výpovědní doba delší než 3 měsíce. Zaniklo-li členovi společenství vlastnické nebo užívací právo k odběrnému místu, jehož předávací místo je součástí skupiny sdílení, je výpovědní doba 1 měsíc. Výpovědní doba počíná běžet prvním dnem měsíce následujícího po doručení výpovědi. K ustanovení zakladatelského právního jednání určujícímu delší výpovědní dobu se nepřihlíží.
+>
+> (6) Nejvyšším orgánem společenství, které má formu spolku, je členská schůze.
+>
+> (7) Člen společenství s hlasovacími právy nemůže na nejvyšším orgánu vykonávat hlasovací právo s hlasy převyšujícími 10 % všech hlasů ve společenství. Při posuzování schopnosti nejvyššího orgánu společenství se usnášet a při přijímání usnesení se nepřihlíží k hlasům, s nimiž člen společenství nemůže vykonávat hlasovací právo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6625aa433d1a22eca5cf -->
 
 ### § 20d — Registrace společenství
 
@@ -567,6 +889,80 @@ Bez zápisu do registru ERÚ nelze využívat zákonná oprávnění společenst
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c5b732229b55bf957093 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 20d — Registrace společenství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Registrace společenství se provádí na žádost.
+>
+> (2) Žádost o registraci společenství obsahuje
+>
+> - a) název nebo obchodní firmu žadatele, jeho sídlo a identifikační číslo, bylo-li přiděleno,
+>
+> - b) předmět činnosti,
+>
+> - c) jméno a příjmení, bydliště a den narození členů žadatele, jedná-li se o fyzické osoby, a název nebo obchodní firmu a sídlo členů žadatele, kteří jsou právnickými osobami, a identifikační číslo členů, bylo-li přiděleno, s uvedením skutečnosti, kterým z těchto členů mají náležet hlasovací práva a který z těchto členů je malým nebo středním podnikem,
+>
+> - d) jméno a příjmení, bydliště a den narození, jedná-li se o fyzické osoby, a název nebo obchodní firmu a sídlo, jedná-li se o právnické osoby, a identifikační číslo, bylo-li přiděleno, popřípadě rovněž adresy provozoven členů v blízkosti energetických zařízení, jedná-li se o žádost o registraci společenství pro obnovitelné zdroje,
+>
+> - e) prohlášení žadatele o tom, který člen nebo členové vykonávají rozhodující vliv.
+>
+> (3) Součástí žádosti o registraci společenství je kopie
+>
+> - a) zakladatelského právního jednání,
+>
+> - b) dokladu o založení právnické osoby,
+>
+> - c) dokladů, ze kterých vyplývá, že je člen žadatele malým nebo středním podnikem, nebo prohlášení člena žadatele o tom, že je malým nebo středním podnikem.
+>
+> (4) Energetický regulační úřad zapíše žadatele do registru společenství, pokud jsou splněny podmínky podle § 20b odst. 2 písm. a) až d) nebo odst. 3 písm. a) až e) a žadatel nebyl v posledních 3 letech vymazán z registru společenství podle § 20g odst. 3. O provedené registraci Energetický regulační úřad žadatele vyrozumí nejpozději do 7 dní od zápisu do registru společenství.
+>
+> (5) Nejsou-li splněny podmínky podle § 20b odst. 2 písm. a) až d) nebo odst. 3 písm. a) až e), Energetický regulační úřad rozhodne o tom, že žadatel nesplňuje některou z podmínek pro společenství podle § 20b odst. 2 písm. a) až d) nebo odst. 3 písm. a) až e), a žadatele do registru společenství nezapíše. Rozhodnutí podle věty první je prvním úkonem v řízení. Energetický regulační úřad žadatele do registru společenství nezapíše rovněž v případě, že žadatel neuhradil správní poplatek nebo byl v posledních 3 letech vymazán z registru společenství podle § 20g odst. 3, a vyrozumí o tom žadatele.
+>
+> (6) Před zápisem společenství do veřejného rejstříku mohou žádost o registraci podat osoby oprávněné podat návrh na zápis společenství jako právnické osoby do veřejného rejstříku. Energetický regulační úřad provede registraci založené právnické osoby před jejím zápisem do veřejného rejstříku, je-li prokázáno, že právnická osoba byla založena, a lze-li důvodně předpokládat, že k okamžiku svého vzniku bude splňovat podmínky podle § 20b odst. 2 písm. a) až d) nebo odst. 3 písm. a) až e).
+>
+> (7) Nedojde-li k zápisu založené právnické osoby do veřejného rejstříku do 90 dnů od zápisu do registru společenství, Energetický regulační úřad ji z registru společenství vymaže.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20b, § 20g
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c5b732229b55bf957093 -->
+
 ### § 20e — Oznamovací povinnost společenství
 
 > **§ 20e**
@@ -622,6 +1018,52 @@ Společenství musí registr ERÚ udržovat aktuální a samo hlásit nejen změ
 **Typicky rozhodné důkazy / podklady:** seznam členů (§ 20b odst. 7) a jeho změny; doklady o velikosti podniku člena (počet zaměstnanců, obrat/bilance); smlouvy zakládající rozhodující vliv; datová zpráva / podání oznámení ERÚ s datem; korespondence s ERÚ o nápravě.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=226c49999690ce041a05 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 20e — Oznamovací povinnost společenství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> Společenství je povinné bezodkladně oznámit Energetickému regulačnímu úřadu změnu údajů zapsaných v registru společenství, nebo že společenství přestalo splňovat některou z podmínek podle § 20b odst. 2 písm. a) až d) nebo odst. 3 písm. a) až e).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=226c49999690ce041a05 -->
 
 ### § 20f — Změna údajů v registru společenství
 
@@ -680,6 +1122,54 @@ Registr musí odpovídat skutečnosti. Společenství má změny zapsaných úda
 **Typicky rozhodné důkazy / podklady:** žádost o změnu zápisu s přílohami; rozhodnutí orgánu společenství o změně (sídla, názvu, předmětu činnosti); aktuální výpis z veřejného rejstříku; zakladatelské právní jednání; vyrozumění ERÚ o provedené změně.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4d56f82edf42c20855f7 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 20f — Změna údajů v registru společenství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Energetický regulační úřad zapíše změnu údajů v registru společenství, pokud o to společenství požádá a doloží změnu zapsaných údajů. Ustanovení [[#§ 20d|§ 20d]] se použije obdobně.
+>
+> (2) Zjistí-li Energetický regulační úřad, že došlo ke změně údajů zapsaných v registru společenství, provede změnu zápisu údajů v registru společenství a vyrozumí o tom společenství.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20d
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4d56f82edf42c20855f7 -->
 
 ### § 20g — Výmaz z registru společenství
 
@@ -778,6 +1268,76 @@ Výmaz má tři režimy: evidenční (odst. 1), obligatorní při ztrátě defin
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=85c6b18e999953c84b8c generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 20g — Výmaz z registru společenství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Energetický regulační úřad vymaže společenství z registru společenství, pokud
+>
+> - a) o to společenství požádá, nebo
+>
+> - b) společenství zanikne.
+>
+> (2) Energetický regulační úřad rozhodne o výmazu společenství z registru společenství, pokud
+>
+> - a) energetické společenství přestalo splňovat některou z podmínek podle § 20b odst. 2 písm. a) až d), nebo
+>
+> - b) společenství pro obnovitelné zdroje přestalo splňovat některou z podmínek podle § 20b odst. 3 písm. a) až e).
+>
+> (3) Energetický regulační úřad může rozhodnout o výmazu společenství z registru společenství, pokud
+>
+> - a) společenství vykonává činnost v rozporu s účelem, pro který bylo založeno,
+>
+> - b) ve společenství vykonává rozhodující vliv osoba nebo osoby, které nejsou členy společenství s hlasovacími právy,
+>
+> - c) společenství pro obnovitelné zdroje porušilo nebo porušuje zákaz podle § 20i odst. 3,
+>
+> - d) společenství poruší závažným způsobem zákonné povinnosti uložené společenství jako právnické osobě nebo povinnosti související s činností společenství.
+>
+> (4) Řízení o výmazu společenství z registru společenství zahajuje Energetický regulační úřad z moci úřední.
+>
+> (5) Lze-li důvod, pro který lze vydat rozhodnutí o výmazu společenství z registru společenství, odstranit, vyzve Energetický regulační úřad společenství před zahájením řízení k jeho odstranění a poskytne mu k tomu přiměřenou lhůtu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20b, § 20i
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=85c6b18e999953c84b8c -->
+
 ### § 20h — Registr společenství
 
 > **§ 20h**
@@ -856,6 +1416,72 @@ Registr společenství je veřejně dostupný ISVS sloužící k ověření stat
 **Typicky rozhodné důkazy / podklady:** výpis z registru společenství (zveřejněné údaje + registrační číslo); zakladatelské jednání; seznam členů dle § 20b odst. 7 (interní, nikoli zveřejňovaný); doklady o přiřazení předávacích míst do skupiny sdílení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bca72427c7679ecea1e0 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 20h — Registr společenství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Energetický regulační úřad vede v elektronické podobě registr společenství, který je informačním systémem veřejné správy. Do registru společenství se zapisuje
+>
+> - a) registrační číslo společenství přidělené Energetickým regulačním úřadem,
+>
+> - b) datum registrace společenství,
+>
+> - c) název nebo obchodní firma společenství,
+>
+> - d) adresa sídla a identifikační číslo společenství,
+>
+> - e) právní forma společenství,
+>
+> - f) informace, zda jde o energetické společenství nebo o společenství pro obnovitelné zdroje,
+>
+> - g) předmět činnosti společenství,
+>
+> - h) v případě společenství pro obnovitelné zdroje území, na kterém má společenství pro obnovitelné zdroje vyrábět elektřinu z obnovitelných zdrojů energie a které je právně významné pro určení postavení člena v blízkosti energetických zařízení,
+>
+> - i) datum výmazu společenství z registru společenství.
+>
+> (2) Energetický regulační úřad zveřejňuje údaje zapsané v registru společenství na svých internetových stránkách. Energetický regulační úřad vede registr společenství způsobem, který v něm umožní vyhledávat podle údajů zapisovaných do registru společenství.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bca72427c7679ecea1e0 -->
 
 ### § 20i — Práva a povinnosti společenství
 
@@ -950,3 +1576,66 @@ Společenství má široký katalog oprávnění (odběr, výroba, dodávka, sd�
 **Typicky rozhodné důkazy / podklady:** doklad o instalovaném výkonu výroben a o (ne)existenci licence; smlouvy o dodávce s obchodníkem s elektřinou / doklad o obchodování na organizovaném trhu; doklady o zapojení do skupiny sdílení; doklad o průběhovém měření a smlouva s agregátorem; evidence výroben dle lokalit (pro limit dle odst. 3).
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=d4e93cd86e620e8bb369 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 20i — Práva a povinnosti společenství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Společenství je oprávněno za podmínek stanovených tímto zákonem zejména
+>
+> - a) odebírat elektřinu v odběrném místě pro vlastní spotřebu,
+>
+> - b) vyrábět elektřinu,
+>
+> - c) dodávat elektřinu vyrobenou ve výrobně elektřiny provozované společenstvím,
+>
+> - d) sdílet elektřinu vyrobenou ve výrobně elektřiny provozované společenstvím nebo uloženou v zařízení pro ukládání elektřiny provozovaném společenstvím do předávacího místa člena společenství,
+>
+> - e) ukládat elektřinu v zařízení pro ukládání elektřiny provozovaném společenstvím,
+>
+> - f) poskytovat flexibilitu v předávacích místech společenství, a to přímo nebo prostřednictvím agregace jednomu agregátorovi, je-li předávací místo vybaveno průběhovým měřením.
+>
+> (2) Provozuje-li společenství v odběrném místě výrobnu elektřiny nebo zařízení pro ukládání elektřiny s instalovaným výkonem do 100 kW bez licence na výrobu elektřiny nebo na ukládání elektřiny podle § 28 odst. 5, je oprávněno dodávat elektřinu z této výrobny elektřiny nebo z tohoto zařízení pro ukládání elektřiny pouze obchodníkovi s elektřinou nebo na organizované trhy s elektřinou.
+>
+> (3) Společenství pro obnovitelné zdroje má mimo území podle § 20b odst. 5 právo vyrábět elektřinu z obnovitelných zdrojů pouze ve výrobnách elektřiny, jejichž celkový instalovaný výkon nepřesahuje jednu třetinu celkového instalovaného výkonu všech jím provozovaných výroben elektřiny.
+>
+> (4) Provozuje-li společenství za podmínek stanovených tímto zákonem distribuční soustavu, nepoužije se na něj [[#§ 25b|§ 25b]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 28, § 20b, § 25b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d4e93cd86e620e8bb369 -->

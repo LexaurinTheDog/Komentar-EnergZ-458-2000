@@ -225,6 +225,148 @@ Nařízení (EU) č. 1227/2011 (REMIT) ukládá členským státům zajistit ú�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d6621670b33481c60eb9 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 90 — Přestupky fyzických osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku tím, že
+>
+> - a) podniká v energetických odvětvích bez licence nebo bez oprávnění k podnikání uznaného Energetickým regulačním úřadem podle [[#§ 7a|§ 7a]],
+>
+> - b) poskytuje odebranou elektřinu, plyn nebo tepelnou energii jiné fyzické či právnické osobě v rozporu s § 3 odst. 3 nebo poruší zákaz stanovený v § 3 odst. 6,
+>
+> - c) jako vlastník energetického zařízení neposkytne určenému držiteli licence energetické zařízení nebo mu neumožní výkon licencované činnosti podle § 12 odst. 1,
+>
+> - d) nepředá nezbytné údaje potřebné k dispečerskému řízení podle § 26 odst. 7 nebo se neúčastní společného výcviku podle § 26a odst. 3,
+>
+> - e) poruší některou z povinností stanovených v § 22 odst. 3, § 28 odst. 2 písm. a) až f), h), j) nebo k)nebo některou z povinností stanovených v § 62 odst. 2 písm. b) až i) nebo v § 62 odst. 4,
+>
+> - f) provede zásah na odběrném elektrickém zařízení, kterým prochází neměřená elektřina, bez souhlasu provozovatele přenosové soustavy nebo provozovatele distribuční soustavy v rozporu s § 28 odst. 3 nebo provede zásah na odběrném plynovém zařízení před měřicím zařízením bez předchozího písemného souhlasu provozovatele přepravní nebo distribuční soustavy v rozporu s § 71 odst. 11,
+>
+> - g) provozuje vlastní náhradní zdroj bez dohody s provozovatelem přenosové soustavy nebo provozovatelem distribuční soustavy v rozporu s § 28 odst. 4 nebo provozuje výrobnu elektřiny nebo zařízení pro ukládání elektřiny v rozporu s § 28 odst. 5 nebo poruší některou z povinností podle § 28 odst. 6,
+>
+> - h) jako provozovatel přímého vedení nebo přímého plynovodu poruší některou z povinností stanovených v [[#§ 43|§ 43]] nebo § 65 odst. 3,
+>
+> - i) nezajistí provoz, údržbu nebo opravy elektrické nebo plynovodní přípojky podle § 45 odst. 5 nebo § 66 odst. 3 nebo nezajistí jako vlastník opravy nebo údržbu tepelné přípojky nebo předávací stanice podle § 79 odst. 3,
+>
+> - j) jako vlastník či uživatel nemovitosti neumožní provozovateli přenosové soustavy, provozovateli přepravní soustavy nebo provozovateli distribuční soustavy výkon činností v ochranném pásmu podle § 46 odst. 4 nebo § 68 odst. 5 nebo jako vlastník nemovitosti neumožní provozovateli zařízení přístup k zařízení pro rozvod tepelné energie podle § 87 odst. 6,
+>
+> - k) poruší některý ze zákazů stanovených v § 46 odst. 8, [[#§ 9|9]], [[#§ 10|10]] nebo v § 68 odst. 3 nebo [[#§ 5|5]],
+>
+> - l) nesplní některou z povinností stanovených v § 46 odst. 12 nebo [[#§ 13|13]] nebo § 68 odst. 5 nebo umístí stavbu v ochranném pásmu v rozporu s ustanoveními § 68 odst. 4 nebo provede jinou činnost v ochranném pásmu v rozporu s ustanoveními § 68 odst. 4 nebo vysadí trvalé porosty v rozporu s ustanoveními § 68 odst. 6 nebo umístí stavbu v bezpečnostním pásmu v rozporu s ustanoveními § 69 odst. 3,
+>
+> - m) poruší zákaz neoprávněného přenosu elektřiny nebo neoprávněné distribuce elektřiny uvedený v § 53 odst. 3 nebo zákaz neoprávněné přepravy plynu nebo neoprávněné distribuce plynu uvedený v § 74 odst. 6,
+>
+> - n) nezajistí technické podmínky pro instalaci měřicího zařízení podle § 49 odst. 2 nebo neupraví odběrné místo pro instalaci měřicího zařízení podle § 71 odst. 4,
+>
+> - o) neoznámí provozovateli přenosové, přepravní nebo distribuční soustavy zjištěné závady na měřicím zařízení nebo zajištění proti neoprávněné manipulaci neprodleně po jejich zjištění podle § 49 odst. 4 nebo podle § 71 odst. 7 nebo neoznámí zjištěné porušení měřicího zařízení nebo jeho zajištění podle § 78 odst. 4,
+>
+> - p) zasáhne do měřicího zařízení bez souhlasu provozovatele přenosové, přepravní nebo distribuční soustavy v rozporu s § 49 odst. 4, § 71 odst. 5 nebo zasáhne do měřicího zařízení bez souhlasu dodavatele tepelné energie v rozporu s § 78 odst. 3,
+>
+> - q) neumožní provozovateli přenosové nebo distribuční soustavy přístup k měřicímu zařízení nebo neměřeným částem odběrného elektrického zařízení podle § 49 odst. 6 nebo provozovateli přepravní nebo distribuční soustavy přístup k měřicímu zařízení podle § 71 odst. 6 nebo neumožní dodavateli tepelné energie osazení měřicího zařízení nebo přístup k němu podle § 78 odst. 4 nebo neumožní dodavateli tepelné energie přístup k částem odběrného tepelného zařízení, kterými prochází neměřená tepelná energie, podle § 77 odst. 7,
+>
+> - r) nepodřídí se omezení spotřeby elektřiny, plynu nebo změně dodávek elektřiny nebo plynu podle § 54 odst. 5 nebo § 73f odst. 1 nebo uloženým opatřením obecné povahy podle § 73 odst. 9 písm. a) nebo se nepodřídí omezení spotřeby tepelné energie podle § 88 odst. 3,
+>
+> - s) vysadí trvalé porosty bez souhlasu provozovatele přepravní soustavy, provozovatele distribuční soustavy nebo provozovatele přípojky v rozporu s § 68 odst. 6,
+>
+> - t) neupraví odběrné tepelné zařízení nebo rozvodné tepelné zařízení při změně teplonosné látky nebo jejích parametrů nebo neupraví odběrné tepelné zařízení pro instalaci měřicího zařízení po předchozím projednání s dodavatelem tepelné energie podle § 77 odst. 3,
+>
+> - u) zřídí a provozuje náhradní či jiný zdroj tepelné energie, který je propojen s rozvodným tepelným zařízením, nebo může ovlivnit provoz tohoto zařízení, teplonosnou látku v rozvodném tepelném zařízení nebo její parametry bez písemné dohody s držitelem licence na rozvod tepelné energie v rozporu s § 77 odst. 4,
+>
+> - v) jako vlastník nemovitosti poruší povinnost podle § 28 odst. 10 nebo nestrpí umístění nebo provozování rozvodného tepelného zařízení nebo jeho části podle § 77 odst. 6,
+>
+> - w) provede úpravy na odběrném tepelném zařízení nebo jeho částech, kterými prochází neměřená dodávka tepelné energie, bez souhlasu držitele licence na výrobu tepelné energie nebo rozvod tepelné energie v rozporu s § 77 odst. 7,
+>
+> - x) poruší zákaz stanovený v § 87 odst. 4 nebo provádí v ochranných pásmech činnosti bez předchozího písemného souhlasu provozovatele zařízení, které slouží pro výrobu či rozvod tepelné energie v rozporu s § 87 odst. 4,
+>
+> - y) jako vlastník dotčené stavby při provádění stavebních činností nezajistí bezpečnost zařízení pro rozvod tepelné energie podle § 87 odst. 5,
+>
+> - z) jako člen statutárního orgánu, člen dozorčí rady nebo správní rady nebo zaměstnanec přímo podřízený vedoucímu zaměstnanci v záležitostech týkajících se provozu, údržby nebo rozvoje přepravní soustavy se účastní na podnikání jiné osoby, která je součástí téhož vertikálně integrovaného plynárenského podnikatele jako nezávislý provozovatel přepravní soustavy, nebo nabude vůči takové osobě právo na podíl na zisku nebo jiné obdobné plnění v rozporu s § 58d odst. 4 nebo poruší povinnost uvedenou v § 58d odst. 5,
+>
+> - aa) jako auditor programu poruší některou z povinností auditora programu stanovených v § 25a odst. 5, § 58d odst. 4 nebo [[#§ 5|5]], § 58i odst. 4, § 58j odst. 6 až 8, § 59a odst. 5 nebo § 60a odst. 5,
+>
+> - ab) jako účastník trhu s elektřinou nebo plynem, který odebíral elektřinu nebo plyn za stanovenou cenu v určeném období, nezpracoval zprávu podle § 96e odst. 3 nebo ji nepodal ministerstvu podle § 96e odst. 3, nebo
+>
+> - ac) v rozporu s § 27f odst. 2 neukončí přiřazení předávacího místa do skupiny sdílení.
+>
+> (2) Fyzická osoba se dále dopustí přestupku tím, že
+>
+> - a) neposkytne v případech společné dodávky tepelné energie do více odběrných míst dodavateli tepelné energie údaje ze stanovených měřidel podle zákona [[o metrologii|o metrologii]] nebo ze zařízení pro rozdělování nákladů na vytápění nebo další údaje potřebné pro rozdělování nákladů na vytápění a dodávku teplé vody v rozporu s § 78 odst. 5,
+>
+> - b) poruší některou z povinností uvedenou v § 66 odst. 3,
+>
+> - c) jako člen statutárního orgánu nebo vedoucí zaměstnanec provozovatele distribuční soustavy poruší zákaz v § 25a odst. 6 nebo v § 59a odst. 7,
+>
+> - d) neposkytne ministerstvu nebo Energetickému regulačnímu úřadu ve stanovené přiměřené lhůtě požadované podklady nebo informace podle § 15a odst. 2,
+>
+> - e) manipuluje nebo se pokusí o manipulaci s trhem v rozporu s čl. 5 Nařízení o velkoobchodním trhu s energií,
+>
+> - f) použije důvěrné informace v rozporu se zákazem podle čl. 3 Nařízení o velkoobchodním trhu s energií,
+>
+> - g) nezajistí zveřejnění důvěrné informace podle čl. 4 Nařízení o velkoobchodním trhu s energií,
+>
+> - h) nestanoví nebo nedodržuje účinná opatření a postupy pro zjišťování porušení čl. 3, 4 nebo 5 Nařízení o velkoobchodním trhu s energií nebo neoznámí podezření podle čl. 15 Nařízení o velkoobchodním trhu s energií,
+>
+> - i) znemožní nebo závažně ztíží výkon dozoru podle § 18 odst. 1 tím, že neumožní Energetickému regulačnímu úřadu výkon jeho oprávnění podle § 18 odst. 5 nebo nesplní některou z povinností podle kontrolního řádu,
+>
+> - j) neumožní Energetickému regulačnímu úřadu výkon jeho oprávnění podle [[#§ 18b|§ 18b]] nebo neposkytne Energetickému regulačnímu úřadu součinnost, ač je k tomu podle tohoto zákona povinen,
+>
+> - k) vykoná zprostředkovatelskou činnost v energetických odvětvích v rozporu s § 3 odst. 7,
+>
+> - l) jako zákazník v domě s byty nepředá pravdivé údaje nezbytné pro zohlednění příspěvku podle § 11u odst. 1 nebo § 11w odst. 1 nebo poruší některou z povinností uvedenou v § 11u odst. 2 nebo [[#§ 3|3]] nebo v § 11x odst. 6,
+>
+> - m) jako zákazník poruší povinnost uvedenou v § 11w odst. 1,
+>
+> - n) neposkytne údaje podle § 33 odst. 4, nebo
+>
+> - o) jako zákazník poruší některou z povinností podle § 49a odst. 1 nebo [[#§ 4|4.]]
+>
+> (3) Fyzická osoba se jako zaměstnanec Energetického regulačního úřadu nebo po skončení pracovněprávního nebo jiného vztahu k Energetickému regulačnímu úřadu dopustí přestupku tím, že poruší povinnost mlčenlivosti podle § 17 odst. 13.
+>
+> (4) Za přestupek uvedený v odstavci 1 písm. a) až y), ab) nebo ac) nebo odstavci 2 písm. c), k), n) nebo o) nebo odstavci 3 lze uložit pokutu až do výše 100 000 Kč. Za přestupek uvedený v odstavci 1 písm. z) nebo aa) lze uložit pokutu až do výše 500 000 Kč. Za přestupek uvedený v odstavci 2 písm. a), b) a d) lze uložit pokutu až do výše 50 000 Kč. Za přestupek uvedený v odstavci 2 písm. i), j), l) nebo m) lze uložit pokutu až do výše 1 000 000 Kč.
+>
+> (5) Za přestupek uvedený v odstavci 2 písm. e) nebo f) lze uložit pokutu až do výše ekvivalentu 5 000 000 EUR. Za přestupek uvedený v odstavci 2 písm. g) nebo h) lze uložit pokutu až do výše ekvivalentu 1 000 000 EUR. Výše pokuty podle tohoto odstavce nesmí přesáhnout 20 % ročního příjmu dotčené fyzické osoby v předchozím kalendářním roce. Pokuta za přestupek uvedený v odstavci 2 písm. e) až h) se uloží alespoň ve výši neoprávněného prospěchu získaného fyzickou osobou spácháním přestupku, je-li možné výši neoprávněného prospěchu zjistit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7a, § 3, § 12, § 26, § 26a, § 22, § 28, § 62, § 71, § 43, § 65, § 45, § 66, § 79, § 46, § 68, § 87, § 9, § 10, § 5, § 13, § 69, § 53, § 74, § 49, § 78, § 77, § 54, § 73f, § 73, § 88, § 58d, § 25a, § 58i, § 58j, § 59a, § 60a, § 96e, § 27f, § 15a, § 18, § 18b, § 11u, § 11w, § 11x, § 33, § 49a, § 4, § 17
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d6621670b33481c60eb9 -->
+
 ### § 91 — Přestupky držitele licence
 
 > **§ 91**
@@ -386,6 +528,616 @@ Zákon obsahuje v § 91 odst. 11 dvě skutkové podstaty označené písm. h): p
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o udělení licence, archivované znění uveřejněných cen a podmínek, smluvní vzory, regulační výkazy, korespondence s ERÚ, doklad o čistém obratu za poslední ukončené účetní období (pro výpočet procentní sazby), liberační dokumentace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0f043b9652000b5d8f65 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 91 — Přestupky držitele licence
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Držitel licence se dopustí přestupku tím, že
+>
+> - a) nenavrhne nového odpovědného zástupce ve stanovené lhůtě podle § 6 odst. 6,
+>
+> - b) neoznámí neprodleně změny podmínek pro udělení licence nebo změny týkající se údajů a dokladů, které jsou stanoveny jako náležitosti žádosti o udělení licence, nepředloží o nich doklady nebo neoznámí nejpozději do 30. dubna Energetickému regulačnímu úřadu souhrnné změny svých energetických zařízení za uplynulý kalendářní rok u nově vybudovaných nebo získaných energetických zařízení na svých vymezených územích nebo nepožádá o změnu rozhodnutí o udělení licence podle § 9 odst. 1,
+>
+> - c) nesplní některou z povinností podle § 11 odst. 1 až 4 nebo [[#§ 9|9]] nebo § 11a odst. 8 a [[#§ 10|10]],
+>
+> - d) neuveřejní stanoveným způsobem uplatňované podmínky dodávek plynu nebo elektřiny nebo ceny za dodávku plynu nebo elektřiny podle § 11a odst. 1 nebo znevýhodní některý ze způsobů platby za dodanou elektřinu nebo plyn v rozporu s § 11 odst. 5,
+>
+> - e) neposkytne ministerstvu nebo Energetickému regulačnímu úřadu ve stanovené lhůtě požadované podklady nebo informace podle § 15a odst. 1 nebo neposkytne Komisi ve stanovené lhůtě požadované podklady nebo informace podle § 15a odst. 3,
+>
+> - f) poruší některou z povinností podle § 20 odst. 1 až 3 nebo podle § 20 odst. 6 nebo [[#§ 7|7]],
+>
+> - g) poruší některý ze zákazů uvedených v § 53 odst. 3 nebo v § 74 odst. 6,
+>
+> - h) zahájí výkon licencované činnosti v rozporu s § 9 odst. 5,
+>
+> - i) nevede samostatné účty vztahující se k povinnosti nad rámec licence nebo neuchovává doklady vztahující se k povinnosti výroby elektřiny nad rámec licence a službě poskytnutí výkonu podle § 12 odst. 12,
+>
+> - j) nepředloží regulační výkazy podle § 20 odst. 6 ve struktuře, obsahu a termínech stanovených prováděcím právním předpisem,
+>
+> - k) nesplní povinnost podle § 22 odst. 3,
+>
+> - l) při uplatňování záloh za dodávky elektřiny, plynu nebo tepelné energie nestanovil jejich výši nejvýše v rozsahu důvodně předpokládané spotřeby elektřiny, plynu nebo tepelné energie v následujícím zúčtovacím období podle § 11 odst. 6,
+>
+> - m) poruší některou z povinností, omezení nebo zákazů stanovených vládou při mimořádné tržní situaci podle § 19d odst. 2,
+>
+> - n) nevypořádá rozdíl nebo nevrátí ve stanoveném termínu poskytnuté zálohové platby podle § 19f odst. 3,
+>
+> - o) neuvede v žádosti o úhradu prokazatelné ztráty a přiměřeného zisku nebo podkladech poskytnutých operátorovi trhu úplné, správné nebo pravdivé údaje podle § 19f odst. 4,
+>
+> - p) neposkytne vyúčtování dodávky elektřiny nebo plynu nebo související služby v elektroenergetice nebo plynárenství v termínu podle § 11 odst. 10, neposkytne vyúčtování dodávky tepelné energie v termínu podle § 11 odst. 11 nebo nenabízí zákazníkům možnost bezplatného poskytování vyúčtování dodávek energie a souvisejících služeb v elektronické podobě podle § 11 odst. 12 nebo nevyřídí reklamaci vyúčtování ve lhůtě podle § 11 odst. 14,
+>
+> - q) neposkytne spotřebiteli informace o způsobu dynamického určení ceny elektřiny nebo plynu nebo jej nepoučí podle § 11ca odst. 1,
+>
+> - r) dodává elektřinu nebo plyn před nabytím účinnosti smlouvy v rozporu s § 11ca odst. 3, nebo
+>
+> - s) nepředá kopie uzavřených smluv nebo nezajišťuje povinnosti nad rámec licence ve vztahu k místům ostatní spotřeby podle § 12 odst. 13.
+>
+> (2) Držitel licence na výrobu elektřiny se dopustí přestupku tím, že
+>
+> - a) poruší opatření stanovené formou opatření obecné povahy podle § 18a odst. 3,
+>
+> - b) omezí, přeruší nebo ukončí dodávku elektřiny v rozporu s § 23 odst. 1 písm. e),
+>
+> - c) poruší některou z povinností uvedených v § 23 odst. 3 písm. a) až i) nebo k) až r),
+>
+> - d) poruší některý ze zákazů uvedených v § 24a odst. 5 nebo v § 58n odst. 5,
+>
+> - e) nepředá nezbytné údaje potřebné k dispečerskému řízení podle § 26 odst. 7 nebo se neúčastní společného výcviku podle § 26a odst. 3,
+>
+> - f) neoznámí ministerstvu změny údajů uvedených v rozhodnutí o udělení autorizace podle § 30c odst. 2,
+>
+> - g) nezajistí technické podmínky pro instalaci měřicího zařízení podle § 49 odst. 2,
+>
+> - h) neoznámí provozovateli přenosové nebo distribuční soustavy zjištěné závady na měřicím zařízení nebo zajištění proti neoprávněné manipulaci neprodleně po jejich zjištění podle § 49 odst. 4 nebo zasáhne do měřicího zařízení bez souhlasu provozovatele přenosové nebo distribuční soustavy v rozporu s § 49 odst. 4,
+>
+> - i) neumožní provozovateli přenosové nebo distribuční soustavy přístup k měřicímu zařízení podle § 49 odst. 6,
+>
+> - j) nepodřídí se omezení spotřeby elektřiny nebo změně dodávky elektřiny podle § 54 odst. 5,
+>
+> - k) nehradí cenu za činnost nesíťové infrastruktury podle § 23 odst. 3 písm. s) nebo neplní nebo nevykazuje plnění kritérií udržitelnosti a úspor emisí skleníkových plynů podle § 23 odst. 3 písm. t),
+>
+> - l) v rozporu s § 27f odst. 2 neukončí přiřazení předávacího místa do skupiny sdílení,
+>
+> - m) nesplní povinnost podle § 29a odst. 2 písm. a),
+>
+> - n) neučiní podnět podle § 29a odst. 2 písm. b) nebo c),
+>
+> - o) nezdrží se ukončení smlouvy podle § 29a odst. 2 písm. d),
+>
+> - p) poruší některou z povinností podle § 49a odst. 2 nebo [[#§ 4|4]],
+>
+> - q) neoznámí ukončení výroby elektřiny podle § 34 odst. 1,
+>
+> - r) neuhradí rozdíl mezi zálohovými platbami a výší prokazatelné ztráty a přiměřeného zisku podle § 12 odst. 10, nebo
+>
+> - s) ukončí výrobu elektřiny v rozporu s § 34 odst. 1.
+>
+> (3) Držitel licence na přenos elektřiny se dopustí přestupku tím, že
+>
+> - a) poruší opatření stanovené formou opatření obecné povahy podle § 18a odst. 3,
+>
+> - b) provozuje přenosovou soustavu, aniž by byl držitelem certifikátu nezávislosti, podle [[#§ 10a|§ 10a]] nebo nesplní oznamovací povinnost podle § 10a odst. 2 nebo [[#§ 3|3]],
+>
+> - c) neoznámí započetí nebo skončení omezení nebo přerušení dodávek elektřiny podle § 24 odst. 5 nebo neobnoví dodávku elektřiny bezprostředně po odstranění příčin, které vedly k jejímu omezení nebo přerušení, podle § 24 odst. 6,
+>
+> - d) poruší některou z povinností uvedených v § 24 odst. 1 písm. a), c), d), e) nebo f) nebo odst. 10 písm. a) až d), f) až l), o), s), t) nebo w) až z) nebo v § 24 odst. 11 písm. a), b) nebo e) až h) nebo odst. 12 nebo odst. 13,
+>
+> - e) poruší některou z povinností uvedených v § 24 odst. 10 písm. e), m), n), p), r), u) nebo v),
+>
+> - f) poruší některou z podmínek nezávislosti podle § 24a odst. 2,
+>
+> - g) při výkonu činností technického dispečinku provozovatele přenosové soustavy poruší některou z povinností technického dispečinku provozovatele přenosové soustavy uvedených v § 26 odst. 1, [[#§ 3|3]] nebo [[#§ 5|5]] nebo nezpracuje nebo nezveřejní národní výcvikový plán podle § 26a odst. 1,
+>
+> - h) neseznámí toho, kdo nese náklady na provedení přeložky, se způsobem jejího provedení nebo předpokládanými náklady na její provedení podle § 47 odst. 3,
+>
+> - i) nezajistí na svůj náklad instalaci vlastního měřicího zařízení, jeho udržování nebo pravidelné ověřování správnosti měření podle § 49 odst. 7,
+>
+> - j) nevymění měřicí zařízení nebo nezajistí ověření správnosti měření podle § 49 odst. 10,
+>
+> - k) poruší některou z povinností při stavu nouze uvedených v § 54 odst. 3,
+>
+> - l) překročí některé z oprávnění uvedených v § 24 odst. 3 písm. c) nebo d),
+>
+> - m) nesplní některou z povinností provozovatele přenosové soustavy podle Nařízení o vnitřním trhu s elektřinou nebo podle přímo použitelného předpisu vydaného na jeho základě nebo k jeho provedení,
+>
+> - n) nehradí cenu za činnost datového centra podle § 24 odst. 11 písm. d),
+>
+> - o) obstarává nefrekvenční podpůrné služby v rozporu s § 24 odst. 14,
+>
+> - p) neumožní připojení podle § 24 odst. 12 nebo odmítne připojení v rozporu s § 24 odst. 15,
+>
+> - q) poruší některý ze zákazů podle § 25b odst. 3,
+>
+> - r) vlastní, vyvíjí, spravuje nebo provozuje zařízení pro ukládání energie v rozporu s § 25b odst. 1 nebo poruší oznamovací povinnost podle § 25b odst. 7,
+>
+> - s) nezcizí zařízení podle § 25b odst. 9, nebo
+>
+> - t) poruší některou z povinností správce bodu měření, správce naměřených údajů, poskytovatele přístupu k údajům nebo správce povolení podle Nařízení o požadavcích na interoperabilitu a postupech pro přístup k údajům z měření a o spotřebě.
+>
+> (4) Držitel licence na distribuci elektřiny se dopustí přestupku tím, že
+>
+> - a) poruší opatření stanovené formou opatření obecné povahy podle § 18a odst. 3,
+>
+> - b) neinformuje operátora trhu podle § 12c odst. 3, nepředá operátorovi trhu nezbytné údaje podle § 11s odst. 1, neuchovává údaje podle § 11s odst. 1 nebo nepředá dodavateli poslední instance některý z údajů podle § 12c odst. 3,
+>
+> - c) neoznámí započetí nebo skončení omezení nebo přerušení dodávek elektřiny podle § 25 odst. 5 nebo neobnoví dodávku elektřiny bezprostředně po odstranění příčin, které vedly k jejímu omezení nebo přerušení, podle § 25 odst. 6,
+>
+> - d) poruší některou z povinností uvedených v § 25 odst. 1 písm. a) nebo c), [[#§ 10|10]], [[#§ 11|11]], [[#§ 13|13]], [[#§ 14|14]] nebo 15,
+>
+> - e) poruší některé z kritérií nebo poruší některou z povinností uvedených v § 25a odst. 2,
+>
+> - f) poruší některou z povinností uvedených v § 25a odst. 3 nebo [[#§ 4|4]], nebo neposkytne auditorovi programu informace nebo podklady nebo jinou nezbytnou součinnost nebo neseznámí s programem rovného zacházení členy statutárního orgánu, členy dozorčí rady nebo správní rady nebo zaměstnance podle § 25a odst. 5,
+>
+> - g) jako nájemce nepřevezme propachtovaný obchodní závod nebo jeho část do svého účetnictví nebo nesdělí pachtýři informace o hodnotě propachtovaného majetku v rozporu s § 25a odst. 8,
+>
+> - h) jedná v rozporu s § 25a odst. 10,
+>
+> - i) při výkonu činností technického dispečinku nebo řídicího a dohledového centra provozovatele distribuční soustavy poruší některou z povinností technického dispečinku nebo řídicího a dohledového centra provozovatele distribuční soustavy uvedených v § 26 odst. 2 až 5 nebo poruší některou z povinností uvedených v § 26a odst. 1 nebo [[#§ 3|3]],
+>
+> - j) poruší povinnost vůči vlastníku elektrické přípojky uvedenou v § 45 odst. 6,
+>
+> - k) neseznámí toho, kdo nese náklady na provedení přeložky, se způsobem jejího provedení nebo předpokládanými náklady na její provedení podle § 47 odst. 3,
+>
+> - l) nezajistí technické podmínky pro instalaci měřicího zařízení podle § 49 odst. 2,
+>
+> - m) neoznámí provozovateli přenosové soustavy nebo jinému provozovateli distribuční soustavy zjištěné závady na měřicím zařízení nebo zajištění proti neoprávněné manipulaci neprodleně po jejich zjištění podle § 49 odst. 4 nebo zasáhne do měřicího zařízení bez souhlasu provozovatele přenosové soustavy nebo jiného provozovatele distribuční soustavy v rozporu s § 49 odst. 4,
+>
+> - n) neumožní provozovateli přenosové nebo distribuční soustavy přístup k měřicímu zařízení podle § 49 odst. 6,
+>
+> - o) nezajistí na svůj náklad instalaci vlastního měřicího zařízení, jeho udržování a pravidelné ověřování správnosti měření podle § 49 odst. 7,
+>
+> - p) nevymění měřicí zařízení nebo nezajistí ověření správnosti měření podle § 49 odst. 10,
+>
+> - q) poruší některou z povinností při stavu nouze uvedených v § 54 odst. 4,
+>
+> - r) překročí některé z oprávnění uvedených v § 25 odst. 3 písm. b) až d),
+>
+> - s) nesplní povinnost podle § 29a odst. 3,
+>
+> - t) nepředá údaje podle § 29d odst. 5,
+>
+> - u) obstarává nefrekvenční podpůrné služby v rozporu s § 25 odst. 16,
+>
+> - v) neumožní připojení podle § 25 odst. 13,
+>
+> - w) poruší některý ze zákazů uvedených v § 25b odst. 3,
+>
+> - x) vlastní, vyvíjí, spravuje nebo provozuje zařízení pro ukládání energie v rozporu s § 25b odst. 1, dobíjecí stanici pro elektrická vozidla v rozporu s § 25b odst. 5 nebo poruší oznamovací povinnost podle § 25b odst. 7,
+>
+> - y) nezcizí zařízení ve lhůtě podle § 25b odst. 9,
+>
+> - z) neinformuje zákazníka podle § 49 odst. 9, nebo
+>
+> - za) poruší některou z povinností správce bodu měření, správce naměřených údajů, poskytovatele přístupu k údajům nebo správce povolení podle Nařízení o požadavcích na interoperabilitu a postupech pro přístup k údajům z měření a o spotřebě.
+>
+> (5) Držitel licence na obchod s elektřinou se dopustí přestupku tím, že
+>
+> - a) poruší opatření stanovené formou opatření obecné povahy podle § 18a odst. 3,
+>
+> - b) jako dodavatel poslední instance nedodá elektřinu podle § 12a odst. 2 nebo [[#§ 4|4]] nebo § 19g odst. 3 nebo neoznámí dotčenému zákazníkovi nebo provozovateli distribuční soustavy zahájení dodávky, výši ceny nebo jiné podmínky dodávky podle § 12c odst. 4,
+>
+> - c) poruší některý ze zákazů uvedených v § 24a odst. 5 nebo v § 58n odst. 5,
+>
+> - d) poruší některou z povinností uvedených v § 12c odst. 2 nebo § 30 odst. 2,
+>
+> - e) přeruší nebo ukončí dodávku elektřiny zákazníkovi v rozporu se závazkem dodávky elektřiny, s výjimkou případu podle § 30 odst. 1 písm. d), anebo ukončí dodávku zákazníkovi z důvodu pozbytí možnosti dodávat elektřinu podle § 12a odst. 2 písm. a), ačkoliv je povinen tuto dodávku zajistit,
+>
+> - f) vyúčtuje zákazníkovi dodávku elektřiny vyšší než sjednanou nebo změněnou podle § 11a odst. 4,
+>
+> - g) použije příspěvek v rozporu s § 11r odst. 1,
+>
+> - h) neúčtuje nebo nezohlední příspěvek podle § 11t odst. 1,
+>
+> - i) neuveřejní informaci o výši příspěvku pro jednotlivé kategorie zákazníků podle § 11t odst. 3,
+>
+> - j) nevypořádá rozdíl podle § 11t odst. 4,
+>
+> - k) poruší některou z povinností uvedených v § 19e odst. 5,
+>
+> - l) nesjedná se zákazníkem smlouvu podle § 19g odst. 1,
+>
+> - m) nesplní povinnost podle § 29a odst. 2 písm. a),
+>
+> - n) neučiní podnět podle § 29a odst. 2 písm. b) nebo c),
+>
+> - o) nezdrží se ukončení smlouvy podle § 29a odst. 2 písm. d),
+>
+> - p) nesdělí všechny rozhodné údaje podle § 29c odst. 6,
+>
+> - q) nesjedná smlouvu podle § 29d odst. 1,
+>
+> - r) jako dodavatel poslední instance nedodává elektřinu zranitelnému zákazníkovi podle § 29d odst. 3,
+>
+> - s) nenabízí dodávku elektřiny nebo neuzavře smlouvu podle § 30 odst. 3,
+>
+> - t) neposkytne Energetickému regulačnímu úřadu informace podle § 30 odst. 4,
+>
+> - u) poruší některou z povinností podle § 32 odst. 2, nebo
+>
+> - v) nezveřejní nebo neoznámí Energetickému regulačnímu úřadu hodnotu indexu zajištění obchodníka podle § 30 odst. 2 písm. s) nebo ji stanoví v nesprávné výši,
+>
+> - w) neuvede ve vyúčtování dodávek elektřiny podíly jednotlivých zdrojů elektřiny v souladu se zbytkovým energetickým mixem zveřejněným operátorem trhu podle § 30 odst. 2 písm. p), nebo
+>
+> - x) neposkytne zákazníkovi potvrzení o zárukách původu elektřiny uplatněných k dodávce elektřiny do jeho odběrného místa podle § 30 odst. 2 písm. v).
+>
+> (6) Držitel licence na výrobu plynu se dopustí přestupku tím, že
+>
+> - a) poruší opatření stanovené formou opatření obecné povahy podle § 18a odst. 3,
+>
+> - b) omezí, přeruší nebo ukončí dodávku plynu v rozporu s § 57 odst. 1 písm. e),
+>
+> - c) omezí nebo přeruší provoz výrobny plynu nebo těžebních plynovodů v rozporu s § 57 odst. 1 písm. c),
+>
+> - d) neoznámí započetí nebo skončení omezení nebo přerušení dodávky plynu podle § 57 odst. 5 nebo neobnoví dodávku plynu bezprostředně po odstranění příčin, které vedly k jejímu omezení nebo přerušení, podle § 57 odst. 6,
+>
+> - e) poruší některou z povinností uvedených v § 57 odst. 8 písm. b) až p),
+>
+> - f) poruší některý ze zákazů uvedených v § 24a odst. 5 nebo v § 58n odst. 5,
+>
+> - g) při výkonu činností technického dispečinku poruší některou z povinností uvedenou v § 64 odst. 2,
+>
+> - h) neoznámí ministerstvu změny údajů uvedených v rozhodnutí o udělení autorizace podle § 67 odst. 8,
+>
+> - i) neseznámí toho, kdo potřebu přeložky vyvolal, se způsobem jejího provedení nebo předpokládanými náklady na její provedení podle § 70 odst. 2,
+>
+> - j) neupraví na svůj náklad předávací místo pro instalaci měřicího zařízení podle § 71 odst. 4 nebo zasáhne do měřicího zařízení bez souhlasu provozovatele přepravní soustavy nebo provozovatele distribuční soustavy v rozporu s § 71 odst. 5,
+>
+> - k) neumožní provozovateli přepravní soustavy nebo provozovateli distribuční soustavy přístup k měřicímu zařízení podle § 71 odst. 6,
+>
+> - l) nepodřídí se omezení spotřeby plynu nebo změně dodávky plynu podle § 73f odst. 1 nebo uloženým opatřením obecné povahy podle § 73 odst. 9 písm. a) nebo § 73d odst. 6.
+>
+> - m) nepodílí se na odstranění havárií nebo obnovení dodávek podle § 73 odst. 8 nebo bezprostředně po vzniku havárie či vyhlášení stavu nouze nezahájí likvidaci následků podle § 73 odst. 9,
+>
+> - n) nezajistí bezpečnostní standard dodávky plynu podle § 73a odst. 1 nebo nepředá operátorovi trhu a Energetickému regulačnímu úřadu údaje o rozsahu a způsobu zajištění bezpečnostního standardu podle § 73a odst. 2, nebo
+>
+> - o) nesplní některou z povinností výrobce plynu podle Nařízení o opatřeních na zajištění bezpečnosti dodávek zemního plynu,
+>
+> - p) neumožní jako provozovatel výrobny biometanu provozovateli plynárenského zařízení, k němuž je jím provozovaná výrobna biometanu připojena, umožnit instalaci nezbytných zařízení podle § 57 odst. 9,
+>
+> - q) neuskladní v zásobníku plynu ve stanovený časový úsek minimální požadované množství plynu v rozporu s § 60d odst. 3,
+>
+> - r) poruší povinnost vyrábět plyn v nejvyšším možném množství, které výrobna plynu nebo těžební plynovod umožňuje dopravit do přepravní nebo distribuční soustavy, podle § 73d odst. 4 písm. e), nebo
+>
+> - s) neplní nebo nevykazuje plnění kritérií udržitelnosti a úspor emisí skleníkových plynů podle § 57 odst. 8 písm. q).
+>
+> (7) Držitel licence na přepravu plynu se dopustí přestupku tím, že
+>
+> - a) poruší opatření stanovené formou opatření obecné povahy podle § 18a odst. 3 nebo § 73 odst. 9 písm. b) nebo § 73d odst. 6,
+>
+> - b) provozuje přepravní soustavu, aniž by byl držitelem certifikátu nezávislosti podle § 10a odst. 1, nebo nesplní oznamovací povinnost podle § 10a odst. 2 nebo [[#§ 3|3]],
+>
+> - c) neoznámí započetí nebo skončení omezení nebo přerušení přepravy plynu podle § 58 odst. 5 nebo podle § 58 odst. 6 neobnoví přepravu plynu bezprostředně po odstranění příčin, které vedly k jejímu omezení nebo přerušení,
+>
+> - d) poruší některou z povinností uvedených v § 58 odst. 8 písm. a) až e), g), m) nebo n), r) až t), v), w) nebo v § 58 odst. 9,
+>
+> - e) poruší některou z povinností uvedených v § 58 odst. 8 písm. f), h) až l), o) až q), u), x), y) nebo z),
+>
+> - f) poruší některou z podmínek nezávislosti podle § 58n odst. 2,
+>
+> - g) při výkonu činností technického dispečinku poruší některou z povinností uvedenou v § 64 odst. 2,
+>
+> - h) neoznámí ministerstvu změny údajů uvedených v rozhodnutí o udělení autorizace podle § 67 odst. 9,
+>
+> - i) neseznámí toho, kdo potřebu přeložky vyvolal, se způsobem jejího provedení nebo předpokládanými náklady na její provedení podle § 70 odst. 2,
+>
+> - j) nevybaví zákazníka, jehož odběrné plynové zařízení je připojeno k přepravní soustavě, měřicím zařízením podle § 71 odst. 2,
+>
+> - k) nezajistí instalaci vlastního měřicího zařízení, jeho udržování nebo pravidelné ověřování správnosti měření podle § 71 odst. 8,
+>
+> - l) nevymění měřicí zařízení nebo nezajistí ověření správnosti měření podle § 71 odst. 9,
+>
+> - m) poruší některou z povinností při stavu nouze uvedených v § 73 odst. 4,
+>
+> - n) nepodílí se na odstranění havárií nebo obnovení dodávek podle § 73 odst. 8 nebo bezprostředně po vzniku havárie či vyhlášení stavu nouze nezahájí likvidaci následků podle § 73 odst. 9,
+>
+> - o) nekoordinuje odstranění havárií nebo obnovení dodávek plynu v případě stavu nouze vyhlášeného pro celé území státu podle § 73 odst. 10,
+>
+> - p) překročí některé z oprávnění uvedených v § 58 odst. 1 písm. h) nebo i),
+>
+> - q) nesplní některou z povinností provozovatele přepravní soustavy podle Nařízení o vnitřním trhu s plynem nebo podle přímo použitelného předpisu vydaného na jeho základě nebo k jeho provedení,
+>
+> - r) nesplní některou z povinností provozovatele přepravní soustavy podle Nařízení o opatřeních na zajištění bezpečnosti dodávek zemního plynu, nebo
+>
+> - s) neplní rozhodnutí o vyhrazení zásobníku plynu výlučně pro provozovatele přepravní soustavy podle § 60b odst. 2,
+>
+> - t) poruší povinnost zajistit službu přepravy pro vytěžený plyn ze zásobníku plynu podle § 73d odst. 4 písm. c).
+>
+> (8) Je-li provozovatel přepravní soustavy součástí vertikálně integrovaného plynárenského podnikatele, dopustí se držitel licence na přepravu plynu dále přestupku tím, že
+>
+> - a) nemá právní formu společnosti podle § 58b odst. 1,
+>
+> - b) nevydá akcie na jméno jako cenný papír nebo akcie na jméno nebo na majitele jako zaknihovaný cenný papír podle § 58b odst. 2 písm. a), nezřídí statutární orgán podle § 58b odst. 2 písm. b) nebo nevydá stanovy podle § 58b odst. 2 písm. c),
+>
+> - c) nezřídí dozorčí radu podle § 58b odst. 3 písm. a), nejmenuje stanovený počet jednatelů podle § 58b odst. 3 písm. b) nebo neupraví základní organizační strukturu, organizační zajištění vnitřního řídícího a kontrolního systému podle § 58b odst. 3 písm. c),
+>
+> - d) nejmenuje nebo nezvolí členy statutárního orgánu podle § 58b odst. 4,
+>
+> - e) poskytne plnění ve prospěch člena statutárního orgánu v rozporu s § 58c odst. 6,
+>
+> - f) jmenuje nebo zvolí členem statutárního orgánu osobu v rozporu s § 58d odst. 1 nebo [[#§ 2|2]],
+>
+> - g) zvolí členem dozorčí rady, k jehož volbě je třeba schválení Energetického regulačního úřadu, nebo zaměstnává v pracovněprávním vztahu na pozici přímo podřízené vedoucímu zaměstnanci ve výkonné řídící funkci v nejvyšší linii řízení v záležitostech týkajících se provozu, údržby nebo rozvoje přepravní soustavy, osobu, která nesplňuje podmínky podle § 58d odst. 1 až 3,
+>
+> - h) poskytne ve prospěch člena statutárního orgánu, člena dozorčí rady nebo správní rady, k jehož volbě je třeba schválení Energetického regulačního úřadu, nebo zaměstnance přímo podřízeného vedoucímu zaměstnanci ve výkonné řídící funkci v nejvyšší linii řízení provozovatele přepravní soustavy v záležitostech týkajících se provozu, údržby nebo rozvoje přepravní soustavy plnění v rozporu s § 58d odst. 4,
+>
+> - i) poruší zákaz uvedený v § 58e odst. 2,
+>
+> - j) sám nebo prostřednictvím ovládané osoby drží podíl v dceřiné společnosti, která vyrábí plyn, obchoduje s plynem nebo vlastní zařízení na výrobu plynu, nebo vůči takové dceřiné společnosti nabude právo na podíl na zisku nebo jiné obdobné plnění v rozporu s § 58g odst. 2,
+>
+> - k) poruší některou z povinností uvedených v § 58g odst. 3 nebo [[#§ 4|4]],
+>
+> - l) poruší některou z povinností uvedených v § 58h odst. 1 nebo [[#§ 2|2]],
+>
+> - m) poruší některý ze zákazů uvedených v § 58h odst. 4, [[#§ 5|5]], [[#§ 10|10]] nebo [[#§ 11|11]] nebo některou z povinností uvedených v § 58h odst. 9 nebo [[#§ 12|12]],
+>
+> - n) poskytne službu jiné osobě, která je součástí téhož vertikálně integrovaného plynárenského podnikatele, v rozporu s § 58h odst. 6,
+>
+> - o) jedná v rozporu s § 58h odst. 8 nebo vykonává činnost v obchodních prostorách, ve kterých vykonává činnost jiná osoba, která je součástí téhož vertikálně integrovaného plynárenského podnikatele, v rozporu s § 58h odst. 8,
+>
+> - p) nepřijme program rovného zacházení nebo jej nezveřejní podle § 58i odst. 1 nebo nezajistí řádné provádění programu rovného zacházení podle § 58i odst. 2,
+>
+> - q) nejmenuje nebo jinak neustanoví do funkce auditora programu podle § 58j odst. 1 nebo jmenuje nebo jinak ustanoví do funkce auditora programu osobu, která nesplňuje podmínky podle § 58d odst. 1,
+>
+> - r) neposkytne auditorovi programu informace nebo podklady nebo jinou nezbytnou součinnost nebo neseznámí s programem rovného zacházení statutární orgán nebo jeho členy, členy dozorčí rady nebo zaměstnance podle § 58j odst. 8 nebo [[#§ 9|9]],
+>
+> - s) nezpracuje nebo nepředloží ministerstvu nebo Energetickému regulačnímu úřadu desetiletý plán rozvoje přepravní soustavy podle § 58k odst. 1, nebo
+>
+> - t) nepřipojí k přepravní soustavě zařízení jiné přepravní soustavy, distribuční soustavy, zásobníku plynu nebo odběrné plynové zařízení podle § 58m odst. 1,
+>
+> - u) poruší některou z povinností uvedenou v § 58g odst. 8.
+>
+> (9) Držitel licence na distribuci plynu se dopustí přestupku tím, že
+>
+> - a) poruší opatření stanovené formou opatření obecné povahy podle § 18a odst. 3,
+>
+> - b) neinformuje operátora trhu podle § 12c odst. 3, nepředá operátorovi trhu nezbytné údaje podle § 11s odst. 1, neuchovává údaje podle § 11s odst. 1 nebo nepředá dodavateli poslední instance některý z údajů podle § 12c odst. 3,
+>
+> - c) neoznámí započetí nebo skončení omezení nebo přerušení distribuce plynu podle § 59 odst. 5 nebo neobnoví distribuci plynu bezprostředně po odstranění příčin podle § 59 odst. 6,
+>
+> - d) poruší některou z povinností uvedených v § 59 odst. 8 písm. a), b), d) až z) nebo v § 59 odst. 9,
+>
+> - e) poruší některé z kritérií nebo poruší některou z povinností uvedených v § 59a odst. 2,
+>
+> - f) poruší některou z povinností uvedených v § 59a odst. 3 nebo [[#§ 4|4]], nebo neposkytne auditorovi programu informace nebo podklady nebo jinou nezbytnou součinnost nebo neseznámí s programem rovného zacházení členy statutárního orgánu, členy dozorčí rady nebo správní rady nebo zaměstnance podle § 59a odst. 5,
+>
+> - g) jako nájemce nepřevezme propachtovaný obchodní závod nebo jeho část do svého účetnictví nebo nesdělí pachtýři informace o hodnotě propachtovaného majetku v rozporu s § 59a odst. 9,
+>
+> - h) jedná v rozporu s § 59a odst. 12,
+>
+> - i) při výkonu činností technického dispečinku poruší některou z povinností uvedenou v § 64 odst. 2,
+>
+> - j) neprovozuje, neudržuje nebo neopraví plynovodní přípojku na žádost jejího vlastníka podle § 66 odst. 4,
+>
+> - k) neoznámí ministerstvu změny údajů uvedených v rozhodnutí o udělení autorizace podle § 67 odst. 8,
+>
+> - l) neseznámí toho, kdo potřebu přeložky vyvolal, se způsobem jejího provedení nebo předpokládanými náklady na její provedení podle § 70 odst. 2,
+>
+> - m) nevybaví všechny zákazníky, jejichž odběrné plynové zařízení je připojeno k jím provozované soustavě, měřicím zařízením podle § 71 odst. 2,
+>
+> - n) nezajistí instalaci vlastního měřicího zařízení, jeho udržování nebo pravidelné ověřování správnosti měření podle § 71 odst. 8,
+>
+> - o) nevymění měřicí zařízení nebo nezajistí ověření správnosti měření podle § 71 odst. 9,
+>
+> - p) poruší některou z povinností při stavu nouze uvedených v § 73 odst. 5,
+>
+> - q) nepodílí se na odstranění havárií nebo obnovení dodávek podle § 73 odst. 8 nebo bezprostředně po vzniku havárie či vyhlášení stavu nouze nezahájí likvidaci následků podle § 73 odst. 9,
+>
+> - r) nekoordinuje odstranění havárií nebo obnovení dodávek plynu v případě stavu nouze vyhlášeného pro část území státu podle § 73 odst. 10,
+>
+> - s) překročí některé z oprávnění uvedených v § 59 odst. 1 písm. i), j) nebo l), nebo
+>
+> - t) nesplní některou z povinností provozovatele distribuční soustavy podle Nařízení o opatřeních na zajištění bezpečnosti dodávek zemního plynu,
+>
+> - u) poruší povinnost uvedenou v § 59a odst. 6 nebo v § 59a odst. 8.
+>
+> (10) Držitel licence na uskladňování plynu se dopustí přestupku tím, že
+>
+> - a) poruší opatření stanovené formou opatření obecné povahy podle § 18a odst. 3 nebo § 73 odst. 9 písm. c) nebo § 73d odst. 6,
+>
+> - b) neoznámí započetí nebo skončení omezení nebo přerušení činností spojených s uskladňováním plynu podle § 60 odst. 5 nebo neobnoví činnosti spojené s uskladňováním plynu bezprostředně po odstranění příčin, které vedly k jejímu omezení nebo přerušení, podle § 60 odst. 6,
+>
+> - c) poruší některou z povinností uvedených v § 60 odst. 8 písm. a), b) nebo d) až z),
+>
+> - d) poruší některé z kritérií nebo poruší některou z povinností uvedených v § 60a odst. 2,
+>
+> - e) poruší některou z povinností uvedených v § 60a odst. 3 nebo [[#§ 4|4]], nebo neposkytne auditorovi programu informace nebo podklady nebo jinou nezbytnou součinnost nebo neseznámí s programem rovného zacházení členy statutárního orgánu, členy dozorčí rady nebo správní rady nebo zaměstnance podle § 60a odst. 5,
+>
+> - f) při výkonu činností technického dispečinku poruší některou z povinností uvedenou v § 64 odst. 2,
+>
+> - g) neoznámí ministerstvu změny údajů uvedených v rozhodnutí o udělení autorizace podle § 67 odst. 8,
+>
+> - h) neupraví na svůj náklad předávací místo pro instalaci měřicího zařízení podle § 71 odst. 4 nebo zasáhne do měřicího zařízení bez souhlasu provozovatele přepravní nebo distribuční soustavy v rozporu s § 71 odst. 5,
+>
+> - i) neumožní provozovateli přepravní nebo distribuční soustavy přístup k měřicímu zařízení podle § 71 odst. 6,
+>
+> - j) nepodřídí se omezení spotřeby plynu nebo změně dodávky plynu podle § 73f odst. 1 nebo uložené opatřením obecné povahy podle § 73 odst. 9 písm. a) nebo § 73d odst. 6.
+>
+> - k) nepodílí se na odstranění havárií nebo obnovení dodávek podle § 73 odst. 8 nebo bezprostředně po vzniku havárie či vyhlášení stavu nouze nezahájí likvidaci následků podle § 73 odst. 9,
+>
+> - l) omezí nebo přeruší činnosti spojené s uskladňováním plynu v rozporu s § 60 odst. 1 písm. f),
+>
+> - m) nesplní některou z povinností provozovatele zásobníku plynu podle Nařízení o vnitřním trhu s plynem nebo podle přímo použitelného předpisu vydaného na jeho základě nebo k jeho provedení,
+>
+> - n) nesplní některou z povinností provozovatele zásobníku plynu podle Nařízení o opatřeních na zajištění bezpečnosti dodávek zemního plynu, nebo
+>
+> - o) neplní rozhodnutí o vyhrazení zásobníku plynu výlučně pro provozovatele přepravní soustavy podle § 60b odst. 2,
+>
+> - p) neinformuje provozovatele přepravní soustavy, ministerstvo nebo Energetický regulační úřad o množství uskladněného plynu podle smluv o uskladnění plynu v rozporu s § 60c odst. 4 nebo neinformuje ministerstvo o neprovedení rezervace skladovací kapacity nebo o zarezervování pouze části skladovací kapacity v rozporu s § 60d odst. 2,
+>
+> - q) neumožní účastníkům trhu s plynem přístup do zásobníku plynu k nevyužité skladovací kapacitě v rozporu s § 60d odst. 1,
+>
+> - r) nenabídne nevyužitou skladovací kapacitu podle [[#§ 60e|§ 60e]],
+>
+> - s) v rozporu s § 73 odst. 10 neposkytne Správě státních hmotných rezerv nebo osobě, která pro ni uskladnění plynu ve státních hmotných rezervách zajišťuje, nevyužitý těžební výkon jiných účastníků trhu s plynem,
+>
+> - t) poruší povinnost těžit plyn ze zásobníků plynu přímo připojených k přepravní soustavě v nezbytné výši určené provozovatelem přepravní soustavy podle § 73d odst. 4 písm. a),
+>
+> - u) poruší zákaz vtláčení plynu do zásobníku plynu přímo připojeného k přepravní soustavě stanovený v § 73d odst. 4 písm. d),
+>
+> - v) stanoví minimální výši těžby účastníka trhu s plynem v rozporu s § 73 odst. 5.
+>
+> (11) Držitel licence na obchod s plynem se dopustí přestupku tím, že
+>
+> - a) poruší opatření stanovené formou opatření obecné povahy podle § 18a odst. 3,
+>
+> - b) jako dodavatel poslední instance nedodává plyn podle § 12a odst. 2 nebo [[#§ 4|4]] nebo § 19g odst. 3 nebo neoznámí dotčenému zákazníkovi nebo provozovateli distribuční soustavy zahájení dodávky, výši ceny nebo ostatní podmínky dodávky podle § 12c odst. 4,
+>
+> - c) poruší některý ze zákazů stanovených v § 24a odst. 5 nebo § 58n odst. 5,
+>
+> - d) poruší některou z povinností uvedených v § 12c odst. 2 nebo § 61 odst. 2,
+>
+> - e) nezajistí bezpečnostní standard dodávky plynu podle § 73a odst. 1 nebo nepředá operátorovi trhu a Energetickému regulačnímu úřadu údaje o rozsahu a způsobu zajištění bezpečnostního standardu podle § 73a odst. 2,
+>
+> - f) omezí nebo přeruší dodávku plynu zákazníkovi v rozporu se závazkem dodávky plynu, s výjimkou případu podle § 61 odst. 1 písm. d), anebo ukončí dodávku zákazníkovi z důvodu pozbytí možnosti dodávat plyn podle § 12a odst. 2 písm. a), ačkoliv je povinen tuto dodávku zajistit,
+>
+> - g) nesplní některou z povinností obchodníka s plynem podle Nařízení o opatřeních na zajištění bezpečnosti dodávek zemního plynu,
+>
+> - h) v rozporu s § 73c odst. 7 neposkytne ministerstvu plyn pořízený za účelem zásobování zákazníků, kteří se podle § 73c odst. 3 musí podřídit omezení nebo přerušení spotřeby plynu.
+>
+> - h) neuvedl ve vyúčtování dodávek plynu podíl plynu vyrobeného v daném období z obnovitelných zdrojů energie podle § 61 odst. 1 písm. h),
+>
+> - i) zvýší cenu za dodávku plynu sjednanou se zákazníkem v rozporu s § 73h odst. 1,
+>
+> - j) neoznámí uveřejnění zvýšení ceny za dodávku plynu nebo nedoloží způsob zohlednění změny nákladů na koupi plynu v době trvání stavu nouze Energetickému regulačnímu úřadu podle § 73h odst. 3,
+>
+> - k) poruší některou z povinností uvedených v § 19e odst. 5,
+>
+> - l) nesjedná se zákazníkem smlouvu podle § 19g odst. 1,
+>
+> - m) vyúčtuje zákazníkovi dodávku plynu za cenu vyšší než sjednanou nebo změněnou podle § 11a odst. 4,
+>
+> - n) nezveřejní nebo neoznámí Energetickému regulačnímu úřadu hodnotu indexu zajištění obchodníka podle § 61 odst. 2 písm. q) nebo ji stanoví v nesprávné výši,
+>
+> - o) neuvede ve vyúčtování dodávek plynu podíl plynu z obnovitelných zdrojů a nízkouhlíkového plynu nebo tento podíl nedoloží zárukami původu plynu z obnovitelných zdrojů a nízkouhlíkového plynu podle § 61 odst. 2 písm. s), nebo
+>
+> - p) neposkytne zákazníkovi potvrzení o zárukách původu plynu z obnovitelných zdrojů a nízkouhlíkového plynu uplatněných k dodávce plynu do jeho odběrného místa podle § 61 odst. 2 písm. t).
+>
+> (12) Držitel licence na výrobu tepelné energie nebo licence na rozvod tepelné energie se dopustí přestupku tím, že
+>
+> - a) neuzavře smlouvu o dodávce tepelné energie, ačkoli mu odběratel poskytne nezbytné technické údaje, nebo nezajistí dodávku tepelné energie podle § 76 odst. 1,
+>
+> - b) překročí některé z oprávnění uvedených v § 76 odst. 4,
+>
+> - c) poruší některou z povinností uvedených v § 76 odst. 9,
+>
+> - d) neměří, nevyhodnocuje nebo neúčtuje dodávku tepelné energie podle skutečných hodnot teplonosné látky nebo údajů měřicího zařízení nebo neosadí, nezapojí nebo neudržuje měřicí zařízení nebo pravidelně neověřuje správnost měření podle § 78 odst. 1 a [[#§ 6|6]],
+>
+> - e) neověří správnost měření nebo nevymění měřicí zařízení podle § 78 odst. 2,
+>
+> - f) neseznámí toho, kdo potřebu přeložky vyvolal se způsobem jejího provedení nebo náklady na její provedení, podle § 86 odst. 2,
+>
+> - g) neinformuje vlastníka nebo správce nemovitosti o rozsahu nebo době trvání provádění nezbytných prací na zařízení pro rozvod tepelné energie podle § 87 odst. 6,
+>
+> - h) nepodřídí se omezení spotřeby tepelné energie při předcházení stavu nouze nebo při stavu nouze podle § 88 odst. 3, nebo
+>
+> - i) nepřezkoumal účinky výpadku zdroje nebo nezřídil vstupy do tepelné sítě pro připojení náhradních zdrojů podle § 88 odst. 5,
+>
+> - j) nezveřejní na svých internetových stránkách informace o podílu tepla z obnovitelných zdrojů energie v dodávce tepla za předchozí kalendářní rok podle § 76 odst. 9 písm. h),
+>
+> - l) použije příspěvek v rozporu s § 11v odst. 1,
+>
+> - m) nezaregistruje se u operátora trhu nebo nepředá operátorovi trhu nezbytné údaje podle § 11w odst. 2,
+>
+> - n) neúčtuje nebo nezohlední příspěvek podle § 11x odst. 1,
+>
+> - o) nevypořádá rozdíl podle § 11x odst. 3 nebo nevrátí přeplatek podle § 11x odst. 3, nebo
+>
+> - p) neplní nebo nevykazuje plnění kritérií udržitelnosti a úspor emisí skleníkových plynů podle § 76 odst. 9 písm. j).
+>
+> (13) Držitel licence na činnosti operátora trhu se dopustí přestupku tím, že poruší některou z povinností podle § 11s odst. 2 nebo [[#§ 3|3]], § 11t odst. 5, § 11w odst. 3, § 11x odst. 3 nebo [[#§ 5|5]], § 19f odst. 2 nebo [[#§ 3|3]] nebo § 20a odst. 4 nebo poruší některou z povinností při výkonu činnosti poskytovatele přístupu k údajům registrovaným účastníkům trhu s elektřinou podle Nařízení o požadavcích na interoperabilitu a postupech pro přístup k údajům z měření a o spotřebě, a to v rozsahu, v jakém používá předané naměřené a vyhodnocené údaje z měření pro plnění povinností operátora trhu podle tohoto zákona a prováděcích právních předpisů.
+>
+> (14) Držitel licence na obchod s plynem se dopustí přestupku tím, že
+>
+> - a) neuskladní v zásobníku plynu ve stanovený časový úsek minimální požadované množství plynu v rozporu s § 60d odst. 3,
+>
+> - b) použije příspěvek v rozporu s § 11r odst. 1,
+>
+> - c) neúčtuje nebo nezohlední příspěvek podle § 11t odst. 1,
+>
+> - d) neuveřejní informaci o výši příspěvku pro jednotlivé kategorie zákazníků podle § 11t odst. 3,
+>
+> - e) nevypořádá rozdíl podle § 11t odst. 4, nebo
+>
+> - f) neposkytne Energetickému regulačnímu úřadu informace podle § 61 odst. 3.
+>
+> (15) Držitel licence na činnost datového centra se dopustí přestupku tím, že
+>
+> - a) se v rozporu s [[#§ 27a|§ 27a]] vedoucím zaměstnancem v řídící působnosti představenstva nebo jeho členů stane osoba, která je současně členem statutárního orgánu nebo dozorčí rady nebo zaměstnancem jiného držitele licence podle tohoto zákona než toho, kdo je akcionářem datového centra,
+>
+> - b) poruší povinnost podle § 27c odst. 2, nebo
+>
+> - c) poruší povinnost podle § 27d odst. 2.
+>
+> (16) Držitel licence na ukládání elektřiny nebo držitel licence na výrobu elektřiny provozující zařízení pro ukládání elektřiny podle § 3 odst. 5 se dopustí přestupku tím, že
+>
+> - a) poruší opatření obecné povahy podle § 18a odst. 3,
+>
+> - b) poruší některou z povinností podle § 23a odst. 2 písm. a) až g) nebo i) až l),
+>
+> - c) poruší některý ze zákazů uvedených v § 24a odst. 5 nebo v § 58n odst. 5,
+>
+> - d) nepředá nezbytné údaje potřebné k dispečerskému řízení podle § 26 odst. 7 nebo se neúčastní společného výcviku podle § 26a odst. 3,
+>
+> - e) nezajistí technické podmínky pro instalaci měřicího zařízení podle § 49 odst. 2,
+>
+> - f) neoznámí provozovateli přenosové nebo distribuční soustavy zjištěné závady na měřicím zařízení nebo zajištění proti neoprávněné manipulaci neprodleně po jejich zjištění podle § 49 odst. 4 nebo zasáhne do měřicího zařízení bez souhlasu provozovatele přenosové nebo distribuční soustavy v rozporu s § 49 odst. 4,
+>
+> - g) neumožní provozovateli přenosové nebo distribuční soustavy přístup k měřicímu zařízení podle § 49 odst. 6,
+>
+> - h) poruší některou z povinností podle § 49a odst. 2 nebo [[#§ 4|4]], nebo
+>
+> - i) nepodřídí se omezení spotřeby elektřiny nebo změně dodávky elektřiny podle § 54 odst. 5.
+>
+> (17) Za přestupek lze uložit pokutu do
+>
+> - a) 100 000 000 Kč nebo 10 % z čistého obratu dosaženého provozovatelem přenosové soustavy nebo provozovatelem přepravní soustavy za poslední ukončené účetní období, jde-li o přestupek uvedený v odstavci 3 písm. b), d) nebo m), odstavci 7 písm. b), d), q), r) nebo t) nebo odstavci 8,
+>
+> - b) 50 000 000 Kč nebo 1 % z čistého obratu dosaženého držitelem licence za poslední ukončené účetní období, jde-li o přestupek uvedený v odstavci 1 písm. o), odstavci 2, odstavci 3 písm. a), c), e) až l) nebo n) až s), odstavci 4 až 6, odstavci 7 písm. a), c), e) až p) nebo s) nebo odstavci 9 až 11, [[#§ 14|14]] nebo [[#§ 16|16]],
+>
+> - c) 15 000 000 Kč, jde-li o přestupek uvedený v odstavci 1 písm. a) až n), p) až r) nebo odstavci 12,
+>
+> - d) 3 000 000 Kč, jde-li o přestupek uvedený v odstavci 3 písm. t), odstavci 4 písm. zc), odstavci 13 nebo [[#§ 15|15.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 9, § 11, § 11a, § 10, § 15a, § 20, § 7, § 53, § 74, § 12, § 22, § 19d, § 19f, § 11ca, § 18a, § 23, § 24a, § 58n, § 26, § 26a, § 30c, § 49, § 54, § 27f, § 29a, § 49a, § 4, § 34, § 10a, § 3, § 24, § 5, § 47, § 25b, § 12c, § 11s, § 25, § 13, § 14, § 25a, § 45, § 29d, § 12a, § 19g, § 30, § 11r, § 11t, § 19e, § 29c, § 32, § 57, § 64, § 67, § 70, § 71, § 73f, § 73, § 73d, § 73a, § 60d, § 58, § 60b, § 58b, § 58c, § 58d, § 2, § 58e, § 58g, § 58h, § 58i, § 58j, § 58k, § 58m, § 59, § 59a, § 66, § 60, § 60a, § 60c, § 60e, § 61, § 73c, § 73h, § 76, § 78, § 86, § 87, § 88, § 11v, § 11w, § 11x, § 20a, § 27a, § 27c, § 27d, § 23a, § 16, § 15
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0f043b9652000b5d8f65 -->
 
 ### § 91a — Přestupky právnických a podnikajících fyzických osob
 
@@ -617,6 +1369,202 @@ Pokud je subjekt **současně držitelem licence a zároveň jedná v roli, na n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a36d7fac89f95763caad generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 91a — Přestupky právnických a podnikajících fyzických osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+>
+> - a) podniká v energetických odvětvích bez licence nebo bez oprávnění k podnikání uznaného Energetickým regulačním úřadem podle [[#§ 7a|§ 7a]] nebo neoznámí Energetickému regulačnímu úřadu zánik oprávnění podle § 7a odst. 3,
+>
+> - b) poskytuje odebranou elektřinu, plyn nebo tepelnou energii jiné osobě v rozporu s § 3 odst. 3,
+>
+> - c) poruší zákaz stanovený v § 3 odst. 6,
+>
+> - d) jako vlastník energetického zařízení neposkytne určenému držiteli licence energetické zařízení nebo mu neumožní výkon licencované činnosti podle § 12 odst. 1,
+>
+> - e) neposkytne ministerstvu, Energetickému regulačnímu úřadu nebo Státní energetické inspekci ve stanovené lhůtě požadované podklady nebo informace podle § 15a odst. 1,
+>
+> - f) jako vlastník nebo propachtovatel energetického zařízení nevede v účtovém rozvrhu účty pro účtování o nákladech a výnosech z vlastnictví nebo pachtu energetického zařízení podle § 20 odst. 5,
+>
+> - g) neposkytne operátorovi trhu údaje nezbytné pro plnění jeho povinností nebo neposkytne informace o změnách dodavatele plynu podle § 20a odst. 6 písm. a) nebo f), nepředá nezbytné údaje potřebné k dispečerskému řízení podle § 26 odst. 7 nebo se neúčastní společného výcviku podle § 26a odst. 3,
+>
+> - h) poruší povinnost podle § 22 odst. 3,
+>
+> - i) poruší některou z povinností stanovených v § 28 odst. 2 písm. a) až f), h), j) nebo k) nebo některou z povinností stanovených v § 62 odst. 2 písm. b) až i), v § 62 odst. 3 nebo [[#§ 4|4]],
+>
+> - j) provede zásah na odběrném elektrickém zařízení, kterým prochází neměřená elektřina, bez souhlasu provozovatele přenosové soustavy nebo provozovatele distribuční soustavy v rozporu s § 28 odst. 3 nebo provede zásah na odběrném plynovém zařízení před měřicím zařízením bez předchozího písemného souhlasu provozovatele přepravní nebo distribuční soustavy v rozporu s § 71 odst. 11,
+>
+> - k) provozuje výrobnu elektřiny nebo zařízení pro ukládání elektřiny v rozporu s § 28 odst. 5 nebo [[#§ 6|6]],
+>
+> - l) jako vlastník přímého vedení nebo provozovatel přímého plynovodu poruší některou z povinností stanovených v [[#§ 43|§ 43]] nebo § 65 odst. 3 nebo jako vlastník příslušné části elektrizační soustavy nebo osoba provozující plynárenské zařízení bezdůvodně nestanoví písemně podmínky pro realizaci veřejně prospěšné stavby nebo neudělí bezdůvodně písemný souhlas s jinou stavbou nebo stavební nebo jinou činností v ochranném pásmu podle § 46 odst. 11 nebo § 68 odst. 4,
+>
+> - m) nezajistí provoz, údržbu nebo opravy elektrické nebo plynovodní přípojky podle § 45 odst. 5 nebo § 66 odst. 3 nebo nezajistí jako vlastník opravy nebo údržbu tepelné přípojky nebo předávací stanice podle § 79 odst. 3,
+>
+> - n) jako vlastník či uživatel nemovitosti neumožní provozovateli přenosové soustavy, provozovateli přepravní soustavy nebo provozovateli distribuční soustavy výkon činností v ochranném pásmu podle § 46 odst. 4 nebo § 68 odst. 5 nebo jako vlastník nemovitosti neumožní provozovateli zařízení přístup k zařízení pro rozvod tepelné energie podle § 87 odst. 6,
+>
+> - o) poruší některý ze zákazů stanovených v § 46 odst. 8, [[#§ 9|9]], [[#§ 10|10]] nebo § 68 odst. 3 nebo [[#§ 5|5]],
+>
+> - p) nesplní některou z povinností stanovených v § 46 odst. 12 nebo [[#§ 13|13]] nebo § 68 odst. 5 nebo umístí stavbu v ochranném pásmu v rozporu s ustanoveními § 68 odst. 4 nebo provede jinou činnost v ochranném pásmu v rozporu s ustanoveními § 68 odst. 4 nebo vysadí trvalé porosty v rozporu s ustanoveními § 68 odst. 6 nebo umístí stavbu v bezpečnostním pásmu v rozporu s ustanoveními § 69 odst. 3,
+>
+> - q) nezajistí technické podmínky pro instalaci měřicího zařízení podle § 49 odst. 2 nebo § 71 odst. 4,
+>
+> - r) neoznámí provozovateli přenosové, přepravní nebo distribuční soustavy zjištěné závady na měřicím zařízení nebo zajištění proti neoprávněné manipulaci neprodleně po jejich zjištění podle § 49 odst. 4 nebo § 71 odst. 7 nebo neoznámí zjištěné porušení měřicího zařízení nebo jeho zajištění podle § 78 odst. 4,
+>
+> - s) zasáhne do měřicího zařízení bez souhlasu provozovatele přenosové, přepravní nebo distribuční soustavy v rozporu s § 49 odst. 4, § 71 odst. 5 nebo zasáhne do měřicího zařízení bez souhlasu dodavatele tepelné energie v rozporu s § 78 odst. 3,
+>
+> - t) neumožní provozovateli přenosové nebo distribuční soustavy přístup k měřicímu zařízení nebo neměřeným částem odběrného elektrického zařízení podle § 49 odst. 6 nebo provozovateli přepravní nebo distribuční soustavy přístup k měřicímu zařízení podle § 71 odst. 6 nebo neumožní dodavateli tepelné energie osazení měřicího zařízení a přístup k němu podle § 78 odst. 4 nebo neumožní dodavateli tepelné energie přístup k částem odběrného tepelného zařízení, kterými prochází neměřená tepelná energie, podle § 77 odst. 7,
+>
+> - u) poruší zákaz neoprávněného přenosu elektřiny nebo neoprávněné distribuce elektřiny uvedený v § 53 odst. 3 nebo zákaz neoprávněné přepravy plynu nebo neoprávněné distribuce plynu uvedený v § 74 odst. 6,
+>
+> - v) nepodřídí se omezení spotřeby elektřiny, plynu nebo změně dodávek elektřiny nebo plynu podle § 54 odst. 5 nebo § 73f odst. 1 nebo uložené opatřením obecné povahy podle § 73 odst. 9 písm. a) nebo § 73d odst. 6 nebo se nepodřídí omezení spotřeby tepelné energie podle § 88 odst. 3,
+>
+> - w) vysadí trvalé porosty bez souhlasu provozovatele přepravní soustavy, provozovatele distribuční soustavy nebo provozovatele přípojky v rozporu s § 68 odst. 6,
+>
+> - x) neupraví odběrné tepelné zařízení nebo rozvodné tepelné zařízení při změně teplonosné látky nebo jejích parametrů nebo neupraví odběrné tepelné zařízení pro instalaci měřicího zařízení po předchozím projednání s dodavatelem tepelné energie podle § 77 odst. 3,
+>
+> - y) zřídí a provozuje náhradní či jiný zdroj tepelné energie, který je propojen s rozvodným tepelným zařízením nebo může ovlivnit provoz tohoto zařízení, teplonosnou látku v rozvodném tepelném zařízení nebo její parametry bez písemné dohody s držitelem licence na rozvod tepelné energie v rozporu s § 77 odst. 4,
+>
+> - z) jako vlastník nemovitosti poruší povinnost podle § 28 odst. 10 nebo nestrpí umístění nebo provozování rozvodného tepelného zařízení nebo jeho části podle § 77 odst. 6,
+>
+> - aa) v rozporu s § 27 odst. 2 použije označení „elektroenergetické datové centrum“ nebo v rozporu s § 20b odst. 4 použije označení „energetické společenství“ nebo „společenství pro obnovitelné zdroje“,
+>
+> - ab) jako účastník trhu s elektřinou nebo plynem, který odebíral elektřinu nebo plyn za stanovenou cenu v určeném období, nezpracoval zprávu podle § 96e odst. 3 nebo ji nepodal ministerstvu podle § 96e odst. 3, nebo
+>
+> - ac) v rozporu s § 27f odst. 2 neukončí přiřazení předávacího místa do skupiny sdílení.
+>
+> (2) Právnická nebo podnikající fyzická osoba se dále dopustí přestupku tím, že
+>
+> - a) provede úpravy na odběrném tepelném zařízení nebo jeho částech, kterými prochází neměřená dodávka tepelné energie, bez souhlasu držitele licence na výrobu tepelné energie nebo rozvod tepelné energie v rozporu s § 77 odst. 7,
+>
+> - b) poruší zákaz stanovený v § 87 odst. 4 nebo provádí v ochranných pásmech činnosti bez předchozího písemného souhlasu provozovatele zařízení, které slouží pro výrobu či rozvod tepelné energie v rozporu s § 87 odst. 4,
+>
+> - c) jako vlastník dotčené stavby při provádění stavebních činností nezajistí bezpečnost zařízení pro rozvod tepelné energie podle § 87 odst. 5,
+>
+> - d) neposkytne v případech společné dodávky tepelné energie do více odběrných míst dodavateli tepelné energie údaje ze stanovených měřidel podle zákona [[o metrologii|o metrologii]] nebo ze zařízení pro rozdělování nákladů na vytápění a další údaje podle § 78 odst. 5,
+>
+> - e) jako člen statutárního orgánu provozovatele distribuční soustavy poruší zákaz v § 25a odst. 6 nebo v § 59a odst. 6,
+>
+> - f) znemožní nebo závažně ztíží výkon dozoru podle § 18 odst. 1 tím, že neumožní Energetickému regulačnímu úřadu výkon jeho oprávnění podle § 18 odst. 5 nebo nesplní některou z povinností podle kontrolního řádu,
+>
+> - g) neumožní Energetickému regulačnímu úřadu výkon jeho oprávnění podle [[#§ 18b|§ 18b]] nebo neposkytne Energetickému regulačnímu úřadu součinnost, ač je k tomu podle tohoto zákona povinen,
+>
+> - h) vykoná zprostředkovatelskou činnost v energetických odvětvích v rozporu s § 3 odst. 7,
+>
+> - i) jako zákazník v domě s byty nepředá pravdivé údaje nezbytné pro zohlednění příspěvku podle § 11u odst. 1 nebo § 11w odst. 1 nebo poruší některou z povinností uvedenou v § 11u odst. 2 nebo [[#§ 3|3]], § 11w odst. 1 nebo v § 11x odst. 6,
+>
+> - j) poskytne neúplné, nesprávné nebo nepravdivé informace v rozporu s § 19d odst. 5,
+>
+> - k) nabude účinnou míru kontroly nad energeticky strategickým celkem nebo účinnou míru kontroly nad společností s účinnou mírou kontroly nad energeticky strategickým celkem bez souhlasu ministerstva v rozporu s § 3a odst. 1 nebo nenabídne České republice převod podle § 3e odst. 1 nebo [[#§ 2|2]],
+>
+> - l) neposkytne údaje podle § 33 odst. 4, nebo
+>
+> - m) jako zákazník poruší některou z povinností podle § 49a odst. 1 nebo [[#§ 4|4.]]
+>
+> (3) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že jako auditor programu poruší některou z povinností auditora programu stanovených v § 25a odst. 5, § 58i odst. 8 až 10, § 59a odst. 5 nebo § 60a odst. 5.
+>
+> (4) Právnická nebo podnikající fyzická osoba se jako dodavatel tepelné energie, který není držitelem licence na výrobu tepelné energie nebo licence na rozvod tepelné energie, dopustí přestupku tím, že
+>
+> - a) omezí nebo přeruší dodávku tepelné energie v rozporu s § 76 odst. 4 písm. i),
+>
+> - b) neprovozuje, neudržuje nebo neopravuje tepelnou přípojku na žádost jejího vlastníka podle § 79 odst. 4,
+>
+> - c) nedodává tepelnou energii na základě smlouvy nebo neposkytne vyúčtování dodávky tepelné energie v termínu podle § 76 odst. 2,
+>
+> - d) v rozporu s § 11 odst. 6 při uplatňování záloh za dodávky tepelné energie nestanovil jejich výši nejvýše v rozsahu důvodně předpokládané spotřeby tepelné energie v následujícím zúčtovacím období,
+>
+> - e) neměří, nevyhodnocuje nebo nevyúčtuje dodávku tepelné energie podle skutečných hodnot teplonosné látky nebo údajů měřicího zařízení nebo neosadí, nezapojí nebo neudržuje měřicí zařízení nebo pravidelně neověřuje správnost měření podle § 78 odst. 1 a [[#§ 6|6.]]
+>
+> (5) Právnická osoba nebo podnikající fyzická osoba se dopustí přestupku tím, že neposkytne Energetickému regulačnímu úřadu vysvětlení, nepředloží požadované doklady nebo se neúčastní jednání nebo neumožní Energetickému regulačnímu úřadu nahlédnout do svých obchodních záznamů podle [[#§ 96a|§ 96a]], je-li účastníkem sporu rozhodovaného Energetickým regulačním úřadem.
+>
+> (6) Právnická nebo podnikající fyzická osoba se jako účastník trhu podle Nařízení o velkoobchodním trhu s energií dopustí přestupku tím, že
+>
+> - a) neposkytne ministerstvu nebo Energetickému regulačnímu úřadu ve stanovené lhůtě požadované podklady nebo informace podle § 15a odst. 2,
+>
+> - b) poruší povinnost uloženou opatřením obecné povahy podle § 18a odst. 4,
+>
+> - c) manipuluje nebo se pokusí o manipulaci s trhem v rozporu s čl. 5 Nařízení o velkoobchodním trhu s energií,
+>
+> - d) použije důvěrné informace v rozporu se zákazem podle čl. 3 Nařízení o velkoobchodním trhu s energií,
+>
+> - e) nezveřejní nebo neposkytne důvěrné informace podle čl. 4 Nařízení o velkoobchodním trhu s energií,
+>
+> - f) neposkytne záznamy nebo informace podle čl. 8 Nařízení o velkoobchodním trhu s energií ve lhůtě stanovené Nařízením o oznamování údajů65),
+>
+> - g) provádí transakce bez registrace nebo neoznámí určeného zástupce podle čl. 9 Nařízení o velkoobchodním trhu s energií,
+>
+> - h) nestanoví nebo nedodržuje účinná opatření a postupy pro zjišťování porušení čl. 3, 4 nebo 5 Nařízení o velkoobchodním trhu s energií nebo neoznámí podezření podle čl. 15 Nařízení o velkoobchodním trhu s energií,
+>
+> - i) nesplní povinnost podle [[#§ 15b|§ 15b]], nebo
+>
+> - j) neposkytne Agentuře údaje podle čl. 7c Nařízení o velkoobchodním trhu s energií.
+>
+> (7) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že neuskladní v zásobníku plynu ve stanovený časový úsek minimální požadované množství plynu v rozporu s § 60d odst. 3.
+>
+> (8) Právnická osoba, která je energetickým společenstvím nebo společenstvím pro obnovitelné zdroje, se dopustí přestupku tím, že
+>
+> - a) nevede seznam podle § 20b odst. 7,
+>
+> - b) rozdělí zisk nebo jiné vlastní zdroje v rozporu s § 20b odst. 8 nebo [[#§ 9|9]],
+>
+> - c) poruší některou z oznamovacích povinností podle [[#§ 20e|§ 20e]], nebo
+>
+> - d) v rozporu s § 27e odst. 3 neukončí přiřazení předávacího místa do skupiny sdílení, nebo
+>
+> - e) v rozporu s § 27e odst. 6 neposkytne členovi společenství vyúčtování nebo informace o vyúčtování sdílené elektřiny nebo údaje o množství sdílené elektřiny nebo nevyřídí reklamaci vyúčtování ve stanovené lhůtě.
+>
+> (9) Za přestupek uvedený v odstavcích 1 až 4, [[#§ 7|7]] nebo [[#§ 8|8]] lze uložit pokutu do 15 000 000 Kč s výjimkou přestupku podle odstavce 1 písm. v) a odstavce 2 písm. k), kdy lze uložit pokutu až do 50 000 000 Kč s výjimkou přestupku podle odstavce 2 písm. f) nebo g), kdy lze uložit pokutu až do výše 1 000 000 Kč. Za přestupek uvedený v odstavci 5 nebo odstavci 6 písm. j) lze uložit pokutu až do výše 1 000 000 Kč. Za přestupek uvedený v odstavci 6 písm. a), b) nebo i) lze uložit pokutu až do výše 50 000 000 Kč.
+>
+> (10) Za přestupek lze uložit pokutu do
+>
+> - a) ekvivalentu 5 000 000 EUR nebo 15 % z čistého obratu dosaženého pachatelem přestupku za poslední ukončené účetní období, podle toho, která z těchto hodnot je vyšší, jde-li o přestupek podle odstavce 6 písm. c) nebo d),
+>
+> - b) ekvivalentu 1 000 000 EUR nebo 2 % z čistého obratu dosaženého pachatelem přestupku za poslední ukončené účetní období, podle toho, která z těchto hodnot je vyšší, jde-li o přestupek podle odstavce 6 písm. e) nebo h),
+>
+> - c) ekvivalentu 500 000 EUR nebo 1 % z čistého obratu dosaženého pachatelem přestupku za poslední ukončené účetní období, podle toho, která z těchto hodnot je vyšší, jde-li o přestupek podle odstavce 6 písm. f) nebo g).
+>
+> (11) Výše pokuty uložené podle odstavce 10 nesmí přesáhnout 20 % z čistého obratu dosaženého pachatelem přestupku za poslední ukončené účetní období. Pokuta podle odstavce 10 se uloží alespoň ve výši neoprávněného prospěchu získaného pachatelem přestupku spácháním přestupku, je-li možné výši neoprávněného prospěchu zjistit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7a, § 3, § 12, § 15a, § 20, § 20a, § 26, § 26a, § 22, § 28, § 62, § 4, § 71, § 6, § 43, § 65, § 46, § 68, § 45, § 66, § 79, § 87, § 9, § 10, § 5, § 13, § 69, § 49, § 78, § 77, § 53, § 74, § 54, § 73f, § 73, § 73d, § 88, § 27, § 20b, § 96e, § 27f, § 25a, § 59a, § 18, § 18b, § 11u, § 11w, § 11x, § 19d, § 3a, § 3e, § 2, § 33, § 49a, § 58i, § 60a, § 76, § 11, § 96a, § 18a, § 15b, § 60d, § 20e, § 27e, § 7, § 8
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a36d7fac89f95763caad -->
+
 ### § 91b — Přestupky osoby, která je součástí vertikálně integrovaného podnikatele
 
 > **§ 91b**
@@ -691,6 +1639,62 @@ Sazba za písm. a) a b) je **100 000 000 Kč nebo 10 % konsolidovaného obratu**
 **Typicky rozhodné důkazy / podklady:** písemný pokyn nebo doklad o zásahu, zápisy z jednání orgánů, vnitroskupinové smlouvy a směrnice, organizační struktura VIPZ/koncernu, certifikát nezávislosti provozovatele, účetní závěrky pro výpočet konsolidovaného obratu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=74a12f070f4924815fb8 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 91b — Přestupky osoby, která je součástí vertikálně integrovaného podnikatele nebo vertikálně integrovaného plynárenského podnikatele nebo koncernu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Osoba, která je součástí vertikálně integrovaného podnikatele nebo vertikálně integrovaného plynárenského podnikatele nebo koncernu, se dopustí přestupku tím, že
+>
+> - a) sama nebo prostřednictvím ovládané osoby drží podíl v provozovateli přepravní soustavy a současně vyrábí plyn nebo obchoduje s plynem v rozporu s § 58g odst. 1,
+>
+> - b) nezdrží se jednání nebo udělování pokynů ohledně každodenních činností provozovatele přepravní soustavy a provozu přepravní soustavy v rozporu s § 58g odst. 5,
+>
+> - c) jako mateřská společnost udělí provozovateli distribuční soustavy pokyn ohledně běžného provozu nebo údržby distribuční soustavy nebo jiným způsobem zasáhne do rozhodování o výstavbě či modernizaci částí distribuční soustavy v rozporu s § 25a odst. 2 písm. c) nebo § 59a odst. 2 písm. c), nebo
+>
+> - d) jako mateřská společnost v rozporu s § 60a odst. 2 písm. c) udělí provozovateli zásobníku plynu pokyn ohledně běžného provozu nebo údržby zásobníku plynu nebo jiným způsobem zasáhne do rozhodování o výstavbě či modernizaci částí zásobníku plynu.
+>
+> (2) Za přestupek uvedený v odstavci 1 písm. a) nebo b) lze uložit pokutu až do výše 100 000 000 Kč nebo 10 % z čistého obratu dosaženého osobou, která je součástí vertikálně integrovaného plynárenského podnikatele nebo koncernu společně s provozovatelem přepravní soustavy, za poslední ukončené účetní období. Za přestupek uvedený v odstavci 1 písm. c) nebo d) lze uložit pokutu až do výše 50 000 000 Kč nebo 1 % z čistého obratu dosaženého osobou, která je součástí vertikálně integrovaného podnikatele nebo vertikálně integrovaného plynárenského podnikatele nebo koncernu společně s provozovatelem distribuční soustavy nebo zásobníku plynu, za poslední ukončené účetní období.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 58g, § 25a, § 59a, § 60a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=74a12f070f4924815fb8 -->
 
 ### § 91c — Přestupky držitele oprávnění k činnosti zprostředkovatele
 
@@ -787,6 +1791,78 @@ Nižší sazba pro procesní povinnosti vůči ERÚ a vyšší sazba pro meritor
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c057d905ccf187ae216e generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 91c — Přestupky držitele oprávnění k činnosti zprostředkovatele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Zprostředkovatel se dopustí přestupku tím, že
+>
+> - a) poruší mlčenlivost o skutečnostech podle § 11 odst. 1 písm. g),
+>
+> - b) neuvede pravdivé a úplné informace podle § 11 odst. 1 písm. j),
+>
+> - c) poruší povinnost zdržet se všech činností podle § 11 odst. 1 písm. k),
+>
+> - d) bezodkladně neoznámí Energetickému regulačnímu úřadu skutečnosti podle [[#§ 11i|§ 11i]],
+>
+> - e) poruší povinnost informovat spotřebitele podle § 11l odst. 1 písm. a),
+>
+> - f) poruší povinnost provozovat činnost poctivě a s odbornou péčí podle § 11l odst. 1 písm. b),
+>
+> - g) poruší povinnost zohledňovat práva a oprávněné zájmy spotřebitele podle § 11l odst. 1 písm. c),
+>
+> - h) nepředá spotřebiteli vyhotovení smlouvy podle § 11m odst. 2, nebo
+>
+> - i) bezodkladně nepředá spotřebiteli písemné vyhotovení smlouvy podle § 11m odst. 6,
+>
+> - j) neposkytne Energetickému regulačnímu úřadu potřebnou součinnost nebo neposkytne vyjádření ve lhůtě podle § 11p odst. 3.
+>
+> (2) Za přestupek lze uložit pokutu do
+>
+> - a) 1 000 000 Kč, jde-li o přestupek uvedený v odstavci 1 písm. d) nebo j), nebo
+>
+> - b) 15 000 000 Kč, jde-li o přestupek uvedený v odstavci 1 písm. a), b), c), e), f), g), h) nebo i).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11, § 11i, § 11l, § 11m, § 11p
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c057d905ccf187ae216e -->
+
 ### § 91ca — Přestupky regionálního koordinačního centra
 
 > **§ 91ca**
@@ -855,6 +1931,60 @@ Sazba: **15 000 000 Kč** jednotně pro všechny přestupky RCC.
 **Typicky rozhodné důkazy / podklady:** výzva ERÚ s doložkou doručení, evidence komunikace s RCC, doklad o (ne)poskytnutí podkladů, příslušné akty ACER/ENTSO-E o zřízení a úkolech RCC, stanovisko dotčených provozovatelů přenosových soustav.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0510c85e296c9afc16ef generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 91ca — Přestupky regionálního koordinačního centra
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Regionální koordinační centrum se dopustí přestupku tím, že
+>
+> - a) neposkytne Energetickému regulačnímu úřadu ve stanovené lhůtě požadované podklady nebo informace podle § 15a odst. 5,
+>
+> - b) poruší některou z povinností regionálního koordinačního centra podle Nařízení o vnitřním trhu s elektřinou, přímo použitelného předpisu vydaného na jeho základě nebo k jeho provedení nebo povinnost vyplývající z rozhodnutí Agentury vydaného na jejich základě,
+>
+> - c) neumožní Energetickému regulačnímu úřadu výkon jeho oprávnění podle [[#§ 18b|§ 18b]] nebo neposkytne Energetickému regulačnímu úřadu součinnost.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do výše 15 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15a, § 18b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0510c85e296c9afc16ef -->
 
 ### § 91d — Společná ustanovení k přestupkům
 
@@ -926,3 +2056,48 @@ Zákon neobsahuje v § 91d explicitní výčet kritérií pro ukládání pokut 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí ERÚ a kompletní správní spis, doklady o datu spáchání a o úkonech přerušujících promlčení, doručenky, podklady ke kritériím dle § 37 ZoOP (závažnost, následky, chování po spáchání), u procesního přezkumu doklad o podání rozkladu a o sídle ERÚ.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=9a9bf4c479108a805884 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 91d — Společná ustanovení k přestupkům
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> Přestupky podle tohoto zákona projednává Energetický regulační úřad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9a9bf4c479108a805884 -->

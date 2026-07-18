@@ -93,6 +93,80 @@ Ustanovení § 22 je katalogem účastníků trhu (odst. 1), zakotvuje odpovědn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6fb48af3ddc9287ad8db generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 22 — Účastníci trhu s elektřinou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Účastníky trhu s elektřinou jsou
+>
+> - a) výrobci elektřiny,
+>
+> - b) provozovatel přenosové soustavy,
+>
+> - c) provozovatelé distribučních soustav,
+>
+> - d) operátor trhu,
+>
+> - e) obchodníci s elektřinou,
+>
+> - f) zákazníci,
+>
+> - g) společenství,
+>
+> - h) datové centrum,
+>
+> - i) agregátoři,
+>
+> - j) provozovatelé zařízení pro ukládání elektřiny.
+>
+> (2) Účastníci trhu s elektřinou
+>
+> - a) nesou odpovědnost za odchylku a jsou subjekty zúčtování odchylek, a
+>
+> - b) mohou přenášet na základě smlouvy odpovědnost za odchylku na jiný subjekt zúčtování odchylek.
+>
+> (3) Účastník trhu s elektřinou je povinen hradit cenu za systémové služby, cenu za provoz nesíťové infrastruktury a složku ceny na podporu elektřiny z podporovaných zdrojů energie podle zákona o podporovaných zdrojích energie i v případě, kdy není uzavřena smlouva o zajištění služby distribuční soustavy, využívá-li k odběru elektřiny jím provozovanou distribuční soustavu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6fb48af3ddc9287ad8db -->
+
 ### § 23 — Výrobce elektřiny
 
 > **§ 23**
@@ -260,6 +334,130 @@ Odst. 5 řeší situaci hybridního subjektu. Výrobce provozující na předáv
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c50e7069105dcc0d32ca generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 23 — Výrobce elektřiny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Výrobce elektřiny má právo
+>
+> - a) připojit své zařízení k elektrizační soustavě, pokud splňuje podmínky připojení k přenosové soustavě nebo k distribučním soustavám a obchodní podmínky stanovené Pravidly provozování přenosové soustavy nebo Pravidly provozování distribuční soustavy,
+>
+> - b) dodávat elektřinu vyrobenou v jím provozované výrobně elektřiny ostatním účastníkům trhu s elektřinou nebo do jiných států prostřednictvím přenosové soustavy nebo distribuční soustavy, nebo přímým vedením,
+>
+> - c) dodávat elektřinu vyrobenou ve vlastní výrobně elektřiny pro vlastní potřebu, pokud mu to podmínky provozování přenosové soustavy a distribučních soustav umožňují,
+>
+> - d) nabízet a poskytovat podpůrné služby k zajištění provozu elektrizační soustavy za podmínek stanovených Pravidly provozování přenosové soustavy nebo Pravidly provozování distribuční soustavy nebo poskytovat flexibilitu pro jiné účely, a to přímo, nebo prostřednictvím agregace jednomu agregátorovi, je-li předávací místo vybaveno průběhovým měřením,
+>
+> - e) omezit, přerušit nebo ukončit dodávku elektřiny svým zákazníkům při neoprávněném odběru elektřiny,
+>
+> - f) nakupovat elektřinu pro technologickou vlastní spotřebu své výrobny elektřiny,
+>
+> - g) sdílet s využitím distribuční nebo přenosové soustavy elektřinu vyrobenou v jím provozované výrobně elektřiny do jiného předávacího místa výrobce elektřiny,
+>
+> - h) sdílet elektřinu vyrobenou v jím provozované výrobně elektřiny bez využití distribuční nebo přenosové soustavy zákazníkům, jestliže mají tito účastníci trhu s elektřinou předávací místa připojená k distribuční soustavě prostřednictvím jedné společné hlavní domovní pojistkové skříně nebo hlavní domovní kabelové skříně, nebo sdílet takto vyrobenou elektřinu s využitím distribuční nebo přenosové soustavy do předávacích míst zákazníků nebo do předávacího místa výrobny,
+>
+> - i) na poskytnutí informací od operátora trhu nezbytných k vyúčtování dodávek elektřiny zákazníkům, jejichž odběrné místo je registrováno u operátora trhu,
+>
+> - j) na informaci o způsobu alokace sdílené elektřiny do předávacích míst přiřazených do skupiny sdílení, ve kterých zajišťuje dodávku elektřiny, souhrnnou informaci o způsobu alokace sdílené elektřiny a informaci o průběhu výroby elektřiny a technických parametrech výrobny elektřiny, z níž je elektřina sdílena, od datového centra,
+>
+> - k) uzavřít smlouvu o agregaci i bez souhlasu dodavatele elektřiny.
+>
+> (2) Výrobce elektřiny je povinen si zajistit vlastnické právo nebo zřídit věcné břemeno k cizí nemovitosti nebo její části umožňující zřízení nebo provozování výrobny elektřiny o celkovém instalovaném elektrickém výkonu 100 MW a více s možností poskytovat podpůrné služby k zajištění provozu elektrizační soustavy, stavby pro energetickou bezpečnost podle zákona o urychlení výstavby strategicky významné infrastruktury a stavby související, a to smluvně s vlastníkem nemovitosti za jednorázovou náhradu ve výši ceny zjištěné podle oceňovacího předpisu47), pokud se strany nedohodnou jinak; v případě, že vlastník nemovitosti není znám nebo určen nebo je prokazatelně nedosažitelný nebo nečinný nebo nedošlo k dohodě s ním a jsou-li dány podmínky pro odejmutí nebo omezení vlastnického práva k pozemku nebo ke stavbě podle zvláštního právního předpisu4e), rozhodne příslušný vyvlastňovací úřad na návrh příslušného výrobce elektřiny o odejmutí nebo omezení vlastnického práva k pozemku nebo ke stavbě podle jiného právního předpisu4e).
+>
+> (3) Výrobce elektřiny je povinen
+>
+> - a) na své náklady zajistit připojení svého zařízení k přenosové soustavě nebo k distribuční soustavě,
+>
+> - b) umožnit a uhradit instalaci měřicího zařízení provozovateli přenosové soustavy nebo provozovateli distribuční soustavy, ke které je výrobna elektřiny připojena,
+>
+> - c) zpřístupnit měřicí zařízení provozovateli přenosové soustavy nebo provozovateli distribuční soustavy, ke které je výrobna elektřiny připojena,
+>
+> - d) instalovat u nově budovaných výroben o celkovém instalovaném elektrickém výkonu 30 MW a více a provozovat zařízení pro poskytování podpůrných služeb,
+>
+> - e) řídit se pokyny technického dispečinku provozovatele přenosové soustavy nebo provozovatele distribuční soustavy nebo řídicího a dohledového centra provozovatele distribuční soustavy, ke které je výrobna elektřiny připojena,
+>
+> - f) předávat operátorovi trhu technické údaje vyplývající ze smluv o dodávce elektřiny prostřednictvím subjektu zúčtování, který převzal odpovědnost za jeho odchylku, nebo přímo, pokud je subjektem zúčtování, údaje k uplatnění ceny za činnosti operátora trhu podle Pravidel trhu s elektřinou a další nezbytné informace pro plnění povinností operátora trhu,
+>
+> - g) poskytovat provozovateli přenosové soustavy nebo provozovateli distribuční soustavy, ke které je výrobna elektřiny připojena, potřebné údaje pro provoz a rozvoj přenosové soustavy nebo distribuční soustavy, a operátorovi trhu údaje potřebné pro plnění jejich povinností,
+>
+> - h) předávat provozovateli soustavy, ke které je výrobna elektřiny připojena, informace nezbytné pro dispečerské řízení,
+>
+> - i) dodržovat parametry kvality dodávané elektřiny stanovené Pravidly provozování přenosové soustavy nebo Pravidly provozování distribuční soustavy,
+>
+> - j) podílet se podle výše požadovaného výkonu nebo příkonu na úhradě nákladů provozovatele přenosové soustavy nebo provozovatele distribuční soustavy spojených s připojováním zařízení k přenosové soustavě nebo distribuční soustavě prostřednictvím úhrady paušální částky, jejíž část je nevratná i v případě, že výrobna elektřiny nebyla připojena, případně hradit v plné výši oprávněné náklady provozovatele přenosové soustavy nebo provozovatele distribuční soustavy spojené s připojením výrobny elektřiny,
+>
+> - k) informovat účastníky trhu s elektřinou na svých internetových stránkách
+>
+>   - 1. o podílu zdrojů elektřiny použitých pro výrobu elektřiny v uplynulém roce,
+>
+>   - 2. o množství emisí CO2 a o množství radioaktivního odpadu vyprodukovaného při výrobě elektřiny v uplynulém roce,
+>
+> - l) za účelem zajištění bezpečnosti a spolehlivosti provozu elektrizační soustavy, při předcházení stavu nouze a při stavech nouze a za podmínek stanovených Pravidly provozování přenosové soustavy nebo Pravidly provozování distribuční soustavy, na pokyn provozovatele přenosové soustavy nebo provozovatele distribuční soustavy, nabízet provozně a obchodně nevyužité výrobní kapacity,
+>
+> - m) zaregistrovat se do 30 dnů od udělení licence na výrobu elektřiny u operátora trhu; zaregistrováním se výrobce elektřiny stává registrovaným účastníkem trhu,
+>
+> - n) poskytovat provozovateli přenosové soustavy nebo provozovateli distribuční soustavy informace nezbytné pro zajištění bezpečného a spolehlivého provozu a rozvoje elektrizační soustavy,
+>
+> - o) vybavit výrobnu elektřiny s instalovaným výkonem 100 kW a více zařízením umožňujícím dispečerské řízení výrobny elektřiny a udržovat toto zařízení v provozuschopném stavu; tato povinnost se nevztahuje na výrobny elektřiny využívající obnovitelné zdroje elektřiny poprvé uvedené do provozu do roku 2000 o instalovaném výkonu do 10 MW včetně a na průtočné malé vodní elektrárny s instalovaným výkonem do 10 MW včetně,
+>
+> - p) vypracovat havarijní plán do 6 měsíců od udělení licence a dále jej každoročně upřesňovat; při jeho tvorbě a upřesňování spolupracovat s provozovatelem přenosové soustavy nebo s provozovatelem distribuční soustavy, k níž je výrobna elektřiny připojena; tato povinnost se nevztahuje na výrobce elektřiny, jehož výrobna elektřiny má instalovaný výkon nižší než 10 MW,
+>
+> - q) při změně parametrů elektřiny upravit na svůj náklad svá zařízení tak, aby vyhovovala těmto změnám,
+>
+> - r) splnit požadavky na bezpečnou instalaci v případě výroben elektřiny z obnovitelných zdrojů energie s instalovaným výkonem do 100 kW připojených k distribuční soustavě, které nevyžadují povolení záměru podle stavebního zákona,
+>
+> - s) hradit provozovateli přenosové soustavy nebo distribuční soustavy cenu za provoz nesíťové infrastruktury, zajišťuje-li dodávku elektřiny do předávacího místa zákazníka podle smlouvy o sdružených službách dodávky elektřiny,
+>
+> - t) plnit a vykazovat plnění kritérií udržitelnosti a úspor emisí skleníkových plynů podle zákona o podporovaných zdrojích energie v případě elektřiny vyrobené z
+>
+>   - 1. pevných paliv z biomasy ve výrobně elektřiny s celkovým jmenovitým tepelným příkonem nad 7,5 MW nebo z plynných paliv z biomasy ve výrobně elektřiny s celkovým jmenovitým tepelným příkonem nad 2 MW, přičemž paliva z biomasy vyrobená z odpadů a zbytků jiných než zbytků ze zemědělství, akvakultury, rybolovu a lesnictví musí splňovat pouze kritéria úspor emisí skleníkových plynů vyjma paliv z biomasy vyrobených z tuhého komunálního odpadu, která nepodléhají ani kritériím úspor emisí skleníkových plynů,
+>
+>   - 2. biokapalin, přičemž biokapaliny vyrobené z odpadů a zbytků jiných než zbytků ze zemědělství, akvakultury, rybolovu a lesnictví musí splňovat pouze kritéria úspor emisí skleníkových plynů, vyjma biokapalin vyrobených z tuhého komunálního odpadu, které nepodléhají ani kritériím úspor emisí skleníkových plynů.
+>
+> (4) Výrobce neodpovídá za odchylku vzniklou v souvislosti s dispečerským řízením výrobny elektřiny podle § 26 odst. 5.
+>
+> (5) Provozuje-li výrobce elektřiny v předávacím místě výrobny elektřiny zařízení pro ukládání elektřiny, vztahují se na něj rovněž práva a povinnosti provozovatele zařízení pro ukládání elektřiny. Dodává-li výrobce elektřiny jím vyrobenou elektřinu zákazníkům, vztahuje se na něj právo na poskytnutí přenosu nebo distribuce elektřiny podle § 30 odst. 1 písm. a) a povinnosti obchodníka s elektřinou podle § 30 odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 26, § 30
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c50e7069105dcc0d32ca -->
+
 ### § 23a — Provozovatel zařízení pro ukládání elektřiny
 
 > **§ 23a**
@@ -360,6 +558,94 @@ Povinnosti (odst. 2 písm. a–l) odpovídají svou strukturou povinnostem výro
 **Typicky rozhodné důkazy / podklady:** licence na ukládání elektřiny, smlouva o připojení, doklad o registraci u OTE, smlouvy o dodávce/odběru, technické parametry úložiště, údaje z průběhového měření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8b9955bcdb2965fa7c9d generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 23a — Provozovatel zařízení pro ukládání elektřiny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel zařízení pro ukládání elektřiny má právo
+>
+> - a) připojit své zařízení pro ukládání elektřiny k elektrizační soustavě, pokud splňuje podmínky připojení k přenosové soustavě nebo k distribučním soustavám a podmínky stanovené Pravidly provozování přenosové soustavy nebo Pravidly provozování distribuční soustavy,
+>
+> - b) dodávat elektřinu z jím provozovaného zařízení pro ukládání elektřiny obchodníkovi s elektřinou nebo do jiných států prostřednictvím přenosové soustavy nebo distribuční soustavy nebo na organizované trhy s elektřinou,
+>
+> - c) nabízet a poskytovat podpůrné služby k zajištění provozu elektrizační soustavy za podmínek stanovených Pravidly provozování přenosové soustavy nebo Pravidly provozování distribuční soustavy nebo poskytovat flexibilitu pro jiné účely, a to přímo, nebo prostřednictvím agregace jednomu agregátorovi, je-li předávací místo vybaveno průběhovým měřením,
+>
+> - d) nakupovat elektřinu pro její ukládání,
+>
+> - e) sdílet s využitím distribuční nebo přenosové soustavy elektřinu uloženou v jím provozovaném zařízení pro ukládání elektřiny do jiného předávacího místa provozovatele zařízení pro ukládání elektřiny,
+>
+> - f) sdílet elektřinu uloženou v jím provozovaném zařízení pro ukládání elektřiny bez využití distribuční nebo přenosové soustavy zákazníkům, jestliže mají tito účastníci trhu s elektřinou předávací místa připojená k distribuční soustavě prostřednictvím jedné společné hlavní domovní pojistkové skříně nebo hlavní domovní kabelové skříně, nebo sdílet takto uloženou elektřinu s využitím distribuční nebo přenosové soustavy do předávacích míst zákazníků,
+>
+> - g) uzavřít smlouvu o agregaci i bez souhlasu dodavatele elektřiny.
+>
+> (2) Provozovatel zařízení pro ukládání elektřiny je povinen
+>
+> - a) na své náklady zajistit připojení svého zařízení pro ukládání elektřiny k přenosové soustavě nebo k distribuční soustavě,
+>
+> - b) umožnit a uhradit instalaci měřicího zařízení provozovateli přenosové soustavy nebo provozovateli distribuční soustavy, ke které je zařízení pro ukládání elektřiny připojeno,
+>
+> - c) zpřístupnit měřicí zařízení provozovateli přenosové soustavy nebo provozovateli distribuční soustavy, ke které je zařízení pro ukládání elektřiny připojeno,
+>
+> - d) řídit se pokyny technického dispečinku provozovatele přenosové soustavy nebo provozovatele distribuční soustavy nebo řídicího a dohledového centra provozovatele distribuční soustavy, ke které je zařízení pro ukládání elektřiny připojeno,
+>
+> - e) předávat operátorovi trhu údaje k uplatnění ceny za činnosti operátora trhu a další nezbytné informace pro plnění povinností operátora trhu,
+>
+> - f) poskytovat provozovateli přenosové soustavy nebo provozovateli distribuční soustavy, ke které je zařízení pro ukládání elektřiny připojeno, potřebné údaje a informace pro rozvoj, provoz a dispečerské řízení přenosové soustavy nebo distribuční soustavy,
+>
+> - g) dodržovat parametry kvality dodávané elektřiny stanovené Pravidly provozování přenosové soustavy nebo Pravidly provozování distribuční soustavy,
+>
+> - h) podílet se podle výše požadovaného výkonu nebo příkonu na úhradě nákladů provozovatele přenosové soustavy nebo provozovatele distribuční soustavy spojených s připojováním zařízení k přenosové soustavě nebo distribuční soustavě prostřednictvím úhrady paušální částky, jejíž část je nevratná i v případě, že zařízení pro ukládání elektřiny nebylo připojeno, případně hradit v plné výši oprávněné náklady provozovatele přenosové soustavy nebo provozovatele distribuční soustavy spojené s připojením zařízení pro ukládání elektřiny,
+>
+> - i) zaregistrovat se do 30 dnů od udělení licence na ukládání elektřiny u operátora trhu,
+>
+> - j) vybavit zařízení pro ukládání elektřiny s instalovaným výkonem 100 kW a více zařízením umožňujícím dispečerské řízení a udržovat toto zařízení v provozuschopném stavu,
+>
+> - k) vypracovat havarijní plán do 6 měsíců od udělení licence a každoročně jej upřesňovat a při jeho tvorbě a upřesňování spolupracovat s provozovatelem přenosové soustavy nebo s provozovatelem distribuční soustavy, k níž je zařízení pro ukládání elektřiny připojeno; tato povinnost se nevztahuje na provozovatele zařízení pro ukládání elektřiny, jehož instalovaný výkon je nižší než 10 MW,
+>
+> - l) při změně parametrů elektřiny upravit na svůj náklad zařízení pro ukládání elektřiny tak, aby vyhovovalo těmto změnám.
+>
+> (3) Provozovatel zařízení pro ukládání elektřiny neodpovídá za odchylku vzniklou v souvislosti s dispečerským řízením zařízení pro ukládání elektřiny podle § 26 odst. 5.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 26
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8b9955bcdb2965fa7c9d -->
 
 ### § 24 — Provozovatel přenosové soustavy
 
@@ -500,6 +786,222 @@ Odst. 15 výslovně zakazuje odmítnout připojení výrobny nebo úložiště n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5c9985e291aacd869d3e generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 24 — Provozovatel přenosové soustavy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel přenosové soustavy
+>
+> - a) se zřetelem k využití energeticky účinných technologií zajišťuje bezpečný, spolehlivý a efektivní provoz, obnovu a rozvoj přenosové soustavy a zajišťuje propojení přenosové soustavy s jinými soustavami, a za tím účelem zabezpečuje podpůrné služby a dlouhodobou schopnost přenosové soustavy uspokojovat přiměřenou poptávku po přenosu elektřiny, spolupracuje s provozovateli propojených přenosových soustav a spolupracuje na integraci vnitřního evropského trhu s elektřinou,
+>
+> - b) poskytuje službu přenosové soustavy,
+>
+> - c) řídí toky elektřiny v přenosové soustavě při respektování přenosů elektřiny mezi propojenými soustavami ostatních států a ve spolupráci s provozovateli distribučních soustav v elektrizační soustavě,
+>
+> - d) odpovídá za zajištění systémových služeb pro elektrizační soustavu na úrovni přenosové soustavy,
+>
+> - e) účastní se vyrovnávacího mechanismu a uskutečňuje platby podle vyrovnávacího mechanismu mezi provozovateli přenosových soustav v souladu s Nařízením o vnitřním trhu s elektřinou a při zachování bezpečnosti a spolehlivosti přenosové soustavy poskytuje přeshraniční přenos elektřiny účastníkům trhu s elektřinou,
+>
+> - f) v případě existujícího či hrozícího nedostatku kapacity přenosové soustavy informuje dotčené účastníky trhu s elektřinou na základě jejich žádosti o důvodech, pro které neuskutečnil přenos elektřiny.
+>
+> (2) Provozovatel přenosové soustavy nesmí být držitelem jiné licence udělované podle tohoto zákona než licence na přenos elektřiny.
+>
+> (3) Provozovatel přenosové soustavy má právo
+>
+> - a) zřizovat a provozovat vlastní telekomunikační síť k řízení, měření, zabezpečování a automatizaci provozu přenosové soustavy a k přenosu informací pro činnost výpočetní techniky a informačních systémů,
+>
+> - b) obstarávat za nejnižší náklady podpůrné služby a elektřinu pro krytí ztrát elektřiny v přenosové soustavě a pro vlastní potřebu, nabízet a prodávat elektřinu obstaranou na krytí ztrát elektřiny a nevyužitou na krytí ztrát elektřiny v přenosové soustavě na vnitrodenním trhu s elektřinou a; pro řízení rovnováhy mezi výrobou a spotřebou a pro řízení toků elektřiny podle odstavce 1 písm. c) obstarávat regulační energii,
+>
+> - c) omezit nebo přerušit v nezbytném rozsahu dodávku elektřiny účastníkům trhu s elektřinou
+>
+>   - 1. při bezprostředním ohrožení života, zdraví nebo majetku osob a při likvidaci těchto stavů,
+>
+>   - 2. při předcházení stavu nouze nebo při stavech nouze,
+>
+>   - 3. při neoprávněném přenosu elektřiny podle [[#§ 53|§ 53]],
+>
+>   - 4. jestliže mu zákazník neumožní přístup k měřicímu zařízení,
+>
+>   - 5. jestliže se jedná o neoprávněný odběr podle [[#§ 51|§ 51]],
+>
+>   - 6. při provádění plánovaných prací na zařízení přenosové soustavy nebo v jeho ochranném pásmu, zejména oprav, rekonstrukcí, údržby a revizí,
+>
+>   - 7. při vzniku a odstraňování poruch na zařízeních přenosové soustavy nebo distribuční soustavy,
+>
+>   - 8. při odběru elektřiny zařízeními, která ohrožují život, zdraví nebo majetek osob,
+>
+>   - 9. při odběru elektřiny zařízeními, která ovlivňují kvalitu elektřiny v neprospěch účastníků trhu s elektřinou a zákazník nevybavil tato odběrná zařízení dostupnými technickými prostředky k omezení těchto vlivů, nebo
+>
+>   - 10. v důsledku omezení nebo přerušení přenosu elektřiny provozovateli propojených přenosových soustav,
+>
+> - d) změnit nebo přerušit v nezbytném rozsahu dodávku elektřiny z výroben, dodávku elektřiny ze zařízení pro ukládání elektřiny, přeshraniční výměnu elektřiny a dovoz elektřiny ze zahraničí nebo vývoz elektřiny do zahraničí k zajištění spolehlivého provozu přenosové soustavy
+>
+>   - 1. při bezprostředním ohrožení života, zdraví nebo majetku osob a při likvidaci těchto stavů,
+>
+>   - 2. při předcházení stavu nouze nebo při stavech nouze,
+>
+>   - 3. při neoprávněném přenosu elektřiny podle [[#§ 53|§ 53]],
+>
+>   - 4. při neoprávněné dodávce elektřiny do přenosové soustavy podle [[#§ 52|§ 52]],
+>
+>   - 5. jestliže mu výrobce nebo provozovatel zařízení pro ukládání elektřiny neumožní přístup k měřicímu zařízení,
+>
+>   - 6. při provádění plánovaných prací na zařízení přenosové soustavy nebo v jeho ochranném pásmu, zejména oprav, rekonstrukcí, údržby a revizí, nebo periodických zkoušek zařízení umožňujícího dispečerské řízení výrobny elektřiny nebo zařízení pro ukládání elektřiny,
+>
+>   - 7. při vzniku a odstraňování poruch na zařízeních přenosové soustavy nebo distribuční soustavy,
+>
+>   - 8. při dodávce elektřiny zařízeními, která ohrožují život, zdraví nebo majetek osob,
+>
+>   - 9. při dodávce elektřiny zařízeními, která ovlivňují kvalitu elektřiny v neprospěch ostatních účastníků trhu s elektřinou a výrobce nebo provozovatel zařízení pro ukládání elektřiny nevybavil tato zařízení dostupnými technickými prostředky k omezení těchto vlivů,
+>
+>   - 10. v důsledku omezení nebo přerušení přenosu elektřiny nebo v důsledku jiných provozních stavů způsobených provozovateli propojených přenosových soustav, nebo
+>
+>   - 11. při provádění dispečerského řízení podle § 26 odst. 5,
+>
+> - e) v souladu se zvláštním právním předpisem4d) zřizovat a provozovat na cizích nemovitostech zařízení přenosové soustavy, přetínat tyto nemovitosti vodiči a umísťovat v nich vedení,
+>
+> - f) vstupovat a vjíždět na cizí nemovitosti v souvislosti se zřizováním, obnovou a provozováním přenosové soustavy,
+>
+> - g) odstraňovat a oklešťovat stromoví a jiné porosty, provádět likvidaci odstraněného a okleštěného stromoví a jiných porostů ohrožujících bezpečné a spolehlivé provozování zařízení přenosové soustavy v případech, kdy tak po předchozím upozornění a stanovení rozsahu neučinil sám vlastník či uživatel,
+>
+> - h) vstupovat a vjíždět v souladu se zvláštními právními předpisy do uzavřených prostor a zařízení sloužících k výkonu činností a služeb orgánů Ministerstva obrany, Ministerstva vnitra, Ministerstva spravedlnosti, Bezpečnostní informační služby a do obvodu dráhy, jakož i vstupovat a vjíždět na nemovitosti, kde jsou umístěna zvláštní zařízení telekomunikací, v rozsahu a způsobem nezbytným pro výkon licencované činnosti,
+>
+> - i) pro zajištění integrace vnitřního evropského trhu s elektřinou nabývat vlastnické právo k elektřině,
+>
+> - j) omezit aktivaci flexibility v předávacích místech v případě ohrožení bezpečného a spolehlivého provozu elektrizační soustavy.
+>
+> (4) Provozovatel přenosové soustavy je povinen zřídit věcné břemeno umožňující využití cizí nemovitosti nebo její části pro účely uvedené v odstavci 3 písm. e), a to smluvně s vlastníkem nemovitosti za jednorázovou náhradu ve výši ceny zjištěné podle oceňovacího předpisu47), pokud se strany nedohodnou jinak; v případě, že vlastník není znám nebo určen nebo proto, že je prokazatelně nedosažitelný nebo nečinný nebo nedošlo k dohodě s ním a jsou-li dány podmínky pro omezení vlastnického práva k pozemku nebo ke stavbě podle zvláštního právního předpisu4e), vydá příslušný vyvlastňovací úřad na návrh provozovatele přenosové soustavy rozhodnutí o zřízení věcného břemene umožňujícího využití této nemovitosti nebo její části. To platí i v případě, kdy je stavba, pro kterou se právo vyvlastňuje, zřizována nebo již byla zřízena a zřízení věcného břemene nezmařil provozovatel přenosové soustavy.
+>
+> (5) V případech uvedených v odstavci 3 písm. c) bodu 6 a písmenu d) bodu 6 je provozovatel přenosové soustavy povinen oznámit započetí a skončení omezení nebo přerušení dodávek elektřiny způsobem v místě obvyklým, nejméně však 50 dnů předem. V případě periodických zkoušek zařízení umožňujícího dispečerské řízení výrobny elektřiny nebo zařízení pro ukládání elektřiny je provozovatel přenosové soustavy povinen oznámit započetí a skončení omezení nebo přerušení dodávek elektřiny způsobem a v termínu stanoveném prováděcím právním předpisem, nejméně však 3 pracovní dny předem.
+>
+> (6) V případech uvedených v odstavci 3 písm. c) a d) je provozovatel přenosové soustavy povinen obnovit dodávku elektřiny bezprostředně po odstranění příčin, které vedly k jejímu omezení nebo přerušení.
+>
+> (7) V případech uvedených v odstavci 3 písm. c) a d) je právo na náhradu škody vyloučeno. Toto neplatí, nesplní-li provozovatel přenosové soustavy oznamovací povinnost uloženou podle odstavce 5 nebo v případech, kdy poruchu prokazatelně zavinil provozovatel přenosové soustavy.
+>
+> (8) Provozovatel přenosové soustavy je povinen při výkonu oprávnění podle odstavce 3 písm. e) až g) co nejvíce šetřit práv vlastníků dotčených nemovitostí a vstup na jejich nemovitosti jim oznámit. Po skončení prací je povinen uvést nemovitosti do předchozího stavu, a není-li to možné s ohledem na povahu provedených prací, do stavu odpovídajícímu předchozímu účelu nebo užívání dotčené nemovitosti a bezprostředně oznámit tuto skutečnost vlastníku nemovitosti. Po provedení odstranění nebo okleštění stromoví je povinen na svůj náklad provést likvidaci vzniklého klestu a zbytků po těžbě.
+>
+> (9) Pokud byl vlastník nebo uživatel nemovitosti v důsledku výkonu práv provozovatele přenosové soustavy podle odstavce 3 písm. e) a f) omezen v obvyklém užívání nemovitosti nebo mu vznikla újma na majetku, má právo na přiměřenou jednorázovou náhradu5). Právo na náhradu podle věty první lze uplatnit u provozovatele přenosové soustavy do 2 let ode dne, kdy k omezení nebo újmě došlo, jinak právo zaniká.
+>
+> (10) Provozovatel přenosové soustavy je dále povinen
+>
+> - a) každému, kdo požádá o připojení k přenosové soustavě, stanovit místo, způsob, včetně určení napěťové hladiny, termín a podmínky připojení v souladu se zásadou hospodárnosti rozvoje a provozu přenosové soustavy a poskytnout přenos každému, kdo o to požádá, je připojen a splňuje podmínky připojení a podmínky stanovené Pravidly provozování přenosové soustavy, s výjimkou případu prokazatelného nedostatku kapacity zařízení pro přenos nebo při ohrožení bezpečného a spolehlivého provozu přenosové soustavy; nedostatek kapacity zařízení pro přenos elektřiny nebo ohrožení spolehlivého a bezpečného provozu přenosové soustavy musí provozovatel přenosové soustavy žadateli písemně zdůvodnit a uvést předběžný termín a předběžné podmínky budoucího připojení,
+>
+> - b) zajišťovat všem účastníkům trhu s elektřinou neznevýhodňující podmínky pro připojení jejich zařízení k přenosové soustavě,
+>
+> - c) zajišťovat všem účastníkům trhu s elektřinou neznevýhodňující podmínky pro přenos elektřiny přenosovou soustavou,
+>
+> - d) zajistit zřízení technického dispečinku pro výkon činností podle odstavce 1 písm. c) a d) a zajistit jeho řádnou činnost,
+>
+> - e) zajišťovat měření v přenosové soustavě včetně jejich vyhodnocování a předávat operátorovi trhu naměřené a vyhodnocené údaje a další nezbytné informace pro plnění jeho povinností,
+>
+> - f) zpracovávat a po schválení Energetickým regulačním úřadem zveřejňovat Pravidla provozování přenosové soustavy a vykonávat licencovanou činnost v souladu s těmito pravidly,
+>
+> - g) poskytovat provozovatelům jiných přenosových soustav a provozovatelům distribučních soustav, se kterými je jeho soustava propojena, informace nezbytné k zajištění vzájemné spolupráce při provozu a rozvoji sítí a spolupracovat s provozovateli distribučních soustav při zajišťování rozvoje trhu s nefrekvenčními podpůrnými službami,
+>
+> - h) informovat ministerstvo a Energetický regulační úřad o omezení dovozu nebo vývozu elektřiny,
+>
+> - i) zpracovávat ve spolupráci s provozovateli distribučních soustav přípravy provozu přenosové soustavy a roční přípravu provozu přenosové soustavy zveřejňovat,
+>
+> - j) každý druhý rok zpracovávat desetiletý plán rozvoje přenosové soustavy a po jeho schválení jej zveřejňovat; pro předmět desetiletého plánu rozvoje přenosové soustavy se § 58k odst. 3 použije obdobně,
+>
+> - k) průběžně zveřejňovat informace o možnostech přenosu elektřiny přenosovou soustavou způsobem stanoveným v Pravidlech provozování přenosové soustavy,
+>
+> - l) provádět ve spolupráci s provozovateli distribučních soustav hodnocení provozu přenosové soustavy z technického hlediska,
+>
+> - m) účtovat odděleně za přenos a za systémové služby,
+>
+> - n) zpracovávat údaje potřebné pro rozhodnutí Energetického regulačního úřadu o cenách za přenos a o cenách za systémové služby,
+>
+> - o) zajišťovat ochranu chráněných informací, včetně zajištění ochrany údajů předávaných operátorovi trhu a datovému centru, a zajišťovat, aby nebyly chráněné informace o jeho vlastních činnostech poskytovány diskriminačním způsobem,
+>
+> - p) vypracovat havarijní plány do 6 měsíců od udělení licence a dále je každoročně upřesňovat; při jejich tvorbě a upřesňování spolupracovat s provozovateli distribučních soustav, jejichž zařízení je připojeno k přenosové soustavě,
+>
+> - r) dodržovat stanovenou kvalitu dodávek a služeb, vykazovat Energetickému regulačnímu úřadu úroveň kvality dodávek a služeb a zveřejňovat ji na svých internetových stránkách,
+>
+> - s) informovat ministerstvo nejpozději do konce druhého týdne měsíce následujícího po uplynutí čtvrtletí o fyzikálních tocích dovozu elektřiny ze států, které nejsou členy Evropské unie,
+>
+> - t) zpracovávat a předávat ministerstvu a Energetickému regulačnímu úřadu jednou ročně nejpozději do 1. března zprávu o kvalitě a úrovni údržby zařízení přenosové soustavy a o opatřeních na pokrytí špičkové spotřeby elektřiny a řešení výpadku výroben elektřiny,
+>
+> - u) poskytovat součinnost operátorovi trhu při organizování vnitrodenního trhu s elektřinou,
+>
+> - v) zaregistrovat se do 30 dnů od udělení licence na přenos elektřiny u operátora trhu; zaregistrováním se provozovatel přenosové soustavy stává registrovaným účastníkem trhu,
+>
+> - w) poskytovat všem účastníkům trhu s elektřinou informace týkající se provozování přenosové soustavy nezbytné pro řádné fungování trhu s elektřinou; touto povinností není dotčena povinnost provozovatele přenosové soustavy dodržovat mlčenlivost podle písmene o),
+>
+> - x) hradit operátorovi trhu ceny za činnosti operátora trhu podle Pravidel trhu s elektřinou,
+>
+> - y) registrovat u operátora trhu předávací místa výroben elektřiny, zařízení pro ukládání elektřiny, odběrných míst a distribučních soustav připojených k přenosové soustavě,
+>
+> - z) zajistit neznevýhodňující podmínky pro poskytovatele podpůrných služeb.
+>
+> (11) Provozovatel přenosové soustavy je dále povinen
+>
+> - a) nezneužívat chráněné informace získané od třetích osob v souvislosti s poskytováním nebo sjednáváním přístupu k přenosové soustavě při prodeji nebo nákupu elektřiny realizovaným podnikem ve skupině a
+>
+> - b) zajišťovat, aby chráněné informace nebyly přeneseny a zaměstnanci nebyli převedeni k výrobci elektřiny, obchodníkovi s elektřinou nebo provozovateli distribuční soustavy; to neplatí pro chráněné informace, které jsou provozovatelem přenosové soustavy poskytovány podle tohoto zákona nebo jiných právních předpisů,
+>
+> - c) bezplatně a způsobem umožňujícím dálkový přístup poskytovat na vyžádání oprávněného žadatele údaje z měření elektřiny51), a to do 6 pracovních dnů následujícího měsíce; provozovatel přenosové soustavy takto poskytuje údaje za požadované období, nejvýše však za období posledních 36 měsíců,
+>
+> - d) hradit datovému centru cenu za činnost datového centra,
+>
+> - e) stanovit po projednání s Energetickým regulačním úřadem normu spolehlivosti podle Nařízení o vnitřním trhu s elektřinou a zveřejnit ji na svých internetových stránkách,
+>
+> - f) spolupracovat s regionálním koordinačním centrem zřízeným podle Nařízení o vnitřním trhu s elektřinou, jehož je členem, při výkonu licencované činnosti zohledňovat doporučení vydávaná tímto regionálním koordinačním centrem a podílet se na úhradě nákladů na jeho činnost,
+>
+> - g) ve spolupráci s provozovatelem přepravní soustavy zpracovávat zprávu o budoucí očekávané spotřebě elektřiny a plynu a o způsobu zabezpečení rovnováhy mezi nabídkou a poptávkou elektřiny a plynu,
+>
+> - h) zpracovávat zprávu o odhadovaných potřebách flexibility podle Nařízení o vnitřním trhu s elektřinou.
+>
+> (12) Nelze-li připojit výrobnu elektřiny nebo zařízení pro ukládání elektřiny z důvodu prokazatelného nedostatku kapacity zařízení pro přenos, umožní provozovatel přenosové soustavy připojení výrobny elektřiny nebo zařízení pro ukládání elektřiny s možností omezení využití rezervovaného výkonu bez náhrady za takové omezení při předcházení nebo řešení přetížení v přenosové soustavě, neohrozí-li takové připojení bezpečný a spolehlivý provoz přenosové soustavy.
+>
+> (13) Provozovatel přenosové soustavy je povinen zpracovávat technické požadavky a podmínky obstarávání podpůrných služeb a předložit je Energetickému regulačnímu úřadu ke schválení. Před předložením návrhu technických požadavků a podmínek obstarávání podpůrných služeb Energetickému regulačnímu úřadu ke schválení je provozovatel přenosové soustavy povinen jej projednat s účastníky trhu s elektřinou. Energetický regulační úřad technické požadavky a podmínky obstarávání podpůrných služeb schválí, pokud umožňují neznevýhodňujícím způsobem nabízení těchto služeb výrobci elektřiny, provozovateli zařízení pro ukládání energie, zákazníky, společenstvími a agregátory při využití dostupných technických možností v souladu se zákonem o hospodaření energií. Provozovatel přenosové soustavy je povinen technické požadavky a podmínky obstarávání podpůrných služeb po jejich schválení Energetickým regulačním úřadem zveřejnit na svých internetových stránkách a při obstarávání podpůrných služeb se jimi řídit. Provozovatel přenosové soustavy může technické požadavky a podmínky obstarávání podpůrných služeb zpracovat jako součást Pravidel provozování přenosové soustavy.
+>
+> (14) Provozovatel přenosové soustavy je oprávněn obstarávat nefrekvenční podpůrné služby přímým nákupem od poskytovatele nefrekvenčních podpůrných služeb pouze s povolením Energetického regulačního úřadu. Energetický regulační úřad povolení udělí, jestliže provozovatel přenosové soustavy prokáže, že obstarání nefrekvenčních podpůrných služeb ve veřejné soutěži nebo jiným obdobným soutěžním postupem není technicky možné nebo by s přihlédnutím ke všem okolnostem vedlo k obstarání nefrekvenčních podpůrných služeb za vyšší náklady než při jejich přímém nákupu. Energetický regulační úřad v rozhodnutí o udělení povolení určuje rozsah a specifikaci nefrekvenčních podpůrných služeb, podmínky jejich obstarání a dobu, na kterou povolení uděluje. Provozovatel přenosové soustavy neobstarává nefrekvenční podpůrné služby, je-li potřeba takových služeb zajištěna plně integrovanými prvky přenosové soustavy.
+>
+> (15) Provozovatel přenosové soustavy nesmí odmítnout připojení výrobny elektřiny nebo zařízení pro ukládání elektřiny podle odstavce 10 písm. a) z důvodu možného nedostatku kapacity zařízení pro přenos elektřiny, který by teprve mohl vzniknout, nebo z důvodu vzniku dodatečných nákladů na nezbytné zvyšování kapacity zařízení pro přenos elektřiny.
+>
+> (16) Provozovatel přenosové soustavy vykonává činnosti zpřístupňování údajů z měření podle Nařízení o požadavcích na interoperabilitu a postupech pro přístup k údajům z měření a o spotřebě ve vztahu k účastníkům trhu s elektřinou, se kterými sjednal smlouvu o připojení k přenosové soustavě nebo smlouvu o zajištění služby přenosové soustavy, a to v rozsahu, v jakém provádí měření a zpracovává údaje z měření v předávacím místě účastníka trhu s elektřinou pro plnění povinností provozovatele přenosové soustavy stanovených tímto zákonem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 53, § 51, § 52, § 26, § 58k
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5c9985e291aacd869d3e -->
+
 ### § 24a — Vlastnické oddělení provozovatele přenosové soustavy
 
 > **§ 24a**
@@ -589,6 +1091,96 @@ Zákon výslovně připouští, aby se provozovatel přenosové soustavy podíle
 **Typicky rozhodné důkazy / podklady:** výpisy z obchodního rejstříku, schéma vlastnické a kontrolní struktury, stanovy PPS, seznam členů orgánů PPS a výrobce/obchodníka, akcionářské a hlasovací dohody, certifikační rozhodnutí ERÚ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6f14412d00a9a414237f generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 24a — Vlastnické oddělení provozovatele přenosové soustavy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel přenosové soustavy musí být z hlediska své společnické struktury nezávislý na výrobě elektřiny nebo ukládání elektřiny nebo výrobě plynu nebo na obchodu s elektřinou nebo s plynem. Právo vlastnit, vyvíjet, spravovat nebo provozovat zařízení pro ukládání energie za podmínek podle § 25b tím není dotčeno.
+>
+> (2) K zajištění nezávislosti provozovatele přenosové soustavy musejí být splněny tyto podmínky nezávislosti:
+>
+> - a) provozovatel přenosové soustavy je vlastníkem přenosové soustavy,
+>
+> - b) nad provozovatelem přenosové soustavy nebo nad jeho obchodním závodem nevykonává přímo ani nepřímo kontrolu osoba nebo skupina osob jednajících ve shodě, která nebo které
+>
+>   - 1. vykonávají přímo nebo nepřímo kontrolu nad výrobcem elektřiny, provozovatelem zařízení pro ukládání elektřiny, výrobcem plynu, obchodníkem s elektřinou nebo obchodníkem s plynem nebo ve vztahu k nim uplatňují jiné právo,
+>
+>   - 2. vyrábí elektřinu nebo plyn, ukládají elektřinu nebo obchodují s elektřinou nebo s plynem,
+>
+> - c) ve vztahu k provozovateli přenosové soustavy neuplatňuje jakékoliv jiné právo osoba nebo skupina osob jednajících ve shodě, která nebo které
+>
+>   - 1. vykonávají přímo nebo nepřímo kontrolu nad výrobcem elektřiny, provozovatelem zařízení pro ukládání elektřiny, výrobcem plynu, obchodníkem s elektřinou nebo obchodníkem s plynem,
+>
+>   - 2. vyrábí elektřinu nebo plyn, ukládají elektřinu nebo obchodují s elektřinou nebo s plynem,
+>
+> - d) provozovatel přenosové soustavy
+>
+>   - 1. sám nebo jednáním ve shodě s jinými osobami nevykonává přímo ani nepřímo kontrolu nad výrobcem elektřiny, provozovatelem zařízení pro ukládání elektřiny nebo výrobcem plynu nebo nad obchodníkem s elektřinou nebo obchodníkem s plynem ani ve vztahu k nim neuplatňuje jiné právo,
+>
+>   - 2. nevyrábí elektřinu nebo plyn, neukládá elektřinu nebo neobchoduje s elektřinou nebo s plynem,
+>
+> - e) členy statutárního orgánu, členy dozorčí rady nebo správní rady nebo členy jiného orgánu provozovatele přenosové soustavy určeného stanovami není oprávněna jmenovat, volit nebo jinak ustanovit osoba nebo skupina osob jednajících ve shodě, která nebo které
+>
+>   - 1. vykonávají kontrolu nad výrobcem elektřiny, provozovatelem zařízení pro ukládání elektřiny, výrobcem plynu, obchodníkem s elektřinou nebo obchodníkem s plynem nebo ve vztahu k nim uplatňují jiné právo,
+>
+>   - 2. vyrábí elektřinu nebo plyn, ukládají elektřinu nebo obchodují s elektřinou nebo s plynem,
+>
+> - f) členem statutárního orgánu, členem dozorčí rady nebo správní rady nebo členem jiného orgánu provozovatele přenosové soustavy určeného stanovami nesmí být osoba, která je členem dozorčí rady nebo správní rady, členem statutárního orgánu nebo členem jiného orgánu společnosti určeného stanovami výrobce elektřiny, provozovatele zařízení pro ukládání elektřiny, výrobce plynu, obchodníka s elektřinou nebo obchodníka s plynem.
+>
+> (3) Je-li osobou nebo jednou z osob podle odstavce 2 písm. b), c) nebo e) Česká republika, územní samosprávný celek nebo jiná osoba veřejného práva, nepovažují se za tutéž osobu dva odlišné státní orgány, orgány územního samosprávného celku nebo jiné osoby veřejného práva, z nichž jedna vykonává kontrolu nebo jiné právo nad provozovatelem přenosové soustavy a druhá vykonává kontrolu nebo jiné právo nad výrobcem elektřiny, provozovatelem zařízení pro ukládání elektřiny nebo výrobcem plynu nebo obchodníkem s elektřinou nebo obchodníkem s plynem. Státní orgán, orgán územního samosprávného celku nebo jiná osoba veřejného práva, která vykonává kontrolu nebo jiné právo nad výrobcem elektřiny, provozovatelem zařízení pro ukládání elektřiny, výrobcem plynu, obchodníkem s elektřinou nebo obchodníkem s plynem, musí být nezávislá na státním orgánu, orgánu územního samosprávného celku nebo jiné osobě veřejného práva, která vykonává kontrolu nebo jiné právo nad provozovatelem přenosové soustavy.
+>
+> (4) Podmínky nezávislosti podle odstavce 2 se považují za splněné i tehdy, jestliže se provozovatel přenosové soustavy účastní na založení právnické osoby za účelem provozování přenosových soustav v jednom nebo více státech nebo v takové osobě získá účast, a přenechá takové osobě přenosovou soustavu k jejímu provozování společně s dalšími přenosovými soustavami. To neplatí, pokud by se na podnikání právnické osoby založené za účelem provozování přenosových soustav podle předchozí věty účastnily jiné osoby, které nebyly příslušnými orgány členských států určeny jako vlastnicky oddělení provozovatelé přenosových soustav nebo nezávislí provozovatelé přenosových soustav.
+>
+> (5) Výrobce elektřiny, provozovatel zařízení pro ukládání elektřiny nebo obchodník s elektřinou, výrobce plynu, obchodník s plynem nesmí sám nebo jednáním ve shodě s jinými osobami nabýt ani vykonávat přímou nebo nepřímou kontrolu nad provozovatelem přenosové soustavy, ani ve vztahu k němu vykonávat hlasovací právo spojené s vlastnictvím podílu v provozovateli přenosové soustavy, ustanovovat nebo odvolávat členy dozorčí rady, správní rady nebo členy statutárního orgánu nebo vlastnit většinový podíl.
+>
+> (6) Jiným právem podle odstavců 2 a [[#§ 3|3]] se rozumí zejména
+>
+> - a) právo vykonávat hlasovací právo,
+>
+> - b) vlastnické právo k podílům, u nichž souhrnná výše vkladů přesahuje 50 % základního kapitálu, nebo
+>
+> - c) právo jmenovat, volit nebo jinak ustanovit do funkce nebo z ní odvolat člena voleného orgánu nebo možnost toto ustanovení do funkce nebo odvolání z ní prosadit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25b, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6f14412d00a9a414237f -->
 
 ### § 25 — Provozovatel distribuční soustavy
 
@@ -724,6 +1316,236 @@ Zákon výslovně ukládá, aby provozovatel distribuční soustavy **umožnil p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5631ac4bbea7e79ebeb4 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 25 — Provozovatel distribuční soustavy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel distribuční soustavy
+>
+> - a) se zřetelem k využití energeticky účinných technologií zajišťuje spolehlivé provozování, obnovu a rozvoj distribuční soustavy na území vymezeném licencí,
+>
+> - b) poskytuje služby distribuční soustavy,
+>
+> - c) řídí toky elektřiny v distribuční soustavě při respektování přenosů elektřiny mezi ostatními distribučními soustavami a přenosovou soustavou ve spolupráci s provozovateli ostatních distribučních soustav a provozovatelem přenosové soustavy.
+>
+> (2) Provozovatel distribuční soustavy, k jehož soustavě je připojeno více než 90 000 odběrných míst zákazníků, nesmí být souběžným držitelem licence na výrobu elektřiny, ukládání elektřiny, přenos elektřiny, obchod s elektřinou nebo obchod s plynem.
+>
+> (3) Provozovatel distribuční soustavy má právo
+>
+> - a) zřizovat a provozovat vlastní telekomunikační síť k řízení, měření, zabezpečování a automatizaci provozu distribuční soustavy a k přenosu informací pro činnost výpočetní techniky a informačních systémů,
+>
+> - b) nakupovat s nejnižšími náklady nefrekvenční podpůrné služby a elektřinu pro krytí ztrát elektřiny v distribuční soustavě,
+>
+> - c) omezit nebo přerušit v nezbytném rozsahu dodávku elektřiny účastníkům trhu s elektřinou
+>
+>   - 1. při bezprostředním ohrožení života, zdraví nebo majetku osob a při likvidaci těchto stavů,
+>
+>   - 2. při stavech nouze nebo při předcházení stavu nouze,
+>
+>   - 3. při neoprávněné distribuci elektřiny podle [[#§ 53|§ 53]],
+>
+>   - 4. při neoprávněném odběru elektřiny podle [[#§ 51|§ 51]],
+>
+>   - 5. při provádění plánovaných prací na zařízení distribuční soustavy nebo v jeho ochranném pásmu, zejména oprav, rekonstrukcí, údržby a revizí,
+>
+>   - 6. při vzniku a odstraňování poruch na zařízeních distribuční soustavy nebo přenosové soustavy,
+>
+>   - 7. při odběru elektřiny zařízeními, která ohrožují život, zdraví nebo majetek osob,
+>
+>   - 8. při odběru elektřiny zařízeními, která ovlivňují kvalitu elektřiny v neprospěch ostatních účastníků trhu s elektřinou a zákazník nevybavil tato odběrná zařízení dostupnými technickými prostředky k omezení těchto vlivů, nebo
+>
+>   - 9. při odběru elektřiny, kdy zákazník opakovaně bez vážného důvodu neumožnil přístup k měřicímu zařízení nebo neměřeným částem odběrného elektrického zařízení, přestože byl k umožnění přístupu za účelem provedení kontroly, odečtu, údržby, výměny či odebrání měřicího zařízení alespoň 15 dnů předem písemně nebo jiným prokazatelným způsobem vyzván.
+>
+> - d) změnit nebo přerušit v nezbytném rozsahu dodávku elektřiny z výroben, dodávku elektřiny ze zařízení pro ukládání elektřiny a dovoz elektřiny ze zahraničí nebo vývoz elektřiny do zahraničí s ohledem na spolehlivý provoz distribuční soustavy
+>
+>   - 1. při bezprostředním ohrožení života, zdraví nebo majetku osob a při likvidaci těchto stavů,
+>
+>   - 2. při stavech nouze nebo při předcházení stavu nouze,
+>
+>   - 3. při neoprávněné distribuci elektřiny podle [[#§ 53|§ 53]],
+>
+>   - 4. jestliže mu výrobce elektřiny nebo provozovatel zařízení pro ukládání elektřiny neumožní přístup k měřicímu zařízení,
+>
+>   - 5. při neoprávněné dodávce do distribuční soustavy podle [[#§ 52|§ 52]],
+>
+>   - 6. při provádění plánovaných prací na zařízení distribuční soustavy nebo v jeho ochranném pásmu, zejména oprav, rekonstrukcí, údržby a revizí, nebo periodických zkoušek zařízení umožňujícího dispečerské řízení výrobny elektřiny nebo zařízení pro ukládání elektřiny,
+>
+>   - 7. při vzniku a odstraňování poruch na zařízeních distribuční soustavy nebo přenosové soustavy,
+>
+>   - 8. při dodávce elektřiny zařízeními, která ohrožují život, zdraví nebo majetek osob,
+>
+>   - 9. při dodávce elektřiny zařízeními, která ovlivňují kvalitu elektřiny v neprospěch ostatních účastníků trhu s elektřinou a výrobce elektřiny nebo provozovatel zařízení pro ukládání elektřiny nevybavil tato zařízení dostupnými technickými prostředky k omezení těchto vlivů,
+>
+>   - 10. při provádění dispečerského řízení podle § 26 odst. 5, nebo
+>
+>   - 11. neumožnil-li výrobce elektřiny nebo provozovatel zařízení pro ukládání elektřiny opakovaně bez vážného důvodu přístup k měřicímu zařízení, přestože byl k umožnění přístupu za účelem provedení kontroly, odečtu, údržby, výměny či odebrání měřicího zařízení alespoň 15 dnů předem písemně nebo jiným prokazatelným způsobem vyzván,
+>
+> - e) v souladu se zvláštním právním předpisem4d) zřizovat a provozovat na cizích nemovitostech zařízení distribuční soustavy, přetínat tyto nemovitosti vodiči a umísťovat v nich vedení,
+>
+> - f) vstupovat a vjíždět na cizí nemovitosti v souvislosti se zřizováním, obnovou a provozováním distribuční soustavy,
+>
+> - g) odstraňovat a oklešťovat stromoví a jiné porosty, provádět likvidaci odstraněného a okleštěného stromoví a jiných porostů ohrožujících bezpečné a spolehlivé provozování zařízení distribuční soustavy v případech, kdy tak po předchozím upozornění a stanovení rozsahu neučinil sám vlastník či uživatel,
+>
+> - h) vstupovat nebo vjíždět v souladu se zvláštními právními předpisy do uzavřených prostor a zařízení sloužících k výkonu činností a služeb orgánů Ministerstva obrany, Ministerstva vnitra, Ministerstva spravedlnosti, Bezpečnostní informační služby a do obvodu dráhy, jakož i vstupovat nebo vjíždět na nemovitosti, kde jsou umístěna zvláštní zařízení telekomunikací, v rozsahu a způsobem nezbytným pro výkon licencované činnosti,
+>
+> - i) na naměřené a vyhodnocené údaje o dodávkách a odběrech elektřiny a naměřené a vyhodnocené údaje o dodávkách a odběrech elektřiny se zohledněním sdílené elektřiny v předávacích místech přiřazených do skupiny sdílení od datového centra,
+>
+> - j) zrušit rezervaci výkonu nebo rezervaci příkonu, pokud žadatel o připojení prokazatelně neplní podmínky a termíny připojení podle odstavce 10 písm. a),
+>
+> - k) omezit aktivaci flexibility v předávacích místech v případě ohrožení bezpečného a spolehlivého provozu elektrizační soustavy.
+>
+> (4) Provozovatel distribuční soustavy je povinen zřídit věcné břemeno umožňující využití cizí nemovitosti nebo její části pro účely uvedené v odstavci 3 písm. e), a to smluvně s vlastníkem nemovitosti za jednorázovou náhradu ve výši ceny zjištěné podle oceňovacího předpisu47), pokud se strany nedohodnou jinak; v případě, že vlastník není znám nebo určen nebo proto, že je prokazatelně nedosažitelný nebo nečinný nebo nedošlo k dohodě s ním a jsou-li dány podmínky pro omezení vlastnického práva k pozemku nebo ke stavbě podle zvláštního právního předpisu4e), vydá příslušný vyvlastňovací úřad na návrh příslušného provozovatele distribuční soustavy rozhodnutí o zřízení věcného břemene umožňujícího využití této nemovitosti nebo její části. To platí i v případě, kdy je stavba, pro kterou se právo vyvlastňuje, zřizována nebo již byla zřízena a zřízení věcného břemene nezmařil provozovatel distribuční soustavy.
+>
+> (5) V případech uvedených v odstavci 3 písm. c) bodu 5 a písm. d) bodu 6 je provozovatel distribuční soustavy povinen oznámit započetí a skončení omezení nebo přerušení dodávek elektřiny způsobem v místě obvyklým nebo s využitím elektronických komunikací a uveřejňovat je na svých internetových stránkách, nejméně však 15 dnů předem. V případě periodických zkoušek zařízení umožňujícího dispečerské řízení výrobny elektřiny nebo zařízení pro ukládání elektřiny je provozovatel distribuční soustavy povinen oznámit započetí a skončení omezení nebo přerušení dodávek elektřiny způsobem a v termínu stanoveném prováděcím právním předpisem, nejméně však 3 pracovní dny předem. Ohlašovací povinnost nevzniká při provádění nutných provozních manipulací, při nichž omezení nebo přerušení dodávky elektřiny nepřekročí 20 minut.
+>
+> (6) V případech uvedených v odstavci 3 písm. c) a d) je provozovatel distribuční soustavy povinen obnovit dodávku elektřiny bezprostředně po odstranění příčin, které vedly k jejímu omezení nebo přerušení; v případech uvedených v odstavci 3 písm. c) bodu 4 a písm. d) bodu 5 je povinen obnovit dodávku po úhradě náhrady škody.
+>
+> (7) V případech uvedených v odstavci 3 písm. c) a d) je právo na náhradu škody vyloučeno. To neplatí, nesplní-li provozovatel distribuční soustavy oznamovací povinnost uloženou podle odstavce 5 nebo v případech, kdy poruchu prokazatelně zavinil provozovatel distribuční soustavy.
+>
+> (8) Provozovatel distribuční soustavy je povinen při výkonu oprávnění podle odstavce 3 písm. e) až g) co nejvíce šetřit práv vlastníků dotčených nemovitostí a vstup na jejich nemovitosti jim bezprostředně oznámit. Po skončení prací je povinen uvést nemovitosti do předchozího stavu, a není-li to možné s ohledem na povahu provedených prací, do stavu odpovídajícího předchozímu účelu nebo užívání dotčené nemovitosti a bezprostředně oznámit tuto skutečnost vlastníku nemovitosti. Po provedení odstranění nebo okleštění stromoví je povinen na svůj náklad provést likvidaci vzniklého klestu a zbytků po těžbě.
+>
+> (9) Pokud byl vlastník nebo uživatel nemovitosti v důsledku výkonu práv provozovatele distribuční soustavy podle odstavce 3 písm. e) a f) omezen v obvyklém užívání nemovitosti nebo mu vznikla újma na majetku, má právo na přiměřenou jednorázovou náhradu5). Právo na náhradu podle věty první lze uplatnit u provozovatele distribuční soustavy do 2 let ode dne, kdy k omezení nebo újmě došlo, jinak právo zaniká.
+>
+> (10) Provozovatel distribuční soustavy je dále povinen
+>
+> - a) každému, kdo požádá o připojení k distribuční soustavě, stanovit místo, způsob, včetně určení napěťové hladiny, termín a podmínky připojení v souladu se zásadou hospodárnosti rozvoje a provozu distribuční soustavy a umožnit distribuci elektřiny každému, kdo o to požádá, je připojen a splňuje podmínky připojení a podmínky stanovené Pravidly provozování distribuční soustavy, s výjimkou případu prokazatelného nedostatku kapacity zařízení pro distribuci nebo při ohrožení spolehlivého a bezpečného provozu distribuční soustavy nebo přenosové soustavy; nedostatek kapacity zařízení pro distribuci elektřiny nebo ohrožení spolehlivého a bezpečného provozu distribuční soustavy musí provozovatel distribuční soustavy žadateli písemně zdůvodnit s uvedením předběžného termínu a předběžných podmínek budoucího připojení,
+>
+> - b) na základě žádosti obchodníka s elektřinou nebo výrobce elektřiny přerušit distribuci elektřiny v případě neoprávněného odběru elektřiny,
+>
+> - c) zajišťovat neznevýhodňující podmínky pro připojení zařízení k distribuční soustavě, u zákazníků odebírajících elektřinu ze sítí nízkého napětí, kteří nejsou vybaveni průběhovým měřením, přiřadit odpovídající typový diagram dodávek,
+>
+> - d) zajišťovat všem účastníkům trhu s elektřinou neznevýhodňující podmínky pro distribuci elektřiny distribuční soustavou,
+>
+> - e) pro výkon činností podle odstavce 1 písm. c) zajistit zřízení technického dispečinku v případě, že provozuje zařízení s napětím 110 kV, nebo řídicího a dohledového centra v případě, že provozuje pouze zařízení s napětím vyšším než 1 kV a nižším než 110 kV, a odpovídat za jeho činnost,
+>
+> - f) zajišťovat měření v distribuční soustavě včetně jejich vyhodnocování a předávat operátorovi trhu a datovému centru naměřené a vyhodnocené údaje a další nezbytné informace pro plnění jeho povinností,
+>
+> - g) zpracovávat a po schválení Energetickým regulačním úřadem zveřejňovat na svých internetových stránkách Pravidla provozování distribuční soustavy a vykonávat licencovanou činnost v souladu s těmito pravidly,
+>
+> - h) poskytovat provozovateli přenosové soustavy a provozovatelům jiných distribučních soustav, se kterými je jeho soustava propojena, informace nezbytné k zajištění bezpečného a spolehlivého provozu a vzájemné spolupráce,
+>
+> - i) zpracovávat ve spolupráci s provozovateli ostatních distribučních soustav a provozovatelem přenosové soustavy přípravy provozu distribuční soustavy a roční přípravu provozu distribuční soustavy zveřejňovat,
+>
+> - j) každé 2 roky zpracovávat a zveřejňovat plán rozvoje regionální distribuční soustavy, a to na období příštích 5 až 10 let, a předložit jej do 30. června Energetickému regulačnímu úřadu společně s vyhodnocením plnění plánu rozvoje regionální distribuční soustavy za předchozí období,
+>
+> - k) průběžně zveřejňovat informace o možnostech distribuce elektřiny v distribuční soustavě způsobem stanoveným v Pravidlech provozování distribuční soustavy,
+>
+> - l) provádět hodnocení provozu distribuční soustavy z technického hlediska,
+>
+> - m) zpracovávat údaje nezbytné pro rozhodnutí Energetického regulačního úřadu o cenách za distribuci elektřiny,
+>
+> - n) zajišťovat ochranu chráněných informací, včetně zajištění ochrany údajů předávaných operátorovi trhu a datovému centru, a zajišťovat, aby nebyly chráněné informace o jeho vlastních činnostech poskytovány diskriminačním způsobem,
+>
+> - o) vypracovat havarijní plány do 6 měsíců od udělení licence a dále je každoročně upřesňovat; při jejich tvorbě a upřesňování spolupracovat s provozovateli soustav, s jejichž zařízením je jeho zařízení propojeno,
+>
+> - p) dodržovat stanovenou kvalitu dodávek a služeb, vykazovat Energetickému regulačnímu úřadu úroveň kvality dodávek a služeb a zveřejňovat ji na svých internetových stránkách,
+>
+> - r) na své náklady zajistit připojení svého zařízení k jiné distribuční soustavě, umožnit instalaci měřicího zařízení k měření elektřiny mezi distribučními soustavami, zajistit přístup k tomuto zařízení a podílet se podle výše požadovaného výkonu nebo příkonu na úhradě nákladů provozovatele distribuční soustavy spojených s připojováním zařízení k distribuční soustavě prostřednictvím úhrady paušální částky, jejíž část je nevratná i v případě, že distribuční soustava nebyla připojena, případně hradit v plné výši oprávněné náklady provozovatele distribuční soustavy spojené s připojením distribuční soustavy,
+>
+> - s) poskytnout na vyžádání dodavateli poslední instance údaje o zákazníkovi, jeho odběrném místě a jeho předávacích místech v rozsahu nezbytném pro zajištění dodávky poslední instance,
+>
+> - t) na své náklady zajistit připojení svého zařízení k přenosové soustavě, umožnit instalaci měřicího zařízení k měření elektřiny mezi přenosovou a distribuční soustavou, zajistit přístup k tomuto zařízení a podílet se podle výše požadovaného výkonu nebo příkonu na úhradě nákladů provozovatele přenosové soustavy spojených s připojováním zařízení k přenosové soustavě prostřednictvím úhrady paušální částky, jejíž část je nevratná i v případě, že distribuční soustava nebyla připojena, případně hradit v plné výši oprávněné náklady provozovatele přenosové soustavy spojené s připojením distribuční soustavy,
+>
+> - u) nezneužívat chráněné informace získané od třetích osob v souvislosti s poskytováním nebo sjednáváním přístupu k distribuční soustavě při prodeji nebo nákupu elektřiny realizovaným podnikem ve skupině,
+>
+> - v) bezplatně a prostřednictvím svých internetových stránek poskytovat na vyžádání zákazníka nebo jím určené osoby údaje z měření elektřiny51), a to do 6 pracovních dnů následujícího měsíce; provozovatel distribuční soustavy takto poskytuje údaje za požadované období, nejvýše však za období posledních 36 měsíců,
+>
+> - w) bezplatně umožnit zákazníkovi, který má instalované inteligentní měřicí zařízení, nebo jím určené osobě přístup k údajům z měření elektřiny v jeho předávacím místě nejpozději do 15 minut od naměření těchto údajů prostřednictvím jeho internetových stránek nebo komunikačního rozhraní měřicího zařízení,
+>
+> - x) spolupracovat v nezbytném rozsahu s osobami, které vlastní, vyvíjejí, provozují nebo spravují dobíjecí stanice pro elektrická vozidla,
+>
+> - y) umožnit poskytování flexibility a za podmínek dohodnutých s provozovatelem přenosové soustavy poskytování služeb výkonové rovnováhy z elektrických zařízení připojených k distribuční soustavě, neohrozí-li poskytování těchto služeb nebo flexibility bezpečný a spolehlivý provoz distribuční soustavy.
+>
+> (11) Provozovatel distribuční soustavy je rovněž povinen
+>
+> - a) informovat ministerstvo nejpozději do konce druhého týdne měsíce následujícího po uplynutí kalendářního čtvrtletí o fyzikálních tocích dovozu elektřiny ze států, které nejsou členy Evropské unie,
+>
+> - b) zpracovávat a předávat operátorovi trhu údaje z měření a další nezbytné údaje pro potřeby tvorby typových diagramů dodávek a spolupracovat na jejich tvorbě s operátorem trhu a dále zpracovávat a předávat operátorovi trhu potřebné údaje k uplatnění ceny za systémové služby, ceny za činnosti operátora trhu a poplatku na činnost Energetického regulačního úřadu a datovému centru potřebné údaje k uplatnění ceny za činnost datového centra,
+>
+> - c) zpracovávat a předávat ministerstvu a Energetickému regulačnímu úřadu jednou ročně nejpozději do 1. března následujícího kalendářního roku zprávu o kvalitě a úrovni údržby zařízení distribuční soustavy,
+>
+> - d) zaregistrovat se do 30 dnů od udělení licence na distribuci elektřiny u operátora trhu; zaregistrováním se provozovatel distribuční soustavy stává registrovaným účastníkem trhu,
+>
+> - e) řídit se pokyny technického dispečinku provozovatele přenosové soustavy nebo pokyny technického dispečinku nebo řídicího a dohledového centra provozovatele distribuční soustavy, ke které je jeho soustava připojena, při stavech nouze vyhlášeném tímto provozovatelem nebo při předcházení stavům nouze oznámeném tímto provozovatelem,
+>
+> - f) zajistit přenos elektřiny a v případě provozovatele distribuční soustavy nepřipojené přímo k přenosové soustavě distribuci elektřiny,
+>
+> - g) provést technická opatření k ochraně ptactva na nově instalovaných stožárech venkovního vedení vysokého napětí a při výměně stávajících stožárů,
+>
+> - h) zajišťovat propagaci energetických služeb a jejich nabídky zákazníkům za konkurenceschopné ceny energetických služeb,
+>
+> - i) při změně parametrů elektřiny upravit na svůj náklad svá zařízení tak, aby vyhovovala těmto změnám,
+>
+> - j) zajistit si dodávku elektřiny na krytí ztrát v distribuční soustavě a pro vlastní potřebu,
+>
+> - k) hradit operátorovi trhu ceny za činnosti operátora trhu podle Pravidel trhu s elektřinou,
+>
+> - l) registrovat u operátora trhu předávací místa výroben elektřiny, zařízení pro ukládání elektřiny, odběrných míst a distribučních soustav připojených k distribuční soustavě,
+>
+> - m) zveřejňovat a jednou za měsíc aktualizovat na svých internetových stránkách údaje o počtu přijatých a odmítnutých žádostí o připojení k distribuční soustavě a interaktivní mapu, která obsahuje následující informace pro všechna území vymezené licencí:
+>
+>   - 1. pro napěťovou hladinu velmi vysokého a vysokého napětí údaje o volné distribuční kapacitě v jím provozované distribuční soustavě,
+>
+>   - 2. pro napěťovou hladinu nízkého napětí údaje o volné kapacitě elektrických stanic v jím provozované distribuční soustavě,
+>
+> - n) hradit datovému centru cenu za činnost datového centra, jedná-li se o provozovatele regionální distribuční soustavy,
+>
+> - o) nejméně jednou za 4 roky ve spolupráci s držiteli licence na výrobu tepelné energie vykonávajícími činnost v rámci jeho vymezeného území vyhodnotit a zveřejnit na základě údajů poskytnutých držiteli licence na výrobu tepelné energie celkový potenciál flexibility na straně výroby i na straně spotřeby v rámci celého vymezeného území a posoudit, zda by využití zjištěného potenciálu flexibility bylo zdrojově a nákladově efektivnější pro zajištění služby distribuční soustavy.
+>
+> (12) Pokud provozovatel distribuční soustavy, která není přímo připojena k přenosové soustavě, nemá schválena vlastní Pravidla provozování distribuční soustavy, použijí se Pravidla provozování distribuční soustavy provozovatele distribuční soustavy přímo připojené k přenosové soustavě, na jehož vymezeném území se nachází.
+>
+> (13) Nelze-li připojit výrobnu elektřiny nebo zařízení pro ukládání elektřiny z důvodu prokazatelného nedostatku kapacity zařízení pro distribuci, umožní provozovatel distribuční soustavy připojení výrobny elektřiny nebo zařízení pro ukládání elektřiny s možností omezení využití rezervovaného výkonu bez náhrady za takové omezení při předcházení nebo řešení přetížení v distribuční soustavě, neohrozí-li takové připojení bezpečný a spolehlivý provoz distribuční soustavy.
+>
+> (14) Provozovatel distribuční soustavy je povinen plán rozvoje regionální distribuční soustavy podle odstavce 10 písm. j) před jeho předložením Energetickému regulačnímu úřadu projednat s účastníky trhu s elektřinou. Energetický regulační úřad zveřejní plán rozvoje regionální distribuční soustavy společně se zprávou o jeho projednání na internetových stránkách. Pokud plán rozvoje regionální distribuční soustavy neobsahuje stanovené náležitosti, provozovatel distribuční soustavy řádně nevypořádal uplatněné připomínky nebo plán rozvoje regionální distribuční soustavy má jiné vady, uloží Energetický regulační úřad provozovateli distribuční soustavy rozhodnutím povinnost změny plánu rozvoje regionální distribuční soustavy nebo odstranění vad a určí mu k tomu přiměřenou lhůtu. Nezahájí-li Energetický regulační úřad řízení o změně plánu rozvoje regionální distribuční soustavy nebo odstranění vad do 2 měsíců od předložení plánu rozvoje regionální distribuční soustavy Energetickému regulačnímu úřadu, platí, že plán rozvoje regionální distribuční soustavy je úplný a bez vad. Uloží-li Energetický regulační úřad povinnost změny plánu rozvoje regionální distribuční soustavy nebo odstranění vady, je provozovatel distribuční soustavy povinen zveřejnit upravený plán rozvoje distribuční soustavy neprodleně po uplynutí lhůty stanovené Energetickým regulačním úřadem pro odstranění vady nebo provedení změny plánu rozvoje distribuční soustavy.
+>
+> (15) Provozovatel distribuční soustavy je povinen zpracovávat ve spolupráci s provozovatelem přenosové soustavy a provozovateli propojených distribučních soustav technické požadavky a podmínky obstarávání nefrekvenčních podpůrných služeb a flexibility pro řízení distribuční soustavy a předložit je Energetickému regulačnímu úřadu ke schválení. Před předložením návrhu technických požadavků a podmínek obstarávání nefrekvenčních podpůrných služeb a flexibility Energetickému regulačnímu úřadu ke schválení je provozovatel distribuční soustavy povinen jej projednat s účastníky trhu s elektřinou. Energetický regulační úřad technické požadavky a podmínky obstarávání nefrekvenčních podpůrných služeb a flexibility schválí, pokud umožňují neznevýhodňujícím způsobem nabízení těchto služeb výrobci elektřiny, provozovateli zařízení pro ukládání energie, zákazníky, společenstvími a agregátory při využití dostupných technických možností v souladu se zákonem o hospodaření energií. Provozovatel distribuční soustavy je povinen technické požadavky a podmínky obstarávání nefrekvenčních podpůrných služeb a flexibility po jejich schválení Energetickým regulačním úřadem zveřejnit na svých internetových stránkách a při obstarávání nefrekvenčních podpůrných služeb a flexibility se jimi řídit. Provozovatel distribuční soustavy může technické požadavky a podmínky obstarávání nefrekvenčních podpůrných služeb a flexibility zpracovat jako součást Pravidel provozování distribuční soustavy.
+>
+> (16) Provozovatel distribuční soustavy je oprávněn obstarávat nefrekvenční podpůrné služby nebo flexibilitu přímým nákupem od poskytovatele těchto služeb pouze s povolením Energetického regulačního úřadu. Energetický regulační úřad povolení udělí, jestliže provozovatel distribuční soustavy prokáže, že obstarání nefrekvenčních podpůrných služeb nebo flexibility tržním postupem není technicky možné nebo by s přihlédnutím ke všem okolnostem vedlo k obstarání nefrekvenčních podpůrných služeb nebo flexibility za vyšší náklady než při jejich přímém nákupu. Energetický regulační úřad v rozhodnutí o udělení povolení určuje rozsah a specifikaci nefrekvenčních podpůrných služeb nebo flexibility, podmínky jejich obstarání a dobu, na kterou povolení uděluje. Provozovatel distribuční soustavy neobstarává nefrekvenční podpůrné služby, je-li potřeba takových služeb zajištěna plně integrovanými prvky distribuční soustavy.
+>
+> (17) Provozovatel distribuční soustavy umožní požádat o připojení odběrného místa, výrobny elektřiny, zařízení pro ukládání elektřiny nebo zařízení distribuční soustavy k distribuční soustavě a předložit příslušné dokumenty výhradně v elektronické podobě.
+>
+> (18) Provozovatel distribuční soustavy vykonává činnosti zpřístupňování údajů z měření podle Nařízení o požadavcích na interoperabilitu a postupech pro přístup k údajům z měření a o spotřebě ve vztahu k účastníkům trhu s elektřinou, se kterými sjednal smlouvu o připojení k distribuční soustavě nebo smlouvu o zajištění služby distribuční soustavy, a to v rozsahu, v jakém provádí měření a zpracovává údaje z měření v předávacím místě účastníka trhu s elektřinou pro plnění povinností provozovatele distribuční soustavy stanovených tímto zákonem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 53, § 51, § 52, § 26
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5631ac4bbea7e79ebeb4 -->
+
 ### § 25a — Oddělení provozovatelů distribuční soustavy
 
 > **§ 25a**
@@ -813,6 +1635,80 @@ Odst. 8 výslovně upravuje případ, kdy oddělení je realizováno pachtem obc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6ed042a6b5d7d0b09602 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 25a — Oddělení provozovatelů distribuční soustavy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel distribuční soustavy, je-li součástí vertikálně integrovaného podnikatele, musí být od 1. ledna 2007 z hlediska své právní formy, organizace a rozhodování nezávislý na jiných činnostech netýkajících se distribuce elektřiny. Tento požadavek neznamená požadavek na oddělení vlastnictví majetku. Právo vlastnit, vyvíjet, spravovat nebo provozovat zařízení pro ukládání energie a dobíjecí stanici pro elektrická vozidla za podmínek podle [[#§ 25b|§ 25b]] tím není dotčeno.
+>
+> (2) K zajištění nezávislosti provozovatele distribuční soustavy podle odstavce 1 se od 1. ledna 2007 uplatní tato minimální kritéria:
+>
+> - a) osoby odpovědné za řízení provozovatele distribuční soustavy se nesmí přímo ani nepřímo podílet na organizačních strukturách vertikálně integrovaného podnikatele, jenž je odpovědný, přímo nebo nepřímo, za běžný provoz výroby elektřiny, ukládání elektřiny, přenosu elektřiny a obchod s elektřinou nebo plynem; členem statutárního orgánu nebo vedoucím zaměstnancem provozovatele distribuční soustavy nemůže být fyzická osoba, která je současně členem statutárním orgánem nebo vedoucím zaměstnancem držitele licence na výrobu elektřiny, ukládání elektřiny, přenos elektřiny, obchod s elektřinou nebo plynem, který je součástí téhož vertikálně integrovaného podnikatele,
+>
+> - b) musí být přijata veškerá vhodná opatření, aby k profesionálním zájmům člena statutárního orgánu nebo vedoucích zaměstnanců odpovědných za řízení provozovatele distribuční soustavy bylo přihlíženo způsobem, který zajišťuje jejich nezávislé jednání; člen statutárního orgánu nebo vedoucí zaměstnanec provozovatele distribuční soustavy nesmí přijímat žádné odměny a jiná majetková plnění od držitelů licence na výrobu elektřiny, ukládání elektřiny, přenos elektřiny, obchod s elektřinou nebo plynem v rámci téhož vertikálně integrovaného podnikatele; odměňování člena statutárního orgánu nebo vedoucího zaměstnance provozovatele distribuční soustavy nesmí být závislé na hospodářských výsledcích dosahovaných těmito ostatními držiteli licencí v rámci téhož vertikálně integrovaného podnikatele,
+>
+> - c) provozovatel distribuční soustavy musí disponovat skutečnými rozhodovacími právy ve vztahu k majetku nezbytnému k provozování, údržbě a rozvoji distribuční soustavy, jež jsou nezávislá na vertikálně integrovaném podnikateli; mateřská společnost nesmí udělovat provozovateli distribuční soustavy jakékoliv pokyny ohledně běžného provozu nebo údržby distribuční soustavy, a rovněž nesmí jakýmkoliv jiným způsobem zasahovat do rozhodování o výstavbě či modernizaci částí distribuční soustavy, pokud takové rozhodnutí nejde nad rámec schváleného finančního plánu, či jiného obdobného nástroje; tím není dotčeno oprávnění mateřské společnosti schvalovat roční finanční plán či jiný obdobný nástroj provozovatele distribuční soustavy a schvalovat jeho maximální limity zadlužení.
+>
+> (3) Provozovatel distribuční soustavy musí přijmout vnitřním předpisem program rovného zacházení k vyloučení diskriminačního chování (dále jen „program rovného zacházení“), kterým stanoví
+>
+> - a) opatření k vyloučení diskriminačního jednání provozovatele distribuční soustavy ve vztahu k účastníkům trhu s elektřinou, kteří nejsou součástí téhož vertikálně integrovaného podnikatele s provozovatelem distribuční soustavy,
+>
+> - b) povinnosti a práva zaměstnanců provozovatele distribuční soustavy ke splnění účelů programu rovného zacházení.
+>
+> (4) Provozovatel distribuční soustavy jmenuje nebo jinak obsazuje auditora programu. Provozovatel distribuční soustavy je povinen zajistit, aby auditor programu měl vytvořeny podmínky pro nezávislý výkon své funkce, zejména dostatečné pravomoci k plnění své funkce a dostatečné materiální a organizační podmínky. Způsob odměňování auditora programu nesmí být na újmu nezávislého výkonu jeho funkce.
+>
+> (5) Auditor programu je povinen dohlížet na provádění programu rovného zacházení. Auditor programu zpracovává a předkládá do 30. dubna následujícího kalendářního roku Energetickému regulačnímu úřadu a ministerstvu výroční zprávu o opatřeních přijatých k provádění programu rovného zacházení za uplynulý rok a zároveň ji zveřejňuje na svých internetových stránkách. Provozovatel distribuční soustavy je povinen poskytnout auditorovi programu veškeré informace a podklady nezbytné pro řádný výkon jeho činnosti a poskytnout jinou nezbytnou součinnost. Provozovatel distribuční soustavy je povinen seznámit s programem rovného zacházení členy statutárního orgánu, členy dozorčí rady nebo správní rady a všechny zaměstnance.
+>
+> (6) Člen statutárního orgánu nebo vedoucí zaměstnanec provozovatele distribuční soustavy nesmí od 1. ledna 2007 držet podíly převyšující 1 % základního kapitálu v jiné právnické osobě v rámci téhož vertikálně integrovaného podnikatele, která je držitelem licence na výrobu elektřiny, ukládání elektřiny, přenos elektřiny, obchod s elektřinou nebo plynem.
+>
+> (7) Od 1. ledna 2007 nesmí provozovatel distribuční soustavy uzavírat ovládací smlouvy k podrobení jednotnému řízení jiného držitele licence na výrobu elektřiny, ukládání elektřiny, přenos elektřiny, obchod s elektřinou nebo plynem ani v takovém řízení podle již uzavřených ovládacích smluv pokračovat.
+>
+> (8) Pokud je povinnost oddělení činností podle tohoto zákona provedena pachtem obchodního závodu nebo jeho části, je pachtýř povinen převzít propachtovaný obchodní závod nebo jeho část do svého účetnictví. Pokud je povinnost oddělení podle tohoto zákona provedena pachtem jednotlivého majetku, je propachtovatel povinen sdělit pachtýři informace o hodnotě propachtovaného majetku v rozsahu požadovaném Energetickým regulačním úřadem pro účely cenové regulace.
+>
+> (9) Oddělení podle tohoto zákona není povinen provést vertikálně integrovaný podnikatel, který poskytuje služby pro méně než 90 000 připojených odběrných míst zákazníků.
+>
+> (10) Provozovatel distribuční soustavy, je-li součástí vertikálně integrovaného podnikatele, musí jednat tak, aby neuvedl v omyl jiného účastníka trhu s elektřinou, pokud se jedná o možnost záměny s obchodníkem s elektřinou nebo s výrobcem elektřiny, který je součástí téhož vertikálně integrovaného podnikatele.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6ed042a6b5d7d0b09602 -->
+
 ### § 25b — Vlastnictví zařízení pro ukládání energie a dobíjecích stanic pro elektrická vozidla
 
 > **§ 25b**
@@ -892,6 +1788,74 @@ Zákon zavádí přísnou sankční normu: pokud provozovatel přenosové nebo d
 **Typicky rozhodné důkazy / podklady:** technický popis úložiště a jeho integrace do sítě, žádost a povolení ERÚ, projektová dokumentace, doklad o charakteru dobíjecí stanice, evidence využití úložiště (vyloučení komerčních dodávek).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0ab58f8ae68b8c549bc9 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 25b — Vlastnictví zařízení pro ukládání energie a dobíjecích stanic pro elektrická vozidla
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel přenosové soustavy nebo provozovatel distribuční soustavy může vlastnit, vyvíjet, spravovat nebo provozovat zařízení pro ukládání energie pouze na základě povolení Energetického regulačního úřadu, ledaže se jedná o zařízení pro ukládání energie pro jeho vlastní potřebu nesouvisející s řízením a provozováním přenosové soustavy nebo distribuční soustavy.
+>
+> (2) Energetický regulační úřad rozhoduje o udělení povolení na žádost provozovatele přenosové soustavy nebo provozovatele distribuční soustavy. Energetický regulační úřad povolení udělí, jestliže provozovatel přenosové soustavy nebo provozovatel distribuční soustavy prokáže, že zařízení pro ukládání energie, pro které udělení povolení žádá, je plně integrovaným prvkem soustavy nebo má být jako plně integrovaný prvek soustavy používáno pro potřeby přenosové nebo distribuční soustavy. Energetický regulační úřad udělí povolení pro jedno nebo více zařízení pro ukládání energie nebo zařízení pro ukládání energie vymezené typem takového zařízení a případně počtem takových zařízení nebo velikostí instalovaného výkonu zařízení pro ukládání energie. Rozhodne-li Energetický regulační úřad o udělení povolení, může současně stanovit podmínky, za kterých povolení uděluje, které zahrnují zejména stanovení doby platnosti povolení nebo způsobu využití takových zařízení pro ukládání energie při provozu nebo řízení přenosové nebo distribuční soustavy.
+>
+> (3) Provozovatel přenosové soustavy nebo provozovatel distribuční soustavy nesmí dodávat elektřinu ze zařízení pro ukládání energie jinému účastníkovi trhu s elektřinou, ukládat elektřinu v zařízení pro ukládání energie pro jiného účastníka trhu s elektřinou, poskytovat podpůrné služby nebo flexibilitu ani využívat jím provozované zařízení pro ukládání energie jako náhradu služeb pro zajišťování výkonové rovnováhy nebo řízení přetížení podle čl. 13 Nařízení o vnitřním trhu s elektřinou.
+>
+> (4) Energetický regulační úřad informuje Komisi a Agenturu o udělení povolení podle odstavce 2 provozovateli přenosové soustavy a poskytne jim stejnopis písemného vyhotovení rozhodnutí.
+>
+> (5) Provozovatel distribuční soustavy může vlastnit, vyvíjet, spravovat nebo provozovat dobíjecí stanici pro elektrická vozidla, pouze pokud se nejedná o veřejně přístupnou dobíjecí stanici pro elektrická vozidla podle zákona [[o pohonných hmotách|o pohonných hmotách]].
+>
+> (6) Provozovatel jiné než regionální distribuční soustavy může vlastnit, vyvíjet, spravovat nebo provozovat zařízení pro ukládání energie, které není plně integrovaným prvkem soustavy, nebo veřejně přístupnou dobíjecí stanici pro elektrická vozidla pouze s povolením Energetického regulačního úřadu. Energetický regulační úřad povolení udělí na žádost provozovatele distribuční soustavy, pokud provozovatel distribuční soustavy prokáže, že
+>
+> - a) distribuční soustava slouží k distribuci elektřiny pouze v rámci územně vymezené průmyslové či obchodní zóny,
+>
+> - b) distribuční soustava neslouží k distribuci elektřiny do žádného odběrného místa spotřebitele nebo se distribuce elektřiny do odběrných míst spotřebitelů uskutečňuje pouze v zanedbatelném rozsahu v porovnání s distribucí elektřiny zajišťované do odběrných míst ostatních zákazníků a
+>
+> - c) provozní nebo výrobní činnosti zákazníků, jejichž odběrná místa jsou připojena k distribuční soustavě, spolu navzájem provozně nebo výrobně souvisí nebo je hlavním účelem distribuční soustavy distribuce elektřiny vlastníkovi nebo provozovateli distribuční soustavy nebo členům stejného seskupení osob.
+>
+> (7) Provozovatel přenosové soustavy nebo provozovatel distribuční soustavy je povinen bez zbytečného odkladu oznámit Energetickému regulačnímu úřadu změnu skutečností, na jejichž základě mu bylo uděleno povolení podle odstavce 2 nebo [[#§ 6|6.]]
+>
+> (8) Energetický regulační úřad povolení podle odstavce 2 nebo [[#§ 6|6]] zruší, pokud zjistí, že provozovatel přenosové soustavy nebo provozovatel distribuční soustavy přestal splňovat podmínky pro udělení povolení.
+>
+> (9) Vlastní-li provozovatel přenosové soustavy nebo provozovatel distribuční soustavy zařízení pro ukládání energie v rozporu s tímto zákonem, je povinen jej zcizit nejpozději do 1 roku ode dne jejich nabytí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0ab58f8ae68b8c549bc9 -->
 
 ### § 26 — Technické dispečinky a řídicí a dohledová centra
 
@@ -994,6 +1958,84 @@ Odst. 8 výslovně vylučuje, že by dispečerské řízení **napětí a jalov�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c34ceae86065ac84be43 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 26 — Technické dispečinky a řídicí a dohledová centra
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Technický dispečink provozovatele přenosové soustavy
+>
+> - a) provádí dispečerské řízení přenosu elektřiny v přenosové soustavě a dispečerské řízení výroben elektřiny a zařízení pro ukládání elektřiny poskytujících podpůrné služby k zajištění systémových služeb v přenosové soustavě a v distribučních soustavách v součinnosti s provozovatelem distribuční soustavy,
+>
+> - b) zajišťuje dodržování pravidel propojení s elektrizačními soustavami ostatních států včetně rozhodování o využití přeshraničních vedení propojujících přenosovou soustavu s jinými soustavami v zahraničí; při rozhodování o využití přeshraničních vedení propojujících přenosovou soustavu s jinými soustavami v zahraničí musí technický dispečink provozovatele přenosové soustavy přihlížet k technickým omezením přenosové soustavy a propojených soustav v zahraničí,
+>
+> - c) spolupracuje při provádění dispečerského řízení přenosu elektřiny v přenosové soustavě s provozovateli propojených soustav v zahraničí.
+>
+> (2) Technický dispečink a řídicí a dohledové centrum provozovatele distribuční soustavy provádí dispečerské řízení výroben elektřiny, zařízení pro ukládání elektřiny a distribuce elektřiny v distribuční soustavě v souladu s § 25 odst. 1 písm. c).
+>
+> (3) Technické dispečinky a řídicí a dohledová centra provozovatelů distribučních soustav a technický dispečink provozovatele přenosové soustavy jsou povinny spolupracovat a poskytovat si nezbytné údaje pro dispečerské řízení.
+>
+> (4) Při dispečerském řízení předávaných výkonů
+>
+> - a) mezi přenosovou soustavou a distribučními soustavami v reálném čase je technický dispečink provozovatele distribuční soustavy povinen uposlechnout pokynů technického dispečinku provozovatele přenosové soustavy,
+>
+> - b) mezi distribučními soustavami v reálném čase jsou technický dispečink nebo řídicí a dohledové centrum provozovatele distribuční soustavy povinny uposlechnout pokynů technického dispečinku nebo řídicího a dohledového centra provozovatele distribuční soustavy, ke které je jím řízená distribuční soustava připojena,
+>
+> - c) mezi distribučními soustavami v reálném čase, pokud nejsou ve vztahu podle písmene b), jsou technické dispečinky provozovatelů distribučních soustav povinny vzájemně spolupracovat.
+>
+> (5) Technický dispečink provozovatele přenosové soustavy a technické dispečinky a řídicí a dohledová centra provozovatelů distribučních soustav jsou v případě ohrožení bezpečného a spolehlivého provozu elektrizační soustavy a po využití sjednaných možností omezování využití rezervovaných výkonů výroben elektřiny a poté dostupných tržních mechanismů provozovatelem přenosové soustavy oprávněny za účelem odstraňování nevyrovnané bilance elektrizační soustavy nebo její části, nebo za účelem řízení přetížení podle Nařízení o vnitřním trhu s elektřinou při dispečerském řízení v nezbytné míře dočasně měnit výrobu elektřiny ve výrobnách elektřiny a dodávku elektřiny do nebo ze zařízení pro ukládání elektřiny. Omezení výroby elektřiny ve výrobnách s kombinovanou výrobou elektřiny a tepla může být prováděno nejvýše v rozsahu neohrožujícím dodávky tepelné energie.
+>
+> (6) Provozovatel přenosové soustavy nebo provozovatel distribuční soustavy, jehož technický dispečink nebo řídicí a dohledové centrum změnily při dispečerském řízení, prováděném mimo stavy nouze nebo předcházení stavu nouze, výrobu elektřiny ve výrobně elektřiny a nejednalo-li se o změnu výroby elektřiny ve výrobně elektřiny, pro kterou bylo sjednané připojení s možností omezení rezervovaného výkonu bez náhrad, je povinen poskytnout
+>
+> - a) příslušnému výrobci elektřiny z obnovitelných zdrojů, který je příjemcem podpory podle jiného právního předpisu28), při omezení výroby elektřiny náhradu za neodebranou elektřinu ve výši odpovídající celkovému příjmu výrobce po odečtu nákladů za nevyrobenou elektřinu, kterého by dosáhl v případě neomezení výroby, nebo
+>
+> - b) příslušnému výrobci elektřiny náhradu za změnu výroby elektřiny z výrobny elektřiny, s výjimkou případů podle písmene a), ve výši sjednané ve smlouvě nebo stanovené podle Nařízení o vnitřním trhu s elektřinou.
+>
+> V případě sporu o výši náhrady rozhoduje Energetický regulační úřad.
+>
+> (7) Účastník trhu s elektřinou, jehož zařízení je připojeno k přenosové soustavě nebo distribuční soustavě, je povinen předávat technickému dispečinku nebo řídicímu a dohledovému centru nezbytné údaje potřebné k dispečerskému řízení.
+>
+> (8) Dispečerské řízení napětí a jalových výkonů výroben elektřiny a zařízení pro ukládání elektřiny prováděné technickým dispečinkem provozovatele přenosové soustavy nebo technickým dispečinkem nebo řídicím a dohledovým centrem provozovatele distribuční soustavy se nepovažuje za omezení výroby elektřiny nebo dodávky elektřiny do nebo ze zařízení pro ukládání elektřiny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c34ceae86065ac84be43 -->
+
 ### § 26a — Národní výcvikový plán
 
 > **§ 26a**
@@ -1046,6 +2088,56 @@ Odst. 8 výslovně vylučuje, že by dispečerské řízení **napětí a jalov�
 **Typicky rozhodné důkazy / podklady:** zveřejněný národní výcvikový plán, doklad o postavení významného uživatele sítě, smlouva o poskytování podpůrných služeb/flexibility, pozvánky a evidence účasti na společném výcviku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=194def468e0bcb42bb92 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 26a — Národní výcvikový plán
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel přenosové soustavy je povinen zpracovat ve spolupráci s provozovateli regionálních distribučních soustav národní výcvikový plán a zveřejnit jej na svých internetových stránkách. Provozovatel regionální distribuční soustavy je povinen poskytnout provozovateli přenosové soustavy součinnost při zpracování národního výcvikového plánu.
+>
+> (2) Provozovatel přenosové soustavy a provozovatel regionální distribuční soustavy provádí v souladu s národním výcvikovým plánem společný výcvik osob podílejících se na dispečerském řízení.
+>
+> (3) Účastník trhu s elektřinou, který je významným uživatelem sítě podle Nařízení, kterým se stanoví rámcový pokyn pro provoz elektroenergetických přenosových soustav70), poskytovatel podpůrných služeb a poskytovatel flexibility jsou povinni se v rozsahu národního výcvikového plánu účastnit společného výcviku osob podílejících se na dispečerském řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=194def468e0bcb42bb92 -->
 
 ### § 27 — Datové centrum
 
@@ -1122,6 +2214,76 @@ Akcie jsou jen na jméno, převoditelnost je podmíněna **jednomyslným souhlas
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3e24efd79db1f9ab5b48 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 27 — Datové centrum
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Datové centrum je akciová společnost s dualistickým systémem vnitřní struktury, která je držitelem licence na činnost datového centra a jejíž akcie smí vlastnit pouze
+>
+> - a) provozovatel přenosové soustavy,
+>
+> - b) provozovatelé regionálních distribučních soustav, k jejichž distribučním soustavám je připojeno nejméně 100 000 odběrných míst zákazníků, nebo
+>
+> - c) Česká republika.
+>
+> (2) Obchodní firma datového centra musí obsahovat označení „elektroenergetické datové centrum“. Ten, kdo není datovým centrem, nesmí používat označení „elektroenergetické datové centrum“.
+>
+> (3) Akcionáři datového centra se při založení akciové společnosti podílí na základním kapitálu stejným rozsahem.
+>
+> (4) Datové centrum smí vydat jen akcie na jméno stejného druhu.
+>
+> (5) Akcie datového centra lze převést jen s jednomyslným souhlasem dozorčí rady datového centra. Dozorčí rada datového centra je povinna odmítnout souhlas, mají-li být akcie datového centra převedeny na jinou osobu než uvedenou v odstavci 1. Omezení převoditelnosti akcií datového centra se zapisuje do obchodního rejstříku.
+>
+> (6) Zakazuje se
+>
+> - a) přenechat akcie datového centra k užívání nebo požívání jiné osobě než uvedené v odstavci 1,
+>
+> - b) převést práva spojená s akciemi datového centra na jinou osobu než uvedenou v odstavci 1,
+>
+> - c) přenechat výkon práv spojených s akciemi datového centra jiné osobě než uvedené v odstavci 1.
+>
+> (7) Stanovy datového centra musí upravovat způsob ukončení účasti v datovém centru, pokud akcionář přestane být osobou podle odstavce 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3e24efd79db1f9ab5b48 -->
+
 ### § 27a — Způsobilost k výkonu funkce v datovém centru
 
 > **§ 27a**
@@ -1170,6 +2332,52 @@ Akcie jsou jen na jméno, převoditelnost je podmíněna **jednomyslným souhlas
 **Typicky rozhodné důkazy / podklady:** pracovní smlouvy a výpisy funkcí kandidátů, struktura akcionářů datového centra, doklad o (ne)akcionářském postavení dotčeného držitele licence, stanovy datového centra.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c9c2d34e5bdceab1ded1 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 27a — Další požadavky na způsobilost k výkonu funkce člena představenstva, člena dozorčí rady a vedoucího zaměstnance datového centra
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> Členem představenstva, členem dozorčí rady nebo vedoucím zaměstnancem datového centra v řídící působnosti představenstva nebo jeho členů nesmí být osoba, která je současně členem statutárního orgánu nebo dozorčí rady nebo zaměstnancem jiného držitele licence podle tohoto zákona než toho, kdo je akcionářem datového centra.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c9c2d34e5bdceab1ded1 -->
 
 ### § 27b — Dozorčí rada datového centra
 
@@ -1223,6 +2431,56 @@ Akcie jsou jen na jméno, převoditelnost je podmíněna **jednomyslným souhlas
 **Typicky rozhodné důkazy / podklady:** stanovy datového centra, struktura akcionářů a podílů, zápis z valné hromady o obsazení dozorčí rady, doklad o počtu členů a o nominacích státu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=03a048e5347c4207e037 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 27b — Dozorčí rada datového centra
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Dozorčí rada datového centra musí mít nejméně tři členy.
+>
+> (2) Česká republika jmenuje a odvolává třetinu členů dozorčí rady.
+>
+> (3) Odstavec 2 se nepoužije, je-li jediným akcionářem datového centra Česká republika.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=03a048e5347c4207e037 -->
 
 ### § 27c — Práva a povinnosti datového centra
 
@@ -1299,6 +2557,76 @@ Datové centrum smí vykonávat jiné než zákonné datové funkce jen s výslo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8c590a4bc569a454cb3c generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 27c — Práva a povinnosti datového centra
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Datové centrum má za podmínek stanovených tímto zákonem právo na
+>
+> - a) úhradu ceny za činnost datového centra od provozovatelů regionálních distribučních soustav a provozovatele přenosové soustavy,
+>
+> - b) údaje nezbytné pro plnění svých povinností od operátora trhu a účastníků trhu s elektřinou s přístupem do informačního systému datového centra,
+>
+> - c) údaje nezbytné pro plnění svých povinností z licencí udělených podle tohoto zákona a registru společenství od Energetického regulačního úřadu, pokud nejsou osobními údaji, chráněnou informací nebo informací chráněnou jiným právním předpisem.
+>
+> (2) Datové centrum je povinno
+>
+> - a) zpracovávat Řád datového centra a po schválení Energetickým regulačním úřadem jej zveřejňovat na svých internetových stránkách,
+>
+> - b) vykonávat činnost datového centra v souladu se schváleným Řádem datového centra,
+>
+> - c) zajistit ochranu chráněných informací,
+>
+> - d) uzavřít smlouvu o přístupu do informačního systému datového centra s každým, kdo o to požádá, splní podmínky přístupu do informačního systému datového centra stanovené Řádem datového centra a komu tento zákon vůči datovému centru zakládá práva nebo povinnosti nebo komu tento zákon ukládá povinnost zajistit předávání údajů mezi datovým centrem a jiným účastníkem trhu s elektřinou.
+>
+> (3) Datové centrum umožní každému, komu tento zákon nebo jiný právní předpis ukládá povinnost předávat nebo poskytovat údaje datovému centru, činit tak elektronicky prostřednictvím informačního systému datového centra, a to přímo, nebo prostřednictvím účastníka trhu s elektřinou s přístupem do informačního systému datového centra, se kterým uzavřel smlouvu o dodávce elektřiny nebo smlouvu o sdružených službách dodávky elektřiny, nebo prostřednictvím jiné osoby s přístupem do informačního systému datového centra, kterou povinná osoba nebo členové skupiny sdílení k plnění povinnosti předávání nebo poskytování údajů datovému centru pověřili. Předává nebo poskytuje-li datové centrum údaje účastníkovi trhu s elektřinou, činí tak rovněž prostřednictvím informačního systému datového centra, a to přímo nebo prostřednictvím účastníka trhu s elektřinou s přístupem do informačního systému datového centra, se kterým účastník trhu s elektřinou uzavřel smlouvu o dodávce elektřiny nebo smlouvu o sdružených službách dodávky elektřiny, nebo prostřednictvím jiné osoby pověřené účastníkem trhu s elektřinou k výkonu svých oprávnění vůči datovému centru.
+>
+> (4) Datové centrum je oprávněno vykonávat další činnosti odlišné od činností datového centra podle tohoto zákona nebo činností vykonávaných podle jiného právního předpisu pouze s předchozím souhlasem ministerstva. Řízení o udělení souhlasu se zahajuje na žádost datového centra. Ministerstvo souhlas udělí, jestliže se nejedná o činnosti vyhrazené tímto zákonem jinému účastníkovi trhu s elektřinou a datové centrum v řízení prokáže, že výkon takových činností
+>
+> - a) neohrozí řádné plnění zákonných povinností datového centra nebo nepovede k diskriminaci ostatních účastníků trhu s elektřinou a
+>
+> - b) nenaruší nebo neomezí hospodářskou soutěž na trhu s elektřinou ani takové soutěži nebrání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8c590a4bc569a454cb3c -->
+
 ### § 27ca — Datové centrum jako poskytovatel přístupu k údajům
 
 > **§ 27ca**
@@ -1347,6 +2675,52 @@ Datové centrum smí vykonávat jiné než zákonné datové funkce jen s výslo
 **Typicky rozhodné důkazy / podklady:** žádost zákazníka o zpřístupnění dat zvolené třetí straně, smlouva o přístupu do systému datového centra, evidence předávacího místa, datová mapa rozsahu zpracovávaných údajů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=86b3353ce5f881e9cb59 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 27ca
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> Datové centrum vykonává činnost poskytovatele přístupu k údajům podle Nařízení o požadavcích na interoperabilitu a postupech pro přístup k údajům z měření a o spotřebě ve vztahu k účastníkům trhu s elektřinou, se kterými sjednal smlouvu o přístupu do informačního systému datového centra nebo za které takový účastník trhu s elektřinou vykonává oprávnění jiného účastníka trhu s elektřinou vůči datovému centru, a to v rozsahu, v jakém datové centrum zpracovává údaje o dodávkách a odběrech v předávacím místě evidovaném u datového centra pro plnění povinností datového centra stanovených tímto zákonem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=86b3353ce5f881e9cb59 -->
 
 ### § 27d — Práva a povinnosti datového centra při sdílení elektřiny
 
@@ -1412,6 +2786,68 @@ Datové centrum smí vykonávat jiné než zákonné datové funkce jen s výslo
 **Typicky rozhodné důkazy / podklady:** registrace skupiny sdílení s alokačním klíčem, žádosti dodavatele o data, evidence předání/nepředání naměřených údajů, naměřené hodnoty z předávacích míst, smlouvy o dodávce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4a04a3f758047844b56b generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 27d — Práva a povinnosti datového centra při sdílení elektřiny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Datové centrum má právo
+>
+> - a) na naměřené a vyhodnocené údaje o dodávkách a odběrech elektřiny v předávacích místech přiřazených do skupiny sdílení od provozovatele distribuční soustavy,
+>
+> - b) na informaci o přiřazení dodavatele elektřiny, subjektu zúčtování a provozovatele distribuční soustavy k předávacím místům přiřazeným do skupiny sdílení od operátora trhu.
+>
+> (2) Datové centrum je povinno
+>
+> - a) evidovat na žádost účastníka trhu s elektřinou registraci přiřazení předávacích míst do skupiny sdílení u datového centra a předávat informace o registraci přiřazení operátorovi trhu, provozovateli distribuční soustavy, obchodníkovi s elektřinou a zákazníkovi, výrobci elektřiny nebo provozovateli zařízení pro ukládání elektřiny, jehož předávací místo je přiřazené do skupiny sdílení,
+>
+> - b) zpracovávat naměřené a vyhodnocené údaje o dodávkách a odběrech elektřiny pro zohlednění sdílené elektřiny v předávacím místě přiřazeném do skupiny sdílení,
+>
+> - c) poskytovat nebo zpřístupňovat operátorovi trhu, provozovateli distribuční soustavy, výrobci elektřiny, provozovateli zařízení pro ukládání elektřiny, obchodníkovi s elektřinou, zákazníkovi nebo společenství naměřené a vyhodnocené údaje o dodávkách a odběrech elektřiny a naměřené a vyhodnocené údaje o dodávkách a odběrech elektřiny se zohledněním sdílené elektřiny,
+>
+> - d) poskytovat dodavateli elektřiny informaci o způsobu alokace sdílené elektřiny do předávacích míst přiřazených do skupiny sdílení, ve kterých zajišťuje dodávku elektřiny, souhrnnou informaci o způsobu alokace sdílené elektřiny, informaci o průběhu výroby elektřiny a technických parametrech výrobny elektřiny, z níž je elektřina sdílena.
+>
+> (3) Nestanoví-li právní předpis jinak, registruje datové centrum přiřazení a ukončení přiřazení předávacích míst do skupiny sdílení, předává informace o registraci přiřazení a poskytuje nebo zpřístupňuje naměřené a vyhodnocené údaje o dodávkách a odběrech elektřiny a údaje o dodávkách a odběrech elektřiny se zohledněním sdílené elektřiny členům skupiny sdílení na žádost nebo prostřednictvím jimi pověřené osoby s přístupem do informačního systému datového centra.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4a04a3f758047844b56b -->
 
 ### § 27e — Sdílení elektřiny společenstvím nebo jeho členy ve společenství
 
@@ -1480,6 +2916,62 @@ Zákon rozlišuje: (i) **úplatné sdílení** — společenství musí vyúčto
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e3d45057340c83a36fae generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 27e — Sdílení elektřiny společenstvím nebo jeho členy ve společenství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Při sdílení elektřiny mají společenství a jeho členové právo využívat distribuční a přenosovou soustavu. Člen společenství má právo sdílet elektřinu společenství nebo jinému členu společenství.
+>
+> (2) Předpokladem pro sdílení elektřiny je registrace přiřazení předávacích míst společenství nebo členů společenství do skupiny sdílení u datového centra, včetně přiřazení způsobu alokace sdílené elektřiny. Sdílet elektřinu lze pouze z předávacích míst a do předávacích míst s průběhovým měřením. Registrace přiřazení a ukončení přiřazení předávacích míst jsou bezúplatné.
+>
+> (3) O registraci přiřazení a ukončení přiřazení předávacích míst podle odstavce 1 žádá společenství u datového centra. Registrace přiřazení předávacího místa člena společenství do skupiny sdílení je přípustná jen se souhlasem člena společenství. Společenství je povinno na žádost člena ukončit přiřazení jeho předávacího místa.
+>
+> (4) Ve společenství je možné vytvořit jednu nebo více skupin sdílení. Předávací místo společenství nebo členů společenství je možné přiřadit pouze do jedné skupiny sdílení bez ohledu na to, zda se jedná o přiřazení předávacího místa do skupiny sdílení ve společenství nebo mimo společenství.
+>
+> (5) Společenství má právo na naměřené a vyhodnocené údaje o dodávkách a odběrech elektřiny a naměřené a vyhodnocené údaje o dodávkách a odběrech elektřiny se zohledněním sdílené elektřiny v předávacích místech přiřazených do skupiny sdílení, od datového centra.
+>
+> (6) Sdílí-li společenství elektřinu úplatně, je povinno vyúčtovávat sdílenou elektřinu a poskytovat členovi společenství vyúčtování a informace o vyúčtování sdílené elektřiny. Ustanovení § 11 odst. 7, [[#§ 10|10]], [[#§ 14|14]] a [[#§ 15|15]] se použijí obdobně. Sdílí-li společenství elektřinu bezúplatně, je povinno poskytovat členovi společenství údaje o množství sdílené elektřiny za vyhodnocované období, nejvýše však za období 12 měsíců po sobě následujících. Není-li délka vyhodnocovaného období sjednaná, stanoví ji společenství.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11, § 10, § 14, § 15
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e3d45057340c83a36fae -->
+
 ### § 27f — Sdílení elektřiny výrobcem, provozovatelem zařízení pro ukládání elektřiny nebo zákazníkem mimo společenství
 
 > **§ 27f**
@@ -1534,6 +3026,56 @@ Klíčové omezení sdílení mimo jednu pojistkovou skříň: skupina sdílení
 **Typicky rozhodné důkazy / podklady:** registrace skupiny sdílení u datového centra, seznam předávacích míst s registračními čísly, doklad o průběhovém měření, doklad o způsobu připojení (společná pojistková skříň ano/ne), žádosti o ukončení přiřazení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ba6ee2312942b6c754e1 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 27f — Sdílení elektřiny výrobcem elektřiny, provozovatelem zařízení pro ukládání elektřiny nebo zákazníkem v jiném předávacím místě a sdílení elektřiny zákazníkovi mimo společenství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Za sdílení elektřiny se považuje rovněž odběr elektřiny výrobcem elektřiny, provozovatelem zařízení pro ukládání elektřiny nebo zákazníkem v jiném předávacím místě.
+>
+> (2) Pro sdílení elektřiny výrobcem elektřiny, provozovatelem zařízení pro ukládání elektřiny nebo zákazníkem v jiném předávacím místě a sdílení elektřiny zákazníkovi mimo společenství se ustanovení § 27e odst. 1 až 3 a [[#§ 5|5]] použijí přiměřeně. Výrobce elektřiny, provozovatel zařízení pro ukládání elektřiny nebo zákazník, který registroval přiřazení předávacího místa výrobce elektřiny, provozovatele zařízení pro ukládání elektřiny nebo zákazníka do skupiny sdílení, je povinen na žádost výrobce elektřiny, provozovatele zařízení pro ukládání elektřiny nebo zákazníka ukončit přiřazení předávacího místa.
+>
+> (3) Předávací místa výrobce elektřiny, provozovatele zařízení pro ukládání elektřiny nebo zákazníka je možné přiřadit pouze do jedné skupiny sdílení bez ohledu na to, zda se jedná o přiřazení předávacího místa do skupiny sdílení mimo společenství nebo ve společenství. Nejedná-li se o předávací místa připojená k distribuční soustavě prostřednictvím jedné společné hlavní domovní pojistkové skříně nebo hlavní domovní kabelové skříně, může skupina sdílení zahrnovat nejvýše 11 registračních čísel předávacích míst.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27e, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ba6ee2312942b6c754e1 -->
 
 ### § 28 — Zákazník
 
@@ -1688,3 +3230,136 @@ Analogicky jako výrobce (§ 23 odst. 4) a provozovatel úložiště (§ 23a ods
 ---
 
 *Navazující ustanovení (§ 29 — zranitelný zákazník, § 30 — obchodník s elektřinou, § 31 — agregátor aj.) jsou komentovány v [06-hlava2-dil1-elektroenergetika-b.md](06-hlava2-dil1-elektroenergetika-b.md).*
+
+<!-- LEGAL-REVISION:BEGIN id=3f82d7f7fb36a2605fe3 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 28 — Zákazník
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Zákazník má právo
+>
+> - a) na uzavření smlouvy o připojení a na připojení svého odběrného elektrického zařízení k přenosové soustavě nebo k distribuční soustavě, pokud splňuje podmínky připojení a obchodní podmínky stanovené Pravidly provozování přenosové soustavy nebo Pravidly provozování distribuční soustavy a má k připojení souhlas vlastníka dotčené nemovitosti,
+>
+> - b) nakupovat elektřinu od držitelů licence na výrobu elektřiny a od držitelů licence na obchod s elektřinou, nakupovat elektřinu z jiných států nebo na krátkodobém trhu s elektřinou organizovaném operátorem trhu,
+>
+> - c) na dopravu dohodnutého množství elektřiny do odběrného místa za cenu uplatněnou v souladu s cenovou regulací,
+>
+> - d) na informace o celkové směsi paliv dodavatele a informace o dopadu na životní prostředí,
+>
+> - e) na bezplatnou volbu a změnu dodavatele elektřiny nebo agregátora,
+>
+> - f) nabízet a poskytovat podpůrné služby k zajištění provozu elektrizační soustavy za podmínek stanovených Pravidly provozování přenosové soustavy nebo Pravidly provozování distribuční soustavy nebo poskytovat flexibilitu pro jiné účely, a to přímo, nebo prostřednictvím agregace jednomu agregátorovi, je-li odběrné místo vybaveno průběhovým měřením,
+>
+> - g) poskytovat a rozúčtovat jiné osobě elektřinu odebranou zákazníkem prostřednictvím vlastního nebo jím provozovaného odběrného elektrického zařízení o napětí do 52 kV včetně,
+>
+> - h) na bezplatné vyúčtování dodávky elektřiny a související služby v elektroenergetice a poskytnuté flexibility,
+>
+> - i) uzavřít smlouvu s
+>
+>   - 1. dynamickým určením ceny elektřiny pro dodávky elektřiny do odběrného místa, je-li odběrné místo vybaveno průběhovým měřením,
+>
+>   - 2. pevnou cenou dodávky elektřiny na dobu dodávky elektřiny alespoň jednoho roku,
+>
+> - j) uzavřít smlouvu o agregaci i bez souhlasu dodavatele elektřiny.
+>
+> (2) Zákazník je povinen
+>
+> - a) řídit se pokyny technického dispečinku provozovatele přenosové soustavy nebo technického dispečinku provozovatele distribuční soustavy nebo řídicího a dohledového centra provozovatele distribuční soustavy, ke které je jeho zařízení připojeno, a Pravidly provozování přenosové soustavy nebo Pravidly provozování distribuční soustavy,
+>
+> - b) umožnit instalaci měřicího zařízení provozovateli přenosové soustavy nebo provozovateli distribuční soustavy,
+>
+> - c) umožnit přístup k měřicím zařízením provozovateli přenosové soustavy nebo provozovateli distribuční soustavy,
+>
+> - d) udržovat svá odběrná elektrická zařízení ve stavu, který odpovídá právním předpisům a technickým normám,
+>
+> - e) předávat operátorovi trhu technické údaje ze smluv o dodávce elektřiny, pokud je subjektem zúčtování,
+>
+> - f) provádět dostupná technická opatření zamezující ovlivňování kvality elektřiny v neprospěch ostatních účastníků trhu s elektřinou,
+>
+> - g) podílet se podle výše požadovaného příkonu na úhradě nákladů provozovatele přenosové soustavy nebo provozovatele distribuční soustavy spojených s připojováním zařízení k přenosové soustavě nebo distribuční soustavě prostřednictvím úhrady paušální částky, jejíž část je nevratná i v případě, že odběrné elektrické zařízení nebylo připojeno, případně hradit v plné výši oprávněné náklady provozovatele přenosové soustavy nebo provozovatele distribuční soustavy spojené s připojením odběrného elektrického zařízení,
+>
+> - h) při změně parametrů elektřiny upravit na svůj náklad svá odběrná elektrická zařízení tak, aby vyhovovala těmto změnám,
+>
+> - i) zaregistrovat se u operátora trhu před uskutečněním dodávky elektřiny od jiného výrobce elektřiny nebo obchodníka s elektřinou,
+>
+> - j) uhradit dodavateli poslední instance dodávku elektřiny podle [[#§ 12b|§ 12b]], a to od okamžiku zahájení této dodávky,
+>
+> - k) při stavebních úpravách distribuční soustavy anebo její části, včetně přípojek, umožnit změnu místa připojení, včetně změny umístění měřicího zařízení na veřejně přístupná místa; dojde-li v důsledku stavebních úprav ke změně umístění měřicího zařízení, považuje se elektrické zařízení za ním za odběrné elektrické zařízení v majetku vlastníka nemovitosti; veškeré náklady na provedené změny hradí provozovatel distribuční soustavy,
+>
+> - l) při uplatnění práva na volbu dodavatele podle odstavce 1 písm. e) dodržovat sjednanou délku výpovědní doby, jedná-li se o smlouvu na dobu neurčitou.
+>
+> (3) Na odběrných elektrických zařízeních, kterými prochází neměřená elektřina, nesmí být prováděny žádné zásahy bez předchozího souhlasu provozovatele přenosové soustavy nebo provozovatele distribuční soustavy.
+>
+> (4) Zákazník může provozovat vlastní náhradní zdroj, pokud je propojen s přenosovou soustavou nebo s distribuční soustavou, pouze po dohodě s provozovatelem přenosové soustavy nebo provozovatelem distribuční soustavy.
+>
+> (5) Zákazník má právo provozovat v odběrném místě výrobnu elektřiny nebo zařízení pro ukládání elektřiny propojené s přenosovou soustavou nebo distribuční soustavou pouze v případě, že ve stejném odběrném místě není připojena jiná výrobna elektřiny nebo jiné zařízení pro ukládání elektřiny, jedná se o výrobnu elektřiny nebo zařízení pro ukládání elektřiny s instalovaným výkonem do 100 kW a pro jejich připojení byla uzavřena smlouva o připojení. Jedná-li se o výrobnu elektřiny nebo zařízení pro ukládání elektřiny s instalovaným výkonem do 10,8 kW, má zákazník právo je připojit a provozovat na základě oznámení provozovateli distribuční soustavy, pokud záměr připojit výrobnu elektřiny nebo zařízení pro ukládání elektřiny oznámí provozovateli distribuční soustavy na elektronický kontakt určený provozovatelem distribuční soustavy, při připojení výrobny elektřiny nebo zařízení pro ukládání elektřiny splní technické podmínky připojení stanovené provozovatelem distribuční soustavy, splnění těchto podmínek provozovateli distribuční soustavy doloží a provozovatel distribuční soustavy do 30 dnů od oznámení připojení neodmítne z důvodů, pro které je oprávněn odmítnout připojení výrobny elektřiny nebo zařízení pro ukládání elektřiny do distribuční soustavy podle § 25 odst. 10 písm. a). Splní-li zákazník podmínky pro připojení a provozování výrobny elektřiny nebo zařízení pro ukládání elektřiny podle věty druhé, platí, že marným uplynutím lhůty podle věty druhé se mění obsah závazku ze smlouvy o připojení odběrného místa zákazníka tak, že předmětem závazku ze smlouvy o připojení je také připojení výrobny elektřiny nebo zařízení pro ukládání elektřiny s rezervovaným výkonem ve výši uvedené v oznámení, nejvýše však do hodnoty instalovaného výkonu. Provozovatel distribuční soustavy změnu obsahu závazku ze smlouvy o připojení zákazníkovi bez zbytečného odkladu písemně potvrdí.
+>
+> (6) Zákazník, který provozuje výrobnu elektřiny nebo zařízení pro ukládání elektřiny podle odstavce 5, je povinen
+>
+> - a) zajistit, aby k výrobě elektřiny nebo ukládání elektřiny byla používána technická zařízení, která splňují požadavky bezpečnosti a spolehlivosti stanovené právními předpisy a technickými normami,
+>
+> - b) zajistit, aby práce spojené s instalací a provozem výrobny elektřiny nebo zařízení pro ukládání elektřiny byly prováděny osobami s odbornou způsobilostí,
+>
+> - c) vyrábět nebo ukládat elektřinu tak, aby nedošlo k ohrožení života a zdraví osob, majetku nebo zájmu na ochranu životního prostředí,
+>
+> - d) řídit se pokyny technického dispečinku provozovatele přenosové soustavy nebo provozovatele distribuční soustavy nebo řídicího a dohledového centra provozovatele distribuční soustavy, ke které je výrobna elektřiny nebo zařízení pro ukládání elektřiny připojeno,
+>
+> - e) dodržovat parametry kvality dodávané elektřiny stanovené Pravidly provozování přenosové soustavy nebo Pravidly provozování distribuční soustavy, nejedná-li se o výrobnu elektřiny nebo zařízení pro ukládání elektřiny, u kterého je připojení do distribuční soustavy podmíněno technickým zamezením dodávce elektřiny do distribuční soustavy,
+>
+> - f) podílet se podle výše požadovaného výkonu nebo příkonu na úhradě nákladů provozovatele přenosové soustavy nebo provozovatele distribuční soustavy spojených s připojováním zařízení k přenosové soustavě nebo distribuční soustavě prostřednictvím úhrady paušální částky, jejíž část je nevratná i v případě, že výrobna elektřiny nebo zařízení pro ukládání elektřiny nebyly připojeny, případně hradit v plné výši oprávněné náklady provozovatele přenosové soustavy nebo provozovatele distribuční soustavy spojené s připojením výrobny elektřiny nebo zařízení pro ukládání elektřiny.
+>
+> (7) Zákazník je oprávněn sdílet s využitím distribuční nebo přenosové soustavy elektřinu vyrobenou v jím provozované výrobně elektřiny v odběrném místě nebo uloženou v jím provozovaném zařízení pro ukládání elektřiny do jeho odběrného místa nebo do odběrných míst jiných zákazníků.
+>
+> (8) Zákazník je oprávněn dále sdílet bez využití distribuční nebo přenosové soustavy elektřinu vyrobenou v jím provozované výrobně elektřiny nebo uloženou v jím provozovaném zařízení pro ukládání elektřiny jinému zákazníkovi, jestliže mají tito zákazníci předávací místa připojená k distribuční soustavě prostřednictvím jedné společné hlavní domovní pojistkové skříně nebo hlavní domovní kabelové skříně.
+>
+> (9) Zákazník podle odstavce 5 je oprávněn dodávat elektřinu z jím provozované výrobny elektřiny nebo zařízení pro ukládání elektřiny pouze obchodníkovi s elektřinou nebo na organizované trhy s elektřinou.
+>
+> (10) Vlastník nemovitosti, do které je zákazníkům dodávána elektřina podle smlouvy, je povinen
+>
+> - a) tuto dodávku zákazníkům umožnit,
+>
+> - b) udržovat společnou domovní elektrickou instalaci sloužící pro tuto dodávku ve stavu, který odpovídá právním předpisům a technickým normám,
+>
+> - c) poskytovat technické údaje o společné domovní elektrické instalaci držiteli licence na distribuci elektřiny,
+>
+> - d) umožnit držiteli licence na distribuci elektřiny přístup k této společné domovní instalaci.
+>
+> (11) Zákazník neodpovídá za odchylku vzniklou v souvislosti s dispečerským řízením výrobny elektřiny nebo zařízení pro ukládání elektřiny podle § 26 odst. 5.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12b, § 25, § 26
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3f82d7f7fb36a2605fe3 -->

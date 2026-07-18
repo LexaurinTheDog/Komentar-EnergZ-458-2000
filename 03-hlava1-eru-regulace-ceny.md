@@ -73,6 +73,56 @@ Povinnost mlčenlivosti podle § 16a dopadá na každého, kdo pro ministerstvo 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d7a6c1fb2a4bfb2169d2 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 16a — Povinnost mlčenlivosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnanec nebo osoba v jiném právním vztahu k ministerstvu, na jehož základě vykonává pro ministerstvo činnost, při níž se dozví chráněnou informaci, je povinna o ní zachovat mlčenlivost. Tato povinnost trvá i po skončení pracovněprávního nebo jiného vztahu k ministerstvu.
+>
+> (2) Povinnost zachovávat mlčenlivost osoby podle odstavce 1 nemají, jestliže podávají o takových skutečnostech a údajích svědectví orgánům činným v trestním řízení nebo v řízení před soudem, popřípadě jestliže na výzvu těchto orgánů nebo soudu podávají písemné vyjádření.
+>
+> (3) Porušením povinnosti zachovávat mlčenlivost není poskytnutí chráněných informací Komisi, Agentuře, regulačním orgánům členských států, jiným správním orgánům, datovému centru nebo operátorovi trhu pro účely výkonu jejich působnosti nebo povinností a pro plnění úkolů ministerstva. V takovém případě je příjemce povinen zajistit stejnou úroveň ochrany chráněných informací jako předávající.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d7a6c1fb2a4bfb2169d2 -->
+
 ### § 16b — Působnost v oblasti kybernetické bezpečnosti přeshraničních toků elektřiny
 
 > **§ 16b**
@@ -136,6 +186,58 @@ Povinnost vzájemné součinnosti a sdílení informací mezi ERÚ, NÚKIB a min
 **Typicky rozhodné důkazy / podklady:** protokol o incidentu, technická dokumentace dotčeného systému, text a publikace veřejnoprávní smlouvy o přenosu, součinnostní stanoviska NÚKIB/ERÚ/ministerstva.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f2a9ebefad3e5dfef768 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 16b — Působnost v oblasti kybernetické bezpečnosti přeshraničních toků elektřiny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Příslušným orgánem podle Nařízení o kybernetické bezpečnosti přeshraničních toků elektřiny je Národní úřad pro kybernetickou a informační bezpečnost.
+>
+> (2) Národní úřad pro kybernetickou a informační bezpečnost může jako příslušný orgán přenést některé úkoly podle Nařízení o kybernetické bezpečnosti přeshraničních toků elektřiny na Energetický regulační úřad nebo ministerstvo veřejnoprávní smlouvou nebo dohodou podle [[§ 160 odst. 3|§ 160 odst. 3]] [[správního řádu|správního řádu]].
+>
+> (3) Národní úřad pro kybernetickou a informační bezpečnost vykonává dozor nad dodržováním povinností podle Nařízení o kybernetické bezpečnosti přeshraničních toků elektřiny.
+>
+> (4) Energetický regulační úřad, Národní úřad po kybernetickou a informační bezpečnost a ministerstvo si poskytují informace a jinou nezbytnou součinnost pro plnění úkolů vyplývajících z Nařízení o kybernetické bezpečnosti přeshraničních toků elektřiny. Při předávání informací je příjemce povinen zajistit stejnou úroveň důvěrnosti jako předávající.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 160
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f2a9ebefad3e5dfef768 -->
 
 ### § 17 — Energetický regulační úřad a jeho působnost
 
@@ -261,6 +363,224 @@ Odst. 13 je obsahově totožný s § 16a — viz výklad tamtéž. Odst. 15 zav�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2b7cf16e1c3793285a8c generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 17 — Energetický regulační úřad a jeho působnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Zřizuje se Energetický regulační úřad jako správní úřad pro výkon regulace v energetických odvětvích se samostatnou kapitolou státního rozpočtu České republiky.
+>
+> (2) Sídlem Energetického regulačního úřadu je Jihlava.
+>
+> (3) Při výkonu působnosti postupuje Energetický regulační úřad nezávisle a řídí se pouze zákony a ostatními právními předpisy. Energetický regulační úřad nesmí při výkonu své působnosti přijímat ani vyžadovat pokyny od prezidenta republiky, Parlamentu České republiky, vlády ani od jakéhokoliv jiného orgánu výkonné moci nebo fyzické nebo právnické osoby. Energetický regulační úřad postupuje tak, aby byla zajištěna transparentnost a předvídatelnost výkonu jeho pravomocí.
+>
+> (4) Energetický regulační úřad zejména chrání oprávněné zájmy zákazníků a spotřebitelů v energetických odvětvích. V působnosti Energetického regulačního úřadu je regulace cen, podpora hospodářské soutěže v energetických odvětvích, výkon dohledu nad trhy v energetických odvětvích, podpora využívání obnovitelných a druhotných zdrojů energie, podpora kombinované výroby elektřiny a tepla, podpora biometanu, podpora decentrální výroby elektřiny a ochrana zájmů zákazníků a spotřebitelů s cílem uspokojení všech přiměřených požadavků na dodávku energií a ochrana oprávněných zájmů držitelů licencí, jejichž činnost podléhá regulaci. Energetický regulační úřad vykonává působnost regulačního úřadu a dotčeného orgánu a je příslušným orgánem podle Nařízení o vnitřním trhu s elektřinou, Nařízení o vnitřním trhu s plynem a Nařízení o velkoobchodním trhu s energií a regulačním orgánem podle Nařízení o opatřeních na zajištění bezpečnosti dodávek zemního plynu. Energetický regulační úřad je příslušným orgánem podle čl. 3 Nařízení, kterým se stanoví hlavní směry pro transevropské energetické sítě30), a certifikačním orgánem podle Nařízení o vnitřním trhu s plynem. Energetický regulační úřad postupuje podle přímo použitelných předpisů Evropské unie vydaných na základě nebo k provedení Nařízení o vnitřním trhu s elektřinou a Nařízení o vnitřním trhu s plynem.
+>
+> (5) Energetický regulační úřad v mezích své působnosti ve spolupráci s regulačními orgány členských států, Komisí a Agenturou podporuje rozvoj konkurenčního a účinného vnitřního trhu s elektřinou a plynem v Evropské unii a rozvoj konkurenčních a účinných regionálních trhů s energií, odstraňuje překážky obchodování s elektřinou a plynem mezi členskými státy, ve spolupráci s regulačními orgány dalších členských států podporuje koordinované přidělování přeshraničních kapacit a koordinaci tvorby pravidel provozování přenosových soustav v elektroenergetice a přepravních soustav v plynárenství. Energetický regulační úřad v mezích své působnosti
+>
+> - a) odstraňuje překážky vstupu účastníků trhu s elektřinou a plynem na trh a překážky bránící nebo omezující změnu dodavatele elektřiny a plynu,
+>
+> - b) vytváří podmínky pro neznevýhodňující přístup k údajům o spotřebě zákazníka při zajištění ochrany chráněných informací,
+>
+> - c) vytváří podmínky pro připojování nových výroben elektřiny včetně výroben elektřiny využívajících obnovitelné zdroje energie a decentrálních výroben elektřiny a zařízení pro ukládání energie,
+>
+> - d) vytváří podmínky pro efektivní, bezpečné a spolehlivé fungování elektrizační a plynárenské soustavy při zachování požadavku na přiměřenost soustav, zvyšování energetické účinnosti a integraci trhu a
+>
+> - e) vytváří pobídky pro co nejefektivnější využívání elektrizační a plynárenské soustavy při nejnižších možných nákladech.
+>
+> (6) Energetický regulační úřad rozhoduje o
+>
+> - a) udělení, změně, prodloužení nebo zrušení licence,
+>
+> - b) uložení povinnosti dodávek nad rámec licence,
+>
+> - c) uložení povinnosti poskytnout v naléhavých případech energetické zařízení pro výkon povinnosti dodávek tepelné energie, distribuce elektřiny, distribuce plynu nebo výroby elektřiny nad rámec licence a umožnit výkon této povinnosti nad rámec licence,
+>
+> - d) regulaci cen podle tohoto zákona, zákona [[o cenách|o cenách]] a Nařízení, kterým se zavádí kodex sítě harmonizovaných struktur přepravních sazeb pro zemní plyn49),
+>
+> - e) dočasném pozastavení povinnosti umožnit přístup třetích stran podle [[#§ 61a|§ 61a]],
+>
+> - f) dočasném omezení povinnosti přístupu pro nové plynové zařízení a schválení pravidel pro přidělování a správu kapacity a řízení překročení kapacity nového plynového zařízení podle [[#§ 67a|§ 67a]],
+>
+> - g) udělení nebo zrušení certifikátu nezávislosti a certifikátu provozovatele zásobníku plynu,
+>
+> - h) uznání oprávnění k podnikání zahraniční osoby v České republice podle [[#§ 7a|§ 7a]],
+>
+> - i) udělení povolení k
+>
+> - 1. vlastnění, vyvíjení, správě nebo provozu zařízení pro ukládání energie,
+>
+> - 2. přímému nákupu nefrekvenčních podpůrných služeb provozovatelem přenosové soustavy nebo nefrekvenčních podpůrných služeb a flexibility provozovatelem distribuční soustavy,
+>
+> - j) nařízení změny nebo odstranění vad plánu rozvoje regionální distribuční soustavy a stanoví k tomu přiměřenou lhůtu,
+>
+> - k) výši rozdílu mezi výší úhrady za službu poskytnutí výkonu a výši prokazatelné ztráty a přiměřeného zisku podle § 12 odst. 10 a o úhradě prokazatelné ztráty podle § 14 odst. 6,
+>
+> - l) výši náhrady nebo schválení výše náhrady podle § 12 odst. 8,
+>
+> - m) neoprávněném získání prostředků na úhradu prokazatelné ztráty a přiměřeného zisku, výši těchto prostředků a uložení povinnosti uhradit je provozovateli přenosové soustavy podle § 12 odst. 11.
+>
+> (7) Energetický regulační úřad dále
+>
+> - a) rozhoduje spory o uzavření smlouvy podle tohoto zákona mezi držiteli licencí nebo mezi držitelem licence a zákazníkem a spory o omezení, přerušení nebo obnovení dodávek nebo distribuce elektřiny, plynu nebo tepelné energie z důvodu neoprávněného odběru nebo neoprávněné distribuce,
+>
+> - b) rozhoduje spory o splnění povinností ze smluv mezi držiteli licencí nebo mezi držitelem licence a zákazníkem podle tohoto zákona v případech, ve kterých by jinak byla k rozhodnutí sporu dána příslušnost soudu, pokud s pravomocí Energetického regulačního úřadu rozhodovat vzniklý spor souhlasí všichni účastníci řízení,
+>
+> - c) rozhoduje spory o připojení nebo přístupu k přenosové soustavě nebo distribuční soustavě, přepravní soustavě, zásobníkům plynu a těžebním plynovodům, včetně sporů o přístupu k přeshraniční kapacitě pro přenos elektřiny, přepravu plynu nebo distribuci elektřiny nebo plynu,
+>
+> - d) rozhoduje spory jejichž předmětem je určení výše náhrady při dispečerském řízení výrobny elektřiny z obnovitelných zdrojů energie podle § 26 odst. 6,
+>
+> - e) na návrh spotřebitele odebírajícího elektřinu, plyn nebo tepelnou energii pro spotřebu v domácnosti nebo zákazníka, který je fyzickou osobou podnikající, rozhoduje
+>
+> - 1. spory mezi zákazníkem a držitelem licence o splnění povinností ze smluv, jejichž předmětem je dodávka nebo distribuce elektřiny, plynu nebo tepelné energie nebo poskytování flexibility,
+>
+> - 2. o určení, zda právní vztah mezi zákazníkem a držitelem licence, jehož předmětem je dodávka nebo distribuce elektřiny, plynu nebo tepelné energie nebo poskytování flexibility, vznikl, trvá nebo zanikl, a kdy se tak stalo,
+>
+> - f) vykonává dozor v energetických odvětvích v rozsahu podle [[#§ 18|§ 18]] a ve spolupráci s regulačními orgány dalších členských států dozor nad dodržováním povinností Evropskou sítí provozovatelů přenosových soustav elektřiny a Evropským subjektem pro provozovatele distribučních soustav v Unii stanovených přímo použitelnými předpisy Evropské unie nebo uložených rozhodnutími Agentury,
+>
+> - g) schvaluje nebo stanovuje Pravidla provozování přenosové soustavy a Pravidla provozování distribučních soustav v elektroenergetice, obchodní podmínky operátora trhu, Řád datového centra, Řád provozovatele přepravní soustavy, Řád provozovatele zásobníku plynu a Řád provozovatele distribuční soustavy v plynárenství,
+>
+> - h) provádí šetření týkající se fungování trhů s elektřinou nebo plynem a v případě zjištění nedostatků ukládá opatření k zajištění řádného fungování těchto trhů,
+>
+> - i) schvaluje desetiletý plán rozvoje přenosové soustavy a desetiletý plán rozvoje přepravní soustavy,
+>
+> - j) monitoruje
+>
+> - 1. uplatňování omezujících nebo nepřiměřených smluvních podmínek na trhu s elektřinou, plynem a v odvětví teplárenství a nabídky smluv s dynamickým určením ceny nebo jiným způsobem určení ceny přímo závislým na změnách ceny elektřiny nebo plynu na organizovaných trzích s elektřinou nebo plynem, jejich rizika a vliv na vývoj cen dodávek elektřiny a plynu,
+>
+> - 2. technickou spolupráci mezi provozovateli přenosových nebo přepravních soustav v Evropské unii a ve vztahu k třetím zemím,
+>
+> - 3. stav hospodářské soutěže na velkoobchodním a maloobchodním trhu s elektřinou a plynem a transparentnost velkoobchodního a maloobchodního trhu s elektřinou a plynem,
+>
+> - 4. úroveň maloobchodních cen elektřiny a plynu a uplatňované smluvní podmínky včetně smluvních pokut pro případ porušení povinnosti spotřebitele odebírat po dobu trvání závazku ze smlouvy elektřinu nebo plyn a jiných obdobných peněžitých plateb uplatňovaných pro případ ukončení odběru elektřiny nebo plynu spotřebitelem,
+>
+> - 5. dvakrát ročně termíny pro připojení energetických zařízení k přenosové soustavě nebo distribuční soustavě uplatňované provozovatelem přenosové soustavy nebo provozovatelem distribuční soustavy,
+>
+> - 6. rozsah investic do výstavby nových a modernizace stávajících výroben elektřiny a zařízení pro ukládání elektřiny,
+>
+> - 7. právní a faktické překážky výroby elektřiny zákazníkem nebo společenstvím pro vlastní potřebu, sdílení elektřiny a poskytování flexibility účastníky trhu s elektřinou,
+>
+> - 8. dostupnost přenosových kapacit pro přenos elektřiny a uplatňování pravidel pro řízení přetížení přenosové soustavy,
+>
+> - 9. ve spolupráci s Ministerstvem pro místní rozvoj a Ministerstvem pro životní prostředí dobu trvání povolovacího postupu pro zařízení na výrobu energie z obnovitelných zdrojů, jakož i jejich připojení k soustavě, včetně posouzení vlivů na životní prostředí,
+>
+> - k) monitoruje a prověřuje podmínky přístupu k zásobníkům plynu a souvisejícím službám,
+>
+> - l) každoročně zveřejňuje doporučení ohledně tvorby maloobchodních cen elektřiny a plynu pro spotřebitele,
+>
+> - m) zveřejňuje na svých internetových stránkách roční zprávu o výsledcích monitorovací činnosti v energetických odvětvích a roční a čtvrtletní zprávu o provozu soustav v energetických odvětvích,
+>
+> - n) zveřejňuje přehledy o cenách tepelné energie včetně jejich srovnání, a to v členění podle lokalit a technických parametrů výroby a rozvodu tepelné energie,
+>
+> - o) spolupracuje s Komisí a Agenturou, s ministerstvem a jinými správními úřady,
+>
+> - p) spolupracuje s občanskými sdruženími a jinými právnickými osobami založenými za účelem ochrany práv spotřebitelů energií,
+>
+> - q) vyžaduje stanovisko Agentury nebo podává podnět Komisi k přezkoumání rozhodnutí regulačních orgánů jiných členských států Evropské unie, má-li za to, že rozhodnutí regulačního orgánu jiného členského státu Evropské unie není v souladu s přímo použitelnými předpisy Evropské unie vydanými na základě nebo k provedení předpisů Evropské unie v oblasti vnitřního trhu s elektřinou nebo s plynem22),
+>
+> - r) monitoruje a vyhodnocuje dodržování kvality dodávek a služeb v elektroenergetice a plynárenství,
+>
+> - s) vede registr zprostředkovatelů a registr společenství, rozhoduje o udělení a odejmutí oprávnění k činnosti zprostředkovatele, zapisuje a vymazává údaje o zprostředkovatelích v registru zprostředkovatelů, zapisuje společenství do registru společenství, mění údaje zapsané v registru společenství, rozhoduje o výmazu společenství z registru společenství a vymazává společenství z registru společenství,
+>
+> - t) vydává závazné stanovisko o ceně za využívání vyhrazeného zásobníku plynu nebo o způsobu jejího určení, jakož i o způsobu nákupu a prodeje plynu,
+>
+> - u) na návrh spotřebitele řeší spory o splnění povinnosti ze smlouvy o zprostředkování v energetických odvětvích,
+>
+> - v) stanovuje a na svých internetových stránkách zveřejňuje hodiny představující dobu špičky pro účely snížení spotřeby elektřiny podle Nařízení o intervenci v mimořádné situaci57),
+>
+> - w) monitoruje postup zavádění inteligentních sítí provozovatelem přenosové soustavy a provozovateli distribučních soustav a každý druhý rok zpracovává a zveřejňuje zprávu o dosažené úrovni zavádění inteligentních sítí a doporučení pro jejich další rozvoj,
+>
+> - x) schvaluje technické požadavky a podmínky obstarávání podpůrných služeb provozovatele přenosové soustavy a technické požadavky a podmínky obstarávání nefrekvenčních podpůrných služeb a flexibility provozovatele distribuční soustavy,
+>
+> - y) zpracovává analýzu nákladů a přínosů decentrální výroby elektřiny na výstavbu a zajištění bezpečného a spravedlivého provozu elektrizační soustavy,
+>
+> - z) vykonává činnost jednotného kontaktního místa, které poskytuje zákazníkům veškeré potřebné informace o jejich právech, příslušných právních předpisech a mechanismech urovnávání sporů, které mají v případě sporu k dispozici,
+>
+> - za) je příslušným orgánem pro přijetí zprávy o odhadovaných potřebách flexibility podle Nařízení o vnitřním trhu s elektřinou,
+>
+> - zb) rozhoduje spory o splnění povinností ze smluv, jejichž předmětem je sdílení elektřiny, ve kterých by jinak byla k rozhodnutí sporu dána příslušnost soudu, pokud s pravomocí Energetického regulačního úřadu rozhodovat vzniklý spor souhlasí všichni účastníci řízení,
+>
+> - zc) rozhoduje o udělení výjimky z povinnosti horizontálního oddělení provozovatele vodíkové přepravní soustavy podle [[#§ 58p|§ 58p]].
+>
+> (8) Je-li provozovatel přepravní soustavy součástí vertikálně integrovaného plynárenského podnikatele, Energetický regulační úřad dále
+>
+> - a) sleduje poskytování informací mezi provozovatelem přepravní soustavy a ostatními osobami, které jsou součástí téhož koncernu, za účelem zjištění, zda provozovatel přepravní soustavy plní povinnosti nezávislého provozovatele přepravní soustavy,
+>
+> - b) sleduje smluvní vztahy mezi provozovatelem přepravní soustavy a ostatními osobami, které jsou součástí téhož koncernu, včetně průběhu jejich plnění, a vyžaduje záznamy o těchto vztazích,
+>
+> - c) rozhoduje spory mezi provozovatelem přepravní soustavy a ostatními osobami, které jsou součástí téhož vertikálně integrovaného plynárenského podnikatele, pokud se spor týká povinností uložených tímto zákonem,
+>
+> - d) provádí šetření v objektech, místnostech a dopravních prostředcích, které provozovatel přepravní soustavy a ostatní osoby, které jsou součástí téhož koncernu, užívají při své podnikatelské činnosti (dále jen „obchodní prostory“),
+>
+> - e) schvaluje uzavírání smluv mezi provozovatelem přepravní soustavy a ostatními osobami, které jsou součástí téhož koncernu,
+>
+> - f) uděluje souhlas s poskytováním služeb provozovatelem přepravní soustavy jiné osobě, která je součástí téhož vertikálně integrovaného plynárenského podnikatele,
+>
+> - g) schvaluje po jednání valné hromady jmenování, volbu a odvolání člena statutárního orgánu a člena dozorčí rady nebo správní rady provozovatele přepravní soustavy a schvaluje po jednání valné hromady uzavření smlouvy o výkonu funkce člena statutárního orgánu nebo člena dozorčí rady nebo správní rady a jiné smlouvy, která upravuje podmínky při výkonu funkce člena statutárního orgánu nebo člena dozorčí rady nebo správní rady, a jejich změny,
+>
+> - h) schvaluje jmenování nebo jiné ustanovení do funkce a odvolání nebo jiné předčasné ukončení výkonu funkce auditora programu rovného zacházení nezávislého provozovatele přepravní soustavy (dále jen „auditor programu“) a schvaluje uzavření, změnu nebo ukončení smlouvy, která upravuje podmínky výkonu funkce auditora programu, nebo smlouvy, kterou se zakládá pracovněprávní vztah auditora programu,
+>
+> - i) schvaluje program rovného zacházení nezávislého provozovatele přepravní soustavy,
+>
+> - j) konzultuje desetiletý plán rozvoje přepravní soustavy a posuzuje jeho soulad s uplatněnými požadavky na realizaci investic do přepravní soustavy a s plánem rozvoje soustavy pro celou Evropskou unii,
+>
+> - k) rozhoduje o nařízení změny nebo odstranění vad desetiletého plánu rozvoje přepravní soustavy a stanoví k tomu přiměřenou lhůtu,
+>
+> - l) sleduje a vyhodnocuje provádění desetiletého plánu rozvoje přepravní soustavy a rozhoduje o uložení opatření k uskutečnění investic do přepravní soustavy.
+>
+> (9) Energetický regulační úřad vydává Energetický regulační věstník, ve kterém uveřejňuje cenové výměry a metodiku cenové regulace. Energetický regulační úřad zveřejňuje Energetický regulační věstník na portálu veřejné správy. Dnem zveřejnění Energetického regulačního věstníku se rozumí den jeho zpřístupnění na portálu veřejné správy.
+>
+> (10) Energetický regulační úřad předkládá jednou ročně Parlamentu České republiky, vládě, Komisi a Agentuře zprávu o své činnosti a hospodaření. Ve zprávě o činnosti a hospodaření Energetický regulační úřad uvede rovněž opatření přijatá při výkonu činností Energetického regulačního úřadu a dosažené výsledky, výsledky posouzení souladu plánů rozvoje přenosové soustavy a plánů rozvoje přepravní soustavy s plány rozvoje soustavy pro celou Evropskou unii podle Nařízení o vnitřním trhu s elektřinou a Nařízení o vnitřním trhu s plynem, posouzení pokroku dosaženého při zvyšování energetické účinnosti přenosové, přepravní a distribučních soustav v elektroenergetice a plynárenství a výsledky provedených šetření týkajících se fungování trhů s elektřinou a s plynem. Zprávu o své činnosti Energetický regulační úřad zveřejní. Energetický regulační úřad předává jednou ročně Komisi národní zprávu o stavu elektroenergetiky a plynárenství, kterou současně zveřejní na svých internetových stránkách.
+>
+> (11) Energetický regulační úřad reguluje ceny za související službu v elektroenergetice, související službu v plynárenství, cenu za službu přeshraničního využití zásobníku plynu49) a ceny elektřiny a plynu dodavatele poslední instance. Energetický regulační úřad je oprávněn na návrh provozovatele přepravní soustavy rozhodnout o odlišném postupu tvorby ceny za mezinárodní přepravu plynu, založeném na tržním způsobu. Energetický regulační úřad dále věcně usměrňuje ceny tepelné energie. Energetický regulační úřad dále pro případ vyhlášení mimořádného stavu nouze v plynárenství a po dobu jeho trvání reguluje cenu plynu pro zúčtování odchylky v mimořádném stavu nouze, výši stálého měsíčního platu v Kč/odběrné místo a výši marže dodavatele plynu v Kč/MWh.
+>
+> (12) Energetický regulační úřad může kromě činností uvedených v odstavci 11 rozhodnout o regulaci cen dalších činností vykonávaných nebo obstarávaných provozovatelem přenosové soustavy, provozovatelem přepravní soustavy, provozovatelem distribuční soustavy, provozovatelem zásobníku plynu, činností operátora trhu nebo činností datového centra, souvisejících s přenosem elektřiny, přepravou plynu, distribucí elektřiny nebo plynu, uskladněním plynu, činnostmi operátora trhu nebo činností datového centra, jestliže je to nezbytné k zajištění spolehlivého a bezpečného provozu elektrizační či plynárenské soustavy, zajištění nediskriminačního přístupu účastníků trhu do elektrizační či plynárenské soustavy nebo je-li trh ohrožen účinky omezení hospodářské soutěže nebo vyžaduje-li to mimořádná tržní situace.
+>
+> (13) Zaměstnanec zařazený do Energetického regulačního úřadu nebo osoba v jiném právním vztahu k Energetickému regulačnímu úřadu (dále jen „zaměstnanec Energetického regulačního úřadu“), na jehož základě vykonává pro Energetický regulační úřad činnost, při níž se dozví chráněnou informaci, je povinna o nich zachovat mlčenlivost. Tato povinnost trvá i po skončení pracovněprávního nebo jiného vztahu k Energetickému regulačnímu úřadu. Povinnost mlčenlivosti neplatí, jestliže tyto osoby podávají o takových skutečnostech a údajích svědectví orgánům činným v trestním řízení nebo v řízení před soudem, popřípadě jestliže na výzvu těchto orgánů nebo soudu podávají písemné vyjádření. Porušením povinnosti zachovávat mlčenlivost není poskytnutí chráněných informací Komisi, Agentuře, regulačním orgánům členských států, ministerstvu, jiným správním orgánům, datovému centru a operátorovi trhu pro účely výkonu jejich působnosti nebo povinností a pro plnění úkolů Energetického regulačního úřadu. V takovém případě je příjemce povinen zajistit stejnou úroveň ochrany chráněných informací jako předávající.
+>
+> (14) Energetický regulační úřad předává ministerstvu a Státní energetické inspekci informace a údaje nezbytné pro výkon jejich působnosti.
+>
+> (15) Energetický regulační úřad vydává a zveřejňuje výkladová stanoviska Energetického regulačního úřadu k ustanovením právních předpisů v oblasti jeho působnosti, která zohledňuje ve své rozhodovací činnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 61a, § 67a, § 7a, § 12, § 14, § 26, § 18, § 58p
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2b7cf16e1c3793285a8c -->
+
 ### § 17b — Organizace Energetického regulačního úřadu (Rada ERÚ)
 
 > **§ 17b**
@@ -364,6 +684,128 @@ Rada ERÚ je kolegiální nezávislý orgán; její nezávislost je chráněna p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=eae265e409240bb8972e generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 17b — Organizace Energetického regulačního úřadu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Rada Energetického regulačního úřadu (dále jen „Rada“) má 5 členů, z nichž 1 je předseda Energetického regulačního úřadu.
+>
+> (2) Předsedu Energetického regulačního úřadu a další členy Rady jmenuje a odvolává vláda na návrh ministra průmyslu a obchodu. Člen Rady je jmenován na 5 let a jeho funkční období začíná vždy dnem 1. ledna. Členové Rady jsou jmenováni tak, že každý rok je jmenován jeden člen Rady. Nikdo nemůže být členem Rady jmenován více než dvakrát; do počtu jmenování se nezapočítává jmenování podle odstavců 10 a [[#§ 11|11.]]
+>
+> (3) Předseda Energetického regulačního úřadu stojí v čele Energetického regulačního úřadu, řídí jeho činnost a je oprávněn pověřit výkonem části svých pravomocí další členy Rady. Ve stanovených případech rozhoduje Rada.
+>
+> (4) Zasedání Rady svolává a řídí předseda Energetického regulačního úřadu; konají se podle potřeby, nejméně však jednou za 4 týdny. Požádá-li o to kterýkoli člen Rady, je předseda Energetického regulačního úřadu povinen svolat zasedání Rady do 3 dnů od doručení žádosti předsedovi Energetického regulačního úřadu tak, aby se zasedání Rady konalo nejpozději 10 dnů ode dne, kdy byla žádost doručena předsedovi Energetického regulačního úřadu. Nesvolá-li předseda zasedání Rady podle věty druhé, učiní tak člen Rady, který o svolání Rady požádal.
+>
+> (5) Do funkce člena Rady může být jmenován občan České republiky, který
+>
+> - a) je plně svéprávný,
+>
+> - b) je bezúhonný; za bezúhonného se nepovažuje občan, který byl pravomocně odsouzen pro úmyslný trestný čin, pokud jeho odsouzení pro trestné činy nebylo zahlazeno anebo se na něj z jiného důvodu hledí, jako by nebyl odsouzen; za bezúhonného se dále nepovažuje občan, který nesplňuje podmínky stanovené zvláštním právním předpisem46),
+>
+> - c) má nejméně 7 let praxe v energetických odvětvích, z toho alespoň 3 roky v řídící nebo vedoucí funkci; za praxi v energetických odvětvích se považuje trvalá činnost ve výrobě, přenosu, přepravě, distribuci, rozvodu či dodávce elektřiny, plynu nebo tepla, činnost v obchodu s elektřinou, plynem nebo teplem, činnost akademického pracovníka50) nebo činnost v orgánech státní správy a operátora trhu v těchto oborech,
+>
+> - d) má ukončené vysokoškolské studium v magisterském studijním programu,
+>
+> - e) nevykonává funkci nebo činnost neslučitelnou s výkonem funkce člena Rady,
+>
+> - f) je v energetických odvětvích uznávanou a zkušenou osobností.
+>
+> (6) Funkce člena Rady je neslučitelná s funkcí poslance nebo senátora, soudce, státního zástupce, jakoukoliv funkcí ve veřejné správě, s funkcí člena orgánů územní samosprávy a s členstvím v politické straně nebo v politickém hnutí.
+>
+> (7) Funkce člena Rady zaniká
+>
+> - a) uplynutím funkčního období,
+>
+> - b) odvoláním,
+>
+> - c) vzdáním se funkce,
+>
+> - d) dnem, kdy se ujal funkce neslučitelné s funkcí člena Rady,
+>
+> - e) nabytím právní moci rozsudku soudu o omezení jeho svéprávnosti nebo o spáchání úmyslného trestného činu, nebo
+>
+> - f) úmrtím nebo prohlášením za mrtvého.
+>
+> (8) Člen Rady nesmí být držitelem licence nebo vykonávat jinou podnikatelskou činnost v energetických odvětvích, nesmí se podílet na podnikání držitele licence nebo jiné osoby působící v energetických odvětvích, být členem jakýchkoli orgánů takové osoby nebo se jinak podílet na obchodním vedení takové osoby, ani poskytovat přímo nebo zprostředkovaně poradenskou nebo obdobnou činnost držiteli licence nebo jiné osobě působící v energetických odvětvích. Člen Rady nesmí zastávat jinou placenou funkci, být v pracovním poměru nebo jiném pracovněprávním vztahu ani vykonávat jinou výdělečnou činnost s výjimkou správy vlastního majetku a činnosti vědecké, pedagogické, literární, publicistické a umělecké.
+>
+> (9) Člena Rady vláda odvolá, pokud porušil některý ze zákazů uvedených v odstavci 8 nebo jedná v rozporu s § 17 odst. 3, svým jednáním naruší řádný výkon pravomocí Energetického regulačního úřadu, nebo pokud nevykonává svou funkci po dobu delší než 6 měsíců.
+>
+> (10) Zanikne-li funkce člena Rady z důvodů podle odstavce 7 písm. b) až f), ministr průmyslu a obchodu bezodkladně navrhne vládě jmenovat nového člena Rady na zbývající část funkčního období člena Rady, jehož funkce zanikla.
+>
+> (11) Sníží-li se v kalendářním roce počet členů Rady na méně než 4, navrhne ministr průmyslu a obchodu jmenovat tolik členů, aby jejich počet odpovídal počtu členů Rady podle odstavce 1. Vláda při jmenování těchto členů Rady stanoví délku funkčního období tak, aby v jednom roce neskončilo funkční období více než 1 členovi Rady a nepřekročila dobu jmenování stanovenou v odstavci 2. Funkční období takto jmenovaného člena Rady začíná dnem jmenování a končí vždy dnem 31. prosince.
+>
+> (12) Funkce předsedy Energetického regulačního úřadu zaniká v okamžiku zániku jeho funkce člena Rady, jeho odstoupením nebo jeho odvoláním vládou z funkce předsedy Energetického regulačního úřadu. Ministr průmyslu a obchodu bezodkladně navrhne vládě jmenovat nového předsedu Energetického regulačního úřadu.
+>
+> (13) Rada rozhoduje hlasováním. Každý člen Rady má jeden hlas. Rozhodnutí Rady je přijato, pokud pro něj hlasovali alespoň 3 její členové. O hlasování se vede protokol, který podepisují všichni přítomní členové Rady a osoba, která byla pověřena sepsáním protokolu; při nahlížení do spisu je vyloučeno nahlížet do tohoto protokolu.
+>
+> (14) Rada
+>
+> - a) schvaluje
+>
+> - 1. plán činnosti Energetického regulačního úřadu,
+>
+> - 2. rozpočet Energetického regulačního úřadu a závěrečný účet Energetického regulačního úřadu,
+>
+> - 3. jednací řád Rady,
+>
+> - 4. zprávu o činnosti a hospodaření Energetického regulačního úřadu,
+>
+> - 5. vyhlášky Energetického regulačního úřadu,
+>
+> - 6. metodiku cenové regulace,
+>
+> - 7. cenové výměry,
+>
+> - b) rozhoduje o opravných prostředcích proti rozhodnutím vydaným Energetickým regulačním úřadem,
+>
+> - c) jmenuje a odvolává členy rozkladové komise.
+>
+> (15) V prvním stupni rozhoduje v řízení Energetický regulační úřad. Rada se považuje za nadřízený správní orgán Energetického regulačního úřadu. Nadřízeným správním orgánem Rady je Rada.
+>
+> (16) Předseda Energetického regulačního úřadu má nárok na plat, náhradu výdajů a naturální plnění jako prezident Nejvyššího kontrolního úřadu. Člen Rady má nárok na plat, náhradu výdajů a na naturální plnění jako člen Nejvyššího kontrolního úřadu. Člen Rady má po zániku funkce nárok na odchodné ve výši trojnásobku měsíčního platu, který mu náležel v době zániku funkce. Nárok na odchodné nevzniká, pokud byl člen Rady z funkce odvolán nebo jeho funkce zanikla proto, že se ujal funkce neslučitelné s funkcí člena Rady, nebo pokud byl po uplynutí funkčního období znovu jmenován členem Rady anebo pokud byl pravomocně odsouzen pro trestný čin.
+>
+> (17) Předseda Energetického regulačního úřadu se považuje za vedoucího služebního úřadu a za služební orgán podle zákona [[o státní službě|o státní službě]]; rozhodování ve věcech státní služby může přenést na jiného člena Rady. Předseda Energetického regulačního úřadu nebo jím pověřený člen Rady je oprávněn dávat státnímu zaměstnanci příkazy k výkonu služby podle zákona [[o státní službě|o státní službě]]. Předseda Energetického regulačního úřadu jedná jménem státu v pracovněprávních vztazích.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11, § 17
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eae265e409240bb8972e -->
+
 ### § 17c — Spolupráce s Úřadem pro ochranu hospodářské soutěže a Českou národní bankou
 
 > **§ 17c**
@@ -422,6 +864,60 @@ Zapojení ČNB do spolupráce reflektuje, že deriváty na elektřinu a plyn jso
 **Typicky rozhodné důkazy / podklady:** vzorové smlouvy a obchodní podmínky, data z monitoringu trhu, analýza cenotvorby, časová souslednost jednání, záznamy o předání informací mezi ERÚ a ÚOHS.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5d397dd99d77f92774de generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 17c — Spolupráce s Úřadem pro ochranu hospodářské soutěže a Českou národní bankou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Energetický regulační úřad, Úřad pro ochranu hospodářské soutěže a Česká národní banka si vzájemně poskytují podněty, informace a jiné formy součinnosti potřebné k plnění svých úkolů. Při předávání informací je příjemce povinen zajistit stejnou úroveň důvěrnosti jako předávající.
+>
+> (2) Energetický regulační úřad informuje Úřad pro ochranu hospodářské soutěže o
+>
+> - a) jednáních účastníků trhu, o nichž lze mít důvodně za to, že narušují nebo omezují hospodářskou soutěž nebo k takovému omezení nebo narušení vedou,
+>
+> - b) uplatňování omezujících nebo nepřiměřených podmínek ve smlouvách na trhu s elektřinou, plynem nebo v odvětví teplárenství,
+>
+> - c) způsobech tvorby cen elektřiny, plynu a tepelné energie pro domácnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5d397dd99d77f92774de -->
 
 ### § 17d — Poplatek na činnost Energetického regulačního úřadu
 
@@ -488,6 +984,64 @@ Poplatek na činnost ERÚ je parafiskální platba v ceně za provoz nesíťové
 **Typicky rozhodné důkazy / podklady:** vládní nařízení o sazbě, cenový výměr, vyúčtování a odvody OTE, údaje o počtu odběrných míst a spotřebě plynu k 31. 12., bilance kapitoly ERÚ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b17ecfe92b9699e16ceb generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 17d — Poplatek na činnost Energetického regulačního úřadu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Účastníci trhu s elektřinou, kteří v souladu s cenovými předpisy hradí cenu za provoz nesíťové infrastruktury, a účastníci trhu s plynem, kteří v souladu s cenovými předpisy hradí cenu za činnosti operátora trhu, jsou povinni v těchto cenách hradit poplatek na činnost Energetického regulačního úřadu. Tento poplatek je příjmem státního rozpočtu, kapitoly Energetický regulační úřad.
+>
+> (2) Sazbu poplatku v odvětví elektroenergetiky stanoví vláda svým nařízením tak, aby pokrýval náklady na činnosti Energetického regulačního úřadu a činil nejméně 1,70 Kč za měsíc a nejvýše však 4,40 Kč za měsíc na každé odběrné místo zákazníka odebírajícího elektřinu.
+>
+> (3) Sazbu poplatku v odvětví plynárenství stanoví vláda svým nařízením tak, aby pokrýval náklady na činnosti Energetického regulačního úřadu a činil nejméně 1 Kč/MWh a nejvýše však 2,60 Kč/MWh za množství spotřebovaného plynu.
+>
+> (4) Roční výše poplatku se stanoví jako dvanáctinásobek sazby podle odstavce 2 a celkového počtu odběrných míst zákazníků v elektroenergetice a jako násobek sazby podle odstavce 3 a celkového množství plynu spotřebovaného v České republice a dodaného plynárenskou soustavou, a to podle údajů k 31. 12. předaných provozovateli soustav operátorovi trhu v České republice za kalendářní rok, který předchází kalendářnímu roku, ve kterém se sestavuje návrh rozpočtové kapitoly Energetický regulační úřad pro následující rozpočtový rok.
+>
+> (5) Celkové počty odběrných míst zákazníků odebírajících elektřinu a celkové množství spotřebovaného plynu v České republice podle odstavce 4 uveřejní Energetický regulační úřad do 30. června kalendářního roku formou sdělení ve Sbírce zákonů a mezinárodních smluv.
+>
+> (6) Operátor trhu je v průběhu roku povinen odvádět poplatek na příjmový účet státního rozpočtu do desátého dne kalendářního měsíce ve výši jedné dvanáctiny ročního poplatku stanoveného podle odstavce 4. Rozdíl mezi příjmy a výdaji z poplatku v daném roce se operátorovi trhu zohlední při tvorbě ceny za činnosti operátora trhu.
+>
+> (7) Správu poplatku vykonává Energetický regulační úřad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b17ecfe92b9699e16ceb -->
 
 ### § 17e — Zveřejňování a konzultace
 
@@ -561,6 +1115,96 @@ Zákonné lhůty pro vydání cenových výměrů (30. listopadu roku předcház
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=046c4d62d3d9fac23ad4 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 17e — Zveřejňování a konzultace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Energetický regulační úřad zveřejňuje
+>
+> - a) organizační strukturu Energetického regulačního úřadu včetně působnosti jednotlivých útvarů,
+>
+> - b) pravomocná rozhodnutí Energetického regulačního úřadu vydaná při výkonu dozoru v energetických odvětvích a dozoru v oblasti ochrany spotřebitele na úseku podnikání v elektroenergetice a plynárenství,
+>
+> - c) další pravomocná rozhodnutí Energetického regulačního úřadu, pokud mají po právní stránce zásadní význam,
+>
+> - d) výsledky monitorovací činnosti v energetických odvětvích,
+>
+> - e) etický kodex zaměstnanců zařazených do Energetického regulačního úřadu,
+>
+> - f) metodiku cenové regulace.
+>
+> (2) Energetický regulační úřad je při výkonu své působnosti povinen konzultovat
+>
+> - a) návrh metodiky cenové regulace a návrhy cenových výměrů,
+>
+> - b) návrhy prováděcích právních předpisů v oblasti jeho působnosti,
+>
+> - c) návrh Pravidel provozování přenosové soustavy, Pravidel provozování distribuční soustavy, technických požadavků a podmínek obstarávání podpůrných služeb a technických požadavků a podmínek obstarávání nefrekvenčních podpůrných služeb a flexibility, nejsou-li zpracovány jako součást Pravidel provozování přenosové soustavy nebo Pravidel provozování distribuční soustavy, Řádu provozovatele přepravní soustavy, Řádu provozovatele distribuční soustavy, Řádu provozovatele zásobníku plynu, obchodních podmínek operátora trhu a Řádu datového centra nebo návrhy jejich změn a dále návrh metodik a postupů, jejichž schválení Energetickým regulačním úřadem stanoví přímo použitelné předpisy Evropské unie,
+>
+> - d) desetiletý plán rozvoje přenosové soustavy, desetiletý plán rozvoje přepravní soustavy a plán rozvoje distribuční soustavy,
+>
+> - e) další návrhy opatření nebo postupů Energetického regulačního úřadu, pokud povinnost konzultace stanoví tento zákon, jiný právní předpis nebo přímo použitelný předpis Evropské unie nebo pokud tak Energetický regulační úřad rozhodne.
+>
+> (3) Pro účely konzultací podle odstavce 2 Energetický regulační úřad zřídí a spravuje diskusní místo, kde způsobem umožňujícím dálkový přístup zveřejňuje návrhy opatření, umožňuje předkládání připomínek a uveřejňuje výsledky konzultace. Energetický regulační úřad stanoví pravidla pro vedení konzultací na diskusním místě, pokud nejsou stanovena tímto zákonem, jiným právním předpisem nebo přímo použitelným předpisem Evropské unie. Při konzultaci návrhů cenových výměrů se ustanovení [[§ 172|§ 172]] [[správního řádu|správního řádu]] nepoužije.
+>
+> (4) Každý, jehož oprávněné zájmy mohou být návrhem podle odstavce 2 písm. a), b) nebo e) nebo plánem podle odstavce 2 písm. d) přímo dotčeny, může u Energetického regulačního úřadu uplatnit připomínky s jejich odůvodněním. Připomínkami, které se návrhu nebo plánu netýkají, připomínkami, které uplatní osoba, jejíž oprávněné zájmy nemohou být návrhem nebo plánem přímo dotčeny, nebo připomínkami bez odůvodnění nebo uplatněnými po lhůtě se Energetický regulační úřad není povinen zabývat.
+>
+> (5) Připomínky lze uplatnit ve lhůtě 15 dnů ode dne uveřejnění návrhu podle odstavce 2 písm. a), b) nebo e) nebo plánu podle odstavce 2 písm. d). Hrozí-li nebezpečí z prodlení, je Energetický regulační úřad oprávněn tuto dobu přiměřeně zkrátit. Lhůta k uplatnění připomínek však nesmí být kratší než 5 pracovních dnů.
+>
+> (6) Výsledky vypořádání připomínek zveřejní Energetický regulační úřad na svých internetových stránkách do 30 dnů po uplynutí lhůty podle odstavce 5. Energetický regulační úřad může návrh podle odstavce 2 písm. a), b) nebo e) nebo plán podle odstavce 2 písm. d) upravit s přihlédnutím k vyhodnocení připomínek. Pokud by takovou úpravou došlo k podstatné změně návrhu nebo plánu, může Energetický regulační úřad rozhodnout o opakované konzultaci návrhu nebo plánu.
+>
+> (7) Při konzultaci návrhu metodiky cenové regulace se dále postupuje podle odstavců 8 až 11; postup podle odstavců 5 a [[#§ 6|6]] se nepoužije.
+>
+> (8) Energetický regulační úřad zveřejní nejpozději 16 měsíců před začátkem regulačního období na svých internetových stránkách návrh metodiky cenové regulace a stanoví lhůtu pro podání připomínek veřejnosti, která nesmí být kratší než 60 dnů. Energetický regulační úřad umožní podávání připomínek prostřednictvím diskusního místa podle odstavce 3. K připomínkám podaným po této lhůtě se nepřihlíží.
+>
+> (9) Zveřejnění návrhu metodiky cenové regulace Energetický regulační úřad oznámí provozovateli přenosové soustavy, provozovateli přepravní soustavy, provozovatelům distribučních soustav a operátorovi trhu, vyzve je k uplatnění připomínek a stanoví lhůtu pro jejich podání, která nesmí být kratší než 60 dnů. K připomínkám podaným po této lhůtě se nepřihlíží.
+>
+> (10) K projednání připomínek veřejnosti a subjektů podle odstavců 8 a [[#§ 9|9]] uspořádá Energetický regulační úřad do 30 dnů po uplynutí lhůt pro podání připomínek veřejné projednání. Informaci o místu a čase konání veřejného projednání Energetický regulační úřad zveřejní na svých internetových stránkách nejméně 14 dnů před jeho konáním. Veřejného projednání se mohou účastnit subjekty uvedené v odstavcích 8 a [[#§ 9|9]] a ten, kdo ve stanovené lhůtě podal k návrhu metodiky cenové regulace připomínky. O průběhu veřejného projednání vede Energetický regulační úřad písemný záznam.
+>
+> (11) Po veřejném projednání připomínek provede Energetický regulační úřad písemné vypořádání připomínek podaných k návrhu metodiky cenové regulace a zveřejní jej včetně jeho odůvodnění na svých internetových stránkách do 30 dnů od uskutečnění veřejného projednání. Součástí písemného vypořádání připomínek je písemný záznam o průběhu veřejného projednání.
+>
+> (12) Energetický regulační úřad je povinen cenové výměry vydávané podle tohoto zákona, s výjimkou věcně usměrňovaných cen tepelné energie, vydat nejpozději do 30. listopadu roku předcházejícího roku, pro který v cenovém výměru Energetický regulační úřad regulované ceny stanoví. Cenové výměry týkající se věcně usměrňovaných cen tepelné energie a regulovaných cen podle zákona o podporovaných zdrojích energie je Energetický regulační úřad povinen vydat nejpozději do 30. září roku předcházejícího roku, pro který v cenovém výměru Energetický regulační úřad regulované ceny stanoví.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 172, § 6, § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=046c4d62d3d9fac23ad4 -->
+
 ### § 17f — Vztah k Parlamentu České republiky
 
 > **§ 17f**
@@ -619,6 +1263,58 @@ Povinnost mlčenlivosti (odst. 4) zůstává zachována i vůči parlamentním o
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=96d81d05102f58c96ef8 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 17f — Vztah k Parlamentu České republiky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Energetický regulační úřad předkládá Poslanecké sněmovně Parlamentu České republiky a Senátu Parlamentu České republiky po projednání vládou zprávu o činnosti a hospodaření. Na vyžádání je Energetický regulační úřad povinen poskytnout Poslanecké sněmovně Parlamentu České republiky a Senátu Parlamentu České republiky vysvětlení a dodatečné informace k obsahu zprávy o činnosti a hospodaření. Projednávání zprávy o činnosti a hospodaření v Poslanecké sněmovně Parlamentu České republiky a Senátu Parlamentu České republiky nebo určených orgánech je povinen zúčastnit se předseda Energetického regulačního úřadu.
+>
+> (2) Projednává-li Poslanecká sněmovna Parlamentu České republiky, Senát Parlamentu České republiky nebo jejich orgány věc spadající do oblasti působnosti Energetického regulačního úřadu, jsou oprávněny vyžádat si na jednání účast předsedy Energetického regulačního úřadu. Energetický regulační úřad je povinen poskytnout Poslanecké sněmovně Parlamentu České republiky, Senátu Parlamentu České republiky nebo jejich orgánům k projednávané věci stanovisko a nezbytné informace nebo vysvětlení.
+>
+> (3) Na vyžádání Poslanecké sněmovny Parlamentu České republiky, Senátu Parlamentu České republiky nebo určených orgánů je Energetický regulační úřad povinen do 30 dnů od vyžádání informovat o připravovaných opatřeních v oblasti regulace a poskytnout k nim nezbytné informace a vysvětlení.
+>
+> (4) Ustanovením odstavců 2 a [[#§ 3|3]] není dotčena povinnost mlčenlivosti podle § 17 odst. 13.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 17
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=96d81d05102f58c96ef8 -->
+
 ### § 17g — Registr
 
 > **§ 17g**
@@ -665,6 +1361,52 @@ Zákon zařazuje národní registr účastníků trhu REMIT (vedený ERÚ jako p
 **Typicky rozhodné důkazy / podklady:** žádost podle InfZ, vymezení obsahu registru, doklad o jeho neveřejné povaze a propojení s ACER, rozhodnutí o odmítnutí žádosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2c84f48a709b08154dc6 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 17g — Registr
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> Národní registr účastníků trhu podle Nařízení o velkoobchodním trhu s energií (dále jen „registr“) je neveřejným informačním systémem veřejné správy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2c84f48a709b08154dc6 -->
 
 ### § 17h — Námitka proti návrhu metodiky cenové regulace
 
@@ -730,6 +1472,62 @@ Výsledkem vyřízení námitky není správní rozhodnutí v procesním smyslu 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=89eaec88cc40694a32fe generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 17h — Námitka proti návrhu metodiky cenové regulace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Každý, jehož oprávněné zájmy mohou být metodikou cenové regulace dotčeny, může u Energetického regulačního úřadu proti návrhu metodiky cenové regulace podat písemnou námitku. Podmínky a postup podání a vyřízení námitky se řídí tímto zákonem.
+>
+> (2) Námitka musí obsahovat označení toho, kdo ji podává, uvedení jeho oprávněného zájmu, který může být návrhem metodiky cenové regulace dotčen, vymezení předmětu námitky a odůvodnění, v čem podle stěžovatele nesprávnost nebo nezákonnost návrhu metodiky cenové regulace spočívá.
+>
+> (3) Námitka se podává ve lhůtě do 60 dnů od zveřejnění návrhu metodiky cenové regulace. Námitku lze doplňovat nebo měnit pouze ve lhůtě pro její podání.
+>
+> (4) Námitka, která po uplynutí určené lhůty nesplňuje předepsané náležitosti, nebo námitku podanou opožděně Energetický regulační úřad vyřídí jako nepřípustnou.
+>
+> (5) Byla-li námitka shledána důvodnou, Energetický regulační úřad provede opatření k nápravě, jinak námitku vyřídí jako nedůvodnou.
+>
+> (6) O způsobu vyřízení námitky a o opatřeních k nápravě vyrozumí Energetický regulační úřad písemně toho, kdo námitku podal.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=89eaec88cc40694a32fe -->
+
 ### § 17i — Změna návrhu metodiky cenové regulace
 
 > **§ 17i**
@@ -777,6 +1575,52 @@ Ustanovení dává ERÚ diskreci (nikoli povinnost) provést opakovanou konzulta
 **Typicky rozhodné důkazy / podklady:** srovnání verzí návrhu metodiky, vyčíslení dopadu změny, doklad o (ne)provedení opakované konzultace, evidence připomínek.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f502551c9311940f5962 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 17i — Změna návrhu metodiky cenové regulace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> Dojde-li k podstatné změně návrhu metodiky cenové regulace, může Energetický regulační úřad provést jeho opakovanou konzultaci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f502551c9311940f5962 -->
 
 ### § 17j — Srovnávací nástroj
 
@@ -833,6 +1677,72 @@ Zákon výslovně požaduje zahrnutí nabídek smluv s dynamickým určením cen
 **Typicky rozhodné důkazy / podklady:** snímek výsledku srovnání s datem, uzavřená smlouva a její skutečné podmínky, doklad o datu změny nabídky dodavatelem, podnět správci a jeho vyřízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=40953224f7fa674078c6 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 17j — Srovnávací nástroj
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Srovnávací nástroj je elektronický systém, který umožňuje porovnávat nabídky dodávek elektřiny a plynu včetně nabídek smluv s dynamickým určením ceny pro zákazníky odebírající elektřinu na hladině nízkého napětí a zákazníky s roční spotřebou plynu do 630 MWh. Srovnávací nástroj je informačním systémem veřejné správy.
+>
+> (2) Nabídkami porovnávanými srovnávacím nástrojem jsou nabídky dodávky elektřiny nebo plynu nabízené dodavatelem elektřiny nebo plynu neurčitému počtu zákazníků zveřejněním nabídky na jeho internetových stránkách bez případných individuálně poskytovaných slev nebo podmínek odchylného ujednání od obecných podmínek nabídky dodávky elektřiny nebo plynu.
+>
+> (3) Správcem srovnávacího nástroje je Energetický regulační úřad. Energetický regulační úřad je pořizovatel databáze srovnávacího nástroje.
+>
+> (4) Srovnávací nástroj
+>
+> - a) umožňuje srovnávání nabízených cen za dodávku elektřiny a plynu a podmínek pro jejich uplatnění jednoduchým a srozumitelným způsobem a na základě objektivních a neznevýhodňujících kritérií,
+>
+> - b) obsahuje platné nabídky dodávek elektřiny a plynu s informací o tom, kdy došlo k jejich poslední změně,
+>
+> - c) umožňuje zadávání údajů pro srovnání a získání výsledků srovnání nabídek dodávky elektřiny nebo plynu rovněž osobám se zdravotním postižením způsoby dostupnými vzhledem k technickému způsobu řešení srovnávacího nástroje,
+>
+> - d) zpracovává osobní údaje uživatele pouze v rozsahu nezbytném pro srovnání nabídek dodávky elektřiny nebo plynu,
+>
+> - e) umožňuje podávat podněty v případě neplatnosti srovnávaných nabídek dodávky elektřiny nebo plynu nebo nesprávnosti výsledků srovnání a
+>
+> - f) musí být provozně nezávislý na dodavatelích elektřiny a plynu.
+>
+> (5) Energetický regulační úřad srovnávací nástroj bezplatně zpřístupní na svých internetových stránkách spolu s podmínkami provozování srovnávacího nástroje. Energetický regulační úřad uvede na svých internetových stránkách také informace o způsobu financování srovnávacího nástroje, pravidla a kritéria pro porovnávání nabídek a postup pro přijímání podnětů týkajících se neplatnosti nabídek nebo nesprávnosti výsledků srovnání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=40953224f7fa674078c6 -->
 
 ### § 17k — Spolupráce Energetického regulačního úřadu v přeshraničních záležitostech
 
@@ -894,6 +1804,80 @@ Regionální koordinační centra (RCC) jsou novým prvkem zavedeným nařízen�
 **Typicky rozhodné důkazy / podklady:** návrh pravidel a rozpočet RCC, příslušná část metodiky cenové regulace, koordinační stanoviska dotčených NRO, doklady o informování ACER.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=98c868257dfbab007187 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 17k — Spolupráce Energetického regulačního úřadu v přeshraničních záležitostech
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Energetický regulační úřad spolupracuje s ostatními regulačními orgány členských států Evropské unie pro oblast elektroenergetiky a plynárenství přímo nebo prostřednictvím Agentury při výkonu jejich působnosti a poskytuje jim na vyžádání informace a podklady nezbytné pro výkon jejich působnosti.
+>
+> (2) Energetický regulační úřad v součinnosti s regulačními orgány členských států Evropské unie, které spadají do stejného regionu pro provoz přenosových soustav jako Česká republika, ve kterém má být zřízeno regionální koordinační centrum, jehož členem má být držitel licence na přenos elektřiny udělené podle tohoto zákona, rozhoduje postupem podle čl. 35 Nařízení o vnitřním trhu s elektřinou o schválení návrhu na založení regionálního koordinačního centra.
+>
+> (3) Energetický regulační úřad v součinnosti s regulačními orgány členských států Evropské unie, které spadají do stejného regionu pro provoz přenosových soustav jako Česká republika, ve kterém má být nebo je zřízeno regionální koordinační centrum, jehož členem má být držitel licence na přenos elektřiny udělené podle tohoto zákona,
+>
+> - a) stanoví v metodice cenové regulace rozsah nákladů nebo způsob jejich stanovení, v jakém se provozovatel přenosové soustavy podílí na úhradě nákladů na činnost regionálního koordinačního centra, tak, aby regionální koordinační centrum mělo zdroje na zajištění personálních, technických a materiálních potřeb a mohlo vykonávat činnost regionálního koordinačního centra nezávisle a nestranně na ostatních účastnících trhu,
+>
+> - b) rozhoduje o schválení pravidel pro rozhodování regionálního koordinačního centra,
+>
+> - c) navrhuje, která další práva a povinnosti by měly být regionálnímu koordinačnímu centru postupem podle čl. 37 odst. 2 Nařízení o vnitřním trhu s elektřinou přiznány nebo uloženy,
+>
+> - d) vykonává dozor nad dodržováním povinností stanovených regionálnímu koordinačnímu centru právními předpisy nebo přímo použitelnými předpisy Evropské unie,
+>
+> - e) monitoruje zajišťování koordinace provozovaných přenosových soustav a o výsledku tohoto monitorování postupem podle čl. 46 Nařízení o vnitřním trhu s elektřinou každoročně informuje Agenturu.
+>
+> (4) Energetický regulační úřad spolupracuje s regulačními orgány členských států Evropské unie, které spadají do stejného regionu pro provoz přenosových soustav jako Česká republika, ve věcech
+>
+> - a) podpory provozních opatření zaměřených na umožnění efektivního řízení přenosových soustav, fungování společných organizovaných trhů s elektřinou, přidělování přeshraniční přenosové kapacity a dosažení přiměřené úrovně kapacity propojení přenosové soustavy s jinými soustavami,
+>
+> - b) koordinace společného dozoru nad osobami vykonávajícími úkoly na regionální úrovni,
+>
+> - c) koordinace dozoru nad prováděním vnitrostátního, regionálního a evropského posouzení zdrojové přiměřenosti,
+>
+> - d) koordinace při vypracování záměrů a konceptů přímo použitelných předpisů Evropské unie vydávaných na základě nebo k provedení Nařízení o vnitřním trhu s elektřinou,
+>
+> - e) koordinace při vypracování pravidel upravujících řízení přetížení v přenosových soustavách.
+>
+> (5) Energetický regulační úřad při plnění úkolů podle odstavce 4 spolupracuje s jiným správním orgánem v rámci České republiky, je-li to účelné a předmět spolupráce souvisí s působností tohoto jiného správního orgánu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=98c868257dfbab007187 -->
 
 ### § 18 — Dozor v energetických odvětvích
 
@@ -975,6 +1959,82 @@ Při kontrole dle REMIT zákon ERÚ přiznává rozšířené pravomoci typické
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=62bc5c1eca221622d268 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 18 — Dozor v energetických odvětvích
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Energetický regulační úřad vykonává dozor nad dodržováním
+>
+> - a) tohoto zákona a povinností stanovených zákonem [[o ochraně spotřebitele|o ochraně spotřebitele]] v rozsahu v něm stanoveném,
+>
+> - b) [[zákona o cenách|zákona o cenách]],
+>
+> - c) Nařízení o vnitřním trhu s elektřinou, Nařízení o vnitřním trhu s plynem, Nařízení o opatřeních na zajištění bezpečnosti dodávek zemního plynu a Nařízení o velkoobchodním trhu s energií a přímo použitelných předpisů vydaných na jejich základě nebo k jejich provedení,
+>
+> - d) povinností vyplývajících z rozhodnutí Komise nebo Agentury vydaných na základě předpisů Evropské unie podle písmene c) nebo povinností vyplývajících z rozhodnutí Energetického regulačního úřadu vydaného podle § 18 odst. 3 nebo § 18a odst. 3.
+>
+> (2) Energetický regulační úřad provádí kontroly z vlastního podnětu nebo na návrh ministerstva. Pokud Energetický regulační úřad vykonal kontrolu na návrh ministerstva, je povinen jej seznámit s výsledky kontroly a předat mu protokol o kontrole.
+>
+> (3) Energetický regulační úřad na základě zjištění porušení právních předpisů podle odstavce 1 nebo porušení povinností z rozhodnutí Energetického regulačního úřadu nebo rozhodnutí Komise nebo Agentury ukládá
+>
+> - a) pokuty,
+>
+> - b) opatření k nápravě, jejichž účelem je odstranění protiprávního stavu, a stanoví přiměřenou lhůtu nebo jiné nutné podmínky k zajištění jejich splnění; povinnosti plynoucí z opatření k nápravě původci protiprávního stavu přecházejí na jeho právního nástupce. Je-li právních nástupců více, odpovídají za splnění povinnosti vyplývající z opatření k nápravě společně a nerozdílně.
+>
+> (4) Zaměstnanci Energetického regulačního úřadu vykonávající dozor v energetických odvětvích se prokazují služebním průkazem vydaným Energetickým regulačním úřadem.
+>
+> (5) Při výkonu kontroly podle Nařízení o velkoobchodním trhu s energií je Energetický regulační úřad dále oprávněn
+>
+> - a) vyžadovat od osoby, která je v pracovněprávním nebo obdobném vztahu ke kontrolované osobě, objasnění skutečností týkajících se údajů, dokumentů nebo věcí vztahujících se k předmětu kontroly; tato osoba může takové objasnění odepřít, pokud by si tím způsobila nebezpečí stíhání pro trestný čin nebo přestupek,
+>
+> - b) vyžadovat od povinné osoby podle zákona o kontrole předložení existujících záznamů, zpráv nebo s nimi spojených údajů přenášených prostřednictvím sítě elektronických komunikací, záznamů o telefonních hovorech nebo záznamů dat na paměťových médiích, a týkajících se předmětu kontroly,
+>
+> - c) pečetit obchodní prostory, popřípadě skříně, schránky nebo obchodní záznamy v nich se nacházející na dobu a v rozsahu nezbytném k provedení kontroly.
+>
+> (6) Lhůta pro vyřízení námitek kontrolované osoby proti kontrolnímu protokolu nadřízenou osobou kontrolujícího činí 30 dnů a ve zvláště složitých případech 60 dnů ode dne jejich doručení.
+>
+> (7) Za účelem provedení kontroly podle Nařízení o velkoobchodním trhu s energií na místě v obchodních prostorech jsou zaměstnanci Energetického regulačního úřadu provádějící kontrolu, pokud jim není poskytnuta součinnost, oprávněni zjednat si do těchto prostor a k dokumentům přístup.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=62bc5c1eca221622d268 -->
+
 ### § 18a — Šetření týkající se fungování trhů s elektřinou nebo plynem a rozhodování o uložení opatření
 
 > **§ 18a**
@@ -1043,6 +2103,58 @@ Zákon výslovně umožňuje ERÚ vydávat opatření obecné povahy — tedy no
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bb0a54d0ddab05a02ebc generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 18a — Šetření týkající se fungování trhů s elektřinou nebo plynem a rozhodování o uložení opatření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Energetický regulační úřad provádí šetření na trzích s elektřinou nebo plynem za účelem zjištění, zda na těchto trzích existuje účinná hospodářská soutěž.
+>
+> (2) Pro účely šetření si před jeho zahájením Energetický regulační úřad vyžádá vyjádření Úřadu pro ochranu hospodářské soutěže, ministerstva a České národní banky, je-li to vhodné a účelné.
+>
+> (3) Je-li výsledkem šetření zjištění, že na trhu s elektřinou nebo plynem neexistuje účinná hospodářská soutěž, a k rozhodnutí ve věci není příslušný Úřad pro ochranu hospodářské soutěže, Energetický regulační úřad rozhodnutím ve správním řízení nebo opatřením obecné povahy uloží opatření, která s přihlédnutím k okolnostem nejlépe povedou k odstranění příčin takového stavu. Energetický regulační úřad uloží opatření podle věty první formou opatření obecné povahy v případě, pokud nelze uložit opatření rozhodnutím konkrétní osobě. Osobami, jejichž práva, povinnosti nebo oprávněné zájmy mohou být opatřením obecné povahy dotčeny, jsou pouze držitelé licencí a osoby zřízené za účelem organizace burzovních obchodů s elektřinou nebo plynem nebo deriváty vztahujícími se k elektřině nebo plynu.
+>
+> (4) Pominou-li důvody, pro které Energetický regulační úřad opatření uložil, rozhodne Energetický regulační úřad o jejich změně nebo zrušení, popřípadě stanoví lhůtu, kdy uložená opatření zaniknou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bb0a54d0ddab05a02ebc -->
+
 ### § 18b — Šetření na místě v obchodních prostorách
 
 > **§ 18b**
@@ -1104,6 +2216,76 @@ Zákon (odst. 5) přiznává pracovníkům ERÚ právo zjednat si přístup i n�
 **Typicky rozhodné důkazy / podklady:** písemné pověření a jeho obsah, protokol o šetření, seznam zajištěných/zkopírovaných záznamů, dokumentace o pečetění a o (ne)poskytnutí součinnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=98312b50a53a307a400e generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 18b — Šetření na místě v obchodních prostorách
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Provádí-li Energetický regulační úřad šetření na trhu s elektřinou nebo plynem, je účastník trhu s elektřinou nebo plynem, fyzická nebo právnická osoba, jejíž předmětem podnikání je plnění propanu, butanu a jejich směsí, a účastník trhu podle Nařízení o velkoobchodním trhu s energií povinen podrobit se šetření Energetického regulačního úřadu v obchodních prostorách.
+>
+> (2) Byl-li ustanoven nezávislý provozovatel přepravní soustavy, jsou provozovatel přepravní soustavy a další osoby, které jsou součástí téhož koncernu, povinni podrobit se šetření Energetického regulačního úřadu v obchodních prostorách. Regionální koordinační centrum je povinno podrobit se šetření Energetického regulačního úřadu ve svých obchodních prostorách.
+>
+> (3) V rámci šetření na místě v obchodních prostorách jsou zaměstnanci Energetického regulačního úřadu, případně další Energetickým regulačním úřadem pověřené osoby, oprávněni
+>
+> - a) vstupovat do obchodních prostor osoby, u které šetření probíhá,
+>
+> - b) ověřit, zda se v případě dokumentů a záznamů jedná o obchodní záznamy,
+>
+> - c) nahlížet do obchodních záznamů, které se v obchodních prostorách nacházejí nebo jsou z nich přístupné, bez ohledu na to, v jaké formě jsou uloženy,
+>
+> - d) kopírovat nebo získávat v jakékoli formě kopie nebo výpisy z obchodních záznamů,
+>
+> - e) pečetit obchodní prostory, popřípadě skříně, schránky nebo obchodní záznamy v nich se nacházející na dobu a v rozsahu nezbytném k provedení šetření,
+>
+> - f) požadovat od osob, u kterých šetření probíhá, a osob v pracovněprávním nebo jiném obdobném vztahu k nim, případně osob, které byly pověřeny vykonávat v jejich prospěch činnosti související s předmětem šetření, v nezbytném rozsahu součinnost potřebnou k provedení šetření, jakož i vysvětlení k obchodním záznamům.
+>
+> (4) Osoby, u kterých šetření na místě v obchodních prostorách probíhá, jsou povinny poskytnout Energetickému regulačnímu úřadu při provádění šetření nezbytnou součinnost k výkonu jeho oprávnění podle odstavce 3 a výkon těchto oprávnění strpět.
+>
+> (5) Za účelem šetření na místě v obchodních prostorách jsou zaměstnanci Energetického regulačního úřadu oprávněni zjednat si do těchto prostor přístup, otevřít uzavřené skříně nebo schránky, popřípadě si jiným způsobem zjednat přístup k obchodním záznamům. Každý, v jehož objektu se takové obchodní prostory nalézají, je povinen strpět šetření v těchto prostorách; nesplní-li tuto povinnost, jsou zaměstnanci Energetického regulačního úřadu oprávněni zjednat si k nim přístup.
+>
+> (6) Šetření na místě v obchodních prostorách se provádí na základě písemného pověření předsedou Energetického regulačního úřadu nebo jím pověřeného člena Rady. Pověření musí obsahovat alespoň jméno, popřípadě jména, příjmení, funkci a podpis osoby oprávněné k jeho vystavení, datum vyhotovení a otisk úředního razítka, dále ustanovení právního předpisu, podle kterého má být šetření provedeno, označení obchodních prostor osoby, u níž má být šetření provedeno, předmět šetření a datum jeho zahájení, jakož i jméno, popřípadě jména a příjmení zaměstnanců Energetického regulačního úřadu, případně dalších Energetickým regulačním úřadem pověřených osob, které mají šetření provést.
+>
+> (7) Před zahájením šetření na místě v obchodních prostorách písemně sdělí Energetický regulační úřad osobě, v jejíž obchodních prostorách má šetření na místě proběhnout, právní důvod a účel šetření a poučí ji o jejích právech a povinnostech podle tohoto zákona, včetně možnosti uložení pořádkové pokuty.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=98312b50a53a307a400e -->
 
 ### § 19a — Regulace cen
 
@@ -1203,6 +2385,70 @@ Zákon řeší klíčovou procesní otázku: co nastane, zruší-li soud cenový
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=eee77093dc90d447467b generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 19a — Regulace cen
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Při regulaci ceny související služby v elektroenergetice a ceny související služby v plynárenství postupuje Energetický regulační úřad transparentním a předvídatelným způsobem v souladu s metodikou cenové regulace tak, aby regulované ceny nezvýhodňovaly bezdůvodně určité účastníky trhu na úkor jiných účastníků trhu a pokrývaly ekonomicky oprávněné náklady na zajištění spolehlivého, bezpečného a efektivního výkonu licencované činnosti, dále odpisy a přiměřený zisk zajišťující návratnost realizovaných investic do zařízení sloužících k výkonu licencované činnosti a oprávněné náklady na zvyšování energetické účinnosti při výstavbě a provozu přenosové soustavy, přepravní soustavy a distribučních soustav. To neplatí v případě cen za mezinárodní přepravu plynu, pokud Energetický regulační úřad rozhodne o odlišném postupu tvorby těchto cen založeném na tržním způsobu. Energetický regulační úřad bere v úvahu jím schválený plán rozvoje přenosové soustavy, plán rozvoje přepravní soustavy, předvídatelnou budoucí poptávku, požadavky na provozní zabezpečení přenosové soustavy, přepravní soustavy a distribučních soustav, energetickou účinnost provozu přenosové soustavy, přepravní soustavy a distribučních soustav a opatření provedená za účelem zajištění bezpečnosti dodávek plynu podle Nařízení o opatřeních na zajištění bezpečnosti dodávek zemního plynu.
+>
+> (2) Cenou související služby v elektroenergetice se rozumí cena služby přenosové soustavy nebo služby distribuční soustavy, které zahrnují i cenu za systémové služby, cenu za provoz nesíťové infrastruktury a složku ceny na podporu elektřiny z podporovaných zdrojů energie podle zákona o podporovaných zdrojích energie.
+>
+> (3) Cenou související služby v plynárenství se rozumí cena služby přepravy plynu nebo služby distribuční soustavy, které zahrnují i cenu za činnosti operátora trhu včetně poplatku na činnost Energetického regulačního úřadu. Cenou za službu přeshraničního využití zásobníku plynu se rozumí vyrovnání slevy za službu přepravy plynu poskytnuté na vstupních a výstupních bodech zásobníků plynu podle Nařízení, kterým se zavádí kodex sítě harmonizovaných struktur přepravních sazeb pro zemní plyn.
+>
+> (4) Energetický regulační úřad postupuje obdobně podle odstavce 1 věty první při věcném usměrňování ceny tepelné energie. Věcné usměrnění ceny tepelné energie se nevztahuje na stanovení ceny nižší, než je limitní cena, kterou Energetický regulační úřad stanoví prováděcím právním předpisem. Při stanovení limitní ceny podle věty druhé se zohlední úplné náklady včetně nákladů na cizí a vlastní kapitál konkurenčního zdroje vytápění majícího shodný nebo obdobný dopad na životní prostředí.
+>
+> (5) Cenu dodavatele poslední instance reguluje Energetický regulační úřad stanovením závazného postupu pro tvorbu ceny dodavatele poslední instance tak, aby ceny tímto postupem stanovené pokrývaly ekonomicky oprávněné náklady na zajištění činnosti dodávky poslední instance, dále odpisy a přiměřený zisk. Postup tvorby ceny dodavatele poslední instance zahrnuje způsob určení výše ceny energie v Kč/MWh odrážející aktuální výši ceny elektřiny nebo plynu na velkoobchodních trzích, určení nebo způsob určení maximální výše dodatečných nákladů, rizikových přirážek, přiměřeného zisku v Kč/MWh a určení nebo způsob určení maximální výše stálého měsíčního platu v Kč/odběrné místo/měsíc. Pokud vláda stanoví rozsah prostředků státního rozpočtu na poskytnutí dotace na úhradu prokazatelné ztráty, Energetický regulační úřad stanoví ceny dodavatele poslední instance jako ceny maximální. V tomto případě postupuje Energetický regulační úřad tak, aby stanovené ceny pokrývaly rozdíl mezi předpokládanými náklady na zajištění dodávky elektřiny nebo plynu společně s přiměřeným ziskem dodavatele poslední instance a předpokládanou výši dotace na úhradu prokazatelné ztráty dodavatele poslední instance.
+>
+> (6) Při regulaci ostatních cen postupuje Energetický regulační úřad tak, aby stanovené ceny byly alespoň nákladové. Pro stanovení stálého měsíčního platu a marže dodavatele plynu při mimořádném stavu nouze v plynárenství platí věta první obdobně. Cenu plynu za zúčtování kladné odchylky stanoví Energetický regulační úřad tak, aby odpovídala obvyklé ceně plynu dosahované na velkoobchodním trhu s plynem. Cenu plynu za zúčtování záporné odchylky stanoví Energetický regulační úřad tak, aby stanovená cena zohledňovala cenu plynu poskytnutého České republice v rámci mezinárodní pomoci v plynárenství, kterou za něj ministerstvo, včetně kompenzace zahraničním zákazníkům, jejichž odběr plynu byl omezen z důvodu poskytnutí mezinárodní pomoci v krizových situacích v plynárenství České republice, uhradilo sousedním členským státům Evropské unie. Cena plynu za zúčtování záporné odchylky musí být stanovena alespoň ve výši ceny plynu za zúčtování kladné odchylky.
+>
+> (7) Na žádost dodavatele tepelné energie nebo držitele licence na distribuci elektřiny nebo distribuci plynu, jehož distribuční soustava není přímo připojena k přenosové soustavě nebo k přepravní soustavě, může Energetický regulační úřad rozhodnout o odlišném stanovení podmínek pro sjednání ceny tepelné energie nebo stanovení povolených výnosů a proměnných nákladů provozovatele distribuční soustavy. Energetický regulační úřad žádosti zcela nebo zčásti vyhoví, prokáže-li žadatel, že stanovený způsob regulace ceny mu dlouhodobě neumožňuje alespoň pokrytí oprávněných nákladů podle odstavce 1. Po právní moci rozhodnutí, kterým žádosti zcela nebo zčásti vyhoví, Energetický regulační úřad upraví stanovený způsob regulace nebo jeho jednotlivé podmínky nebo stanoví cenu za službu distribuční soustavy v elektroenergetice nebo plynárenství.
+>
+> (8) Regulovaným rokem se rozumí kalendářní rok, pro který Energetický regulační úřad rozhoduje o cenách. Regulačním obdobím je časové období vymezené nejméně pěti po sobě následujícími regulovanými roky.
+>
+> (9) Metodika cenové regulace stanoví postupy regulace cen související služby v elektroenergetice a související služby v plynárenství pro regulační období a způsoby stanovení cen pro provozovatele přenosové soustavy, provozovatele přepravní soustavy, provozovatele distribuční soustavy, povinně vykupujícího, datového centra a operátora trhu. Energetický regulační úřad zpracovává metodiku cenové regulace vždy pro každé regulační období tak, aby vytvořil podmínky pro transparentní, předvídatelné a dlouhodobě stabilní investiční prostředí v odvětví elektroenergetiky a plynárenství.
+>
+> (10) Rozhodl-li soud o zrušení cenového výměru nebo jeho části, nastávají účinky rozsudku soudu k 1. lednu následujícího kalendářního roku. Energetický regulační úřad promítne regulační rozdíl vzniklý uplatňováním cen nebo postupů podle zrušeného cenového výměru nebo jeho části v cenách stanovených pro následující regulovaný rok, případně pro více následujících regulovaných roků.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eee77093dc90d447467b -->
+
 ### § 19b — Metodika cenové regulace
 
 > **§ 19b**
@@ -1272,6 +2518,80 @@ Zákon výslovně omezuje možnost změny metodiky v průběhu regulačního obd
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f9f21256723d04d1641a generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 19b — Metodika cenové regulace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Energetický regulační úřad stanoví pro regulační období metodiku cenové regulace, a to nejpozději do 28. února před začátkem regulačního období.
+>
+> (2) V metodice cenové regulace stanoví Energetický regulační úřad metody, podmínky a postupy regulace cen pro celé regulační období tak, aby vytvořil podmínky pro transparentní, předvídatelné a dlouhodobě stabilní investiční prostředí v odvětvích elektroenergetiky a plynárenství.
+>
+> (3) Energetický regulační úřad v metodice cenové regulace alespoň
+>
+> - a) popíše aktuální regulační období,
+>
+> - b) stanoví a odůvodní délku regulačního období,
+>
+> - c) stanoví a odůvodní základní východiska a obecné principy cenové regulace v regulačním období včetně vazby na předcházející regulační období,
+>
+> - d) stanoví metody cenové regulace,
+>
+> - e) stanoví a popíše parametry cenové regulace, jejich složky a rozdělení na parametry pro regulační období a na parametry pro regulovaný rok,
+>
+> - f) stanoví způsob určení výchozích hodnot parametrů cenové regulace a jejich složek a pravidla a postupy změn hodnot parametrů cenové regulace a jejich složek v průběhu regulačního období,
+>
+> - g) stanoví a odůvodní druhy nákladů, které nelze vzhledem k charakteru činností vykonávaných příslušnými držiteli licencí zahrnout do ekonomicky oprávněných nákladů, a
+>
+> - h) stanoví způsob vypořádání regulačního rozdílu.
+>
+> (4) Změna metodiky cenové regulace je v průběhu regulačního období možná jen v případě
+>
+> - a) změny právní úpravy, která na ni má vliv, nebo
+>
+> - b) mimořádné změny na trhu s elektřinou nebo na trhu s plynem nebo jiné mimořádné změny v národním hospodářství hodné zvláštního zřetele.
+>
+> (5) V případě změny metodiky cenové regulace Energetický regulační úřad postupuje podle § 17e odst. 8 a [[#§ 9|9.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 17e, § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f9f21256723d04d1641a -->
+
 ### § 19c — Hodnoty parametrů cenové regulace související služby v elektroenergetice a související služby v plynárenství
 
 > **§ 19c**
@@ -1325,6 +2645,54 @@ Pro provozovatele přepravní soustavy se lhůta řídí unijním nařízením o
 **Typicky rozhodné důkazy / podklady:** akt o stanovení hodnot parametrů, navazující cenový výměr, metodika cenové regulace, kalkulace povolených výnosů a parametrů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0c2a42da3cf79be1c84b generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 19c — Hodnoty parametrů cenové regulace související služby v elektroenergetice a související služby v plynárenství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Při regulaci ceny související služby v elektroenergetice a související služby v plynárenství stanoví Energetický regulační úřad hodnoty parametrů pro regulační období a hodnoty parametrů pro regulovaný rok pro provozovatele přenosové soustavy, provozovatele přepravní soustavy, provozovatele regionální distribuční soustavy a pro operátora trhu a na jejich základě následně vydává cenový výměr.
+>
+> (2) Při stanovení hodnot parametrů postupuje Energetický regulační úřad v souladu s metodikou cenové regulace. Hodnoty parametrů stanoví Energetický regulační úřad do 30. září; v případě provozovatele přepravní soustavy se hodnoty parametrů stanoví ve lhůtě podle Nařízení, kterým se zavádí kodex sítě harmonizovaných struktur přepravních sazeb pro zemní plyn.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0c2a42da3cf79be1c84b -->
 
 ### § 19ca — Cena za provoz nesíťové infrastruktury
 
@@ -1380,6 +2748,56 @@ Rozlišení financování OTE a datového centra (prostřednictvím různých so
 **Typicky rozhodné důkazy / podklady:** cenový výměr s rozkladem ceny za související služby, vyúčtování složek (OTE, datové centrum, poplatek ERÚ), smlouvy o přenosu/distribuci, prováděcí vyhlášky ERÚ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8094a40dc2666d434e62 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 19ca — Cena za provoz nesíťové infrastruktury
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Cena za provoz nesíťové infrastruktury se skládá z ceny za činnosti operátora trhu, ceny za činnost datového centra a poplatku na činnost Energetického regulačního úřadu.
+>
+> (2) Cenu za provoz nesíťové infrastruktury v části, kterou tvoří poplatek na činnost Energetického regulačního úřadu a cena za činnosti operátora trhu, hradí účastníci trhu s elektřinou operátorovi trhu v ceně za související služby v elektroenergetice prostřednictvím provozovatele přenosové soustavy a provozovatele regionální distribuční soustavy.
+>
+> (3) Cenu za provoz nesíťové infrastruktury v části, kterou tvoří cena za činnost datového centra, hradí účastníci trhu s elektřinou v ceně za související služby v elektroenergetice prostřednictvím provozovatele přenosové soustavy nebo provozovatele regionální distribuční soustavy datovému centru.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8094a40dc2666d434e62 -->
 
 ### § 19d — Mimořádná tržní situace
 
@@ -1457,6 +2875,74 @@ Zákon zavádí možnost státní finanční podpory pro účastníky trhu zasa�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=eb5daac37a329c8da845 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 19d — Mimořádná tržní situace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Nastane-li mimořádná tržní situace na trhu s elektřinou nebo plynem, může vláda nařízením stanovit ceny elektřiny nebo plynu dodávaného zákazníkům nebo jiným účastníkům trhu s elektřinou nebo plynem.
+>
+> (2) Vláda při mimořádné tržní situaci může dále v nezbytném rozsahu nařízením
+>
+> - a) uložit povinnost výroby elektřiny nebo plynu nebo dodávky elektřiny nebo plynu pro zákazníky nebo jiné účastníky trhu s elektřinou nebo plynem nebo výrobce tepelné energie za stanovených podmínek,
+>
+> - b) uložit povinnost nabídky elektřiny nebo plynu nebo podpůrných služeb na organizovaných trzích nebo určeným osobám za stanovených podmínek,
+>
+> - c) omezit nebo zakázat obchodování s elektřinou nebo plynem na organizovaných trzích nebo jiné způsoby obchodování s elektřinou nebo plynem.
+>
+> (3) Vláda vydává nařízení podle odstavců 1 a [[#§ 2|2]] na dobu nejvýše 12 měsíců. Pokud mimořádná tržní situace přetrvává, může vláda vydat nařízení opakovaně. Pomine-li mimořádná tržní situace, vláda nařízení neprodleně zruší i před uplynutím doby, na kterou bylo vydáno.
+>
+> (4) Vláda může nařízením současně se stanovením cen podle odstavce 1 stanovit rovněž rozsah odběru nebo dodávky elektřiny nebo plynu a kategorie účastníků trhu s elektřinou nebo plynem, na které se stanovené ceny uplatní, rozsah a způsob poskytnutí informací a podkladů účastníkem trhu s elektřinou nebo plynem, na kterého se stanovené ceny uplatní, dodavateli elektřiny nebo plynu, a další podmínky pro uplatnění stanovených cen. Tyto podmínky se považují za další věcné podmínky pro uplatnění stanovené formy regulace cen podle [[zákona o cenách|zákona o cenách]]. Vláda může dále současně se stanovením cen stanovit nejvyšší přípustný rozsah majetkového prospěchu, který může účastník trhu s elektřinou nebo plynem, který není spotřebitelem, získat dodávkou nebo odběrem elektřiny nebo plynu za stanovenou cenu.
+>
+> (5) Stanoví-li vláda nařízením podle odstavce 4 věcné podmínky pro uplatnění stanovených cen, jejichž splnění závisí na poskytnutí vládou stanovených informací nebo podkladů dodavateli elektřiny nebo plynu, je účastník trhu s elektřinou nebo plynem, který tyto informace nebo podklady poskytuje, povinen poskytnout je úplně, správně a pravdivě.
+>
+> (6) Ustanovení § 17 odst. 12 o regulaci cen při mimořádné tržní situaci není dotčeno.
+>
+> (7) Za mimořádné tržní situace může Ministerstvo financí účastníkovi trhu s elektřinou nebo plynem poskytnout k odvrácení škod v národním hospodářství nebo k řešení mimořádné tržní situace zápůjčku nebo úvěr. Podmínky pro poskytnutí zápůjčky nebo úvěru stanoví vláda nařízením. O poskytnutí zápůjčky nebo úvěru rozhoduje vláda. K financujícím operacím zápůjčky nebo úvěru se pro omezení úrokových, měnových či jiných rizik nesjednávají obchody s investičními nástroji, včetně derivátů.
+>
+> (8) Zápůjčky a úvěry poskytnuté podle odstavce 7 nejsou výdajem státního rozpočtu, splátky těchto zápůjček a úvěrů nejsou příjmem státního rozpočtu a úroky a jiné příjmy z těchto zápůjček a úvěrů jsou příjmem státního rozpočtu.
+>
+> (9) Za mimořádné tržní situace může vláda účastníkovi s elektřinou nebo plynem poskytnout k odvrácení škod v národním hospodářství nebo k řešení mimořádné tržní situace státní záruku. Podmínky pro poskytnutí státní záruky stanoví vláda nařízením.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 17
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eb5daac37a329c8da845 -->
+
 ### § 19e — Ceny elektřiny nebo plynu v mimořádné tržní situaci
 
 > **§ 19e**
@@ -1516,6 +3002,60 @@ Odst. 2 řeší specifický případ smluv s dynamickým určením ceny (spotov�
 **Typicky rozhodné důkazy / podklady:** smlouva s ujednáním ceny (fixní/dynamické), nařízení vlády a doba účinnosti, vyúčtování za dotčené zúčtovací období, nový předpis zálohových plateb.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c79b77d16791507e891c generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 19e — Ceny elektřiny nebo plynu v mimořádné tržní situaci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Je-li ve smlouvě sjednána cena elektřiny nebo plynu, která je vyšší než cena stanovená vládou, platí po dobu účinnosti nařízení vlády za ujednanou cena stanovená vládou.
+>
+> (2) Je-li ve smlouvě sjednaný způsob určení ceny přímo závislý nebo odvozený od změn ceny elektřiny nebo plynu na organizovaných trzích s elektřinou nebo plynem a cena elektřiny nebo plynu dodaného za zúčtovací období, které alespoň zčásti spadá do doby účinnosti nařízení vlády, je vyšší než cena za energetickou jednotku stanovená vládou, platí po tuto část zúčtovacího období za ujednanou cena stanovená vládou.
+>
+> (3) Pokud vláda stanovila rozsah odběru nebo dodávky elektřiny nebo plynu, na který se uplatní stanovené ceny, platí za ujednanou cena podle odstavce 1 nebo [[#§ 2|2]] pouze na stanovený rozsah odběru nebo dodávky elektřiny nebo plynu; pro ostatní odběr nebo dodávku elektřiny nebo plynu platí nadále cena ujednaná.
+>
+> (4) V případech podle odstavce 1 nebo [[#§ 2|2]] se ustanovení [[§ 7|§ 7]] [[zákona o cenách|zákona o cenách]] nepoužije.
+>
+> (5) Dodavatel elektřiny nebo plynu je povinen do 30 dnů ode dne vyhlášení nařízení vlády stanovit novou výši zálohových plateb a zaslat spotřebiteli nebo podnikající fyzické osobě odebírající elektřinu z hladiny nízkého napětí nebo s roční spotřebou plynu do 630 MWh nový předpis zálohových plateb. Nová výše zálohových plateb musí zohledňovat dodávku elektřiny nebo plynu za cenu stanovenou vládou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c79b77d16791507e891c -->
 
 ### § 19f — Úhrada prokazatelné ztráty a přiměřeného zisku v mimořádné tržní situaci
 
@@ -1577,6 +3117,78 @@ Klíčovým procesním prvkem je pravomoc ERÚ zakázat úhradu rozhodnutím (od
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=37e5ec398a3c9ffae819 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 19f — Úhrada prokazatelné ztráty a přiměřeného zisku v mimořádné tržní situaci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Nepokrývá-li stanovená cena v mimořádné tržní situaci oprávněné náklady na zajištění dodávky elektřiny nebo plynu, má účastník trhu s elektřinou nebo plynem dodávající elektřinu nebo plyn právo na úhradu prokazatelné ztráty vzniklé z důvodu dodávky elektřiny nebo plynu za stanovenou cenu a přiměřeného zisku.
+>
+> (2) Prokazatelnou ztrátu a přiměřený zisk hradí operátor trhu. Operátor trhu je povinen hradit prokazatelnou ztrátu a přiměřený zisk na základě žádosti o úhradu prokazatelné ztráty a přiměřeného zisku a poskytnutí stanovených podkladů za stanovené období. Žádost podle věty první a poskytnuté podklady předá operátor trhu neprodleně Energetickému regulačnímu úřadu k vyjádření.
+>
+> (3) Stanoví-li nařízení vlády postup vypořádání plateb na úhradu prokazatelné ztráty a přiměřeného zisku poskytnutých v průběhu stanoveného období, považují se platby operátora trhu na úhradu prokazatelné ztráty a přiměřeného zisku poskytnuté před vypořádáním plateb za zálohové platby. Operátor trhu a účastník trhu s elektřinou nebo plynem, který žádá o úhradu prokazatelné ztráty a přiměřeného zisku, jsou povinni po skončení stanoveného období vypořádat rozdíly mezi zálohovými platbami na úhradu prokazatelné ztráty a přiměřeného zisku a výší prokazatelné ztráty a přiměřeného zisku za stanovené období. Nepožádá-li účastník trhu s elektřinou nebo plynem o úhradu prokazatelné ztráty a přiměřeného zisku za stanovené období, je povinen vrátit operátorovi trhu v termínu stanoveném nařízením vlády všechny poskytnuté zálohové platby.
+>
+> (4) Účastník trhu s elektřinou nebo plynem je povinen uvést v žádosti o úhradu prokazatelné ztráty a přiměřeného zisku a v podkladech poskytnutých operátorovi trhu úplné, správné a pravdivé údaje. Stanoví-li nařízení vlády postup vypořádání plateb na úhradu prokazatelné ztráty a přiměřeného zisku poskytnutých v průběhu stanoveného období, je účastník trhu s elektřinou nebo plynem povinen se žádostí o úhradu prokazatelné ztráty a přiměřeného zisku za stanovené období současně doložit zprávu auditora o ověření správnosti vybraných údajů uváděných v žádosti; to neplatí v případě účastníka trhu s elektřinou nebo plynem, který nemá za stanovené období zákonem uloženou povinnost mít účetní závěrku ověřenou auditorem. Zprávu auditora poskytuje účastník trhu s elektřinou nebo plynem Energetickému regulačnímu úřadu.
+>
+> (5) Má-li Energetický regulační úřad po ověření údajů z žádosti a poskytnutých podkladů pochybnosti o správnosti výpočtu prokazatelné ztráty nebo přiměřeného zisku, sdělí tuto skutečnost ve stanovené lhůtě společně s důvody operátorovi trhu a účastníkovi trhu s elektřinou nebo plynem, který žádost operátorovi trhu podal. Operátor trhu vyzve účastníka trhu s elektřinou nebo plynem k úpravě výpočtu prokazatelné ztráty a přiměřeného zisku nebo k prokázání správnosti výpočtu prokazatelné ztráty a přiměřeného zisku. Operátor trhu neprodleně předá novou žádost účastníka trhu s elektřinou nebo plynem s upraveným výpočtem prokazatelné ztráty a přiměřeného zisku nebo podklady prokazující správnost výpočtu prokazatelné ztráty a přiměřeného zisku Energetickému regulačnímu úřadu. Pokud má Energetický regulační úřad i nadále pochybnosti o správnosti výpočtu prokazatelné ztráty nebo přiměřeného zisku, poskytnutí úhrady zcela nebo zčásti zakáže rozhodnutím, které je prvním úkonem v řízení. Rozklad proti tomuto rozhodnutí nemá odkladný účinek. To nebrání podání nové žádosti o úhradu prokazatelné ztráty a přiměřeného zisku za stanovené období i po uplynutí stanoveného termínu.
+>
+> (6) Operátor trhu má právo na úhradu finančních prostředků poskytovaných na úhradu prokazatelné ztráty a přiměřeného zisku podle odstavce 1 dotací ze státního rozpočtu. O poskytnutí dotace rozhoduje ministerstvo na základě žádosti operátora trhu. Ministerstvo poskytuje dotaci v rozsahu předpokládaných finančních prostředků na úhradu prokazatelné ztráty a přiměřeného zisku účastníkům trhu s elektřinou nebo plynem podle odstavce 1 před úhradou plateb účastníkům trhu za stanovené období.
+>
+> (7) Při úhradě prokazatelné ztráty a přiměřeného zisku v nesprávné výši se postupuje podle [[#§ 97|§ 97]].
+>
+> (8) Vláda nařízením stanoví
+>
+> - a) rozsah oprávněných nákladů na zajištění dodávky elektřiny nebo plynu, způsob výpočtu prokazatelné ztráty a přiměřeného zisku, rozhodný den pro výpočet prokazatelné ztráty a přiměřeného zisku a období, za které se prokazatelná ztráta a přiměřený zisk hradí,
+>
+> - b) postup a termíny vypořádání rozdílu mezi zálohovými platbami a výší prokazatelné ztráty a přiměřeného zisku za stanovené období,
+>
+> - c) termíny pro podávání a náležitosti žádosti o úhradu prokazatelné ztráty a přiměřeného zisku, rozsah podkladů poskytovaných operátorovi trhu a způsob podávání žádosti o úhradu prokazatelné ztráty a přiměřeného zisku operátorovi trhu,
+>
+> - d) pravidla a termíny pro úhradu prokazatelné ztráty a přiměřeného zisku,
+>
+> - e) pravidla a termíny pro poskytování dotace na úhradu finančních prostředků operátorovi trhu,
+>
+> - f) okruh údajů ověřovaných auditorem a rozsah ověření auditorem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 97
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=37e5ec398a3c9ffae819 -->
+
 ### § 19g — Zajištění dodávek elektřiny nebo plynu v mimořádné tržní situaci za stanovenou cenu
 
 > **§ 19g**
@@ -1630,6 +3242,56 @@ Výjimka pro zákazníky v prodlení reflektuje obchodní riziko dodavatele — 
 **Typicky rozhodné důkazy / podklady:** žádost zákazníka o zajištění dodávek, doklad o postavení obchodníka jako DPI v území, nařízení vlády o cenách, doklad o (ne)prodlení zákazníka s úhradou.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bbce1a90759e2d3dd2a2 generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 19g — Zajištění dodávek elektřiny nebo plynu v mimořádné tržní situaci za stanovenou cenu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Pokud zákazník, který nemá pro období účinnosti nařízení vlády o stanovení cen zajištěnu dodávku elektřiny nebo plynu, požádá obchodníka s elektřinou nebo obchodníka s plynem, který je dodavatelem poslední instance uvnitř vymezeného území držitele licence na distribuci elektřiny nebo plynu podle § 12a odst. 1, o zajištění dodávek elektřiny nebo plynu, je obchodník s elektřinou nebo obchodník s plynem povinen neprodleně sjednat se zákazníkem smlouvu o sdružených službách dodávky elektřiny nebo plynu nebo smlouvu o dodávce elektřiny nebo plynu na dobu neurčitou za cenu a věcných podmínek stanovených vládou.
+>
+> (2) Povinnost obchodníka s elektřinou nebo obchodníka s plynem sjednat smlouvu podle odstavce 1 se nevztahuje na dodávky elektřiny nebo plynu zákazníkům, na které se neuplatní cena stanovená vládou nebo s roční spotřebou plynu nad 630 MWh. Povinnost obchodníka s elektřinou nebo obchodníka s plynem sjednat smlouvu podle odstavce 1 se dále nevztahuje na dodávky elektřiny nebo plynu zákazníkům, kteří jsou vůči tomuto obchodníkovi s elektřinou nebo obchodníkovi s plynem v prodlení s úhradou jakékoliv platby za dodávku elektřiny nebo plynu nebo související služby.
+>
+> (3) Nastane-li v období, pro které vláda stanovila ceny, některá ze skutečností podle § 12a odst. 2, je dodavatel poslední instance povinen v tomto období dodávat elektřinu nebo plyn za cenu stanovenou vládou. Ustanovení tohoto zákona o povinnosti zajištění dodávky poslední instance za cenu regulovanou Energetickým regulačním úřadem se po dobu účinnosti nařízení vlády o stanovení cen nepoužijí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bbce1a90759e2d3dd2a2 -->
 
 ### § 20 — Regulační výkazy
 
@@ -1714,3 +3376,62 @@ Odst. 8 je novou úpravou reagující na rozvoj vodíkové infrastruktury: provo
 **Typicky rozhodné důkazy / podklady:** účtový rozvrh a oddělené účetnictví, příloha účetní závěrky se smluvními vztahy v holdingu, regulační výkazy, zpráva auditora, ověřená účetní závěrka, podklady vlastníka/propachtovatele zařízení.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=cee30c7d084cbda5c5ae generator=2026-07-17.4 source_sha256=57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947 -->
+#### Revizní doplnění k § 20 — Regulační výkazy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/458-2000 Zákon o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon).md`; identifikátor verze: `SB-2000-00458_2026-01-01`; SHA-256: `57876e790ac9dc77563d9dcc03e109fca09df7493f9c4204cd3ff9184f09d947`.
+
+##### Znění ustanovení
+
+> (1) Držitel licence na přenos elektřiny, přepravu plynu, uskladňování plynu nebo distribuci elektřiny nebo plynu, k jehož distribuční soustavě je připojeno více než 90 000 odběrných míst zákazníků nebo jehož distribuční soustava je přímo připojena k přenosové soustavě nebo k přepravní soustavě, držitel licence na činnost datového centra a držitel licence na činnosti operátora trhu, je povinen uvést v účtovém rozvrhu účty pro účtování o nákladech a výnosech, výsledku hospodaření, aktivech a pasivech odděleně za každou z těchto licencovaných činností. Držitel licence na obchod s elektřinou, který je povinně vykupujícím podle zákona o podporovaných zdrojích energie, a držitel licence na činnosti operátora trhu jsou povinni účtovat o nákladech a výnosech a výsledku hospodaření odděleně za činnosti související s podporou elektřiny z podporovaných zdrojů energie.
+>
+> (2) Držitel licence na přepravu plynu, uskladňování plynu a distribuci plynu, k jehož distribuční soustavě je připojeno více než 90 000 odběrných míst zákazníků, je povinen v příloze v účetní závěrce uvést veškeré smluvní vztahy, s výjimkou smluvních vztahů uzavíraných podle tohoto zákona, s vymezením jejich předmětu, uskutečněné s osobou, se kterou držitel licence tvoří holding nebo je součástí téhož holdingu nebo jiného podnikatelského seskupení, a jejichž hodnota převyšuje hodnotu nadlimitní veřejné zakázky9a).
+>
+> (3) Držitel licence na distribuci elektřiny nebo plynu, k jehož soustavě je připojeno méně než 90 000 odběrných míst zákazníků nebo jehož distribuční soustava je přímo připojena k přenosové soustavě nebo k přepravní soustavě, a držitel licence na výrobu nebo rozvod tepelné energie účtuje o nákladech a výnosech a výsledku hospodaření odděleně zvlášť za každou z licencovaných činností v souladu se zvláštním právním předpisem9b).
+>
+> (4) Pokud auditor při ověřování účetní závěrky9b) držitele licence uvedeného v odstavci 1 zjistí křížové subvence mezi jednotlivými licencovanými činnostmi vykonávanými týmž držitelem licence nebo mezi licencovanou činností a jinými podnikatelskými činnostmi vykonávanými týmž držitelem licence, které vedou k diskriminaci, uvede tuto skutečnost ve zprávě auditora.
+>
+> (5) Vlastník nebo propachtovatel energetického zařízení, který s držitelem licence, který používá k výkonu licencované činnosti toto energetické zařízení, tvoří holding nebo je členem téhož holdingu nebo jiného podnikatelského seskupení, je povinen uvést v účtovém rozvrhu účty pro účtování o nákladech a výnosech z vlastnictví nebo pachtu tohoto energetického zařízení. Takový vlastník nebo propachtovatel energetického zařízení je povinen poskytovat Energetickému regulačnímu úřadu na vyžádání úplné a pravdivé informace a podklady potřebné pro výkon jejich zákonem stanovených oprávnění, umožnit jim nahlížet do účetních a jiných dokladů, pořídit z nich kopie nebo opisy a poskytnout k nim vysvětlení.
+>
+> (6) Držitel licence na přenos elektřiny, přepravu plynu, uskladňování plynu, činnosti operátora trhu, činnost datového centra, distribuci elektřiny, distribuci plynu, na obchod s elektřinou, který je povinně vykupujícím podle zákona o podporovaných zdrojích energie, držitel licence na výrobu tepelné energie a držitel licence na rozvod tepelné energie, jehož celkový roční objem tržeb za všechny dodávky tepelné energie přesahuje 2 500 000 Kč, je povinen sestavovat regulační výkazy a předkládat je Energetickému regulačnímu úřadu. Na žádost Energetického regulačního úřadu je osoba předkládající regulační výkazy povinna předložit jedno vyhotovení regulačních výkazů, ze kterého byly odstraněny údaje mající charakter obchodního tajemství nebo důvěrné informace.
+>
+> (7) Držitel licence uvedený v odstavci 1 je povinen každoročně předkládat do 30. června Energetickému regulačnímu úřadu ověřenou účetní závěrku a zprávu auditora za předcházející účetní období. Držitel licence na distribuci elektřiny nebo plynu, k jehož soustavě je připojeno méně než 90 000 odběrných míst zákazníků, výrobu nebo rozvod tepelné energie je povinen předkládat Energetickému regulačnímu úřadu ověřenou účetní závěrku a zprávu auditora za předcházející účetní období pouze na vyžádání.
+>
+> (8) Rozhodl-li Energetický regulační úřad o udělení výjimky z povinnosti horizontálního oddělení provozovatele vodíkové přepravní soustavy, je provozovatel přepravní soustavy povinen od prvního dne kalendářního měsíce následujícího po měsíci, ve kterém rozhodnutí Energetického regulačního úřadu nabylo právní moci, uvést v účtovém rozvrhu účty pro účtování o nákladech a výnosech, výsledku hospodaření a aktivech a pasivech odděleně za činnost přepravy plynu a přepravy vodíku vysokého stupně čistoty. Povinnost podle věty první trvá po dobu platnosti výjimky z povinnosti horizontálního oddělení provozovatele vodíkové přepravní soustavy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cee30c7d084cbda5c5ae -->
